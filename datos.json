@@ -1,14 +1,10 @@
 {
-  "actualizado": "2026-10-27T15:55:00-05:00",
-  "actualizado_texto": "martes 27 oct 2026, 15:55",
+  "actualizado": "2026-10-27T17:55:00-05:00",
+  "actualizado_texto": "martes 27 oct 2026, 17:55",
   "alertas": [
     {
-      "tipo": "critica",
-      "texto": "Hoy 27 oct, hacia las 09:00, ataque armado en Sauces 2 (norte de Guayaquil): una víctima; los atacantes huyeron en moto."
-    },
-    {
-      "tipo": "critica",
-      "texto": "FF.AA. decomisó explosivo de alto poder, detonantes y droga en Puerto Bolívar (23 oct). La Fiscalía investiga si es una estructura de extorsión marítima."
+      "tipo": "camaronera",
+      "texto": "Sin reportes públicos nuevos en Taura, Sabana Grande ni Yaguachi en las últimas 36 h. Último hecho en el corredor: 15 oct, la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas en Yaguachi y Simón Bolívar (Tres Postes) con subfusil, pistolas y más de 200 cartuchos."
     },
     {
       "tipo": "camaronera",
@@ -16,19 +12,23 @@
     },
     {
       "tipo": "critica",
-      "texto": "El Oro es hoy el epicentro de la violencia: Machala sube a 367 homicidios de enero a agosto, con Lobos enfrentados a la alianza Choneros–Sao Box. Pasaje, Santa Rosa, Huaquillas, Arenillas y El Guabo también suben."
+      "texto": "Hoy 27 oct, Sauces 2 (norte de Guayaquil): asesinado un abogado; en la madrugada hombres con prendas tipo policial irrumpieron en dos viviendas buscándolo. Tras persecución y balacera en la av. Casuarina, 1 aprehendido con fusil y 3 pistolas."
     },
     {
       "tipo": "alta",
-      "texto": "Naranjal: la Policía detuvo el 25 oct a 6 extorsionadores que usaban el nombre de Los Fatales. Zona camaronera con Lobos, Choneros y Águilas en disputa."
+      "texto": "Toque de queda confirmado (Decreto 519): 1 al 10 nov, de 00:00 a 05:00, en Guayas, El Oro, Los Ríos, Manabí y Esmeraldas. Seguridad privada y cadenas de abastecimiento están exceptuadas."
     },
     {
       "tipo": "alta",
-      "texto": "En Guayas se consolida la alianza Lobos – Lagartos – Latin Kings. Las facciones Fénix e Igualitos de Los Tiguerones se enfrentan en el noroeste de Guayaquil."
+      "texto": "Manta (parroquia Eloy Alfaro), 27 oct: ataque armado deja a una madre y su hija heridas; se investiga el presunto secuestro de una tercera persona."
+    },
+    {
+      "tipo": "operativo",
+      "texto": "FF.AA. decomisó explosivo de alto poder y droga en Puerto Bolívar (23 oct) y explosivos en Muyuyacu, Ponce Enríquez (27 oct). Naranjal: 6 extorsionadores detenidos el 25 oct usando el nombre de Los Fatales."
     }
   ],
   "toque_de_queda": {
-    "titulo": "Toque de queda anunciado · Ministerio del Interior",
+    "titulo": "Toque de queda decretado · Decreto Ejecutivo 519",
     "fechas": "1 – 10 nov",
     "texto": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
     "datos": [
@@ -42,12 +42,12 @@
       },
       {
         "etiqueta": "Horario",
-        "valor": "Por confirmar"
+        "valor": "00:00 – 05:00"
       }
     ],
-    "nota": "El horario y las excepciones aún no se han confirmado oficialmente. En septiembre fue de 00:00 a 05:00.",
-    "fuente": "Vistazo, 15 oct 2026",
-    "url": "https://www.vistazo.com/seguridad/2026-10-15-que-sabe-nuevo-toque-queda-ecuador-previsto-para-noviembre-nacional-ecuador-costa-AF11276161"
+    "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
+    "fuente": "Extra, 16 oct 2026",
+    "url": "https://www.extra.ec/noticia/politica/daniel-noboa-oficializo-toque-queda-mediante-decreto-fecha-hora-164864_amp.html"
   },
   "bandas": {
     "lobos": {
@@ -179,10 +179,10 @@
         "choneros"
       ],
       "disputa": true,
-      "fecha": "2026-06-15",
-      "detalle": "Las Águilas, brazo armado de Los Choneros, disputan el cantón con Los Lobos. El 15 de junio de 2026 la Policía capturó a su cabecilla tras una persecución con disparos. El barrio Chino es el sector más golpeado.",
-      "fuente": "Primicias, 15 jun 2026",
-      "url": "https://www.primicias.ec/sucesos/detenido-cabecilla-aguilas-alias-axel-yaguachi-guayas-choneros-125475/"
+      "fecha": "2026-10-15",
+      "detalle": "Las Águilas, brazo armado de Los Choneros, disputan el cantón con Los Lobos. El 15 de octubre de 2026 la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas que operaban en Jujan, Simón Bolívar y el recinto Tres Postes, con subfusil, subametralladora, pistolas y más de 200 cartuchos; se les vincula a extorsiones y asaltos. En junio cayó su cabecilla en el cantón. El barrio Chino es el sector más golpeado.",
+      "fuente": "Expreso, 16 oct 2026",
+      "url": "https://www.expreso.ec/ecuador/alias-perra-flaca-bacteria-capturados-operativo-aguilas-guayas-299568.html"
     },
     {
       "id": "km26",
@@ -805,7 +805,7 @@
       ],
       "disputa": false,
       "fecha": "2026-10-01",
-      "detalle": "Origen de Sao Box tras su ruptura con Los Lobos por la minería ilegal.",
+      "detalle": "Origen de Sao Box tras su ruptura con Los Lobos por la minería ilegal. El 27 oct el Ejército decomisó explosivos en Muyuyacu.",
       "fuente": "Infobae, 1 oct 2026",
       "url": "https://www.infobae.com/america/america-latina/2026/10/01/guerra-entre-bandas-en-ecuador-los-antiguos-aliados-se-enfrentan-y-los-enemigos-ahora-pactan/"
     },
@@ -1110,14 +1110,38 @@
   "eventos": [
     {
       "tipo": "ataque",
+      "lugar": "Parroquia Eloy Alfaro, Manta",
+      "lat": -0.955,
+      "lon": -80.735,
+      "fecha": "2026-10-27",
+      "quien": "Ataque armado",
+      "detalle": "Una madre y su hija menor heridas de bala; la Policía investiga el presunto secuestro de una tercera persona que las acompañaba.",
+      "fuente": "El Diario, 27 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/ataque-armado-en-manta-deja-dos-heridas-y-un-presunto-secuestro-bajo-investigacion-27102026",
+      "general": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Muyuyacu, Camilo Ponce Enríquez",
+      "lat": -3.04,
+      "lon": -79.72,
+      "fecha": "2026-10-27",
+      "quien": "Fuerzas Armadas (Ejército)",
+      "detalle": "Decomiso de material explosivo empaquetado, valorado en unos USD 5.000, vinculado a minería ilegal. Sin detenidos informados.",
+      "fuente": "El Diario, 27 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/decomisan-explosivos-tras-operativo-militar-en-el-canton-camilo-ponce-enriquez-27102026",
+      "general": true
+    },
+    {
+      "tipo": "ataque",
       "lugar": "Sauces 2, Guayaquil",
       "lat": -2.128,
       "lon": -79.895,
       "fecha": "2026-10-27",
-      "quien": "Ataque armado",
-      "detalle": "Hacia las 09:00, atacantes en moto dispararon contra una persona y huyeron. Sin aprehendidos ni móvil informado.",
+      "quien": "Ataque armado / Policía Nacional",
+      "detalle": "Hacia las 09:00 asesinaron a un abogado cuando subía a su vehículo. En la madrugada, hombres con prendas tipo policial habían irrumpido en dos viviendas buscándolo. Tras una persecución y balacera en la av. Casuarina (un patrullero recibió 2 impactos), 1 aprehendido con un fusil, 3 pistolas y prendas policiales.",
       "fuente": "Metro Ecuador, 27 oct 2026",
-      "url": "https://www.metroecuador.com.ec/noticias/2026/10/27/ataque-armado-en-sauces-2-deja-una-victima-seria-el-abogado-leonardo-toledo/"
+      "url": "https://www.metroecuador.com.ec/noticias/2026/10/27/videos-previos-al-asesinato-de-leonardo-toledo-muestran-como-lo-buscaban-falsos-policias/"
     },
     {
       "tipo": "operativo",
@@ -1142,28 +1166,6 @@
       "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
     {
-      "tipo": "operativo",
-      "lugar": "Yaguachi",
-      "lat": -2.098,
-      "lon": -79.693,
-      "fecha": "2026-06-15",
-      "quien": "Policía Nacional",
-      "detalle": "Captura del cabecilla de Las Águilas tras una persecución con disparos; familiares agredieron a los agentes.",
-      "fuente": "Primicias, 15 jun 2026",
-      "url": "https://www.primicias.ec/sucesos/detenido-cabecilla-aguilas-alias-axel-yaguachi-guayas-choneros-125475/"
-    },
-    {
-      "tipo": "operativo",
-      "lugar": "Taura, Naranjal",
-      "lat": -2.33,
-      "lon": -79.69,
-      "fecha": "2026-05-30",
-      "quien": "Policía Nacional",
-      "detalle": "8 detenidos en una vía de tercer orden usada como pista ilegal; la avioneta huyó. Hubo disparos contra los agentes.",
-      "fuente": "El Universo, 30 may 2026",
-      "url": "https://www.eluniverso.com/noticias/seguridad/operativo-en-taura-deja-ocho-capturados-en-pista-ilegal-avioneta-fugo-del-sitio-nota/"
-    },
-    {
       "tipo": "camaronera",
       "lugar": "Ruta Naranjal – Km 26",
       "lat": -2.26,
@@ -1173,17 +1175,6 @@
       "detalle": "Asalto a un camión que transportaba camarón: el chofer murió y un guardia quedó herido. 7 detenidos de Las Águilas al día siguiente.",
       "fuente": "El Diario, 30 abr 2026",
       "url": "https://www.eldiario.ec/seguridad/la-policia-detuvo-a-los-presuntos-asesinos-del-chofer-de-un-camion-camaronero-30042026/"
-    },
-    {
-      "tipo": "ataque",
-      "lugar": "Virgen de Fátima, Yaguachi",
-      "lat": -2.212,
-      "lon": -79.605,
-      "fecha": "2026-03-28",
-      "quien": "Ataque armado",
-      "detalle": "Encapuchados interceptaron un camión repartidor y secuestraron a 2 trabajadores; el Ejército los liberó tras un intercambio de disparos.",
-      "fuente": "Primicias, 28 mar 2026",
-      "url": "https://www.primicias.ec/sucesos/ejercito-liberacion-secuestrados-camion-repartidor-cerveza-operativo-virgen-fatima-yaguachi-guayas-119212/"
     },
     {
       "tipo": "camaronera",
@@ -1318,51 +1309,6 @@
       "detalle": "4 fallecidos y 1 herido cerca de un centro comercial. La Policía investiga un ajuste de cuentas.",
       "fuente": "Extra, 16 ago 2026",
       "url": "https://www.extra.ec/noticia/guayaquil/ataque-armado-duran-deja-cuatro-muertos-dos-hermanos-menores-edad-160674.html"
-    },
-    {
-      "tipo": "ataque",
-      "lugar": "Cdla. Ferroviaria, Durán",
-      "lat": -2.166,
-      "lon": -79.836,
-      "fecha": "2026-06-07",
-      "quien": "Ataque armado",
-      "detalle": "Masacre con al menos 5 fallecidos.",
-      "fuente": "Vistazo, 7 jun 2026",
-      "url": "https://www.vistazo.com/actualidad/nacional/2026-06-07-nueva-masacre-duran-ataque-armado-cinco-ciudadela-ferroviaria-FE11040162"
-    },
-    {
-      "tipo": "ataque",
-      "lugar": "Centro de Playas",
-      "lat": -2.631,
-      "lon": -80.384,
-      "fecha": "2026-05-14",
-      "quien": "Ataque armado",
-      "detalle": "Sicarios atacaron en un patio de comidas: 1 fallecido y 5 heridos.",
-      "fuente": "Primicias, 27 may 2026",
-      "url": "https://www.primicias.ec/seguridad/canton-playas-violencia-lobos-silenciosos-choneros-guerra-territorial-balacera-centro-comercial-general-villamil-123831/"
-    },
-    {
-      "tipo": "ataque",
-      "lugar": "Playas",
-      "lat": -2.624,
-      "lon": -80.379,
-      "fecha": "2026-03-12",
-      "quien": "Ataque armado",
-      "general": true,
-      "detalle": "6 jóvenes asesinados durante una celebración.",
-      "fuente": "Primicias, 27 may 2026",
-      "url": "https://www.primicias.ec/seguridad/canton-playas-violencia-lobos-silenciosos-choneros-guerra-territorial-balacera-centro-comercial-general-villamil-123831/"
-    },
-    {
-      "tipo": "ataque",
-      "lugar": "Barrio La Cristalina, Playas",
-      "lat": -2.641,
-      "lon": -80.394,
-      "fecha": "2026-01-27",
-      "quien": "Ataque armado",
-      "detalle": "5 miembros de una familia asesinados.",
-      "fuente": "Primicias, 27 may 2026",
-      "url": "https://www.primicias.ec/seguridad/canton-playas-violencia-lobos-silenciosos-choneros-guerra-territorial-balacera-centro-comercial-general-villamil-123831/"
     },
     {
       "tipo": "camaronera",
