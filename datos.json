@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-27T14:50:00-05:00",
-  "actualizado_texto": "martes 27 oct 2026, 14:50",
+  "actualizado": "2026-10-27T15:55:00-05:00",
+  "actualizado_texto": "martes 27 oct 2026, 15:55",
   "alertas": [
     {
       "tipo": "critica",
@@ -9,6 +9,10 @@
     {
       "tipo": "critica",
       "texto": "FF.AA. decomisó explosivo de alto poder, detonantes y droga en Puerto Bolívar (23 oct). La Fiscalía investiga si es una estructura de extorsión marítima."
+    },
+    {
+      "tipo": "camaronera",
+      "texto": "Corredor camaronero Durán–Yaguachi–Km 26–Taura–Naranjal: Las Águilas asaltan choferes y traslados de camarón; Taura y Puerto Inca son puntos críticos de robos a piscinas. Evitar traslados entre 20:00 y 05:00."
     },
     {
       "tipo": "critica",
@@ -21,18 +25,6 @@
     {
       "tipo": "alta",
       "texto": "En Guayas se consolida la alianza Lobos – Lagartos – Latin Kings. Las facciones Fénix e Igualitos de Los Tiguerones se enfrentan en el noroeste de Guayaquil."
-    },
-    {
-      "tipo": "alta",
-      "texto": "Machala y Puerto Bolívar: Los Lobos disputan territorio con Choneros y Sao Box."
-    },
-    {
-      "tipo": "camaronera",
-      "texto": "La Cámara Nacional de Acuacultura mantiene 23 zonas críticas: 12 en la ruta fluvial del Golfo y 11 en el archipiélago de Jambelí."
-    },
-    {
-      "tipo": "operativo",
-      "texto": "Operativos militares recientes en Monte Sinaí (Los Fatales, dinamita), Milagro y Guayaquil (extorsión, 26 oct)."
     }
   ],
   "toque_de_queda": {
@@ -162,10 +154,87 @@
       "color": "#C2185B",
       "aliados": "Lobos; en Los Ríos, respaldo de Los Pájaros Locos",
       "rivales": "Choneros"
+    },
+    "preñados": {
+      "nombre": "Los Preñados (Panza de Yegua)",
+      "categoria": "GDC",
+      "color": "#7B8B2E",
+      "aliados": "Sin datos publicados",
+      "rivales": "Sin datos publicados"
     }
   },
   "bandas_sin_sector": "También se mencionan en informes, sin sector publicado: Gánsters, P27, Gatos Secos (El Oro), Lobos Box, Mafia Glen, Cangrejeros, Pájaros Locos (Los Ríos), AK47 (con Choneros) y los grupos colombianos Frente Oliver Sinisterra y Comuneros del Sur.",
   "sectores": [
+    {
+      "id": "yaguachi",
+      "provincia": "Guayas · zona camaronera",
+      "sector": "Yaguachi",
+      "lugar": "Cantón Yaguachi",
+      "lat": -2.098,
+      "lon": -79.693,
+      "radio_m": 4000,
+      "bandas": [
+        "aguilas",
+        "lobos",
+        "choneros"
+      ],
+      "disputa": true,
+      "fecha": "2026-06-15",
+      "detalle": "Las Águilas, brazo armado de Los Choneros, disputan el cantón con Los Lobos. El 15 de junio de 2026 la Policía capturó a su cabecilla tras una persecución con disparos. El barrio Chino es el sector más golpeado.",
+      "fuente": "Primicias, 15 jun 2026",
+      "url": "https://www.primicias.ec/sucesos/detenido-cabecilla-aguilas-alias-axel-yaguachi-guayas-choneros-125475/"
+    },
+    {
+      "id": "km26",
+      "provincia": "Guayas · zona camaronera",
+      "sector": "Virgen de Fátima (Km 26)",
+      "lugar": "Yaguachi · vía Durán–Tambo y Km 26–Naranjal",
+      "lat": -2.215,
+      "lon": -79.6,
+      "radio_m": 3200,
+      "bandas": [
+        "aguilas"
+      ],
+      "disputa": false,
+      "fecha": "2026-04-30",
+      "detalle": "Las Águilas asaltan choferes en la ruta Naranjal–Km 26 y Durán. El 29 de abril de 2026 atacaron un camión que llevaba camarón: murió el chofer y un guardia quedó herido. Punto crítico de asaltos a carga y piscinas acuícolas.",
+      "fuente": "El Diario, 30 abr 2026",
+      "url": "https://www.eldiario.ec/seguridad/la-policia-detuvo-a-los-presuntos-asesinos-del-chofer-de-un-camion-camaronero-30042026/"
+    },
+    {
+      "id": "tenguel",
+      "provincia": "Guayas · zona camaronera",
+      "sector": "Tenguel",
+      "lugar": "Guayaquil, parroquia rural",
+      "lat": -2.995,
+      "lon": -79.785,
+      "radio_m": 3000,
+      "bandas": [
+        "lobos"
+      ],
+      "disputa": false,
+      "fecha": "2024-11-23",
+      "detalle": "Seis presuntos Lobos detenidos dentro de una camaronera con 3 fusiles, una escopeta, 4 pistolas, más de 1.000 cartuchos y radios.",
+      "fuente": "El Universo, nov 2024",
+      "url": "https://www.eluniverso.com/noticias/seguridad/en-camaronera-de-guayas-detienen-a-seis-personas-vinculadas-con-los-lobos-nota/"
+    },
+    {
+      "id": "progreso",
+      "provincia": "Guayas · zona camaronera",
+      "sector": "Progreso (Gómez Rendón)",
+      "lugar": "Guayaquil, parroquia rural · manglares",
+      "lat": -2.43,
+      "lon": -80.3,
+      "radio_m": 6000,
+      "bandas": [
+        "preñados"
+      ],
+      "disputa": false,
+      "fecha": "2026-09-06",
+      "detalle": "En una camaronera se hallaron 16 fusiles, 5.000 municiones, 3 lanchas y 5 motores fuera de borda ocultos en el manglar. La Policía lo atribuye a Los Preñados, también llamados Panza de Yegua.",
+      "fuente": "Expreso, 8 sep 2026",
+      "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
+    },
     {
       "id": "guasmo-sur",
       "provincia": "Guayas · Guayaquil",
@@ -1062,6 +1131,95 @@
       "url": "https://www.metroecuador.com.ec/noticias/2026/10/25/exigian-usd-5000-a-un-comerciante-y-amenazaban-a-su-familia-seis-aprehendidos-en-naranjal/"
     },
     {
+      "tipo": "camaronera",
+      "lugar": "Progreso, camaronera en el manglar",
+      "lat": -2.43,
+      "lon": -80.3,
+      "fecha": "2026-09-06",
+      "quien": "Policía Nacional",
+      "detalle": "16 fusiles, 5.000 municiones, 90 alimentadoras, 3 lanchas y 5 motores fuera de borda ocultos en una camaronera. 4 detenidos. Se atribuye a Los Preñados (Panza de Yegua).",
+      "fuente": "Expreso, 8 sep 2026",
+      "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Yaguachi",
+      "lat": -2.098,
+      "lon": -79.693,
+      "fecha": "2026-06-15",
+      "quien": "Policía Nacional",
+      "detalle": "Captura del cabecilla de Las Águilas tras una persecución con disparos; familiares agredieron a los agentes.",
+      "fuente": "Primicias, 15 jun 2026",
+      "url": "https://www.primicias.ec/sucesos/detenido-cabecilla-aguilas-alias-axel-yaguachi-guayas-choneros-125475/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Taura, Naranjal",
+      "lat": -2.33,
+      "lon": -79.69,
+      "fecha": "2026-05-30",
+      "quien": "Policía Nacional",
+      "detalle": "8 detenidos en una vía de tercer orden usada como pista ilegal; la avioneta huyó. Hubo disparos contra los agentes.",
+      "fuente": "El Universo, 30 may 2026",
+      "url": "https://www.eluniverso.com/noticias/seguridad/operativo-en-taura-deja-ocho-capturados-en-pista-ilegal-avioneta-fugo-del-sitio-nota/"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Ruta Naranjal – Km 26",
+      "lat": -2.26,
+      "lon": -79.6,
+      "fecha": "2026-04-29",
+      "quien": "Ataque armado",
+      "detalle": "Asalto a un camión que transportaba camarón: el chofer murió y un guardia quedó herido. 7 detenidos de Las Águilas al día siguiente.",
+      "fuente": "El Diario, 30 abr 2026",
+      "url": "https://www.eldiario.ec/seguridad/la-policia-detuvo-a-los-presuntos-asesinos-del-chofer-de-un-camion-camaronero-30042026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Virgen de Fátima, Yaguachi",
+      "lat": -2.212,
+      "lon": -79.605,
+      "fecha": "2026-03-28",
+      "quien": "Ataque armado",
+      "detalle": "Encapuchados interceptaron un camión repartidor y secuestraron a 2 trabajadores; el Ejército los liberó tras un intercambio de disparos.",
+      "fuente": "Primicias, 28 mar 2026",
+      "url": "https://www.primicias.ec/sucesos/ejercito-liberacion-secuestrados-camion-repartidor-cerveza-operativo-virgen-fatima-yaguachi-guayas-119212/"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Taura, Naranjal",
+      "lat": -2.315,
+      "lon": -79.715,
+      "fecha": "2025-01-23",
+      "quien": "Asalto armado",
+      "detalle": "Un grupo de 15 hombres con fusiles irrumpió en una camaronera; las cámaras los registraron, pero huyeron antes de la llegada policial.",
+      "fuente": "Metro Ecuador, 23 ene 2025",
+      "url": "https://www.metroecuador.com.ec/noticias/2025/01/23/empresario-denuncia-asalto-de-sujetos-armados-con-fusiles-en-taura/"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Camaronera en Tenguel",
+      "lat": -2.995,
+      "lon": -79.79,
+      "fecha": "2024-11-23",
+      "quien": "Policía Nacional",
+      "detalle": "6 presuntos Lobos detenidos dentro de una camaronera con fusiles, pistolas, más de 1.000 cartuchos y radios.",
+      "fuente": "El Universo, nov 2024",
+      "url": "https://www.eluniverso.com/noticias/seguridad/en-camaronera-de-guayas-detienen-a-seis-personas-vinculadas-con-los-lobos-nota/"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Vía a Taura",
+      "lat": -2.3,
+      "lon": -79.76,
+      "fecha": "2023-04-13",
+      "quien": "Antecedente",
+      "antecedente": true,
+      "detalle": "Delincuentes armados dispararon contra una camioneta de seguridad que custodiaba un traslado de camarón; el chofer quedó gravemente herido.",
+      "fuente": "Vistazo, abr 2023",
+      "url": "https://www.vistazo.com/actualidad/nacional/sector-camaronero-en-peligro-7-personas-resultaron-heridas-por-delincuentes-en-menos-de-24-horas-FK4936689"
+    },
+    {
       "tipo": "ataque",
       "lugar": "Av. 25 de Julio, sur de Guayaquil",
       "lat": -2.238,
@@ -1255,6 +1413,33 @@
   ],
   "zonas_criticas": [
     {
+      "nombre": "Taura (parroquia de Naranjal)",
+      "lat": -2.32,
+      "lon": -79.7,
+      "radio_m": 7000,
+      "detalle": "Punto crítico de la vía E-40 con asaltos a carga y robos a piscinas acuícolas. En enero de 2025, 15 hombres con fusiles irrumpieron en una camaronera. En mayo de 2026 la Policía detuvo a 8 personas en una pista ilegal de narcoavionetas.",
+      "fuente": "Primicias / Metro Ecuador / El Universo",
+      "url": "https://www.primicias.ec/seguridad/asaltos-extorsion-puntos-criticos-cadena-logistica-exportacion-guayas-eloro-76025/"
+    },
+    {
+      "nombre": "Puerto Inca y Naranjal (E-40)",
+      "lat": -2.56,
+      "lon": -79.59,
+      "radio_m": 6000,
+      "detalle": "Puntos críticos de asaltos a carga, pasajeros y piscinas acuícolas en la Troncal. Se recomienda no circular entre las 20:00 y las 05:00.",
+      "fuente": "Primicias, 12 ago 2024",
+      "url": "https://www.primicias.ec/seguridad/asaltos-extorsion-puntos-criticos-cadena-logistica-exportacion-guayas-eloro-76025/"
+    },
+    {
+      "nombre": "Balao y Tenguel (E-40)",
+      "lat": -2.95,
+      "lon": -79.8,
+      "radio_m": 6500,
+      "detalle": "Puntos críticos de asaltos y robos a piscinas acuícolas en la vía Machala–Guayaquil.",
+      "fuente": "Primicias, 12 ago 2024",
+      "url": "https://www.primicias.ec/seguridad/asaltos-extorsion-puntos-criticos-cadena-logistica-exportacion-guayas-eloro-76025/"
+    },
+    {
       "nombre": "Ruta fluvial del Golfo",
       "lat": -2.58,
       "lon": -79.96,
@@ -1300,5 +1485,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, Cámara Nacional de Acuacultura, Primicias, Infobae, El Universo, El Diario, El Hoy, El Comercio, Extra, Vistazo, Ecuavisa"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, Cámara Nacional de Acuacultura, Primicias, Infobae, El Universo, El Diario, El Hoy, El Comercio, Extra, Vistazo, Ecuavisa, Expreso, Metro Ecuador"
 }
