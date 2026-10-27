@@ -1,0 +1,1304 @@
+{
+  "actualizado": "2026-10-27T14:50:00-05:00",
+  "actualizado_texto": "martes 27 oct 2026, 14:50",
+  "alertas": [
+    {
+      "tipo": "critica",
+      "texto": "Hoy 27 oct, hacia las 09:00, ataque armado en Sauces 2 (norte de Guayaquil): una víctima; los atacantes huyeron en moto."
+    },
+    {
+      "tipo": "critica",
+      "texto": "FF.AA. decomisó explosivo de alto poder, detonantes y droga en Puerto Bolívar (23 oct). La Fiscalía investiga si es una estructura de extorsión marítima."
+    },
+    {
+      "tipo": "critica",
+      "texto": "El Oro es hoy el epicentro de la violencia: Machala sube a 367 homicidios de enero a agosto, con Lobos enfrentados a la alianza Choneros–Sao Box. Pasaje, Santa Rosa, Huaquillas, Arenillas y El Guabo también suben."
+    },
+    {
+      "tipo": "alta",
+      "texto": "Naranjal: la Policía detuvo el 25 oct a 6 extorsionadores que usaban el nombre de Los Fatales. Zona camaronera con Lobos, Choneros y Águilas en disputa."
+    },
+    {
+      "tipo": "alta",
+      "texto": "En Guayas se consolida la alianza Lobos – Lagartos – Latin Kings. Las facciones Fénix e Igualitos de Los Tiguerones se enfrentan en el noroeste de Guayaquil."
+    },
+    {
+      "tipo": "alta",
+      "texto": "Machala y Puerto Bolívar: Los Lobos disputan territorio con Choneros y Sao Box."
+    },
+    {
+      "tipo": "camaronera",
+      "texto": "La Cámara Nacional de Acuacultura mantiene 23 zonas críticas: 12 en la ruta fluvial del Golfo y 11 en el archipiélago de Jambelí."
+    },
+    {
+      "tipo": "operativo",
+      "texto": "Operativos militares recientes en Monte Sinaí (Los Fatales, dinamita), Milagro y Guayaquil (extorsión, 26 oct)."
+    }
+  ],
+  "toque_de_queda": {
+    "titulo": "Toque de queda anunciado · Ministerio del Interior",
+    "fechas": "1 – 10 nov",
+    "texto": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
+    "datos": [
+      {
+        "etiqueta": "Inicio",
+        "valor": "Dom 1 nov"
+      },
+      {
+        "etiqueta": "Fin",
+        "valor": "Mar 10 nov"
+      },
+      {
+        "etiqueta": "Horario",
+        "valor": "Por confirmar"
+      }
+    ],
+    "nota": "El horario y las excepciones aún no se han confirmado oficialmente. En septiembre fue de 00:00 a 05:00.",
+    "fuente": "Vistazo, 15 oct 2026",
+    "url": "https://www.vistazo.com/seguridad/2026-10-15-que-sabe-nuevo-toque-queda-ecuador-previsto-para-noviembre-nacional-ecuador-costa-AF11276161"
+  },
+  "bandas": {
+    "lobos": {
+      "nombre": "Los Lobos",
+      "categoria": "GAO",
+      "color": "#F2662F",
+      "aliados": "Lagartos, Latin Kings, Silenciosos, facciones de Chone Killers e Igualitos",
+      "rivales": "Choneros, Sao Box, Tiguerones (Fénix), Águilas, Fatales, Mafia 18"
+    },
+    "choneros": {
+      "nombre": "Los Choneros",
+      "categoria": "GAO",
+      "color": "#D4A017",
+      "aliados": "Indicios de acercamiento con Sao Box",
+      "rivales": "Lobos y Silenciosos"
+    },
+    "tiguerones": {
+      "nombre": "Los Tiguerones",
+      "categoria": "GDO",
+      "color": "#8E5BD9",
+      "aliados": "Fénix con Águilas; Igualitos con Lobos",
+      "rivales": "Fénix e Igualitos se enfrentan entre sí"
+    },
+    "lagartos": {
+      "nombre": "Los Lagartos",
+      "categoria": "GDO",
+      "color": "#1FA595",
+      "aliados": "Lobos; Mafia 18–Tiburones",
+      "rivales": "Históricamente Mafia 18 por Guasmo y La Floresta"
+    },
+    "latin": {
+      "nombre": "Latin Kings",
+      "categoria": "GDO",
+      "color": "#C9B300",
+      "aliados": "Lobos",
+      "rivales": "Sin datos publicados"
+    },
+    "m18": {
+      "nombre": "Mafia 18 – Tiburones",
+      "categoria": "GDO",
+      "color": "#2F7FD6",
+      "aliados": "Lagartos",
+      "rivales": "Lobos, Tiguerones, Águilas, Fatales"
+    },
+    "fatales": {
+      "nombre": "Los Fatales",
+      "categoria": "GDO",
+      "color": "#D9468F",
+      "aliados": "Brazo de Los Choneros",
+      "rivales": "Lobos"
+    },
+    "aguilas": {
+      "nombre": "Las Águilas",
+      "categoria": "GDO",
+      "color": "#6FA82E",
+      "aliados": "Brazo armado de Los Choneros; facción Fénix (Tiguerones)",
+      "rivales": "Lobos, Lagartos"
+    },
+    "silenciosos": {
+      "nombre": "Los Silenciosos",
+      "categoria": "GDC",
+      "color": "#7A8696",
+      "aliados": "Lobos",
+      "rivales": "Choneros"
+    },
+    "saobox": {
+      "nombre": "Sao Box",
+      "categoria": "GDO",
+      "color": "#B86B3E",
+      "aliados": "Indicios con Choneros",
+      "rivales": "Lobos"
+    },
+    "chonekillers": {
+      "nombre": "Chone Killers",
+      "categoria": "GDO",
+      "color": "#B04BC4",
+      "aliados": "Facciones se acercan a Lobos",
+      "rivales": "Fragmentados en hasta 10 subgrupos"
+    },
+    "carniceros": {
+      "nombre": "Los Carniceros",
+      "categoria": "GDC",
+      "color": "#8D5A3B",
+      "aliados": "Sin datos publicados",
+      "rivales": "Mafia 18 (le capta miembros)"
+    },
+    "freddy": {
+      "nombre": "Freddy Krueger",
+      "categoria": "GDC",
+      "color": "#5562C9",
+      "aliados": "Sin datos publicados",
+      "rivales": "Duendes"
+    },
+    "duendes": {
+      "nombre": "Los Duendes",
+      "categoria": "GDC",
+      "color": "#0F8A8A",
+      "aliados": "Sin datos publicados",
+      "rivales": "Freddy Krueger"
+    },
+    "r7": {
+      "nombre": "Los R7",
+      "categoria": "GDO",
+      "color": "#C2185B",
+      "aliados": "Lobos; en Los Ríos, respaldo de Los Pájaros Locos",
+      "rivales": "Choneros"
+    }
+  },
+  "bandas_sin_sector": "También se mencionan en informes, sin sector publicado: Gánsters, P27, Gatos Secos (El Oro), Lobos Box, Mafia Glen, Cangrejeros, Pájaros Locos (Los Ríos), AK47 (con Choneros) y los grupos colombianos Frente Oliver Sinisterra y Comuneros del Sur.",
+  "sectores": [
+    {
+      "id": "guasmo-sur",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Guasmo Sur",
+      "lugar": "Distrito Sur",
+      "lat": -2.268,
+      "lon": -79.879,
+      "radio_m": 1500,
+      "bandas": [
+        "lagartos"
+      ],
+      "disputa": false,
+      "fecha": "2026-08-21",
+      "detalle": "Presencia fuerte de Los Lagartos, cerca del Puerto y del canal de acceso. Pacto de apoyo con Los Lobos.",
+      "fuente": "Primicias, 21 ago 2026",
+      "url": "https://www.primicias.ec/seguridad/nueva-trilogia-criminal-lobos-lagartos-latin-kings-bandas-criminales-guayas-mapa-delictivo-130674/"
+    },
+    {
+      "id": "floresta",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "La Floresta",
+      "lugar": "Distrito Sur",
+      "lat": -2.245,
+      "lon": -79.894,
+      "radio_m": 900,
+      "bandas": [
+        "m18",
+        "tiguerones",
+        "lagartos"
+      ],
+      "disputa": true,
+      "fecha": "2025-10-24",
+      "detalle": "Mafia 18 y una facción de Tiguerones operan en el sector; disputa con Los Lagartos.",
+      "fuente": "Primicias, 24 oct 2025",
+      "url": "https://www.primicias.ec/seguridad/bandas-cimiminales-sur-guayaquil-violencia-distritos-esteros-portete-puertos-maritimos-107873/"
+    },
+    {
+      "id": "bananeros",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Unión de Bananeros",
+      "lugar": "Distrito Sur",
+      "lat": -2.282,
+      "lon": -79.889,
+      "radio_m": 700,
+      "bandas": [
+        "tiguerones"
+      ],
+      "disputa": false,
+      "fecha": "2025-10-24",
+      "detalle": "Zona con presencia de Los Tiguerones.",
+      "fuente": "Primicias, 24 oct 2025",
+      "url": "https://www.primicias.ec/seguridad/bandas-cimiminales-sur-guayaquil-violencia-distritos-esteros-portete-puertos-maritimos-107873/"
+    },
+    {
+      "id": "fertisa",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Fertisa",
+      "lugar": "Sur",
+      "lat": -2.258,
+      "lon": -79.905,
+      "radio_m": 800,
+      "bandas": [
+        "lagartos",
+        "aguilas"
+      ],
+      "disputa": true,
+      "fecha": "2025-10-24",
+      "detalle": "Escenario de enfrentamientos entre Lagartos y Águilas.",
+      "fuente": "Primicias, 24 oct 2025",
+      "url": "https://www.primicias.ec/seguridad/bandas-cimiminales-sur-guayaquil-violencia-distritos-esteros-portete-puertos-maritimos-107873/"
+    },
+    {
+      "id": "trinitaria",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Isla Trinitaria",
+      "lugar": "Distrito Esteros",
+      "lat": -2.232,
+      "lon": -79.917,
+      "radio_m": 1300,
+      "bandas": [
+        "lagartos",
+        "m18",
+        "aguilas",
+        "tiguerones",
+        "carniceros"
+      ],
+      "disputa": true,
+      "fecha": "2025-10-24",
+      "detalle": "Hasta cinco organizaciones se disputan el distrito Esteros por plazas de microtráfico.",
+      "fuente": "Primicias, 24 oct 2025",
+      "url": "https://www.primicias.ec/seguridad/bandas-cimiminales-sur-guayaquil-violencia-distritos-esteros-portete-puertos-maritimos-107873/"
+    },
+    {
+      "id": "malvinas",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Las Malvinas",
+      "lugar": "Distrito Esteros",
+      "lat": -2.246,
+      "lon": -79.913,
+      "radio_m": 650,
+      "bandas": [
+        "m18",
+        "carniceros"
+      ],
+      "disputa": true,
+      "fecha": "2025-10-24",
+      "detalle": "Mafia 18 en disputa con Los Carniceros, que además captan a sus miembros.",
+      "fuente": "Primicias, 24 oct 2025",
+      "url": "https://www.primicias.ec/seguridad/bandas-cimiminales-sur-guayaquil-violencia-distritos-esteros-portete-puertos-maritimos-107873/"
+    },
+    {
+      "id": "portete",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Portete y Suburbio oeste",
+      "lugar": "Distrito Portete",
+      "lat": -2.205,
+      "lon": -79.928,
+      "radio_m": 1400,
+      "bandas": [
+        "freddy",
+        "duendes"
+      ],
+      "disputa": true,
+      "fecha": "2025-10-24",
+      "detalle": "Distrito del suroeste con alta violencia; Freddy Krueger y Duendes, fragmentados, se enfrentan.",
+      "fuente": "Primicias, 24 oct 2025",
+      "url": "https://www.primicias.ec/seguridad/bandas-cimiminales-sur-guayaquil-violencia-distritos-esteros-portete-puertos-maritimos-107873/"
+    },
+    {
+      "id": "socio-vivienda",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Socio Vivienda",
+      "lugar": "Distrito Nueva Prosperina",
+      "lat": -2.124,
+      "lon": -79.986,
+      "radio_m": 900,
+      "bandas": [
+        "tiguerones"
+      ],
+      "disputa": false,
+      "fecha": "2025-03-28",
+      "detalle": "Control de Los Tiguerones, facción Igualitos, según la Policía.",
+      "fuente": "El Universo, 28 mar 2025",
+      "url": "https://www.eluniverso.com/noticias/seguridad/los-siete-cabecillas-de-bandas-que-operan-en-nueva-prosperina-policia-va-por-su-captura-nota/"
+    },
+    {
+      "id": "flor-bastion",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Flor de Bastión",
+      "lugar": "Distrito Nueva Prosperina",
+      "lat": -2.094,
+      "lon": -79.966,
+      "radio_m": 1400,
+      "bandas": [
+        "tiguerones",
+        "aguilas",
+        "choneros"
+      ],
+      "disputa": true,
+      "fecha": "2025-03-28",
+      "detalle": "Bloques 4 al 9 con Tiguerones Igualitos. En la zona norte, presencia de Choneros y su brazo Águilas.",
+      "fuente": "El Universo, 28 mar 2025",
+      "url": "https://www.eluniverso.com/noticias/seguridad/los-siete-cabecillas-de-bandas-que-operan-en-nueva-prosperina-policia-va-por-su-captura-nota/"
+    },
+    {
+      "id": "paraiso-flor",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Paraíso de la Flor y Florida",
+      "lugar": "Distrito Nueva Prosperina",
+      "lat": -2.103,
+      "lon": -79.951,
+      "radio_m": 900,
+      "bandas": [
+        "tiguerones"
+      ],
+      "disputa": false,
+      "fecha": "2025-03-28",
+      "detalle": "Sectores de Tiguerones, facción Fénix.",
+      "fuente": "El Universo, 28 mar 2025",
+      "url": "https://www.eluniverso.com/noticias/seguridad/los-siete-cabecillas-de-bandas-que-operan-en-nueva-prosperina-policia-va-por-su-captura-nota/"
+    },
+    {
+      "id": "pascuales",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Pascuales",
+      "lugar": "Norte",
+      "lat": -2.067,
+      "lon": -79.957,
+      "radio_m": 1600,
+      "bandas": [
+        "tiguerones"
+      ],
+      "disputa": false,
+      "fecha": "2025-03-28",
+      "detalle": "Sector de Tiguerones, facción Fénix.",
+      "fuente": "El Universo, 28 mar 2025",
+      "url": "https://www.eluniverso.com/noticias/seguridad/los-siete-cabecillas-de-bandas-que-operan-en-nueva-prosperina-policia-va-por-su-captura-nota/"
+    },
+    {
+      "id": "balerio",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Balerio Estacio, El Fortín y Entrada de la 8",
+      "lugar": "Distrito Nueva Prosperina",
+      "lat": -2.117,
+      "lon": -79.958,
+      "radio_m": 1300,
+      "bandas": [
+        "aguilas"
+      ],
+      "disputa": false,
+      "fecha": "2025-03-28",
+      "detalle": "Sectores atribuidos a Los Águilas.",
+      "fuente": "El Universo, 28 mar 2025",
+      "url": "https://www.eluniverso.com/noticias/seguridad/los-siete-cabecillas-de-bandas-que-operan-en-nueva-prosperina-policia-va-por-su-captura-nota/"
+    },
+    {
+      "id": "ciudad-victoria",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Ciudad Victoria",
+      "lugar": "Distrito Nueva Prosperina",
+      "lat": -2.074,
+      "lon": -79.985,
+      "radio_m": 1000,
+      "bandas": [
+        "choneros",
+        "aguilas",
+        "fatales"
+      ],
+      "disputa": false,
+      "fecha": "2024-01-24",
+      "detalle": "Dominio de Los Choneros y sus brazos Águilas y Fatales en 2024; cobro de extorsiones.",
+      "fuente": "Primicias, 24 ene 2024",
+      "url": "https://www.primicias.ec/noticias/seguridad/nueva-prosperina-guayaquil-choneros-videovigilancia-despojo-casas/",
+      "historico": true
+    },
+    {
+      "id": "monte-sinai",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Monte Sinaí",
+      "lugar": "Distrito Nueva Prosperina",
+      "lat": -2.104,
+      "lon": -79.998,
+      "radio_m": 1300,
+      "bandas": [
+        "fatales"
+      ],
+      "disputa": false,
+      "fecha": "2026-10-11",
+      "detalle": "Las FF.AA. atribuyen a Los Fatales la estructura intervenida el 11 de octubre: 8 aprehendidos y dinamita.",
+      "fuente": "El Hoy, 11 oct 2026",
+      "url": "https://www.elhoy.com/sucesos/guayas-un-operativo-militar-monte-sinai-deja-ocho-aprehendidos-y-explosivos-decomisados-n5326597"
+    },
+    {
+      "id": "mapasingue",
+      "provincia": "Guayas · Guayaquil",
+      "sector": "Mapasingue",
+      "lugar": "Norte",
+      "lat": -2.162,
+      "lon": -79.921,
+      "radio_m": 800,
+      "bandas": [
+        "aguilas"
+      ],
+      "disputa": false,
+      "fecha": "2026-09-27",
+      "detalle": "Operativo militar contra una presunta integrante de Las Águilas, con arma artesanal decomisada.",
+      "fuente": "El Universo, 27 sep 2026",
+      "url": "https://www.eluniverso.com/noticias/politica/operaciones-fuerzas-armadas-guayas-dejan-detenidos-lobos-las-aguilas-nota/"
+    },
+    {
+      "id": "duran",
+      "provincia": "Guayas · Durán",
+      "sector": "Durán (cantón)",
+      "lugar": "Guayas",
+      "lat": -2.172,
+      "lon": -79.829,
+      "radio_m": 4200,
+      "bandas": [
+        "latin",
+        "lobos",
+        "chonekillers"
+      ],
+      "disputa": false,
+      "fecha": "2026-10-01",
+      "detalle": "Principal bastión de los Latin Kings, aliados de Los Lobos. Chone Killers fragmentado en varias facciones. 227 homicidios de enero a agosto de 2026.",
+      "fuente": "Infobae, 1 oct 2026",
+      "url": "https://www.infobae.com/america/america-latina/2026/10/01/guerra-entre-bandas-en-ecuador-los-antiguos-aliados-se-enfrentan-y-los-enemigos-ahora-pactan/"
+    },
+    {
+      "id": "arbolito",
+      "provincia": "Guayas · Durán",
+      "sector": "El Arbolito",
+      "lugar": "Norte",
+      "lat": -2.158,
+      "lon": -79.823,
+      "radio_m": 800,
+      "bandas": [
+        "chonekillers"
+      ],
+      "disputa": false,
+      "fecha": "2025-10-01",
+      "detalle": "Principal centro de operaciones de Los Chone Killers según la UNODC; una de sus facciones más violentas opera en el sector Los Tubos.",
+      "fuente": "Primicias, 1 oct 2025",
+      "url": "https://www.primicias.ec/seguridad/secap-duran-barrios-violencia-divino-nino-arbolito-chone-killers-106292/"
+    },
+    {
+      "id": "liga-cantonal",
+      "provincia": "Guayas · Durán",
+      "sector": "Liga Cantonal",
+      "lugar": "Centro-norte",
+      "lat": -2.167,
+      "lon": -79.833,
+      "radio_m": 650,
+      "bandas": [
+        "chonekillers"
+      ],
+      "disputa": false,
+      "fecha": "2025-10-01",
+      "detalle": "Dominio territorial de Los Chone Killers.",
+      "fuente": "Primicias, 1 oct 2025",
+      "url": "https://www.primicias.ec/seguridad/secap-duran-barrios-violencia-divino-nino-arbolito-chone-killers-106292/"
+    },
+    {
+      "id": "divino-nino",
+      "provincia": "Guayas · Durán",
+      "sector": "Divino Niño y Secap",
+      "lugar": "Centro-norte",
+      "lat": -2.176,
+      "lon": -79.827,
+      "radio_m": 750,
+      "bandas": [
+        "chonekillers",
+        "latin"
+      ],
+      "disputa": true,
+      "fecha": "2025-12-28",
+      "detalle": "Zona fronteriza en disputa entre Chone Killers y Latin Kings; el Secap fue el barrio más violento del país en 2025.",
+      "fuente": "Primicias, 1 oct 2025",
+      "url": "https://www.primicias.ec/seguridad/secap-duran-barrios-violencia-divino-nino-arbolito-chone-killers-106292/"
+    },
+    {
+      "id": "recreo",
+      "provincia": "Guayas · Durán",
+      "sector": "El Recreo",
+      "lugar": "Noroeste",
+      "lat": -2.189,
+      "lon": -79.834,
+      "radio_m": 1100,
+      "bandas": [
+        "chonekillers",
+        "latin"
+      ],
+      "disputa": true,
+      "fecha": "2025-10-01",
+      "detalle": "Bajo influencia de Chone Killers y Latin Kings en disputa.",
+      "fuente": "Primicias, 1 oct 2025",
+      "url": "https://www.primicias.ec/seguridad/secap-duran-barrios-violencia-divino-nino-arbolito-chone-killers-106292/"
+    },
+    {
+      "id": "primavera",
+      "provincia": "Guayas · Durán",
+      "sector": "La Primavera",
+      "lugar": "Centro-norte",
+      "lat": -2.18,
+      "lon": -79.841,
+      "radio_m": 650,
+      "bandas": [
+        "latin",
+        "chonekillers"
+      ],
+      "disputa": true,
+      "fecha": "2025-12-28",
+      "detalle": "Los Latin Kings reaparecieron y se enfrentan con Chone Killers por el control del sector.",
+      "fuente": "Primicias, 28 dic 2025",
+      "url": "https://www.primicias.ec/seguridad/guerra-territorial-bandas-criminales-latin-kings-chone-killers-disputa-control-municipio-duran-112561/"
+    },
+    {
+      "id": "naranjal",
+      "provincia": "Guayas · otros cantones",
+      "sector": "Naranjal",
+      "lugar": "Guayas",
+      "lat": -2.673,
+      "lon": -79.616,
+      "radio_m": 3500,
+      "bandas": [
+        "lobos",
+        "choneros",
+        "aguilas",
+        "tiguerones",
+        "fatales"
+      ],
+      "disputa": true,
+      "fecha": "2026-10-25",
+      "detalle": "Opera Los Lobos; disputa con la alianza Choneros–Águilas y presencia de Tiguerones. Hallazgos en el recinto Villanueva y en Siete Cascadas (Jesús María). El 25 de octubre cayeron 6 extorsionadores que usaban el nombre de Los Fatales.",
+      "fuente": "Primicias, 21 sep 2026",
+      "url": "https://www.primicias.ec/seguridad/alias-muerte-descuartizador-monstruo-naranjal-guayas-historial-fosas-comunes-lobos-133071/"
+    },
+    {
+      "id": "milagro",
+      "provincia": "Guayas · otros cantones",
+      "sector": "Milagro",
+      "lugar": "Guayas",
+      "lat": -2.134,
+      "lon": -79.594,
+      "radio_m": 3200,
+      "bandas": [
+        "aguilas"
+      ],
+      "disputa": false,
+      "fecha": "2026-06-08",
+      "detalle": "Principal zona de operaciones de Los Águilas, brazo armado de Los Choneros.",
+      "fuente": "Primicias, 8 jun 2026",
+      "url": "https://www.primicias.ec/seguridad/crimen-falsa-bandera-masacre-ocho-daule-sombra-alias-doblea-firma-lobos-124841/"
+    },
+    {
+      "id": "playas",
+      "provincia": "Guayas · otros cantones",
+      "sector": "Playas (General Villamil)",
+      "lugar": "Guayas",
+      "lat": -2.633,
+      "lon": -80.388,
+      "radio_m": 3200,
+      "bandas": [
+        "lobos",
+        "silenciosos",
+        "choneros"
+      ],
+      "disputa": true,
+      "fecha": "2026-05-27",
+      "detalle": "La alianza Lobos–Silenciosos busca desplazar a Los Choneros del cantón. Varios ataques armados en 2026.",
+      "fuente": "Primicias, 27 may 2026",
+      "url": "https://www.primicias.ec/seguridad/canton-playas-violencia-lobos-silenciosos-choneros-guerra-territorial-balacera-centro-comercial-general-villamil-123831/"
+    },
+    {
+      "id": "posorja",
+      "provincia": "Guayas · otros cantones",
+      "sector": "Posorja",
+      "lugar": "Guayaquil, parroquia rural",
+      "lat": -2.704,
+      "lon": -80.246,
+      "radio_m": 2200,
+      "bandas": [
+        "lobos"
+      ],
+      "disputa": false,
+      "fecha": "2026-05-27",
+      "detalle": "Según la Policía, la célula de Los Lobos que opera en Playas es de Posorja.",
+      "fuente": "Primicias, 27 may 2026",
+      "url": "https://www.primicias.ec/seguridad/canton-playas-violencia-lobos-silenciosos-choneros-guerra-territorial-balacera-centro-comercial-general-villamil-123831/"
+    },
+    {
+      "id": "el-empalme",
+      "provincia": "Guayas · otros cantones",
+      "sector": "El Empalme y El Limón",
+      "lugar": "Guayas, norte",
+      "lat": -1.045,
+      "lon": -79.636,
+      "radio_m": 3500,
+      "bandas": [
+        "lobos"
+      ],
+      "disputa": false,
+      "fecha": "2026-09-27",
+      "detalle": "Operativo militar con dos presuntos Lobos detenidos, 6 armas y 1.286 municiones.",
+      "fuente": "El Universo, 27 sep 2026",
+      "url": "https://www.eluniverso.com/noticias/politica/operaciones-fuerzas-armadas-guayas-dejan-detenidos-lobos-las-aguilas-nota/"
+    },
+    {
+      "id": "machala",
+      "provincia": "El Oro",
+      "sector": "Machala y Puerto Bolívar",
+      "lugar": "El Oro",
+      "lat": -3.262,
+      "lon": -79.985,
+      "radio_m": 5200,
+      "bandas": [
+        "lobos",
+        "choneros",
+        "saobox"
+      ],
+      "disputa": true,
+      "fecha": "2026-10-01",
+      "detalle": "Lobos (incluida Lobos Nueva Generación) contra la alianza Choneros–Sao Box. 367 homicidios de enero a agosto de 2026, el mayor aumento del país.",
+      "fuente": "Infobae, 1 oct 2026",
+      "url": "https://www.infobae.com/america/america-latina/2026/10/01/guerra-entre-bandas-en-ecuador-los-antiguos-aliados-se-enfrentan-y-los-enemigos-ahora-pactan/"
+    },
+    {
+      "id": "pasaje",
+      "provincia": "El Oro",
+      "sector": "Pasaje",
+      "lugar": "El Oro",
+      "lat": -3.327,
+      "lon": -79.806,
+      "radio_m": 3000,
+      "bandas": [
+        "choneros",
+        "saobox"
+      ],
+      "disputa": false,
+      "fecha": "2026-07-20",
+      "detalle": "Según la Policía, se consolidó el pacto Choneros–Sao Box. 91 homicidios de enero a agosto de 2026.",
+      "fuente": "Primicias, 20 jul 2026",
+      "url": "https://www.primicias.ec/seguridad/eloro-epicentro-violencia-tasa-homicidios-ecuador-aumento-crimenes-primer-semestre-128413/"
+    },
+    {
+      "id": "santa-rosa",
+      "provincia": "El Oro",
+      "sector": "Santa Rosa",
+      "lugar": "El Oro",
+      "lat": -3.449,
+      "lon": -79.96,
+      "radio_m": 3000,
+      "bandas": [
+        "choneros",
+        "saobox",
+        "lobos"
+      ],
+      "disputa": true,
+      "fecha": "2026-07-20",
+      "detalle": "Pacto Choneros–Sao Box según la Policía; también aprehensiones de Lobos por extorsión. 87 homicidios de enero a agosto de 2026.",
+      "fuente": "Primicias, 20 jul 2026",
+      "url": "https://www.primicias.ec/seguridad/eloro-epicentro-violencia-tasa-homicidios-ecuador-aumento-crimenes-primer-semestre-128413/"
+    },
+    {
+      "id": "huaquillas",
+      "provincia": "El Oro",
+      "sector": "Huaquillas",
+      "lugar": "El Oro, frontera",
+      "lat": -3.476,
+      "lon": -80.231,
+      "radio_m": 2800,
+      "bandas": [
+        "lobos"
+      ],
+      "disputa": false,
+      "fecha": null,
+      "detalle": "Aprehensiones y casas de Los Lobos desmanteladas. 93 homicidios de enero a agosto de 2026.",
+      "fuente": "El Universo",
+      "url": "https://www.eluniverso.com/politica/seguridad/policia-aprehende-a-presunto-vinculado-a-los-lobos-y-recupera-un-vehiculo-robado-en-huaquillas-nota/"
+    },
+    {
+      "id": "el-guabo",
+      "provincia": "El Oro",
+      "sector": "El Guabo",
+      "lugar": "El Oro",
+      "lat": -3.24,
+      "lon": -79.83,
+      "radio_m": 2600,
+      "bandas": [
+        "lobos"
+      ],
+      "disputa": false,
+      "fecha": null,
+      "detalle": "El Ejército capturó a un presunto integrante de Los Lobos. 78 homicidios de enero a agosto de 2026.",
+      "fuente": "Primicias",
+      "url": "https://www.primicias.ec/sucesos/captura-alias-mambino-guabo-lobos-oro-epicentro-violencia-129654/"
+    },
+    {
+      "id": "ponce-enriquez",
+      "provincia": "El Oro",
+      "sector": "Camilo Ponce Enríquez",
+      "lugar": "Azuay, límite con El Oro",
+      "lat": -3.058,
+      "lon": -79.742,
+      "radio_m": 4000,
+      "bandas": [
+        "saobox"
+      ],
+      "disputa": false,
+      "fecha": "2026-10-01",
+      "detalle": "Origen de Sao Box tras su ruptura con Los Lobos por la minería ilegal.",
+      "fuente": "Infobae, 1 oct 2026",
+      "url": "https://www.infobae.com/america/america-latina/2026/10/01/guerra-entre-bandas-en-ecuador-los-antiguos-aliados-se-enfrentan-y-los-enemigos-ahora-pactan/"
+    },
+    {
+      "id": "anconcito",
+      "provincia": "Santa Elena",
+      "sector": "Puerto de Anconcito",
+      "lugar": "Salinas",
+      "lat": -2.333,
+      "lon": -80.888,
+      "radio_m": 1500,
+      "bandas": [
+        "fatales",
+        "lobos"
+      ],
+      "disputa": true,
+      "fecha": "2026-04-16",
+      "detalle": "Los Fatales, brazo de Los Choneros, disputan el puerto pesquero con Los Lobos. Reclutamiento de pescadores bajo presión.",
+      "fuente": "Primicias, 16 abr 2026",
+      "url": "https://www.primicias.ec/seguridad/provincia-santa-elena-choneros-lobos-fatales-lagartos-puertos-pesqueros-reclutamiento-pescadores-presion-120483/"
+    },
+    {
+      "id": "santa-elena",
+      "provincia": "Santa Elena",
+      "sector": "Salinas, La Libertad y Santa Elena",
+      "lugar": "Santa Elena",
+      "lat": -2.225,
+      "lon": -80.91,
+      "radio_m": 6500,
+      "bandas": [
+        "choneros",
+        "lobos",
+        "lagartos",
+        "fatales"
+      ],
+      "disputa": true,
+      "fecha": "2026-04-16",
+      "detalle": "Según la Policía operan Choneros, Lobos, Lagartos y Fatales. Puertos de Santa Rosa, Chanduy y Palmar afectados por homicidios.",
+      "fuente": "Primicias, 16 abr 2026",
+      "url": "https://www.primicias.ec/seguridad/provincia-santa-elena-choneros-lobos-fatales-lagartos-puertos-pesqueros-reclutamiento-pescadores-presion-120483/"
+    },
+    {
+      "id": "manta",
+      "provincia": "Manabí",
+      "sector": "Manta",
+      "lugar": "Manabí",
+      "lat": -0.957,
+      "lon": -80.713,
+      "radio_m": 5000,
+      "bandas": [
+        "choneros",
+        "lobos",
+        "r7"
+      ],
+      "disputa": true,
+      "fecha": "2026-06-06",
+      "detalle": "Guerra entre Choneros y Lobos por la salida de droga; los R7 se sumaron del lado de los Lobos. Explosión de barcos atribuida a la disputa.",
+      "fuente": "Vistazo, 6 jun 2026",
+      "url": "https://www.vistazo.com/seguridad/2026-06-06-explosion-barcos-manta-atribuye-disputa-los-lobos-los-choneros-OD11038622"
+    },
+    {
+      "id": "montecristi",
+      "provincia": "Manabí",
+      "sector": "Montecristi",
+      "lugar": "Manabí",
+      "lat": -1.045,
+      "lon": -80.66,
+      "radio_m": 3000,
+      "bandas": [],
+      "disputa": false,
+      "fecha": "2026-09-22",
+      "detalle": "107 homicidios de enero a agosto de 2026, frente a 63 en 2025. La fuente no atribuye la violencia a una banda.",
+      "fuente": "Primicias, 22 sep 2026",
+      "url": "https://www.primicias.ec/seguridad/reduccion-homicidios-guayaquil-duran-tasa-ecuador-ciudades-133110/"
+    },
+    {
+      "id": "arenillas",
+      "provincia": "El Oro",
+      "sector": "Arenillas",
+      "lugar": "El Oro",
+      "lat": -3.552,
+      "lon": -80.065,
+      "radio_m": 2800,
+      "bandas": [],
+      "disputa": false,
+      "fecha": "2026-09-22",
+      "detalle": "57 homicidios de enero a agosto de 2026, frente a 20 en 2025. La fuente no atribuye la violencia a una banda.",
+      "fuente": "Primicias, 22 sep 2026",
+      "url": "https://www.primicias.ec/seguridad/reduccion-homicidios-guayaquil-duran-tasa-ecuador-ciudades-133110/"
+    },
+    {
+      "id": "san-vicente",
+      "provincia": "Manabí",
+      "sector": "San Vicente",
+      "lugar": "Manabí",
+      "lat": -0.6,
+      "lon": -80.41,
+      "radio_m": 2800,
+      "bandas": [],
+      "disputa": false,
+      "fecha": "2026-09-22",
+      "detalle": "32 homicidios de enero a agosto de 2026, frente a 9 en 2025. La fuente no atribuye la violencia a una banda.",
+      "fuente": "Primicias, 22 sep 2026",
+      "url": "https://www.primicias.ec/seguridad/reduccion-homicidios-guayaquil-duran-tasa-ecuador-ciudades-133110/"
+    },
+    {
+      "id": "portoviejo",
+      "provincia": "Manabí",
+      "sector": "Portoviejo",
+      "lugar": "Manabí",
+      "lat": -1.055,
+      "lon": -80.454,
+      "radio_m": 4500,
+      "bandas": [
+        "choneros",
+        "lobos"
+      ],
+      "disputa": true,
+      "fecha": "2026-04-18",
+      "detalle": "Declarada zona de guerra entre Choneros y Lobos.",
+      "fuente": "Primicias, 18 abr 2026",
+      "url": "https://www.primicias.ec/seguridad/lobos-expansion-ataques-ultimos-bastiones-choneros-narcotrafico-manabi-120670/"
+    },
+    {
+      "id": "puerto-lopez",
+      "provincia": "Manabí",
+      "sector": "Puerto López",
+      "lugar": "Manabí",
+      "lat": -1.56,
+      "lon": -80.81,
+      "radio_m": 3000,
+      "bandas": [
+        "choneros",
+        "lobos"
+      ],
+      "disputa": true,
+      "fecha": "2026-04-18",
+      "detalle": "Uno de los últimos bastiones de Los Choneros, atacado por Los Lobos.",
+      "fuente": "Primicias, 18 abr 2026",
+      "url": "https://www.primicias.ec/seguridad/lobos-expansion-ataques-ultimos-bastiones-choneros-narcotrafico-manabi-120670/"
+    },
+    {
+      "id": "calceta",
+      "provincia": "Manabí",
+      "sector": "Calceta y Junín",
+      "lugar": "Manabí",
+      "lat": -0.87,
+      "lon": -80.18,
+      "radio_m": 4000,
+      "bandas": [
+        "choneros",
+        "lobos"
+      ],
+      "disputa": true,
+      "fecha": "2026-04-18",
+      "detalle": "Bastiones de Los Choneros atacados por Los Lobos; muertes violentas en abril de 2026.",
+      "fuente": "Primicias, 18 abr 2026",
+      "url": "https://www.primicias.ec/seguridad/lobos-expansion-ataques-ultimos-bastiones-choneros-narcotrafico-manabi-120670/"
+    },
+    {
+      "id": "olmedo",
+      "provincia": "Manabí",
+      "sector": "Olmedo",
+      "lugar": "Manabí",
+      "lat": -1.395,
+      "lon": -80.21,
+      "radio_m": 2500,
+      "bandas": [
+        "choneros",
+        "lobos"
+      ],
+      "disputa": true,
+      "fecha": "2026-04-18",
+      "detalle": "Bastión de Los Choneros que Los Lobos buscan tomar.",
+      "fuente": "Primicias, 18 abr 2026",
+      "url": "https://www.primicias.ec/seguridad/lobos-expansion-ataques-ultimos-bastiones-choneros-narcotrafico-manabi-120670/"
+    },
+    {
+      "id": "babahoyo",
+      "provincia": "Los Ríos",
+      "sector": "Babahoyo",
+      "lugar": "Los Ríos",
+      "lat": -1.802,
+      "lon": -79.534,
+      "radio_m": 4000,
+      "bandas": [
+        "lobos",
+        "choneros"
+      ],
+      "disputa": true,
+      "fecha": "2026-08-24",
+      "detalle": "Los Lobos son la banda con mayor presencia en la provincia y disputan con Los Choneros.",
+      "fuente": "Primicias, 3 dic 2025",
+      "url": "https://www.primicias.ec/seguridad/rios-provincia-peligrosa-ecuador-guerra-choneros-lobos-110969/"
+    },
+    {
+      "id": "puebloviejo",
+      "provincia": "Los Ríos",
+      "sector": "Puebloviejo",
+      "lugar": "Los Ríos",
+      "lat": -1.553,
+      "lon": -79.539,
+      "radio_m": 2500,
+      "bandas": [
+        "lobos"
+      ],
+      "disputa": false,
+      "fecha": "2026-08-24",
+      "detalle": "Estructura de Los Lobos desarticulada en agosto de 2026. En 2025 tuvo la tasa de muertes violentas más alta del país.",
+      "fuente": "Primicias, 24 ago 2026",
+      "url": "https://www.primicias.ec/sucesos/alias-manaba-cabecilla-lobos-rios-operacion-ciudades-delitos-130961/"
+    },
+    {
+      "id": "ventanas",
+      "provincia": "Los Ríos",
+      "sector": "Ventanas",
+      "lugar": "Los Ríos",
+      "lat": -1.444,
+      "lon": -79.462,
+      "radio_m": 2800,
+      "bandas": [
+        "lobos"
+      ],
+      "disputa": false,
+      "fecha": "2026-08-24",
+      "detalle": "Zona de operación de la estructura de Los Lobos desarticulada en agosto de 2026.",
+      "fuente": "Primicias, 24 ago 2026",
+      "url": "https://www.primicias.ec/sucesos/alias-manaba-cabecilla-lobos-rios-operacion-ciudades-delitos-130961/"
+    },
+    {
+      "id": "vinces",
+      "provincia": "Los Ríos",
+      "sector": "Vinces y Baba",
+      "lugar": "Los Ríos",
+      "lat": -1.64,
+      "lon": -79.71,
+      "radio_m": 4500,
+      "bandas": [
+        "lobos"
+      ],
+      "disputa": false,
+      "fecha": "2026-08-24",
+      "detalle": "Zona de operación de la estructura de Los Lobos desarticulada en agosto de 2026.",
+      "fuente": "Primicias, 24 ago 2026",
+      "url": "https://www.primicias.ec/sucesos/alias-manaba-cabecilla-lobos-rios-operacion-ciudades-delitos-130961/"
+    },
+    {
+      "id": "quevedo",
+      "provincia": "Los Ríos",
+      "sector": "Quevedo",
+      "lugar": "Los Ríos",
+      "lat": -1.027,
+      "lon": -79.463,
+      "radio_m": 4000,
+      "bandas": [
+        "lobos",
+        "choneros",
+        "r7"
+      ],
+      "disputa": true,
+      "fecha": "2025-12-03",
+      "detalle": "Disputa Choneros–Lobos en la provincia; los R7 operan con Los Lobos respaldados por Los Pájaros Locos.",
+      "fuente": "Primicias, 3 dic 2025",
+      "url": "https://www.primicias.ec/seguridad/rios-provincia-peligrosa-ecuador-guerra-choneros-lobos-110969/"
+    },
+    {
+      "id": "montalvo",
+      "provincia": "Los Ríos",
+      "sector": "Montalvo, Urdaneta y Quinsaloma",
+      "lugar": "Los Ríos",
+      "lat": -1.52,
+      "lon": -79.33,
+      "radio_m": 6000,
+      "bandas": [
+        "lobos"
+      ],
+      "disputa": false,
+      "fecha": "2025-12-03",
+      "detalle": "Cantones donde la mayoría de cabecillas capturados eran de Los Lobos.",
+      "fuente": "Primicias, 3 dic 2025",
+      "url": "https://www.primicias.ec/seguridad/rios-provincia-peligrosa-ecuador-guerra-choneros-lobos-110969/"
+    },
+    {
+      "id": "quininde",
+      "provincia": "Esmeraldas",
+      "sector": "Quinindé",
+      "lugar": "Esmeraldas",
+      "lat": 0.326,
+      "lon": -79.47,
+      "radio_m": 4000,
+      "bandas": [
+        "tiguerones",
+        "lobos"
+      ],
+      "disputa": true,
+      "fecha": "2025-12-03",
+      "detalle": "Los Tiguerones rivalizan con Los Lobos.",
+      "fuente": "Primicias, 3 dic 2025",
+      "url": "https://www.primicias.ec/seguridad/rios-provincia-peligrosa-ecuador-guerra-choneros-lobos-110969/"
+    }
+  ],
+  "eventos": [
+    {
+      "tipo": "ataque",
+      "lugar": "Sauces 2, Guayaquil",
+      "lat": -2.128,
+      "lon": -79.895,
+      "fecha": "2026-10-27",
+      "quien": "Ataque armado",
+      "detalle": "Hacia las 09:00, atacantes en moto dispararon contra una persona y huyeron. Sin aprehendidos ni móvil informado.",
+      "fuente": "Metro Ecuador, 27 oct 2026",
+      "url": "https://www.metroecuador.com.ec/noticias/2026/10/27/ataque-armado-en-sauces-2-deja-una-victima-seria-el-abogado-leonardo-toledo/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Naranjal",
+      "lat": -2.672,
+      "lon": -79.618,
+      "fecha": "2026-10-25",
+      "quien": "Policía Nacional",
+      "detalle": "Operativo Libertad 1161: 6 aprehendidos, entre ellos un adolescente, por exigir USD 5.000 a un comerciante. Usaban el nombre de Los Fatales en los mensajes.",
+      "fuente": "Metro Ecuador, 25 oct 2026",
+      "url": "https://www.metroecuador.com.ec/noticias/2026/10/25/exigian-usd-5000-a-un-comerciante-y-amenazaban-a-su-familia-seis-aprehendidos-en-naranjal/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Av. 25 de Julio, sur de Guayaquil",
+      "lat": -2.238,
+      "lon": -79.892,
+      "fecha": "2026-10-22",
+      "quien": "Ataque armado",
+      "detalle": "En los exteriores de un centro comercial: 1 mujer fallecida, otra mujer y el conductor heridos.",
+      "fuente": "Vistazo, 22 oct 2026",
+      "url": "https://www.vistazo.com/seguridad/2206-10-22-ataque-armado-exteriores-centro-comercial-sur-guayaquil-fallecida-BK11287655"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Coop. Jacobo Bucaram, Isla Trinitaria",
+      "lat": -2.236,
+      "lon": -79.921,
+      "fecha": "2026-10-06",
+      "quien": "Ataque armado",
+      "detalle": "Dispararon contra un patrullero de Segura EP; sin heridos. 2 detenidos.",
+      "fuente": "Metro Ecuador, 6 oct 2026",
+      "url": "https://www.metroecuador.com.ec/noticias/2026/10/06/lo-que-se-sabe-del-ataque-armado-contra-un-patrullero-en-la-isla-trinitaria-sur-de-guayaquil/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayaquil (sector no precisado)",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-10-26",
+      "quien": "Fuerzas Armadas",
+      "general": true,
+      "detalle": "Captura de un presunto extorsionador en una operación militar en sectores de alta incidencia.",
+      "fuente": "El Diario, 26 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/capturan-a-alias-el-flaco-por-extorsion-durante-una-operacion-militar-en-la-ciudad-de-guayaquil-26102026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Puerto Bolívar, Machala",
+      "lat": -3.267,
+      "lon": -80.004,
+      "fecha": "2026-10-23",
+      "quien": "Fuerzas Armadas",
+      "detalle": "3 detenidos. Explosivo de alto poder, cápsulas detonantes y presunta droga. Se investiga extorsión marítima.",
+      "fuente": "El Diario, 23 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/operacion-militar-en-puerto-bolivar-deja-tres-detenidos-explosivos-y-droga-decomisada-23102026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Milagro",
+      "lat": -2.134,
+      "lon": -79.59,
+      "fecha": "2026-10-14",
+      "quien": "Fuerzas Armadas",
+      "detalle": "1 detenido. 23 municiones, vainas percutidas y dosis de presunta droga.",
+      "fuente": "El Diario, 14 oct 2026",
+      "url": "https://www.eldiario.ec/centro/capturan-a-alias-chamo-tras-operativo-militar-registrado-en-el-canton-milagro-guayas-14102026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Monte Sinaí, Guayaquil",
+      "lat": -2.108,
+      "lon": -79.99,
+      "fecha": "2026-10-11",
+      "quien": "Fuerzas Armadas",
+      "detalle": "8 aprehendidos atribuidos a Los Fatales. 6 tacos de dinamita, una pistola 9 mm, celulares y equipos.",
+      "fuente": "El Hoy, 11 oct 2026",
+      "url": "https://www.elhoy.com/sucesos/guayas-un-operativo-militar-monte-sinai-deja-ocho-aprehendidos-y-explosivos-decomisados-n5326597"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Mapasingue, Guayaquil",
+      "lat": -2.163,
+      "lon": -79.919,
+      "fecha": "2026-09-27",
+      "quien": "Fuerzas Armadas",
+      "detalle": "1 detenida vinculada a Las Águilas. Arma artesanal 9 mm.",
+      "fuente": "El Universo, 27 sep 2026",
+      "url": "https://www.eluniverso.com/noticias/politica/operaciones-fuerzas-armadas-guayas-dejan-detenidos-lobos-las-aguilas-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "El Empalme y El Limón",
+      "lat": -1.046,
+      "lon": -79.638,
+      "fecha": "2026-09-27",
+      "quien": "Fuerzas Armadas",
+      "detalle": "2 detenidos vinculados a Los Lobos. 6 armas, 1.286 municiones y 13 cargadores.",
+      "fuente": "El Universo, 27 sep 2026",
+      "url": "https://www.eluniverso.com/noticias/politica/operaciones-fuerzas-armadas-guayas-dejan-detenidos-lobos-las-aguilas-nota/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Av. Nicolás Lapentti, Durán",
+      "lat": -2.181,
+      "lon": -79.815,
+      "fecha": "2026-08-16",
+      "quien": "Ataque armado",
+      "detalle": "4 fallecidos y 1 herido cerca de un centro comercial. La Policía investiga un ajuste de cuentas.",
+      "fuente": "Extra, 16 ago 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/ataque-armado-duran-deja-cuatro-muertos-dos-hermanos-menores-edad-160674.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cdla. Ferroviaria, Durán",
+      "lat": -2.166,
+      "lon": -79.836,
+      "fecha": "2026-06-07",
+      "quien": "Ataque armado",
+      "detalle": "Masacre con al menos 5 fallecidos.",
+      "fuente": "Vistazo, 7 jun 2026",
+      "url": "https://www.vistazo.com/actualidad/nacional/2026-06-07-nueva-masacre-duran-ataque-armado-cinco-ciudadela-ferroviaria-FE11040162"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de Playas",
+      "lat": -2.631,
+      "lon": -80.384,
+      "fecha": "2026-05-14",
+      "quien": "Ataque armado",
+      "detalle": "Sicarios atacaron en un patio de comidas: 1 fallecido y 5 heridos.",
+      "fuente": "Primicias, 27 may 2026",
+      "url": "https://www.primicias.ec/seguridad/canton-playas-violencia-lobos-silenciosos-choneros-guerra-territorial-balacera-centro-comercial-general-villamil-123831/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Playas",
+      "lat": -2.624,
+      "lon": -80.379,
+      "fecha": "2026-03-12",
+      "quien": "Ataque armado",
+      "general": true,
+      "detalle": "6 jóvenes asesinados durante una celebración.",
+      "fuente": "Primicias, 27 may 2026",
+      "url": "https://www.primicias.ec/seguridad/canton-playas-violencia-lobos-silenciosos-choneros-guerra-territorial-balacera-centro-comercial-general-villamil-123831/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio La Cristalina, Playas",
+      "lat": -2.641,
+      "lon": -80.394,
+      "fecha": "2026-01-27",
+      "quien": "Ataque armado",
+      "detalle": "5 miembros de una familia asesinados.",
+      "fuente": "Primicias, 27 may 2026",
+      "url": "https://www.primicias.ec/seguridad/canton-playas-violencia-lobos-silenciosos-choneros-guerra-territorial-balacera-centro-comercial-general-villamil-123831/"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Cerca de la Isla Puná",
+      "lat": -2.775,
+      "lon": -80.045,
+      "fecha": "2026-01-11",
+      "quien": "Armada del Ecuador",
+      "detalle": "4 lanchas sin ocupantes, 7 chalecos antibalas, cerca de 2.500 municiones, 5 granadas y 8 motores fuera de borda de 200–250 HP de grupos que atacan embarcaciones en el Golfo.",
+      "fuente": "KCH, 11 ene 2026",
+      "url": "https://kchcomunicacion.com/2026/01/11/golpe-al-narcotrafico-maritimo-la-armada-ecuatoriana-confisca-lanchas-y-armamento-de-guerra-en-el-golfo-de-guayaquil/"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Estero Huayla, Puerto Bolívar",
+      "lat": -3.283,
+      "lon": -80.02,
+      "fecha": null,
+      "quien": "Fuerzas Armadas",
+      "detalle": "Intervención de una camaronera que, según el medio, usaban Los Lobos para actividades ilícitas. Fecha por confirmar.",
+      "fuente": "Ecuavisa",
+      "url": "https://www.ecuavisa.com/noticias/seguridad/importante-golpe-los-lobos-camaronera-el-oro-YA9367607"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Isla Puná",
+      "lat": -2.862,
+      "lon": -80.13,
+      "fecha": "2022-07-13",
+      "quien": "Antecedente",
+      "antecedente": true,
+      "detalle": "Hombres armados llegaron en lanchas a una camaronera y dispararon contra la custodia policial: 1 policía fallecido y 1 herido.",
+      "fuente": "El Comercio, jul 2022",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/asalto-camaronera-puna-policia-fallecido/"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Tres Cruces – «Laberinto»",
+      "lat": -2.56,
+      "lon": -79.95,
+      "fecha": "2021-06-17",
+      "quien": "Antecedente",
+      "antecedente": true,
+      "detalle": "Piratas abordaron una gabarra que iba de Puná a Guayaquil y pasaron unas 25.000 libras de camarón a 5 lanchas. La Guardia Costera recuperó la carga.",
+      "fuente": "El Universo, jun 2021",
+      "url": "https://www.eluniverso.com/noticias/seguridad/piratas-robaron-60000-en-camaron-a-una-gabarra-en-el-golfo-de-guayaquil-hay-un-detenido-nota/"
+    }
+  ],
+  "zonas_criticas": [
+    {
+      "nombre": "Ruta fluvial del Golfo",
+      "lat": -2.58,
+      "lon": -79.96,
+      "radio_m": 9000,
+      "detalle": "12 de las zonas críticas de la CNA. Asaltos de noche y madrugada según la marea y el aviso de traslados de camarón, balanceado o químicos.",
+      "fuente": "Ecuador Chequea / CNA",
+      "url": "https://ecuadorchequea.com/la-paradoja-camaronera-epoca-de-oro-en-exportacion-bajo-ataque-de-la-delincuencia/"
+    },
+    {
+      "nombre": "Isla Puná",
+      "lat": -2.86,
+      "lon": -80.12,
+      "radio_m": 13000,
+      "detalle": "Asaltos armados a camaroneras y embarcaciones; antecedente de ataque a la custodia policial.",
+      "fuente": "El Comercio",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/asalto-camaronera-puna-policia-fallecido/"
+    },
+    {
+      "nombre": "Estero Salado e islas",
+      "lat": -2.42,
+      "lon": -80.05,
+      "radio_m": 10000,
+      "detalle": "Canal de 63 km entre la Base Naval Sur y Posorja, con islas Mondragón, Escalante y Las Cajas. Asaltos a embarcaciones cargadas.",
+      "fuente": "El Comercio",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/ataques-camaroneros-embarcaciones-armas-delitos/"
+    },
+    {
+      "nombre": "Archipiélago de Jambelí",
+      "lat": -3.22,
+      "lon": -80.14,
+      "radio_m": 11000,
+      "detalle": "11 zonas críticas de la CNA. Robos de camarón, balanceado, motores y embarcaciones.",
+      "fuente": "Ecuador Chequea / CNA",
+      "url": "https://ecuadorchequea.com/la-paradoja-camaronera-epoca-de-oro-en-exportacion-bajo-ataque-de-la-delincuencia/"
+    },
+    {
+      "nombre": "Puerto Pitahaya, Arenillas",
+      "lat": -3.47,
+      "lon": -80.13,
+      "radio_m": 5500,
+      "detalle": "Productores reportan asaltos y robos frecuentes; la cercanía con la frontera facilita la huida.",
+      "fuente": "El Comercio",
+      "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
+    }
+  ],
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, Cámara Nacional de Acuacultura, Primicias, Infobae, El Universo, El Diario, El Hoy, El Comercio, Extra, Vistazo, Ecuavisa"
+}
