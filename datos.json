@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-28T05:50:00-05:00",
-  "actualizado_texto": "miércoles 28 oct 2026, 05:50",
+  "actualizado": "2026-10-28T18:00:00-05:00",
+  "actualizado_texto": "miércoles 28 oct 2026, 18:00",
   "alertas": [
     {
       "tipo": "camaronera",
@@ -16,7 +16,7 @@
     },
     {
       "tipo": "critica",
-      "texto": "Sauces 2 (norte de Guayaquil), 27 oct: tras el asesinato de un abogado y la balacera en la av. Casuarina, la Policía detuvo a un sospechoso con fusil y 3 pistolas."
+      "texto": "Sauces 2 (norte de Guayaquil): tras el asesinato de un abogado el 27 oct, la Policía detuvo a un sospechoso con fusil y 3 pistolas. Portoviejo, 28 oct: asesinan a un hombre en un taller de motos (cdla. San Alejo)."
     },
     {
       "tipo": "alta",
@@ -24,7 +24,7 @@
     },
     {
       "tipo": "operativo",
-      "texto": "Salinas, 27 oct: FF.AA. y CNI capturaron a 3 presuntos miembros de Los Choneros con marihuana, cocaína, heroína y dinero. En Manta, ataque armado dejó a una madre y su hija heridas."
+      "texto": "Vinces, 28 oct: operación «Gran Fénix 66» por lavado de activos, 20 allanamientos en Los Ríos, Guayas y Azuay; detenido el alcalde. Interior asocia los fondos con Choneros y Lobos."
     }
   ],
   "toque_de_queda": {
@@ -1369,6 +1369,29 @@
       "detalle": "Piratas abordaron una gabarra que iba de Puná a Guayaquil y pasaron unas 25.000 libras de camarón a 5 lanchas. La Guardia Costera recuperó la carga.",
       "fuente": "El Universo, jun 2021",
       "url": "https://www.eluniverso.com/noticias/seguridad/piratas-robaron-60000-en-camaron-a-una-gabarra-en-el-golfo-de-guayaquil-hay-un-detenido-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Vinces, Los Ríos",
+      "lat": -1.555,
+      "lon": -79.752,
+      "fecha": "2026-10-28",
+      "quien": "Policía Nacional / Fiscalía",
+      "general": true,
+      "detalle": "Operación «Gran Fénix 66» por presunto lavado de activos (unos USD 3,2 millones): 20 allanamientos (16 en Vinces, 3 en Guayas, 1 en Azuay); detenido el alcalde y familiares. 2 armas, 128 cartuchos, 6 vehículos y USD 2.500. El Ministerio del Interior asocia los vínculos financieros con Los Choneros y Los Lobos.",
+      "fuente": "El Diario, 28 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/madre-hijo-y-hermano-del-alcalde-de-vinces-alfonso-montalvan-tambien-fueron-detenidos-por-presunto-lavado-de-activos-28102026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cdla. San Alejo, Portoviejo",
+      "lat": -1.06,
+      "lon": -80.46,
+      "fecha": "2026-10-28",
+      "quien": "Desconocidos",
+      "detalle": "Un hombre de 38 años asesinado a tiros dentro de un taller de motocicletas; los atacantes huyeron. Dinased investiga; sin detenidos ni banda identificada.",
+      "fuente": "El Diario, 28 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/lo-asesinan-en-un-taller-de-motocicletas-en-portoviejo-28102026/"
     }
   ],
   "zonas_criticas": [
