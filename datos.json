@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-10-27T17:55:00-05:00",
-  "actualizado_texto": "martes 27 oct 2026, 17:55",
+  "actualizado": "2026-10-28T05:50:00-05:00",
+  "actualizado_texto": "miércoles 28 oct 2026, 05:50",
   "alertas": [
     {
       "tipo": "camaronera",
-      "texto": "Sin reportes públicos nuevos en Taura, Sabana Grande ni Yaguachi en las últimas 36 h. Último hecho en el corredor: 15 oct, la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas en Yaguachi y Simón Bolívar (Tres Postes) con subfusil, pistolas y más de 200 cartuchos."
+      "texto": "Sin reportes públicos nuevos de robos en Taura, Sabana Grande ni Yaguachi en las últimas 36 h. Último hecho en el corredor: 15 oct, la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas en Yaguachi y Simón Bolívar con subfusil, pistolas y más de 200 cartuchos."
     },
     {
       "tipo": "camaronera",
-      "texto": "Corredor camaronero Durán–Yaguachi–Km 26–Taura–Naranjal: Las Águilas asaltan choferes y traslados de camarón; Taura y Puerto Inca son puntos críticos de robos a piscinas. Evitar traslados entre 20:00 y 05:00."
+      "texto": "Lluvias de El Niño: el 25 oct se desbordaron los ríos Pilco, Tenguel y Balao (Tenguel y Puerto Balao afectados); el 27 oct Policía y Bomberos buscaban posibles desaparecidos en el río Yaguachi (Puente Rojo). Revisar muros de piscinas y accesos."
+    },
+    {
+      "tipo": "camaronera",
+      "texto": "Corredor Durán–Yaguachi–Km 26–Taura–Naranjal: Las Águilas asaltan choferes y traslados de camarón; Taura y Puerto Inca siguen como puntos críticos. Evitar traslados entre 20:00 y 05:00."
     },
     {
       "tipo": "critica",
-      "texto": "Hoy 27 oct, Sauces 2 (norte de Guayaquil): asesinado un abogado; en la madrugada hombres con prendas tipo policial irrumpieron en dos viviendas buscándolo. Tras persecución y balacera en la av. Casuarina, 1 aprehendido con fusil y 3 pistolas."
+      "texto": "Sauces 2 (norte de Guayaquil), 27 oct: tras el asesinato de un abogado y la balacera en la av. Casuarina, la Policía detuvo a un sospechoso con fusil y 3 pistolas."
     },
     {
       "tipo": "alta",
-      "texto": "Toque de queda confirmado (Decreto 519): 1 al 10 nov, de 00:00 a 05:00, en Guayas, El Oro, Los Ríos, Manabí y Esmeraldas. Seguridad privada y cadenas de abastecimiento están exceptuadas."
-    },
-    {
-      "tipo": "alta",
-      "texto": "Manta (parroquia Eloy Alfaro), 27 oct: ataque armado deja a una madre y su hija heridas; se investiga el presunto secuestro de una tercera persona."
+      "texto": "Toque de queda (Decreto 519): 1 al 10 nov, 00:00–05:00, en Guayas, El Oro, Los Ríos, Manabí y Esmeraldas. Seguridad privada y cadenas de abastecimiento exceptuadas."
     },
     {
       "tipo": "operativo",
-      "texto": "FF.AA. decomisó explosivo de alto poder y droga en Puerto Bolívar (23 oct) y explosivos en Muyuyacu, Ponce Enríquez (27 oct). Naranjal: 6 extorsionadores detenidos el 25 oct usando el nombre de Los Fatales."
+      "texto": "Salinas, 27 oct: FF.AA. y CNI capturaron a 3 presuntos miembros de Los Choneros con marihuana, cocaína, heroína y dinero. En Manta, ataque armado dejó a una madre y su hija heridas."
     }
   ],
   "toque_de_queda": {
@@ -842,10 +842,10 @@
         "fatales"
       ],
       "disputa": true,
-      "fecha": "2026-04-16",
-      "detalle": "Según la Policía operan Choneros, Lobos, Lagartos y Fatales. Puertos de Santa Rosa, Chanduy y Palmar afectados por homicidios.",
-      "fuente": "Primicias, 16 abr 2026",
-      "url": "https://www.primicias.ec/seguridad/provincia-santa-elena-choneros-lobos-fatales-lagartos-puertos-pesqueros-reclutamiento-pescadores-presion-120483/"
+      "fecha": "2026-10-27",
+      "detalle": "Según la Policía operan Choneros, Lobos, Lagartos y Fatales. Puertos de Santa Rosa, Chanduy y Palmar afectados por homicidios. 27 oct 2026: FF.AA. capturó en Salinas a 3 presuntos miembros de Los Choneros con droga.",
+      "fuente": "Primicias, 16 abr 2026 / El Universo, 27 oct 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/caen-tres-presuntos-integrantes-de-los-choneros-en-santa-elena-nota/"
     },
     {
       "id": "manta",
@@ -1109,6 +1109,18 @@
   ],
   "eventos": [
     {
+      "tipo": "operativo",
+      "lugar": "Salinas, Santa Elena",
+      "lat": -2.215,
+      "lon": -80.955,
+      "fecha": "2026-10-27",
+      "quien": "FF.AA. (Bloque de Seguridad) y CNI",
+      "detalle": "Capturados 3 presuntos integrantes de Los Choneros; decomiso de marihuana, cocaína, heroína y dinero en efectivo.",
+      "fuente": "El Universo, 27 oct 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/caen-tres-presuntos-integrantes-de-los-choneros-en-santa-elena-nota/",
+      "general": true
+    },
+    {
       "tipo": "ataque",
       "lugar": "Parroquia Eloy Alfaro, Manta",
       "lat": -0.955,
@@ -1139,7 +1151,7 @@
       "lon": -79.895,
       "fecha": "2026-10-27",
       "quien": "Ataque armado / Policía Nacional",
-      "detalle": "Hacia las 09:00 asesinaron a un abogado cuando subía a su vehículo. En la madrugada, hombres con prendas tipo policial habían irrumpido en dos viviendas buscándolo. Tras una persecución y balacera en la av. Casuarina (un patrullero recibió 2 impactos), 1 aprehendido con un fusil, 3 pistolas y prendas policiales.",
+      "detalle": "Hacia las 09:00 asesinaron a un abogado cuando subía a su vehículo. En la madrugada, hombres con prendas tipo policial habían irrumpido en dos viviendas buscándolo. Tras una persecución y balacera en la av. Casuarina (un patrullero recibió 2 impactos), 1 aprehendido con un fusil, 3 pistolas y prendas policiales. La Policía confirmó la detención de un sospechoso del crimen del abogado (27 oct).",
       "fuente": "Metro Ecuador, 27 oct 2026",
       "url": "https://www.metroecuador.com.ec/noticias/2026/10/27/videos-previos-al-asesinato-de-leonardo-toledo-muestran-como-lo-buscaban-falsos-policias/"
     },
@@ -1185,7 +1197,8 @@
       "quien": "Asalto armado",
       "detalle": "Un grupo de 15 hombres con fusiles irrumpió en una camaronera; las cámaras los registraron, pero huyeron antes de la llegada policial.",
       "fuente": "Metro Ecuador, 23 ene 2025",
-      "url": "https://www.metroecuador.com.ec/noticias/2025/01/23/empresario-denuncia-asalto-de-sujetos-armados-con-fusiles-en-taura/"
+      "url": "https://www.metroecuador.com.ec/noticias/2025/01/23/empresario-denuncia-asalto-de-sujetos-armados-con-fusiles-en-taura/",
+      "antecedente": true
     },
     {
       "tipo": "camaronera",
@@ -1196,7 +1209,8 @@
       "quien": "Policía Nacional",
       "detalle": "6 presuntos Lobos detenidos dentro de una camaronera con fusiles, pistolas, más de 1.000 cartuchos y radios.",
       "fuente": "El Universo, nov 2024",
-      "url": "https://www.eluniverso.com/noticias/seguridad/en-camaronera-de-guayas-detienen-a-seis-personas-vinculadas-con-los-lobos-nota/"
+      "url": "https://www.eluniverso.com/noticias/seguridad/en-camaronera-de-guayas-detienen-a-seis-personas-vinculadas-con-los-lobos-nota/",
+      "antecedente": true
     },
     {
       "tipo": "camaronera",
@@ -1381,7 +1395,7 @@
       "lat": -2.95,
       "lon": -79.8,
       "radio_m": 6500,
-      "detalle": "Puntos críticos de asaltos y robos a piscinas acuícolas en la vía Machala–Guayaquil.",
+      "detalle": "Puntos críticos de asaltos y robos a piscinas acuícolas en la vía Machala–Guayaquil. 25 oct 2026: desborde de los ríos Pilco, Tenguel y Balao inundó sectores de Tenguel y Puerto Balao.",
       "fuente": "Primicias, 12 ago 2024",
       "url": "https://www.primicias.ec/seguridad/asaltos-extorsion-puntos-criticos-cadena-logistica-exportacion-guayas-eloro-76025/"
     },
@@ -1431,5 +1445,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, Cámara Nacional de Acuacultura, Primicias, Infobae, El Universo, El Diario, El Hoy, El Comercio, Extra, Vistazo, Ecuavisa, Expreso, Metro Ecuador"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso"
 }
