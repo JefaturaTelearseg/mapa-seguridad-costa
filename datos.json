@@ -1,7 +1,11 @@
 {
-  "actualizado": "2026-10-29T06:00:00-05:00",
-  "actualizado_texto": "jueves 29 oct 2026, 06:00",
+  "actualizado": "2026-10-29T09:05:00-05:00",
+  "actualizado_texto": "jueves 29 oct 2026, 09:05",
   "alertas": [
+    {
+      "tipo": "critica",
+      "texto": "Ayer 28 oct, 18:10: se incendió y hundió la estación guardacostas flotante de la Armada al sur de la Isla Puná. 9 militares evacuados a Puerto Bolívar, estables. Causa en investigación. Menos vigilancia naval en la zona: reforzar monitoreo en camaroneras de Puná y el Golfo."
+    },
     {
       "tipo": "camaronera",
       "texto": "Sin reportes públicos nuevos de robos en Taura, Sabana Grande ni Yaguachi en las últimas 36 h. Último hecho en el corredor: 15 oct, la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas en Yaguachi y Simón Bolívar con subfusil, pistolas y más de 200 cartuchos."
@@ -21,10 +25,6 @@
     {
       "tipo": "alta",
       "texto": "Toque de queda (Decreto 519): 1 al 10 nov, 00:00–05:00, en Guayas, El Oro, Los Ríos, Manabí y Esmeraldas. Seguridad privada y cadenas de abastecimiento exceptuadas."
-    },
-    {
-      "tipo": "operativo",
-      "texto": "28 oct, operativos Libertad: 22 aprehendidos y 8 víctimas liberadas en Azuay, Guayas, Los Ríos y Esmeraldas; en Chongón, 2 aprehendidos por secuestro extorsivo de dos mujeres. Vinces: «Gran Fénix 66» por lavado (Choneros y Lobos, según Interior)."
     }
   ],
   "toque_de_queda": {
@@ -165,6 +165,25 @@
   },
   "bandas_sin_sector": "También se mencionan en informes, sin sector publicado: Gánsters, P27, Gatos Secos (El Oro), Lobos Box, Mafia Glen, Cangrejeros, Pájaros Locos (Los Ríos), AK47 (con Choneros) y los grupos colombianos Frente Oliver Sinisterra y Comuneros del Sur.",
   "sectores": [
+    {
+      "id": "puna",
+      "provincia": "Guayas · zona camaronera",
+      "sector": "Isla Puná",
+      "lugar": "Guayaquil, parroquia rural · Golfo",
+      "lat": -2.8,
+      "lon": -80.05,
+      "radio_m": 9000,
+      "bandas": [
+        "lobos",
+        "saobox",
+        "tiguerones"
+      ],
+      "disputa": true,
+      "fecha": "2025-08-15",
+      "detalle": "La Armada confirmó campamentos de Los Lobos en la isla para coordinar extorsiones, narcotráfico y contrabando de armas. Lobos y Sao Box disputan las rutas del canal de Jambelí; Tiguerones y Lobos cobran extorsiones a pescadores (forros de colores en los motores según a quién pagan).",
+      "fuente": "Ecuador en Directo, 15 ago 2025",
+      "url": "https://ecuadorendirecto.com/2025/08/15/los-lobos-instalan-campamentos-en-puna-y-llevan-violencia-al-golfo-de-guayaquil/"
+    },
     {
       "id": "yaguachi",
       "provincia": "Guayas · zona camaronera",
@@ -1109,6 +1128,17 @@
   ],
   "eventos": [
     {
+      "tipo": "camaronera",
+      "lugar": "Sur de la Isla Puná",
+      "lat": -2.96,
+      "lon": -80.17,
+      "fecha": "2026-10-28",
+      "quien": "Armada del Ecuador",
+      "detalle": "Hacia las 18:10 se incendió y hundió la estación guardacostas flotante de la Armada al sur de Puná. Los 9 militares fueron evacuados a Puerto Bolívar, estables. La causa está en investigación; la Armada no ha confirmado si fue un ataque.",
+      "fuente": "Primicias / El Diario / El Universo, 29 oct 2026",
+      "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/"
+    },
+    {
       "tipo": "operativo",
       "lugar": "Salinas, Santa Elena",
       "lat": -2.215,
@@ -1436,6 +1466,17 @@
       "detalle": "2 aprehendidos por el secuestro extorsivo de dos mujeres, en la jornada de operativos Libertad que dejó 22 aprehendidos y 8 víctimas liberadas en cuatro provincias.",
       "fuente": "El Mercurio, 28 oct 2026",
       "url": "https://elmercurio.com.ec/sucesos/2026/10/28/azuay-operativo-detenidos-victimas/"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Canal de Jambelí, entre Puná y el continente",
+      "lat": -2.9,
+      "lon": -79.98,
+      "fecha": "2025-08-08",
+      "quien": "Ataque armado",
+      "detalle": "Una embarcación pesquera fue atacada, incendiada y hundida: 4 muertos y 7 heridos. El 31 de julio de 2025 sujetos armados quemaron dos lanchas en Puná y atacaron una unidad de vigilancia marítima.",
+      "fuente": "Ecuador en Directo, 15 ago 2025",
+      "url": "https://ecuadorendirecto.com/2025/08/15/los-lobos-instalan-campamentos-en-puna-y-llevan-violencia-al-golfo-de-guayaquil/"
     }
   ],
   "zonas_criticas": [
@@ -1480,9 +1521,9 @@
       "lat": -2.86,
       "lon": -80.12,
       "radio_m": 13000,
-      "detalle": "Asaltos armados a camaroneras y embarcaciones; antecedente de ataque a la custodia policial.",
-      "fuente": "El Comercio",
-      "url": "https://www.elcomercio.com/actualidad/seguridad/asalto-camaronera-puna-policia-fallecido/"
+      "detalle": "Asaltos armados a camaroneras y embarcaciones; campamentos de Los Lobos confirmados por la Armada. El 28 oct 2026 se incendió y hundió la estación guardacostas flotante al sur de la isla (causa en investigación).",
+      "fuente": "Primicias, 29 oct 2026",
+      "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/"
     },
     {
       "nombre": "Estero Salado e islas",
