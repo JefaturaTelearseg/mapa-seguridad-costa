@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-10-29T09:05:00-05:00",
-  "actualizado_texto": "jueves 29 oct 2026, 09:05",
+  "actualizado": "2026-10-29T09:40:00-05:00",
+  "actualizado_texto": "jueves 29 oct 2026, 09:40",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Ayer 28 oct, 18:10: se incendió y hundió la estación guardacostas flotante de la Armada al sur de la Isla Puná. 9 militares evacuados a Puerto Bolívar, estables. Causa en investigación. Menos vigilancia naval en la zona: reforzar monitoreo en camaroneras de Puná y el Golfo."
+      "texto": "Puná, ayer 28 oct 18:10: se incendió y hundió la estación guardacostas flotante de la Armada al sur de la isla. 9 militares evacuados, estables; causa en investigación. Menos vigilancia naval: reforzar monitoreo en camaroneras de Puná y el Golfo."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sin reportes públicos nuevos de robos en Taura, Sabana Grande ni Yaguachi en las últimas 36 h. Último hecho en el corredor: 15 oct, la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas en Yaguachi y Simón Bolívar con subfusil, pistolas y más de 200 cartuchos."
+      "texto": "Puná sigue sin resolver la desaparición de 5 guardias que custodiaban camarón desde el 14 de junio; uno apareció muerto con un disparo. Los Lobos tienen campamentos en la isla."
+    },
+    {
+      "tipo": "alta",
+      "texto": "Yaguachi – Tres Postes: en octubre cayeron 7 de Las Águilas (subfusil, carabina) y 6 de \"Los Duendes\" por asaltos a camiones, entre ellos 2 policías en servicio activo y un agente de tránsito."
+    },
+    {
+      "tipo": "camaronera",
+      "texto": "Corredor Durán–Yaguachi–Km 26–Taura–Naranjal: Las Águilas asaltan choferes y traslados de camarón; en Taura cobran vacunas. Evitar traslados entre 20:00 y 05:00."
     },
     {
       "tipo": "camaronera",
       "texto": "Lluvias de El Niño: el 25 oct se desbordaron los ríos Pilco, Tenguel y Balao (Tenguel y Puerto Balao afectados); el 27 oct Policía y Bomberos buscaban posibles desaparecidos en el río Yaguachi (Puente Rojo). Revisar muros de piscinas y accesos."
     },
     {
-      "tipo": "camaronera",
-      "texto": "Corredor Durán–Yaguachi–Km 26–Taura–Naranjal: Las Águilas asaltan choferes y traslados de camarón; Taura y Puerto Inca siguen como puntos críticos. Evitar traslados entre 20:00 y 05:00."
-    },
-    {
       "tipo": "critica",
       "texto": "28 oct: sicariatos en La Aurora (Daule, Av. León Febres-Cordero), norte de Machala (un adolescente de 16 años) y parroquia Colón de Portoviejo (vía a Pachinche). Sin bandas identificadas ni detenidos."
-    },
-    {
-      "tipo": "alta",
-      "texto": "Toque de queda (Decreto 519): 1 al 10 nov, 00:00–05:00, en Guayas, El Oro, Los Ríos, Manabí y Esmeraldas. Seguridad privada y cadenas de abastecimiento exceptuadas."
     }
   ],
   "toque_de_queda": {
@@ -161,10 +161,64 @@
       "color": "#7B8B2E",
       "aliados": "Sin datos publicados",
       "rivales": "Sin datos publicados"
+    },
+    "lobosbox": {
+      "nombre": "Lobos Box",
+      "categoria": "GDO",
+      "color": "#A33B20",
+      "aliados": "Sin datos publicados",
+      "rivales": "Facciones de Los Choneros (Tres Postes)"
+    },
+    "lamafia": {
+      "nombre": "La Mafia (Naranjal)",
+      "categoria": "GDC",
+      "color": "#5B6B7A",
+      "aliados": "Sin datos publicados",
+      "rivales": "Sin datos publicados"
     }
   },
   "bandas_sin_sector": "También se mencionan en informes, sin sector publicado: Gánsters, P27, Gatos Secos (El Oro), Lobos Box, Mafia Glen, Cangrejeros, Pájaros Locos (Los Ríos), AK47 (con Choneros) y los grupos colombianos Frente Oliver Sinisterra y Comuneros del Sur.",
   "sectores": [
+    {
+      "id": "taura",
+      "provincia": "Guayas · zona camaronera",
+      "zona": "Taura",
+      "sector": "Taura",
+      "lugar": "Parroquia de Naranjal",
+      "lat": -2.31,
+      "lon": -79.71,
+      "radio_m": 5000,
+      "bandas": [
+        "aguilas",
+        "lamafia"
+      ],
+      "disputa": false,
+      "fecha": "2025-07-17",
+      "detalle": "Habitantes y analistas señalan a Las Águilas (alineadas con Los Choneros) como la banda que controla la parroquia: vacunas de USD 5.000–8.000 al año a comerciantes, amenazas a docentes y 8 muertes violentas en 2024. En julio de 2025 aparecieron panfletos extorsivos firmados por \"La Mafia\".",
+      "fuente": "Expreso, 2 feb 2025 / El Universo, 17 jul 2025",
+      "url": "https://www.expreso.ec/actualidad/taura-miedo-policia-nacional-fuerzas-armadas-aguilas-extorsion-vacunas-muertes-violentas-230020.html"
+    },
+    {
+      "id": "tres-postes",
+      "provincia": "Guayas · zona camaronera",
+      "zona": "Yaguachi",
+      "sector": "Tres Postes",
+      "lugar": "Yaguachi – Jujan",
+      "lat": -1.935,
+      "lon": -79.645,
+      "radio_m": 3000,
+      "bandas": [
+        "lobosbox",
+        "choneros",
+        "aguilas",
+        "duendes"
+      ],
+      "disputa": true,
+      "fecha": "2026-10-15",
+      "detalle": "Frontera entre Lobos Box y facciones de Los Choneros. En octubre de 2026 cayeron una facción de Las Águilas y 6 integrantes de \"Los Duendes\", entre ellos 2 policías y un agente de tránsito, por asaltos a camiones.",
+      "fuente": "Extra / Vistazo / El Diario, 2025–2026",
+      "url": "https://www.vistazo.com/seguridad/2026-10-14-policias-vigilante-duendes-aprehendidos-robo-camion-guayas-JF11275095"
+    },
     {
       "id": "puna",
       "provincia": "Guayas · zona camaronera",
@@ -182,7 +236,8 @@
       "fecha": "2025-08-15",
       "detalle": "La Armada confirmó campamentos de Los Lobos en la isla para coordinar extorsiones, narcotráfico y contrabando de armas. Lobos y Sao Box disputan las rutas del canal de Jambelí; Tiguerones y Lobos cobran extorsiones a pescadores (forros de colores en los motores según a quién pagan).",
       "fuente": "Ecuador en Directo, 15 ago 2025",
-      "url": "https://ecuadorendirecto.com/2025/08/15/los-lobos-instalan-campamentos-en-puna-y-llevan-violencia-al-golfo-de-guayaquil/"
+      "url": "https://ecuadorendirecto.com/2025/08/15/los-lobos-instalan-campamentos-en-puna-y-llevan-violencia-al-golfo-de-guayaquil/",
+      "zona": "Puná"
     },
     {
       "id": "yaguachi",
@@ -201,7 +256,8 @@
       "fecha": "2026-10-15",
       "detalle": "Las Águilas, brazo armado de Los Choneros, disputan el cantón con Los Lobos. El 15 de octubre de 2026 la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas que operaban en Jujan, Simón Bolívar y el recinto Tres Postes, con subfusil, subametralladora, pistolas y más de 200 cartuchos; se les vincula a extorsiones y asaltos. En junio cayó su cabecilla en el cantón. El barrio Chino es el sector más golpeado.",
       "fuente": "Expreso, 16 oct 2026",
-      "url": "https://www.expreso.ec/ecuador/alias-perra-flaca-bacteria-capturados-operativo-aguilas-guayas-299568.html"
+      "url": "https://www.expreso.ec/ecuador/alias-perra-flaca-bacteria-capturados-operativo-aguilas-guayas-299568.html",
+      "zona": "Yaguachi"
     },
     {
       "id": "km26",
@@ -218,7 +274,8 @@
       "fecha": "2026-04-30",
       "detalle": "Las Águilas asaltan choferes en la ruta Naranjal–Km 26 y Durán. El 29 de abril de 2026 atacaron un camión que llevaba camarón: murió el chofer y un guardia quedó herido. Punto crítico de asaltos a carga y piscinas acuícolas.",
       "fuente": "El Diario, 30 abr 2026",
-      "url": "https://www.eldiario.ec/seguridad/la-policia-detuvo-a-los-presuntos-asesinos-del-chofer-de-un-camion-camaronero-30042026/"
+      "url": "https://www.eldiario.ec/seguridad/la-policia-detuvo-a-los-presuntos-asesinos-del-chofer-de-un-camion-camaronero-30042026/",
+      "zona": "Yaguachi"
     },
     {
       "id": "tenguel",
@@ -1129,14 +1186,385 @@
   "eventos": [
     {
       "tipo": "camaronera",
+      "zona": "Puná",
       "lugar": "Sur de la Isla Puná",
       "lat": -2.96,
       "lon": -80.17,
       "fecha": "2026-10-28",
       "quien": "Armada del Ecuador",
-      "detalle": "Hacia las 18:10 se incendió y hundió la estación guardacostas flotante de la Armada al sur de Puná. Los 9 militares fueron evacuados a Puerto Bolívar, estables. La causa está en investigación; la Armada no ha confirmado si fue un ataque.",
+      "detalle": "Hacia las 18:10 se incendió y hundió la estación guardacostas flotante de la Armada al sur de Puná. Los 9 militares fueron evacuados a Puerto Bolívar, estables. Causa en investigación; la Armada no ha confirmado si fue un ataque.",
       "fuente": "Primicias / El Diario / El Universo, 29 oct 2026",
       "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Isla Puná (custodia de camarón)",
+      "lat": -2.78,
+      "lon": -80.0,
+      "fecha": "2026-06-14",
+      "quien": "Desaparición de guardias",
+      "detalle": "6 guardias salieron de Guayaquil en dos embarcaciones a retirar y custodiar un cargamento de camarón en Puná y perdieron contacto. El 22 de junio uno fue hallado flotando cerca de la isla con un disparo en la cabeza; al 10 de julio los otros 5 seguían desaparecidos.",
+      "fuente": "Primicias / Teleamazonas / Extra, jun–jul 2026",
+      "url": "https://www.teleamazonas.com/actualidad/noticias/sociedad/guardias-desaparecidos-guayaquil-familiares-busqueda-122409/"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Cerca de la Isla Puná",
+      "lat": -2.775,
+      "lon": -80.045,
+      "fecha": "2026-01-11",
+      "quien": "Armada del Ecuador",
+      "detalle": "4 lanchas sin ocupantes, 7 chalecos antibalas, cerca de 2.500 municiones, 5 granadas y 8 motores fuera de borda de 200–250 HP de grupos que atacan embarcaciones en el Golfo.",
+      "fuente": "KCH, 11 ene 2026",
+      "url": "https://kchcomunicacion.com/2026/01/11/golpe-al-narcotrafico-maritimo-la-armada-ecuatoriana-confisca-lanchas-y-armamento-de-guerra-en-el-golfo-de-guayaquil/"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Punta Trinchera, Isla Puná",
+      "lat": -2.72,
+      "lon": -80.15,
+      "fecha": "2025-08-12",
+      "quien": "Armada del Ecuador",
+      "detalle": "La Armada desmanteló un campamento clandestino y quemó su centro de operaciones. Persecución con intercambio de disparos contra al menos 12 atacantes que huyeron a Punta Trinchera. Decomiso: 2.580 municiones, 7 armas, 4 chalecos, 3 motores, una baliza para simular unidades oficiales y una escalera para abordar barcos.",
+      "fuente": "Primicias / Extra, 12 ago 2025",
+      "url": "https://www.primicias.ec/seguridad/lobos-campamento-clandestino-isla-puna-violencia-criminal-golfo-guayaquil-102899/"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Canal de Jambelí, entre Puná y el continente",
+      "lat": -2.9,
+      "lon": -79.98,
+      "fecha": "2025-08-08",
+      "quien": "Ataque armado",
+      "detalle": "Un barco pesquero fue atacado desde tres lanchas, incendiado y hundido: 4 muertos y 6–7 heridos. Se atribuye a la disputa entre Los Lobos y Sao Box por las rutas marítimas.",
+      "fuente": "Primicias / El Comercio, ago 2025",
+      "url": "https://www.primicias.ec/seguridad/lobos-campamento-clandestino-isla-puna-violencia-criminal-golfo-guayaquil-102899/"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Muelle de la cabecera de Puná",
+      "lat": -2.735,
+      "lon": -79.915,
+      "fecha": "2025-07-31",
+      "quien": "Ataque armado",
+      "detalle": "Cuatro lanchas dispararon y colocaron explosivos en dos embarcaciones de carga atracadas: una se hundió y otra se incendió. Esa noche también dispararon contra la Unidad de Vigilancia Marítima de Puná. Según moradores, 2 tripulantes habrían sido secuestrados y la cabecera, Barrio Lindo, Balza Amarilla y La Loma estarían bajo control de bandas.",
+      "fuente": "Expreso / Primicias, 1 ago 2025",
+      "url": "https://www.expreso.ec/guayaquil/ataque-armado-en-isla-puna-esto-es-lo-que-se-sabe-hasta-el-momento-251962.html"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Cerro Malo, Isla Puná",
+      "lat": -2.85,
+      "lon": -80.0,
+      "fecha": "2025-07-12",
+      "quien": "Ataque armado",
+      "detalle": "Hacia las 03:00 asaltaron una barcaza con 10 personas que iba a Puerto Bolívar por carga: 2 guardias de seguridad muertos, el maquinista herido y unas 1.000 libras de camarón robadas. Los atacantes gritaron \"¡Lobos activos!\".",
+      "fuente": "Extra, 13 jul 2025",
+      "url": "https://www.extra.ec/noticia/ecuador/lobos-banda-ataco-embarcacion-isla-puna-revelan-llevaron-132527.html"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Camaronera en la Isla Puná",
+      "lat": -2.82,
+      "lon": -80.08,
+      "fecha": "2025-02-10",
+      "quien": "Fuerzas Armadas y Policía",
+      "detalle": "Operativo fluvial, terrestre y aéreo: captura en una camaronera de un objetivo de Los Lobos con orden de captura. Decomiso: subametralladora, subfusil modificado, carabina, pistola, casco balístico, chalecos, radios y silenciador.",
+      "fuente": "Extra / El Oriente, feb 2025",
+      "url": "https://www.extra.ec/noticia/ecuador/alias-negro-barrei-ligado-lobos-detenido-isla-puna-120945.html"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Golfo, cerca de Puná – Puerto Arturo",
+      "lat": -2.64,
+      "lon": -80.04,
+      "fecha": "2025-01-30",
+      "quien": "Asalto y secuestro",
+      "detalle": "Un grupo armado interceptó la lancha que llevaba trabajadores de una camaronera, les robó y se llevó la lancha con el capitán. La Policía lo rescató 10 horas después y recuperó 3 motores de 200 HP. La CNA pidió patrullajes permanentes de la Armada.",
+      "fuente": "Cámara Nacional de Acuacultura, 30 ene 2025",
+      "url": "https://www.cna-ecuador.com/secuestro-y-asalto-en-el-golfo-de-guayaquil-enciende-nuevamente-la-alerta-en-el-sector-camaronero/"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Estero El Morro, Isla Puná",
+      "lat": -2.88,
+      "lon": -80.18,
+      "fecha": "2024-08-12",
+      "quien": "Asesinato",
+      "detalle": "Tres pescadores interceptados en el mar (sector Aguas Piedras) el 5 de agosto, robados de sus pertenencias y combustible. Sus cuerpos aparecieron enterrados en una piscina de camaronera del estero El Morro.",
+      "fuente": "Extra, ago 2024",
+      "url": "https://www.extra.ec/noticia/ecuador/tragedia-tres-pescadores-isla-puna-robados-apunalados-enterrados-109617.html",
+      "antecedente": true
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Isla Puná",
+      "lat": -2.76,
+      "lon": -79.96,
+      "fecha": "2023-10-18",
+      "quien": "Fuerzas Armadas",
+      "detalle": "150 militares, 11 lanchas y 2 helicópteros: 8 detenidos señalados por ataques armados a camaroneras y robos de embarcaciones y gabarras. Dispararon contra los militares; se decomisaron 2.000 galones de combustible, chalecos y uniformes militares.",
+      "fuente": "Primicias, oct 2023",
+      "url": "https://www.primicias.ec/noticias/sucesos/detenidos-isla-puna-delitos-narcotrafico/",
+      "antecedente": true
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Isla Puná",
+      "lat": -2.862,
+      "lon": -80.13,
+      "fecha": "2022-07-13",
+      "quien": "Antecedente",
+      "detalle": "Hombres armados llegaron en lanchas a una camaronera y dispararon contra la custodia policial: 1 policía fallecido y 1 herido.",
+      "fuente": "El Comercio, jul 2022",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/asalto-camaronera-puna-policia-fallecido/",
+      "antecedente": true
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Tres Cruces – «Laberinto»",
+      "lat": -2.56,
+      "lon": -79.95,
+      "fecha": "2021-06-17",
+      "quien": "Antecedente",
+      "detalle": "Piratas abordaron una gabarra que iba de Puná a Guayaquil y pasaron unas 25.000 libras de camarón a 5 lanchas. La Guardia Costera recuperó la carga.",
+      "fuente": "El Universo, jun 2021",
+      "url": "https://www.eluniverso.com/noticias/seguridad/piratas-robaron-60000-en-camaron-a-una-gabarra-en-el-golfo-de-guayaquil-hay-un-detenido-nota/",
+      "antecedente": true
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Taura",
+      "lugar": "Base Aérea de Taura",
+      "lat": -2.261,
+      "lon": -79.68,
+      "fecha": "2026-10-27",
+      "quien": "Fuerzas Armadas / EE.UU.",
+      "detalle": "Un análisis de AFP registró unos 20 vuelos de aviones militares de EE.UU. desde junio y obras de ampliación en la base. Mayor presencia militar y aérea en la parroquia.",
+      "fuente": "AFP vía Diario Libre, 27 oct 2026",
+      "url": "https://www.diariolibre.com/mundo/estados-unidos/2026/10/27/aviones-militares-estadounidenses-fueron-reportados-en-taura/3702752"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Taura",
+      "lugar": "Taura, vía de tercer orden",
+      "lat": -2.33,
+      "lon": -79.69,
+      "fecha": "2026-05-29",
+      "quien": "Policía Nacional",
+      "detalle": "Intervención en una pista clandestina de narcoavionetas: dispararon contra los agentes, la avioneta huyó y hubo 8 detenidos. Se hallaron luces para operar de noche, combustible de aviación, radios y 4 vehículos.",
+      "fuente": "Primicias / El Universo, 30 may 2026",
+      "url": "https://www.primicias.ec/sucesos/pista-clandestina-taura-naranjal-guayas-ataque-armado-detenidos-narcotrafico-avioneta-policia-124133/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Taura",
+      "lugar": "Vías de acceso a Taura",
+      "lat": -2.3,
+      "lon": -79.71,
+      "fecha": "2025-07-17",
+      "quien": "Policía y Fuerzas Armadas",
+      "detalle": "Control en 4 puntos de acceso, incluida la supervisión de empresas de seguridad privada de la zona. Panfletos extorsivos firmados por \"La Mafia\", ropa similar a la militar usada para asaltar, 2 menores aprehendidos y más de 30 motos retenidas.",
+      "fuente": "El Universo, 17 jul 2025",
+      "url": "https://www.eluniverso.com/noticias/seguridad/policia-y-fuerzas-armadas-ejecutan-operativo-en-vias-de-acceso-a-taura-en-guayas-nota/"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Taura",
+      "lugar": "Taura, Naranjal",
+      "lat": -2.315,
+      "lon": -79.715,
+      "fecha": "2025-01-23",
+      "quien": "Asalto armado",
+      "detalle": "15 hombres con fusiles irrumpieron en una camaronera; las cámaras los registraron, pero huyeron antes de la llegada policial. El dueño denunció una respuesta lenta del 911.",
+      "fuente": "Metro Ecuador, 23 ene 2025",
+      "url": "https://www.metroecuador.com.ec/noticias/2025/01/23/empresario-denuncia-asalto-de-sujetos-armados-con-fusiles-en-taura/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Taura",
+      "lugar": "Manglar de un recinto de Taura",
+      "lat": -2.36,
+      "lon": -79.76,
+      "fecha": "2024-12-24",
+      "quien": "Caso Malvinas",
+      "detalle": "Los cuerpos de cuatro menores detenidos el 8 de diciembre en Las Malvinas (Guayaquil) aparecieron incinerados en un manglar de un recinto de Taura. El caso se juzga como desaparición forzada.",
+      "fuente": "Expreso, 2 feb 2025",
+      "url": "https://www.expreso.ec/actualidad/taura-miedo-policia-nacional-fuerzas-armadas-aguilas-extorsion-vacunas-muertes-violentas-230020.html",
+      "antecedente": true
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Taura",
+      "lugar": "Vía a Taura",
+      "lat": -2.3,
+      "lon": -79.76,
+      "fecha": "2023-04-13",
+      "quien": "Antecedente",
+      "detalle": "Delincuentes armados dispararon contra una camioneta de seguridad que custodiaba un traslado de camarón; el chofer quedó gravemente herido.",
+      "fuente": "Vistazo, abr 2023",
+      "url": "https://www.vistazo.com/actualidad/nacional/sector-camaronero-en-peligro-7-personas-resultaron-heridas-por-delincuentes-en-menos-de-24-horas-FK4936689",
+      "antecedente": true
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Tres Postes (Yaguachi) y Jujan",
+      "lat": -1.93,
+      "lon": -79.64,
+      "fecha": "2026-10-15",
+      "quien": "Policía Nacional",
+      "detalle": "7 detenidos de una facción de Las Águilas por amenazas, extorsiones y asaltos. Decomiso: subfusil, subametralladora, carabina 5,56, pistolas y más de 200 cartuchos.",
+      "fuente": "El Diario, 16 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/perra-flaca-y-alias-bacteria-los-mandos-medios-de-los-aguilas-que-cayeron-en-un-operativo-en-guayas-16102026/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Tres Postes, Yaguachi",
+      "lat": -1.935,
+      "lon": -79.645,
+      "fecha": "2026-10-13",
+      "quien": "Fuerzas Armadas",
+      "detalle": "Operativo Fénix 565 por el asalto a un camión de cacao: 6 detenidos de \"Los Duendes\", entre ellos 2 policías en servicio activo y un agente de tránsito (CTE). Se decomisaron 2 armas de dotación policial, municiones y 5 vehículos con reporte de robo.",
+      "fuente": "Vistazo / El Diario, 14–16 oct 2026",
+      "url": "https://www.vistazo.com/seguridad/2026-10-14-policias-vigilante-duendes-aprehendidos-robo-camion-guayas-JF11275095"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Yaguachi",
+      "lat": -2.09,
+      "lon": -79.7,
+      "fecha": "2026-08-22",
+      "quien": "Policía Nacional",
+      "detalle": "Operativo Apolo 38: 5 detenidos (2 adolescentes), 2 armas, droga, 7 motos y 250 galones de combustible.",
+      "fuente": "Primicias, 22 ago 2026",
+      "url": "https://www.primicias.ec/sucesos/operativo-apolo38-detencion-decomiso-armas-drogas-yaguachi-130856/",
+      "general": true
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Arrozales de Yaguachi",
+      "lat": -2.06,
+      "lon": -79.72,
+      "fecha": "2026-08-17",
+      "quien": "Secuestro",
+      "detalle": "Las Águilas secuestraron al chofer de un camión en la vía Guayaquil–Milagro; un dron lo halló atado en una vía entre arrozales de Yaguachi. 4 detenidos. La Policía registra 40 denuncias de robos en carreteras de Guayas en 2026.",
+      "fuente": "Extra, 19 ago 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/detenidos-asaltos-carreteras-guayas-cifra-denuncias-recibido-policia-160817.html",
+      "general": true
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Barrio 7 de Agosto, Virgen de Fátima",
+      "lat": -2.21,
+      "lon": -79.6,
+      "fecha": "2026-07-21",
+      "quien": "Policía Nacional",
+      "detalle": "5 presuntos integrantes de Las Águilas detenidos con revólver, municiones y celulares.",
+      "fuente": "Extra, 22 jul 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/detienen-integrantes-los-aguilas-yaguachi-armas-158931.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Hospital de Yaguachi",
+      "lat": -2.096,
+      "lon": -79.692,
+      "fecha": "2026-07-15",
+      "quien": "Ataque armado",
+      "detalle": "Arrojaron el cuerpo de un hombre baleado frente a Emergencias del hospital José Cevallos Ruiz. 3 detenidos en la vía Yaguachi–Durán y una furgoneta quemada vinculada.",
+      "fuente": "Extra, 17 jul 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/cuerpo-arrojado-afuera-hospital-yaguachi-tres-detenidos-furgoneta-quemada-paso-158465.html"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Yaguachi",
+      "lat": -2.098,
+      "lon": -79.693,
+      "fecha": "2026-06-15",
+      "quien": "Policía Nacional",
+      "detalle": "Captura del cabecilla de Las Águilas tras una persecución con disparos; familiares agredieron a los policías con piedras y botellas.",
+      "fuente": "Primicias, 15 jun 2026",
+      "url": "https://www.primicias.ec/sucesos/detenido-cabecilla-aguilas-alias-axel-yaguachi-guayas-choneros-125475/"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Yaguachi",
+      "lugar": "Ruta Naranjal – Km 26",
+      "lat": -2.26,
+      "lon": -79.6,
+      "fecha": "2026-04-29",
+      "quien": "Ataque armado",
+      "detalle": "Asalto a un camión que transportaba camarón: murió el chofer y un guardia quedó herido. 7 detenidos de Las Águilas al día siguiente, con allanamientos en Yaguachi.",
+      "fuente": "El Diario, 30 abr 2026",
+      "url": "https://www.eldiario.ec/seguridad/la-policia-detuvo-a-los-presuntos-asesinos-del-chofer-de-un-camion-camaronero-30042026/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Virgen de Fátima (Km 26)",
+      "lat": -2.212,
+      "lon": -79.605,
+      "fecha": "2026-03-28",
+      "quien": "Secuestro",
+      "detalle": "Encapuchados interceptaron un camión repartidor y secuestraron a 2 trabajadores; el Ejército los liberó tras un intercambio de disparos.",
+      "fuente": "Primicias, 28 mar 2026",
+      "url": "https://www.primicias.ec/sucesos/ejercito-liberacion-secuestrados-camion-repartidor-cerveza-operativo-virgen-fatima-yaguachi-guayas-119212/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Tres Postes, Yaguachi",
+      "lat": -1.935,
+      "lon": -79.645,
+      "fecha": "2025-09-13",
+      "quien": "Disputa de bandas",
+      "detalle": "Tres Postes es la frontera entre Lobos Box (lado hacia Jujan: asaltos, vacunas, sicariato) y facciones de Los Choneros. Asaltos a camiones con motos que simulan retenes; vacunas de hasta USD 200 semanales.",
+      "fuente": "Extra, 13 sep 2025",
+      "url": "https://www.extra.ec/noticia/premium/tres-postes-guayas-la-frontera-que-separaria-los-choneros-de-lobos-box-136742.html",
+      "antecedente": true
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Hospital de Yaguachi",
+      "lat": -2.096,
+      "lon": -79.692,
+      "fecha": "2024-01-21",
+      "quien": "Fuerzas Armadas y Policía",
+      "detalle": "Unas 40 personas intentaron tomarse el hospital José Cevallos Ruiz; fueron detenidas.",
+      "fuente": "TC Televisión, ene 2024",
+      "url": "https://tctelevision.com/tctelevision/yaguachi-40-sujetos-detenidos-por-policias-y-militares-cuando-intentaban-tomarse-un-hospital/",
+      "antecedente": true
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Sabana Grande",
+      "lugar": "Progreso, camaronera en el manglar",
+      "lat": -2.43,
+      "lon": -80.3,
+      "fecha": "2026-09-06",
+      "quien": "Policía Nacional",
+      "detalle": "En una camaronera de la parroquia Progreso, por donde se entra a Sabana Grande, se hallaron 16 fusiles, 5.000 municiones, 90 alimentadoras, 3 lanchas y 5 motores fuera de borda ocultos en el manglar. 4 detenidos. Se atribuye a Los Preñados (Panza de Yegua).",
+      "fuente": "Expreso, 8 sep 2026",
+      "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
     {
       "tipo": "operativo",
@@ -1198,40 +1626,6 @@
     },
     {
       "tipo": "camaronera",
-      "lugar": "Progreso, camaronera en el manglar",
-      "lat": -2.43,
-      "lon": -80.3,
-      "fecha": "2026-09-06",
-      "quien": "Policía Nacional",
-      "detalle": "16 fusiles, 5.000 municiones, 90 alimentadoras, 3 lanchas y 5 motores fuera de borda ocultos en una camaronera. 4 detenidos. Se atribuye a Los Preñados (Panza de Yegua).",
-      "fuente": "Expreso, 8 sep 2026",
-      "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
-    },
-    {
-      "tipo": "camaronera",
-      "lugar": "Ruta Naranjal – Km 26",
-      "lat": -2.26,
-      "lon": -79.6,
-      "fecha": "2026-04-29",
-      "quien": "Ataque armado",
-      "detalle": "Asalto a un camión que transportaba camarón: el chofer murió y un guardia quedó herido. 7 detenidos de Las Águilas al día siguiente.",
-      "fuente": "El Diario, 30 abr 2026",
-      "url": "https://www.eldiario.ec/seguridad/la-policia-detuvo-a-los-presuntos-asesinos-del-chofer-de-un-camion-camaronero-30042026/"
-    },
-    {
-      "tipo": "camaronera",
-      "lugar": "Taura, Naranjal",
-      "lat": -2.315,
-      "lon": -79.715,
-      "fecha": "2025-01-23",
-      "quien": "Asalto armado",
-      "detalle": "Un grupo de 15 hombres con fusiles irrumpió en una camaronera; las cámaras los registraron, pero huyeron antes de la llegada policial.",
-      "fuente": "Metro Ecuador, 23 ene 2025",
-      "url": "https://www.metroecuador.com.ec/noticias/2025/01/23/empresario-denuncia-asalto-de-sujetos-armados-con-fusiles-en-taura/",
-      "antecedente": true
-    },
-    {
-      "tipo": "camaronera",
       "lugar": "Camaronera en Tenguel",
       "lat": -2.995,
       "lon": -79.79,
@@ -1241,18 +1635,6 @@
       "fuente": "El Universo, nov 2024",
       "url": "https://www.eluniverso.com/noticias/seguridad/en-camaronera-de-guayas-detienen-a-seis-personas-vinculadas-con-los-lobos-nota/",
       "antecedente": true
-    },
-    {
-      "tipo": "camaronera",
-      "lugar": "Vía a Taura",
-      "lat": -2.3,
-      "lon": -79.76,
-      "fecha": "2023-04-13",
-      "quien": "Antecedente",
-      "antecedente": true,
-      "detalle": "Delincuentes armados dispararon contra una camioneta de seguridad que custodiaba un traslado de camarón; el chofer quedó gravemente herido.",
-      "fuente": "Vistazo, abr 2023",
-      "url": "https://www.vistazo.com/actualidad/nacional/sector-camaronero-en-peligro-7-personas-resultaron-heridas-por-delincuentes-en-menos-de-24-horas-FK4936689"
     },
     {
       "tipo": "ataque",
@@ -1356,17 +1738,6 @@
     },
     {
       "tipo": "camaronera",
-      "lugar": "Cerca de la Isla Puná",
-      "lat": -2.775,
-      "lon": -80.045,
-      "fecha": "2026-01-11",
-      "quien": "Armada del Ecuador",
-      "detalle": "4 lanchas sin ocupantes, 7 chalecos antibalas, cerca de 2.500 municiones, 5 granadas y 8 motores fuera de borda de 200–250 HP de grupos que atacan embarcaciones en el Golfo.",
-      "fuente": "KCH, 11 ene 2026",
-      "url": "https://kchcomunicacion.com/2026/01/11/golpe-al-narcotrafico-maritimo-la-armada-ecuatoriana-confisca-lanchas-y-armamento-de-guerra-en-el-golfo-de-guayaquil/"
-    },
-    {
-      "tipo": "camaronera",
       "lugar": "Estero Huayla, Puerto Bolívar",
       "lat": -3.283,
       "lon": -80.02,
@@ -1375,30 +1746,6 @@
       "detalle": "Intervención de una camaronera que, según el medio, usaban Los Lobos para actividades ilícitas. Fecha por confirmar.",
       "fuente": "Ecuavisa",
       "url": "https://www.ecuavisa.com/noticias/seguridad/importante-golpe-los-lobos-camaronera-el-oro-YA9367607"
-    },
-    {
-      "tipo": "camaronera",
-      "lugar": "Isla Puná",
-      "lat": -2.862,
-      "lon": -80.13,
-      "fecha": "2022-07-13",
-      "quien": "Antecedente",
-      "antecedente": true,
-      "detalle": "Hombres armados llegaron en lanchas a una camaronera y dispararon contra la custodia policial: 1 policía fallecido y 1 herido.",
-      "fuente": "El Comercio, jul 2022",
-      "url": "https://www.elcomercio.com/actualidad/seguridad/asalto-camaronera-puna-policia-fallecido/"
-    },
-    {
-      "tipo": "camaronera",
-      "lugar": "Tres Cruces – «Laberinto»",
-      "lat": -2.56,
-      "lon": -79.95,
-      "fecha": "2021-06-17",
-      "quien": "Antecedente",
-      "antecedente": true,
-      "detalle": "Piratas abordaron una gabarra que iba de Puná a Guayaquil y pasaron unas 25.000 libras de camarón a 5 lanchas. La Guardia Costera recuperó la carga.",
-      "fuente": "El Universo, jun 2021",
-      "url": "https://www.eluniverso.com/noticias/seguridad/piratas-robaron-60000-en-camaron-a-una-gabarra-en-el-golfo-de-guayaquil-hay-un-detenido-nota/"
     },
     {
       "tipo": "operativo",
@@ -1466,17 +1813,6 @@
       "detalle": "2 aprehendidos por el secuestro extorsivo de dos mujeres, en la jornada de operativos Libertad que dejó 22 aprehendidos y 8 víctimas liberadas en cuatro provincias.",
       "fuente": "El Mercurio, 28 oct 2026",
       "url": "https://elmercurio.com.ec/sucesos/2026/10/28/azuay-operativo-detenidos-victimas/"
-    },
-    {
-      "tipo": "camaronera",
-      "lugar": "Canal de Jambelí, entre Puná y el continente",
-      "lat": -2.9,
-      "lon": -79.98,
-      "fecha": "2025-08-08",
-      "quien": "Ataque armado",
-      "detalle": "Una embarcación pesquera fue atacada, incendiada y hundida: 4 muertos y 7 heridos. El 31 de julio de 2025 sujetos armados quemaron dos lanchas en Puná y atacaron una unidad de vigilancia marítima.",
-      "fuente": "Ecuador en Directo, 15 ago 2025",
-      "url": "https://ecuadorendirecto.com/2025/08/15/los-lobos-instalan-campamentos-en-puna-y-llevan-violencia-al-golfo-de-guayaquil/"
     }
   ],
   "zonas_criticas": [
@@ -1487,7 +1823,18 @@
       "radio_m": 7000,
       "detalle": "Punto crítico de la vía E-40 con asaltos a carga y robos a piscinas acuícolas. En enero de 2025, 15 hombres con fusiles irrumpieron en una camaronera. En mayo de 2026 la Policía detuvo a 8 personas en una pista ilegal de narcoavionetas.",
       "fuente": "Primicias / Metro Ecuador / El Universo",
-      "url": "https://www.primicias.ec/seguridad/asaltos-extorsion-puntos-criticos-cadena-logistica-exportacion-guayas-eloro-76025/"
+      "url": "https://www.primicias.ec/seguridad/asaltos-extorsion-puntos-criticos-cadena-logistica-exportacion-guayas-eloro-76025/",
+      "zona": "Taura"
+    },
+    {
+      "zona": "Sabana Grande",
+      "nombre": "Sabana Grande y Puerto Sabana Grande",
+      "lat": -2.52,
+      "lon": -80.26,
+      "radio_m": 8000,
+      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera.",
+      "fuente": "El Universo / Expreso",
+      "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
     {
       "nombre": "Puerto Inca y Naranjal (E-40)",
@@ -1521,9 +1868,10 @@
       "lat": -2.86,
       "lon": -80.12,
       "radio_m": 13000,
-      "detalle": "Asaltos armados a camaroneras y embarcaciones; campamentos de Los Lobos confirmados por la Armada. El 28 oct 2026 se incendió y hundió la estación guardacostas flotante al sur de la isla (causa en investigación).",
+      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante al sur de la isla.",
       "fuente": "Primicias, 29 oct 2026",
-      "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/"
+      "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/",
+      "zona": "Puná"
     },
     {
       "nombre": "Estero Salado e islas",
@@ -1553,5 +1901,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP"
 }
