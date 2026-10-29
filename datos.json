@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-10-29T09:40:00-05:00",
-  "actualizado_texto": "jueves 29 oct 2026, 09:40",
+  "actualizado": "2026-10-29T17:55:00-05:00",
+  "actualizado_texto": "jueves 29 oct 2026, 17:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná, ayer 28 oct 18:10: se incendió y hundió la estación guardacostas flotante de la Armada al sur de la isla. 9 militares evacuados, estables; causa en investigación. Menos vigilancia naval: reforzar monitoreo en camaroneras de Puná y el Golfo."
+      "texto": "Puná: la estación guardacostas «Lago San Pablo» se incendió y hundió el 28 oct al sur de la isla. El 29 oct la Armada dijo que preliminarmente fue accidental, sin evidencias de terceros. Mientras no la reemplacen hay menos vigilancia naval: reforzar monitoreo en Puná y el Golfo."
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná sigue sin resolver la desaparición de 5 guardias que custodiaban camarón desde el 14 de junio; uno apareció muerto con un disparo. Los Lobos tienen campamentos en la isla."
+      "texto": "Puná: sigue sin resolverse la desaparición de los guardias que custodiaban camarón desde el 14 de junio; Los Lobos tienen campamentos en la isla."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: en octubre cayeron 7 de Las Águilas (subfusil, carabina) y 6 de \"Los Duendes\" por asaltos a camiones, entre ellos 2 policías en servicio activo y un agente de tránsito."
+      "texto": "Yaguachi – Tres Postes: en octubre cayeron 7 de Las Águilas y 6 de \"Los Duendes\" por asaltos a camiones, entre ellos 2 policías en servicio activo. Sin hechos nuevos en las últimas 36 h."
     },
     {
       "tipo": "camaronera",
-      "texto": "Corredor Durán–Yaguachi–Km 26–Taura–Naranjal: Las Águilas asaltan choferes y traslados de camarón; en Taura cobran vacunas. Evitar traslados entre 20:00 y 05:00."
+      "texto": "Taura: último hecho el 27 oct (vuelos militares de EE.UU. en la Base Aérea, según AFP). Las Águilas cobran vacunas en la parroquia; evitar traslados por el corredor Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
     },
     {
       "tipo": "camaronera",
-      "texto": "Lluvias de El Niño: el 25 oct se desbordaron los ríos Pilco, Tenguel y Balao (Tenguel y Puerto Balao afectados); el 27 oct Policía y Bomberos buscaban posibles desaparecidos en el río Yaguachi (Puente Rojo). Revisar muros de piscinas y accesos."
+      "texto": "Sabana Grande / Progreso: sin reportes nuevos; último hecho el 6 sep 2026, hallazgo de 16 fusiles y 5 motores en una camaronera de la parroquia Progreso."
     },
     {
       "tipo": "critica",
-      "texto": "28 oct: sicariatos en La Aurora (Daule, Av. León Febres-Cordero), norte de Machala (un adolescente de 16 años) y parroquia Colón de Portoviejo (vía a Pachinche). Sin bandas identificadas ni detenidos."
+      "texto": "29 oct: asesinado un policía en La Primavera (Durán); sicariato grabado en Villa Club (Daule); 2 heridos a tiros en San Agustín (Manta). En Quinindé, rescatado un secuestrado por Los Tiguerones (6 detenidos)."
     }
   ],
   "toque_de_queda": {
@@ -1177,10 +1177,10 @@
         "lobos"
       ],
       "disputa": true,
-      "fecha": "2025-12-03",
-      "detalle": "Los Tiguerones rivalizan con Los Lobos.",
-      "fuente": "Primicias, 3 dic 2025",
-      "url": "https://www.primicias.ec/seguridad/rios-provincia-peligrosa-ecuador-guerra-choneros-lobos-110969/"
+      "fecha": "2026-10-27",
+      "detalle": "La Policía atribuyó a Los Tiguerones el secuestro de un comerciante por quien exigían USD 2 millones; 6 detenidos y víctima rescatada (Operativo Libertad 1175).",
+      "fuente": "Extra, 29 oct 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/secuestro-quininde-esmeraldas-millonario-rescate-detenidos-166465.html"
     }
   ],
   "eventos": [
@@ -1192,9 +1192,9 @@
       "lon": -80.17,
       "fecha": "2026-10-28",
       "quien": "Armada del Ecuador",
-      "detalle": "Hacia las 18:10 se incendió y hundió la estación guardacostas flotante de la Armada al sur de Puná. Los 9 militares fueron evacuados a Puerto Bolívar, estables. Causa en investigación; la Armada no ha confirmado si fue un ataque.",
-      "fuente": "Primicias / El Diario / El Universo, 29 oct 2026",
-      "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/"
+      "detalle": "Hacia las 18:10 se incendió y hundió la Estación Guardacostas Móvil «Lago San Pablo» al sur de Puná. 9 tripulantes evacuados: 6 dados de alta y 3 aún en un centro de salud de Machala. El 29 oct la Armada indicó que la evaluación preliminar apunta a un evento accidental y que no hay evidencias de intervención de terceros; una comisión sigue investigando.",
+      "fuente": "Armada vía Teleamazonas / Metro Ecuador / Primicias, 29 oct 2026",
+      "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/armada-causas-incendio-hundimiento-estacion-guardacostas-isla-puna-131703/"
     },
     {
       "tipo": "camaronera",
@@ -1813,6 +1813,63 @@
       "detalle": "2 aprehendidos por el secuestro extorsivo de dos mujeres, en la jornada de operativos Libertad que dejó 22 aprehendidos y 8 víctimas liberadas en cuatro provincias.",
       "fuente": "El Mercurio, 28 oct 2026",
       "url": "https://elmercurio.com.ec/sucesos/2026/10/28/azuay-operativo-detenidos-victimas/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Parroquia Virgen de Fátima, Yaguachi",
+      "lat": -2.135,
+      "lon": -79.66,
+      "fecha": "2025-07-09",
+      "quien": "Policía Nacional",
+      "detalle": "Operativo Apolo 1.0 con más de 300 policías contra estructuras criminales: durante un allanamiento, el jefe policial de la Zona 5 y un agente del GIR resultaron heridos con machete. El presunto agresor fue herido y detenido.",
+      "fuente": "El Universo, 9 jul 2025",
+      "url": "https://www.eluniverso.com/noticias/seguridad/jefe-policial-fue-herido-con-un-machete-durante-operativo-en-la-parroquia-virgen-de-fatima-yaguachi-nota/",
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "La Primavera, Durán",
+      "lat": -2.172,
+      "lon": -79.835,
+      "fecha": "2026-10-29",
+      "quien": "Sin identificar",
+      "detalle": "Hacia las 07:30 asesinaron a un policía tras dejar a su hija en la escuela. Hipótesis inicial: robo, no confirmada. Sin detenidos.",
+      "fuente": "El Comercio, 29 oct 2026",
+      "url": "https://www.elcomercio.com/actualidad/ecuador/policia-asesinado-duran-dejar-hija-escuela/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Av. principal de Villa Club (La Aurora, Daule)",
+      "lat": -2.075,
+      "lon": -79.905,
+      "fecha": "2026-10-29",
+      "quien": "Estructura criminal no identificada",
+      "detalle": "Hombres en moto dispararon y persiguieron a un conductor hasta rematarlo; el ataque quedó grabado. Según versiones preliminares la víctima sería un cabecilla de una estructura criminal. Sin detenidos.",
+      "fuente": "El Diario, 29 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/asesinato-a-balazos-de-un-hombre-en-la-avenida-principal-del-sector-villa-club-en-guayaquil-quedo-grabado-29102026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio San Agustín, Manta",
+      "lat": -0.958,
+      "lon": -80.72,
+      "fecha": "2026-10-29",
+      "quien": "Sin identificar",
+      "detalle": "Hacia las 08:00 dispararon contra dos hombres que iban a abrir un taller: uno grave y otro con heridas leves. Sin detenidos. El distrito Manta–Montecristi–Jaramijó suma 414 muertes violentas en el año.",
+      "fuente": "El Diario, 29 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/ataque-a-balazos-en-el-barrio-san-agustin-de-manta-un-hombre-quedo-gravemente-herido-en-la-calle-29102026"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Quinindé, Esmeraldas",
+      "lat": 0.326,
+      "lon": -79.47,
+      "fecha": "2026-10-27",
+      "quien": "Policía Nacional (Los Tiguerones, según la Policía)",
+      "detalle": "Operativo Libertad 1175: rescatado un comerciante secuestrado por quien exigían USD 2 millones. 6 detenidos (5 adultos y 1 adolescente), presuntos integrantes de Los Tiguerones, interceptados en un bus.",
+      "fuente": "Extra, 29 oct 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/secuestro-quininde-esmeraldas-millonario-rescate-detenidos-166465.html"
     }
   ],
   "zonas_criticas": [
@@ -1868,7 +1925,7 @@
       "lat": -2.86,
       "lon": -80.12,
       "radio_m": 13000,
-      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante al sur de la isla.",
+      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante «Lago San Pablo» al sur de la isla (la Armada lo considera preliminarmente accidental).",
       "fuente": "Primicias, 29 oct 2026",
       "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/",
       "zona": "Puná"
