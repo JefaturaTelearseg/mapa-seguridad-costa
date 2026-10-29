@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-28T18:00:00-05:00",
-  "actualizado_texto": "miércoles 28 oct 2026, 18:00",
+  "actualizado": "2026-10-29T06:00:00-05:00",
+  "actualizado_texto": "jueves 29 oct 2026, 06:00",
   "alertas": [
     {
       "tipo": "camaronera",
@@ -16,7 +16,7 @@
     },
     {
       "tipo": "critica",
-      "texto": "Sauces 2 (norte de Guayaquil): tras el asesinato de un abogado el 27 oct, la Policía detuvo a un sospechoso con fusil y 3 pistolas. Portoviejo, 28 oct: asesinan a un hombre en un taller de motos (cdla. San Alejo)."
+      "texto": "28 oct: sicariatos en La Aurora (Daule, Av. León Febres-Cordero), norte de Machala (un adolescente de 16 años) y parroquia Colón de Portoviejo (vía a Pachinche). Sin bandas identificadas ni detenidos."
     },
     {
       "tipo": "alta",
@@ -24,7 +24,7 @@
     },
     {
       "tipo": "operativo",
-      "texto": "Vinces, 28 oct: operación «Gran Fénix 66» por lavado de activos, 20 allanamientos en Los Ríos, Guayas y Azuay; detenido el alcalde. Interior asocia los fondos con Choneros y Lobos."
+      "texto": "28 oct, operativos Libertad: 22 aprehendidos y 8 víctimas liberadas en Azuay, Guayas, Los Ríos y Esmeraldas; en Chongón, 2 aprehendidos por secuestro extorsivo de dos mujeres. Vinces: «Gran Fénix 66» por lavado (Choneros y Lobos, según Interior)."
     }
   ],
   "toque_de_queda": {
@@ -1392,6 +1392,50 @@
       "detalle": "Un hombre de 38 años asesinado a tiros dentro de un taller de motocicletas; los atacantes huyeron. Dinased investiga; sin detenidos ni banda identificada.",
       "fuente": "El Diario, 28 oct 2026",
       "url": "https://www.eldiario.ec/seguridad/lo-asesinan-en-un-taller-de-motocicletas-en-portoviejo-28102026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "La Aurora, Daule (Av. León Febres-Cordero)",
+      "lat": -2.07,
+      "lon": -79.9,
+      "fecha": "2026-10-28",
+      "quien": "Desconocidos",
+      "detalle": "Por la tarde, al menos dos sujetos armados persiguieron y mataron a tiros a un hombre que había bajado de un vehículo. Sin banda identificada ni detenidos.",
+      "fuente": "Vistazo, 28 oct 2026",
+      "url": "https://vistazo.com/seguridad/2026-10-28-ataque-armado-la-aurora-hombre-asesinado-avenida-leon-febres-cordero-NL11295822"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Norte de Machala",
+      "lat": -3.245,
+      "lon": -79.955,
+      "fecha": "2026-10-28",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 02:10, dos encapuchados armados irrumpieron en una vivienda y asesinaron a un adolescente de 16 años; huyeron en moto. Sin banda identificada ni detenidos.",
+      "fuente": "El Diario, 28 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/otro-adolescente-asesinado-en-el-oro-lo-sacaron-de-su-cuarto-y-lo-mataron-en-el-patio-28102026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Parroquia Colón, Portoviejo (vía a Pachinche)",
+      "lat": -1.1,
+      "lon": -80.43,
+      "fecha": "2026-10-28",
+      "quien": "Sicarios",
+      "detalle": "Por la noche interceptaron una camioneta y dispararon: el conductor murió y una acompañante quedó herida. Dinased investiga; sin detenidos.",
+      "fuente": "El Diario, 28 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/ataque-sicario-deja-un-hombre-muerto-en-la-parroquia-colon-de-portoviejo-28102026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Chongón, Guayaquil",
+      "lat": -2.23,
+      "lon": -80.07,
+      "fecha": "2026-10-28",
+      "quien": "Policía Nacional",
+      "detalle": "2 aprehendidos por el secuestro extorsivo de dos mujeres, en la jornada de operativos Libertad que dejó 22 aprehendidos y 8 víctimas liberadas en cuatro provincias.",
+      "fuente": "El Mercurio, 28 oct 2026",
+      "url": "https://elmercurio.com.ec/sucesos/2026/10/28/azuay-operativo-detenidos-victimas/"
     }
   ],
   "zonas_criticas": [
@@ -1468,5 +1512,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio"
 }
