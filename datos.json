@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-10-30T05:55:00-05:00",
-  "actualizado_texto": "viernes 30 oct 2026, 05:55",
+  "actualizado": "2026-10-30T17:55:00-05:00",
+  "actualizado_texto": "viernes 30 oct 2026, 17:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: la estación guardacostas «Lago San Pablo» se incendió y hundió el 28 oct al sur de la isla; la Armada lo considera preliminarmente accidental y 3 tripulantes siguen hospitalizados en Machala. Mientras no la reemplacen hay menos vigilancia naval: reforzar monitoreo en Puná y el Golfo."
+      "texto": "Puná: la estación guardacostas flotante «Lago San Pablo» se incendió y hundió el 28 oct al sur de la isla. Armada (29 oct): causa preliminar accidental, 6 de 9 tripulantes con alta y 3 en Machala. Hasta que la reemplacen hay menos vigilancia naval: reforzar monitoreo en Puná y el Golfo."
     },
     {
       "tipo": "camaronera",
@@ -12,7 +12,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: en octubre cayeron 7 de Las Águilas y 6 de \"Los Duendes\" por asaltos a camiones, entre ellos 2 policías en servicio activo. Sin hechos nuevos en las últimas 36 h."
+      "texto": "Yaguachi – Tres Postes: en octubre cayeron 7 de Las Águilas y 6 de \"Los Duendes\" por asaltos a camiones (2 eran policías activos); el 3 oct hubo balacera con policías en la vía Durán–Yaguachi. Sin hechos nuevos de violencia en las últimas 36 h."
     },
     {
       "tipo": "camaronera",
@@ -20,11 +20,11 @@
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin reportes nuevos; último hecho el 6 sep 2026, hallazgo de 16 fusiles y 5 motores en una camaronera de la parroquia Progreso."
+      "texto": "Sabana Grande / Progreso: sin reportes nuevos; último hecho el 6 sep 2026 (16 fusiles y 5 motores en una camaronera de Progreso). El 21 ago los militares hallaron restos óseos humanos en la bajada de Progreso."
     },
     {
       "tipo": "critica",
-      "texto": "Masacre de 4 personas el 27 oct en la vía Salitre–Samborondón (ataque selectivo). Durán: asesinado un policía el 29 oct. Toque de queda 00:00–05:00 desde el dom 1 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas."
+      "texto": "Toque de queda 00:00–05:00 desde el dom 1 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas; desde las 23:00 del 31 oct habrá 21 controles en Guayaquil. Apolo 37: 23 detenidos de 8 bandas. Manta: murió la niña baleada en un secuestro."
     }
   ],
   "toque_de_queda": {
@@ -46,7 +46,7 @@
       }
     ],
     "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
-    "fuente": "Extra, 16 oct 2026",
+    "fuente": "Extra, 16 oct 2026 / Primicias, 30 oct 2026",
     "url": "https://www.extra.ec/noticia/politica/daniel-noboa-oficializo-toque-queda-mediante-decreto-fecha-hora-164864_amp.html"
   },
   "bandas": {
@@ -1193,7 +1193,7 @@
       "fecha": "2026-10-28",
       "quien": "Armada del Ecuador",
       "detalle": "Hacia las 18:10 se incendió y hundió la Estación Guardacostas Móvil «Lago San Pablo» al sur de Puná. 9 tripulantes evacuados: 6 dados de alta y 3 aún en un centro de salud de Machala. El 29 oct la Armada indicó que la evaluación preliminar apunta a un evento accidental y que no hay evidencias de intervención de terceros; una comisión sigue investigando.",
-      "fuente": "Armada vía Teleamazonas / Metro Ecuador / Primicias, 29 oct 2026",
+      "fuente": "Teleamazonas, 29 oct 2026",
       "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/armada-causas-incendio-hundimiento-estacion-guardacostas-isla-puna-131703/"
     },
     {
@@ -1584,10 +1584,10 @@
       "lat": -0.955,
       "lon": -80.735,
       "fecha": "2026-10-27",
-      "quien": "Ataque armado",
-      "detalle": "Una madre y su hija menor heridas de bala; la Policía investiga el presunto secuestro de una tercera persona que las acompañaba.",
-      "fuente": "El Diario, 27 oct 2026",
-      "url": "https://www.eldiario.ec/seguridad/ataque-armado-en-manta-deja-dos-heridas-y-un-presunto-secuestro-bajo-investigacion-27102026",
+      "quien": "Secuestradores sin identificar",
+      "detalle": "Durante un secuestro extorsivo frente a un negocio, los captores dispararon y una niña de 2 años y su madre, que pasaban por ahí, recibieron disparos; la niña murió la noche del 29 oct. La Unase liberó a la secuestrada el 28 oct (pedían USD 200.000): 3 aprehendidos en Manta y Montecristi.",
+      "fuente": "Extra, 30 oct 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/drama-manta-menor-fallecio-balazo-le-impacto-cabeza-166664.html",
       "general": true
     },
     {
@@ -1881,6 +1881,79 @@
       "detalle": "Masacre: 4 personas que iban en un vehículo de una compañía fueron interceptadas y asesinadas con armas cortas por la tarde. Según la Policía de Salitre fue un ataque selectivo, sin robo. Sin detenidos; el 29 oct se retiró a la cuarta víctima.",
       "fuente": "Extra, 29 oct 2026",
       "url": "https://www.extra.ec/noticia/ecuador/retiraron-cuarta-victima-masacre-via-salitre-samborondon-trata-166535.html"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "lugar": "Bajada de Progreso (parroquia Progreso)",
+      "lat": -2.41,
+      "lon": -80.38,
+      "fecha": "2026-08-21",
+      "quien": "Fuerzas Armadas (unidad BIMUIL) y Policía Nacional",
+      "detalle": "En un control móvil, moradores alertaron a los militares y se hallaron 14 fragmentos óseos presuntamente humanos y 2 chalecos junto a la vía. Criminalística investiga si se relacionan con personas desaparecidas en la zona.",
+      "fuente": "El Diario, 21 ago 2026",
+      "url": "https://www.eldiario.ec/seguridad/hallan-14-restos-oseos-presuntamente-humanos-durante-patrullaje-en-progreso-guayas-21082026"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Vía Durán – Yaguachi (Feria Ganadera)",
+      "lat": -2.17,
+      "lon": -79.79,
+      "fecha": "2026-10-03",
+      "quien": "Policía Nacional",
+      "detalle": "Tras un ataque con 2 muertos en Durán, un taxi huyó por la vía Durán–Tambo y fue interceptado en la vía Durán–Yaguachi; sus ocupantes dispararon contra los policías. 5 aprehendidos con 4 pistolas, 32 cartuchos y 5 celulares.",
+      "fuente": "Policía Nacional, 3 oct 2026",
+      "url": "https://noticias.policia.gob.ec/cinco-aprehendidos-tras-intervencion-policial-en-la-via-duran-yaguachi/"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Yaguachi",
+      "lugar": "Parroquia Virgen de Fátima, Yaguachi",
+      "lat": -2.2,
+      "lon": -79.62,
+      "fecha": "2025-02-12",
+      "quien": "Unase y GIR (Policía Nacional)",
+      "detalle": "5 allanamientos: 14 presuntos integrantes de Las Águilas detenidos por exigir USD 15.000 al mes a camaroneras y por secuestros y asaltos a carga en las vías Durán–Tambo y Durán–Yaguachi. Decomiso: 14 armas (2 fusiles), más de 600 municiones, inhibidores y chalecos.",
+      "fuente": "El Universo, 12 feb 2025",
+      "url": "https://www.eluniverso.com/noticias/seguridad/14-supuestos-integrantes-de-las-aguilas-detenidos-por-exigir-15000-al-mes-a-camaroneras-nota/",
+      "antecedente": true
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Barrio Chino, Yaguachi",
+      "lat": -2.1,
+      "lon": -79.69,
+      "fecha": "2023-04-18",
+      "quien": "Policía Nacional (DGI y UICA)",
+      "detalle": "11 detenidos de Las Águilas (brazo armado aliado a Los Choneros), acusados de asesinatos, asaltos en carreteras, secuestros y extorsiones; unas 400 personas intentaron impedir las capturas. Decomiso de fusiles, pistolas, droga y cámaras.",
+      "fuente": "Expreso, 19 abr 2023",
+      "url": "https://www.expreso.ec/actualidad/yaguachi-policia-detiene-11-integrantes-banda-delictiva-157776.html",
+      "antecedente": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayaquil, Durán y Samborondón (Zona 8)",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-10-29",
+      "quien": "Policía Nacional",
+      "detalle": "Operativo Apolo 37 en los 12 distritos: 22 intervenciones y 23 detenidos ligados a 8 organizaciones, entre ellas Los Tiguerones, Latin Kings, Los Lobos y Mafia 18; 13 armas decomisadas. Desde las 23:00 del 31 oct habrá 21 puntos de control que pasan a convoyes a medianoche.",
+      "fuente": "Primicias, 30 oct 2026",
+      "url": "https://www.primicias.ec/seguridad/toque-queda-convoys-policias-apolo-detenidos-guayaquil-ecuador-136058/",
+      "general": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Recinto Santa Rita, zona rural de Babahoyo",
+      "lat": -1.83,
+      "lon": -79.5,
+      "fecha": "2026-10-29",
+      "quien": "Sicarios en moto",
+      "detalle": "Hacia las 21:30 asesinaron a balazos a un taxista que trabajaba como jefe de campo en una hacienda; había recibido amenazas extorsivas. Embistió a los atacantes: uno fue aprehendido y se busca al segundo.",
+      "fuente": "Extra, 30 oct 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/taxista-embistio-atacantes-morir-babahoyo-166655.html"
     }
   ],
   "zonas_criticas": [
@@ -1900,7 +1973,7 @@
       "lat": -2.495,
       "lon": -80.2,
       "radio_m": 9000,
-      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera.",
+      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso.",
       "fuente": "El Universo / Expreso",
       "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
