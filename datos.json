@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-10-29T17:55:00-05:00",
-  "actualizado_texto": "jueves 29 oct 2026, 17:55",
+  "actualizado": "2026-10-30T05:55:00-05:00",
+  "actualizado_texto": "viernes 30 oct 2026, 05:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: la estación guardacostas «Lago San Pablo» se incendió y hundió el 28 oct al sur de la isla. El 29 oct la Armada dijo que preliminarmente fue accidental, sin evidencias de terceros. Mientras no la reemplacen hay menos vigilancia naval: reforzar monitoreo en Puná y el Golfo."
+      "texto": "Puná: la estación guardacostas «Lago San Pablo» se incendió y hundió el 28 oct al sur de la isla; la Armada lo considera preliminarmente accidental y 3 tripulantes siguen hospitalizados en Machala. Mientras no la reemplacen hay menos vigilancia naval: reforzar monitoreo en Puná y el Golfo."
     },
     {
       "tipo": "camaronera",
@@ -16,7 +16,7 @@
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: último hecho el 27 oct (vuelos militares de EE.UU. en la Base Aérea, según AFP). Las Águilas cobran vacunas en la parroquia; evitar traslados por el corredor Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
+      "texto": "Taura: sin hechos nuevos; último reporte el 27 oct (vuelos militares de EE.UU. en la Base Aérea, según AFP). Las Águilas cobran vacunas en la parroquia; evitar traslados por Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
     },
     {
       "tipo": "camaronera",
@@ -24,7 +24,7 @@
     },
     {
       "tipo": "critica",
-      "texto": "29 oct: asesinado un policía en La Primavera (Durán); sicariato grabado en Villa Club (Daule); 2 heridos a tiros en San Agustín (Manta). En Quinindé, rescatado un secuestrado por Los Tiguerones (6 detenidos)."
+      "texto": "Masacre de 4 personas el 27 oct en la vía Salitre–Samborondón (ataque selectivo). Durán: asesinado un policía el 29 oct. Toque de queda 00:00–05:00 desde el dom 1 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas."
     }
   ],
   "toque_de_queda": {
@@ -792,10 +792,10 @@
         "saobox"
       ],
       "disputa": true,
-      "fecha": "2026-10-01",
-      "detalle": "Lobos (incluida Lobos Nueva Generación) contra la alianza Choneros–Sao Box. 367 homicidios de enero a agosto de 2026, el mayor aumento del país.",
-      "fuente": "Infobae, 1 oct 2026",
-      "url": "https://www.infobae.com/america/america-latina/2026/10/01/guerra-entre-bandas-en-ecuador-los-antiguos-aliados-se-enfrentan-y-los-enemigos-ahora-pactan/"
+      "fecha": "2026-10-29",
+      "detalle": "Primicias (29 oct 2026) nombra a Los Lobos, Lobos Espejo, Sao Box y Los Choneros en disputa por el microtráfico, con ataques coordinados en moto; Puerto Bolívar es el distrito más violento y Las Kattyas (norte) también es foco. 406 muertes violentas de enero a septiembre de 2026 (+52,6 %). Entre el 26 y el 28 oct no hubo homicidios: la Policía lo atribuye a las inundaciones.",
+      "fuente": "Primicias, 29 oct 2026",
+      "url": "https://primicias.ec/seguridad/machala-eloro-fenomeno-nino-tregua-crimenes-inundaciones-persistentes-muertes-violentas-policia-135967"
     },
     {
       "id": "pasaje",
@@ -1870,6 +1870,17 @@
       "detalle": "Operativo Libertad 1175: rescatado un comerciante secuestrado por quien exigían USD 2 millones. 6 detenidos (5 adultos y 1 adolescente), presuntos integrantes de Los Tiguerones, interceptados en un bus.",
       "fuente": "Extra, 29 oct 2026",
       "url": "https://www.extra.ec/noticia/ecuador/secuestro-quininde-esmeraldas-millonario-rescate-detenidos-166465.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Vía Salitre – Samborondón",
+      "lat": -1.88,
+      "lon": -79.78,
+      "fecha": "2026-10-27",
+      "quien": "Sin identificar",
+      "detalle": "Masacre: 4 personas que iban en un vehículo de una compañía fueron interceptadas y asesinadas con armas cortas por la tarde. Según la Policía de Salitre fue un ataque selectivo, sin robo. Sin detenidos; el 29 oct se retiró a la cuarta víctima.",
+      "fuente": "Extra, 29 oct 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/retiraron-cuarta-victima-masacre-via-salitre-samborondon-trata-166535.html"
     }
   ],
   "zonas_criticas": [
