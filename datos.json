@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-30T17:55:00-05:00",
-  "actualizado_texto": "viernes 30 oct 2026, 17:55",
+  "actualizado": "2026-10-31T05:55:00-05:00",
+  "actualizado_texto": "sábado 31 oct 2026, 05:55",
   "alertas": [
     {
       "tipo": "critica",
@@ -12,7 +12,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: en octubre cayeron 7 de Las Águilas y 6 de \"Los Duendes\" por asaltos a camiones (2 eran policías activos); el 3 oct hubo balacera con policías en la vía Durán–Yaguachi. Sin hechos nuevos de violencia en las últimas 36 h."
+      "texto": "Yaguachi – Tres Postes: el 3 oct un ataque en una barbería del recinto dejó 4 muertos y 2 heridos; en octubre cayeron 7 de Las Águilas y 6 de \"Los Duendes\" por asaltos a camiones (2 eran policías). Sin hechos nuevos en las últimas 36 h."
     },
     {
       "tipo": "camaronera",
@@ -24,7 +24,7 @@
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 desde el dom 1 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas; desde las 23:00 del 31 oct habrá 21 controles en Guayaquil. Apolo 37: 23 detenidos de 8 bandas. Manta: murió la niña baleada en un secuestro."
+      "texto": "Toque de queda 00:00–05:00 desde esta medianoche (dom 1 nov) hasta el 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Durán: ataque con granada y fusiles en un cumpleaños (cdla. Río Guayas, 30 oct) dejó al menos 4 muertos; Manta: 4 muertos en dos ataques."
     }
   ],
   "toque_de_queda": {
@@ -215,7 +215,7 @@
       ],
       "disputa": true,
       "fecha": "2026-10-15",
-      "detalle": "Frontera entre Lobos Box y facciones de Los Choneros. En octubre de 2026 cayeron una facción de Las Águilas y 6 integrantes de \"Los Duendes\", entre ellos 2 policías y un agente de tránsito, por asaltos a camiones.",
+      "detalle": "Frontera entre Lobos Box y facciones de Los Choneros. En octubre de 2026 cayeron una facción de Las Águilas y 6 integrantes de \"Los Duendes\", entre ellos 2 policías y un agente de tránsito, por asaltos a camiones. El 3 oct 2026 un ataque armado en una barbería del recinto dejó 4 muertos y 2 heridos (móvil no confirmado).",
       "fuente": "Extra / Vistazo / El Diario, 2025–2026",
       "url": "https://www.vistazo.com/seguridad/2026-10-14-policias-vigilante-duendes-aprehendidos-robo-camion-guayas-JF11275095"
     },
@@ -254,7 +254,7 @@
       ],
       "disputa": true,
       "fecha": "2026-10-15",
-      "detalle": "Las Águilas, brazo armado de Los Choneros, disputan el cantón con Los Lobos. El 15 de octubre de 2026 la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas que operaban en Jujan, Simón Bolívar y el recinto Tres Postes, con subfusil, subametralladora, pistolas y más de 200 cartuchos; se les vincula a extorsiones y asaltos. En junio cayó su cabecilla en el cantón. El barrio Chino es el sector más golpeado.",
+      "detalle": "Las Águilas, brazo armado de Los Choneros, disputan el cantón con Los Lobos. El 15 de octubre de 2026 la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas que operaban en Jujan, Simón Bolívar y el recinto Tres Postes, con subfusil, subametralladora, pistolas y más de 200 cartuchos; se les vincula a extorsiones y asaltos. En junio cayó su cabecilla en el cantón. El barrio Chino es el sector más golpeado. Antecedente: el 21 oct 2023 una masacre en el barrio Chino dejó 7 muertos, en medio de la disputa Lobos–Águilas.",
       "fuente": "Expreso, 16 oct 2026",
       "url": "https://www.expreso.ec/ecuador/alias-perra-flaca-bacteria-capturados-operativo-aguilas-guayas-299568.html",
       "zona": "Yaguachi"
@@ -1185,6 +1185,76 @@
   ],
   "eventos": [
     {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Recinto Tres Postes, Yaguachi (barbería)",
+      "lat": -1.935,
+      "lon": -79.645,
+      "fecha": "2026-10-03",
+      "quien": "Desconocidos (móvil no confirmado)",
+      "detalle": "Entre las 17:00 y las 18:00, atacantes dispararon dentro de una barbería del recinto Tres Postes, zona rural de Yaguachi: 4 fallecidos y 2 heridos, según fuente policial. Sin detenidos al momento del reporte; Policía y Fiscalía investigan el móvil. El medio recuerda un operativo de mayo de 2026 contra Lobos Box en el mismo recinto, sin vincularlos con este ataque.",
+      "fuente": "El Diario, 4 oct 2026",
+      "url": "https://www.eldiario.ec/lamarea/ataque-armado-en-una-barberia-de-tres-postes-deja-cuatro-muertos-y-dos-heridos-04102026/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "lugar": "Barrio Chino, Yaguachi",
+      "lat": -2.098,
+      "lon": -79.693,
+      "fecha": "2023-10-21",
+      "quien": "Disputa Los Lobos – Las Águilas (fuentes policiales)",
+      "detalle": "Hacia las 21:30 atacaron una vivienda del barrio Chino: 7 muertos y 3 heridos; se reportó además un posible artefacto explosivo. El 22 oct hubo 3 asesinatos más en el recinto San Juan y en la parroquia Pedro Montero (10 en total). El Municipio reclamó que el Gobierno no envió los policías y militares prometidos.",
+      "fuente": "El Universo / Primicias, 23 oct 2023",
+      "url": "https://www.eluniverso.com/noticias/seguridad/tras-masacre-en-yaguachi-municipio-senala-que-gobierno-no-ha-cumplido-con-envio-de-mas-policias-y-militares-nota/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cdla. Río Guayas, Durán",
+      "lat": -2.175,
+      "lon": -79.83,
+      "fecha": "2026-10-30",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 19:00, sujetos llegaron en un auto a un inmueble donde se celebraba un cumpleaños y dispararon con armas de alto calibre; testigos describen una explosión previa. Preliminar: al menos 4 muertos y 2 heridos. La Policía halló una granada sin detonar.",
+      "fuente": "Primicias, 30 oct 2026",
+      "url": "https://www.primicias.ec/sucesos/ataque-armado-duran-ciudadela-rio-guayas-victimas-toque-queda-136164/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Los Jardines, Manta",
+      "lat": -0.955,
+      "lon": -80.72,
+      "fecha": "2026-10-29",
+      "quien": "Desconocidos en moto",
+      "detalle": "Hacia las 21:30 balearon a un joven de 19 años que conversaba en una esquina; en el cruce de disparos murió también un presunto atacante de unos 18 años y otro huyó.",
+      "fuente": "Extra, 30 oct 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/investigan-dos-ataques-armados-puerto-manabita-resultado-cuatro-fallecidos-166668.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector La Pradera, Manta",
+      "lat": -0.962,
+      "lon": -80.7,
+      "fecha": "2026-10-30",
+      "quien": "Desconocidos en moto con fusiles",
+      "detalle": "Hacia la 01:00, dos hombres asesinados frente a una licorería de la avenida principal del sector.",
+      "fuente": "Extra, 30 oct 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/investigan-dos-ataques-armados-puerto-manabita-resultado-cuatro-fallecidos-166668.html"
+    },
+    {
+      "tipo": "operativo",
+      "general": true,
+      "lugar": "Guayaquil (varios puntos)",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-10-30",
+      "quien": "ATM, Policía Nacional y FF.AA.",
+      "detalle": "Operativo contra la llamada «Rodada del Terror»: 71 vehículos retenidos (70 motos y 1 auto) por falta de placas, matrícula caducada o placas alteradas.",
+      "fuente": "Teleamazonas, 30 oct 2026",
+      "url": "https://www.teleamazonas.com/actualidad/noticias/guayaquil/motocicletas-automovil-retenidos-operativo-rodada-terror-guayaquil-131778/"
+    },
+    {
       "tipo": "camaronera",
       "zona": "Puná",
       "lugar": "Sur de la Isla Puná",
@@ -1230,7 +1300,8 @@
       "quien": "Armada del Ecuador",
       "detalle": "La Armada desmanteló un campamento clandestino y quemó su centro de operaciones. Persecución con intercambio de disparos contra al menos 12 atacantes que huyeron a Punta Trinchera. Decomiso: 2.580 municiones, 7 armas, 4 chalecos, 3 motores, una baliza para simular unidades oficiales y una escalera para abordar barcos.",
       "fuente": "Primicias / Extra, 12 ago 2025",
-      "url": "https://www.primicias.ec/seguridad/lobos-campamento-clandestino-isla-puna-violencia-criminal-golfo-guayaquil-102899/"
+      "url": "https://www.primicias.ec/seguridad/lobos-campamento-clandestino-isla-puna-violencia-criminal-golfo-guayaquil-102899/",
+      "antecedente": true
     },
     {
       "tipo": "camaronera",
@@ -1242,7 +1313,8 @@
       "quien": "Ataque armado",
       "detalle": "Un barco pesquero fue atacado desde tres lanchas, incendiado y hundido: 4 muertos y 6–7 heridos. Se atribuye a la disputa entre Los Lobos y Sao Box por las rutas marítimas.",
       "fuente": "Primicias / El Comercio, ago 2025",
-      "url": "https://www.primicias.ec/seguridad/lobos-campamento-clandestino-isla-puna-violencia-criminal-golfo-guayaquil-102899/"
+      "url": "https://www.primicias.ec/seguridad/lobos-campamento-clandestino-isla-puna-violencia-criminal-golfo-guayaquil-102899/",
+      "antecedente": true
     },
     {
       "tipo": "camaronera",
@@ -1254,7 +1326,8 @@
       "quien": "Ataque armado",
       "detalle": "Cuatro lanchas dispararon y colocaron explosivos en dos embarcaciones de carga atracadas: una se hundió y otra se incendió. Esa noche también dispararon contra la Unidad de Vigilancia Marítima de Puná. Según moradores, 2 tripulantes habrían sido secuestrados y la cabecera, Barrio Lindo, Balza Amarilla y La Loma estarían bajo control de bandas.",
       "fuente": "Expreso / Primicias, 1 ago 2025",
-      "url": "https://www.expreso.ec/guayaquil/ataque-armado-en-isla-puna-esto-es-lo-que-se-sabe-hasta-el-momento-251962.html"
+      "url": "https://www.expreso.ec/guayaquil/ataque-armado-en-isla-puna-esto-es-lo-que-se-sabe-hasta-el-momento-251962.html",
+      "antecedente": true
     },
     {
       "tipo": "camaronera",
@@ -1266,7 +1339,8 @@
       "quien": "Ataque armado",
       "detalle": "Hacia las 03:00 asaltaron una barcaza con 10 personas que iba a Puerto Bolívar por carga: 2 guardias de seguridad muertos, el maquinista herido y unas 1.000 libras de camarón robadas. Los atacantes gritaron \"¡Lobos activos!\".",
       "fuente": "Extra, 13 jul 2025",
-      "url": "https://www.extra.ec/noticia/ecuador/lobos-banda-ataco-embarcacion-isla-puna-revelan-llevaron-132527.html"
+      "url": "https://www.extra.ec/noticia/ecuador/lobos-banda-ataco-embarcacion-isla-puna-revelan-llevaron-132527.html",
+      "antecedente": true
     },
     {
       "tipo": "camaronera",
@@ -1278,7 +1352,8 @@
       "quien": "Fuerzas Armadas y Policía",
       "detalle": "Operativo fluvial, terrestre y aéreo: captura en una camaronera de un objetivo de Los Lobos con orden de captura. Decomiso: subametralladora, subfusil modificado, carabina, pistola, casco balístico, chalecos, radios y silenciador.",
       "fuente": "Extra / El Oriente, feb 2025",
-      "url": "https://www.extra.ec/noticia/ecuador/alias-negro-barrei-ligado-lobos-detenido-isla-puna-120945.html"
+      "url": "https://www.extra.ec/noticia/ecuador/alias-negro-barrei-ligado-lobos-detenido-isla-puna-120945.html",
+      "antecedente": true
     },
     {
       "tipo": "camaronera",
@@ -1290,7 +1365,8 @@
       "quien": "Asalto y secuestro",
       "detalle": "Un grupo armado interceptó la lancha que llevaba trabajadores de una camaronera, les robó y se llevó la lancha con el capitán. La Policía lo rescató 10 horas después y recuperó 3 motores de 200 HP. La CNA pidió patrullajes permanentes de la Armada.",
       "fuente": "Cámara Nacional de Acuacultura, 30 ene 2025",
-      "url": "https://www.cna-ecuador.com/secuestro-y-asalto-en-el-golfo-de-guayaquil-enciende-nuevamente-la-alerta-en-el-sector-camaronero/"
+      "url": "https://www.cna-ecuador.com/secuestro-y-asalto-en-el-golfo-de-guayaquil-enciende-nuevamente-la-alerta-en-el-sector-camaronero/",
+      "antecedente": true
     },
     {
       "tipo": "camaronera",
@@ -1390,7 +1466,8 @@
       "quien": "Asalto armado",
       "detalle": "15 hombres con fusiles irrumpieron en una camaronera; las cámaras los registraron, pero huyeron antes de la llegada policial. El dueño denunció una respuesta lenta del 911.",
       "fuente": "Metro Ecuador, 23 ene 2025",
-      "url": "https://www.metroecuador.com.ec/noticias/2025/01/23/empresario-denuncia-asalto-de-sujetos-armados-con-fusiles-en-taura/"
+      "url": "https://www.metroecuador.com.ec/noticias/2025/01/23/empresario-denuncia-asalto-de-sujetos-armados-con-fusiles-en-taura/",
+      "antecedente": true
     },
     {
       "tipo": "ataque",
