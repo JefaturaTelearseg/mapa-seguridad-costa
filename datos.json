@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-10-31T05:55:00-05:00",
-  "actualizado_texto": "sábado 31 oct 2026, 05:55",
+  "actualizado": "2026-10-31T17:55:00-05:00",
+  "actualizado_texto": "sábado 31 oct 2026, 17:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: la estación guardacostas flotante «Lago San Pablo» se incendió y hundió el 28 oct al sur de la isla. Armada (29 oct): causa preliminar accidental, 6 de 9 tripulantes con alta y 3 en Machala. Hasta que la reemplacen hay menos vigilancia naval: reforzar monitoreo en Puná y el Golfo."
+      "texto": "Puná: la estación guardacostas flotante «Lago San Pablo» se incendió y hundió el 28 oct al sur de la isla (Armada: causa preliminar accidental). Hasta su reemplazo hay menos vigilancia naval: reforzar monitoreo en Puná y el Golfo. Antecedentes en la isla: vacunas de USD 30–60 por embarcación (2025) y balacera con extorsionadores en el muelle (2023)."
     },
     {
       "tipo": "camaronera",
@@ -12,19 +12,19 @@
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: el 3 oct un ataque en una barbería del recinto dejó 4 muertos y 2 heridos; en octubre cayeron 7 de Las Águilas y 6 de \"Los Duendes\" por asaltos a camiones (2 eran policías). Sin hechos nuevos en las últimas 36 h."
+      "texto": "Yaguachi – Tres Postes: último hecho grave el 3 oct (4 muertos en una barbería); en octubre cayeron 7 de Las Águilas y 6 de «Los Duendes». Hace un año (31 oct–3 nov 2025) hubo 8 asesinatos con panfletos de «limpieza»: vigilar la zona rural estos días. Sin hechos nuevos en 36 h."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos nuevos; último reporte el 27 oct (vuelos militares de EE.UU. en la Base Aérea, según AFP). Las Águilas cobran vacunas en la parroquia; evitar traslados por Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
+      "texto": "Taura: sin hechos nuevos; último reporte el 27 oct (vuelos militares de EE.UU. en la Base Aérea). Las Águilas cobran vacunas en la parroquia; evitar traslados por Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin reportes nuevos; último hecho el 6 sep 2026 (16 fusiles y 5 motores en una camaronera de Progreso). El 21 ago los militares hallaron restos óseos humanos en la bajada de Progreso."
+      "texto": "Sabana Grande / Progreso: sin reportes nuevos; último hecho el 6 sep 2026 (16 fusiles y 5 motores en una camaronera de Progreso)."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 desde esta medianoche (dom 1 nov) hasta el 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Durán: ataque con granada y fusiles en un cumpleaños (cdla. Río Guayas, 30 oct) dejó al menos 4 muertos; Manta: 4 muertos en dos ataques."
+      "texto": "Toque de queda 00:00–05:00 desde esta medianoche (dom 1 nov) hasta el 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Víspera violenta: 4 muertos en Durán (explosivo y fusiles en un cumpleaños), 2 guardias asesinados en Esmeraldas, muertos en Manta y Puerto Bolívar."
     }
   ],
   "toque_de_queda": {
@@ -1216,8 +1216,8 @@
       "lon": -79.83,
       "fecha": "2026-10-30",
       "quien": "Desconocidos",
-      "detalle": "Hacia las 19:00, sujetos llegaron en un auto a un inmueble donde se celebraba un cumpleaños y dispararon con armas de alto calibre; testigos describen una explosión previa. Preliminar: al menos 4 muertos y 2 heridos. La Policía halló una granada sin detonar.",
-      "fuente": "Primicias, 30 oct 2026",
+      "detalle": "Hacia las 21:00, durante un cumpleaños, un auto ingresó al predio, lanzaron un artefacto explosivo y luego hombres armados dispararon contra unas 50 personas: al menos 4 muertos (entre ellos una mujer embarazada) y 2 heridos. La Policía halló una granada sin detonar. Sin detenidos al 31 oct.",
+      "fuente": "Primicias, 30 oct 2026 / Extra, 31 oct 2026",
       "url": "https://www.primicias.ec/sucesos/ataque-armado-duran-ciudadela-rio-guayas-victimas-toque-queda-136164/"
     },
     {
@@ -2031,6 +2031,105 @@
       "detalle": "Hacia las 21:30 asesinaron a balazos a un taxista que trabajaba como jefe de campo en una hacienda; había recibido amenazas extorsivas. Embistió a los atacantes: uno fue aprehendido y se busca al segundo.",
       "fuente": "Extra, 30 oct 2026",
       "url": "https://www.extra.ec/noticia/ecuador/taxista-embistio-atacantes-morir-babahoyo-166655.html"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Muelle de la cabecera de Puná",
+      "lat": -2.733,
+      "lon": -79.912,
+      "fecha": "2023-05-03",
+      "quien": "Presuntos extorsionadores («vacunadores»)",
+      "detalle": "Hacia las 14:20, supuestos vacunadores llegaron en lancha a la cabecera parroquial para extorsionar a pescadores; los moradores se opusieron y hubo intercambio de disparos. 3 presuntos delincuentes heridos; la lancha huyó. Moradores dicen que bandas buscan apoderarse de la isla y sus recintos.",
+      "fuente": "El Universo, 3 may 2023",
+      "url": "https://www.eluniverso.com/noticias/seguridad/balacera-en-la-isla-puna-por-supuesta-presencia-de-extorsionadores-nota/",
+      "antecedente": true
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Puná",
+      "general": true,
+      "lugar": "Isla Puná (sector no precisado)",
+      "lat": -2.84,
+      "lon": -80.1,
+      "fecha": "2024-02-02",
+      "quien": "Policía Nacional y Fuerza Aérea",
+      "detalle": "Dos pistas clandestinas halladas entre vegetación durante investigaciones antidrogas; unidades llegaron por aire para inhabilitarlas. Sin detenidos informados.",
+      "fuente": "El Universo, 2 feb 2024",
+      "url": "https://www.eluniverso.com/noticias/seguridad/dos-pistas-clandestinas-fueron-detectadas-en-la-isla-puna-nota/",
+      "antecedente": true
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "general": true,
+      "lugar": "Isla Puná y Golfo de Guayaquil",
+      "lat": -2.75,
+      "lon": -79.95,
+      "fecha": "2025-08-01",
+      "quien": "Extorsionadores",
+      "detalle": "La extorsión llegó a la isla: a pescadores y cangrejeros les cobran entre USD 30 y 60 por dueño de embarcación para navegar en el Golfo; exigen seguridad a las autoridades.",
+      "fuente": "El Universo, 1 ago 2025",
+      "url": "https://www.eluniverso.com/noticias/seguridad/isla-puna-ataque-con-explosivos-epscadores-embarcaciones-vacunas-guayaquil-nota/",
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Coop. 16 de Diciembre, Virgen de Fátima",
+      "lat": -2.105,
+      "lon": -79.695,
+      "fecha": "2025-10-31",
+      "quien": "Desconocidos (disputa Águilas–Lobos, según moradores)",
+      "detalle": "Dos jóvenes (uno de 17 años) hallados asesinados en la vía de la cooperativa; 25 vainas calibre .223 y 2 de 9 mm. La Dinased investigaba una represalia en la disputa entre Las Águilas (facción de Los Choneros) y Los Lobos.",
+      "fuente": "Extra, 1 nov 2025",
+      "url": "https://www.extra.ec/noticia/ecuador/de-un-velorio-otro-asi-acabaron-con-dos-jovenes-en-virgen-de-fatima-en-yaguachi-140129.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Recinto Buena Fe y vía Tres Postes–Yaguachi",
+      "lat": -1.99,
+      "lon": -79.68,
+      "fecha": "2025-11-03",
+      "quien": "Facciones de Los Tiguerones (según fuente local)",
+      "detalle": "Entre el 31 oct y el 3 nov 2025, 8 asesinados en zonas rurales de Yaguachi (16 de Diciembre, Pedro J. Montero, Buena Fe y vía Tres Postes–Yaguachi); en Buena Fe dejaron 3 cuerpos maniatados con un panfleto que anunciaba «limpieza». Yaguachi sumó 43 homicidios ene–sep 2025 (Ministerio del Interior).",
+      "fuente": "Extra, 8 nov 2025",
+      "url": "https://www.extra.ec/noticia/premium/el-misterio-de-los-panfletos-y-muertes-que-aterran-yaguachi-limpieza-criminal-140334.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Puerto Azul, Puerto Bolívar (Machala)",
+      "lat": -3.265,
+      "lon": -80.0,
+      "fecha": "2026-10-30",
+      "quien": "Desconocidos armados",
+      "detalle": "Por la tarde, varios sujetos dispararon contra un hombre sentado frente a una casa; murió en el lugar.",
+      "fuente": "La República, 31 oct 2026",
+      "url": "https://www.larepublica.ec/blog/2026/10/31/cuarenta-y-ocho-horas-de-plomo-la-vispera-sangrienta-del-toque-de-queda/"
+    },
+    {
+      "tipo": "ataque",
+      "general": true,
+      "lugar": "Cancha deportiva, Manta",
+      "lat": -0.955,
+      "lon": -80.72,
+      "fecha": "2026-10-31",
+      "quien": "Desconocidos",
+      "detalle": "Un hombre asesinado en un ataque armado dentro de una cancha; testigos oyeron más de 15 detonaciones.",
+      "fuente": "El Diario, 31 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/ataque-armado-en-una-cancha-de-manta-deja-un-hombre-muerto-tras-recibir-mas-de-15-disparos-31102026"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cdla. La Tolita 2, sur de Esmeraldas",
+      "lat": 0.94,
+      "lon": -79.665,
+      "fecha": "2026-10-31",
+      "quien": "Desconocidos en taxi",
+      "detalle": "Hacia las 00:15, dos guardias de seguridad privada que vigilaban la ciudadela fueron asesinados; los atacantes se llevaron sus dos armas de dotación (una corta y una larga).",
+      "fuente": "Extra, 31 oct 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/dos-guardias-seguridad-asesinados-ataque-armado-esmeraldas-166715.html"
     }
   ],
   "zonas_criticas": [
@@ -2119,5 +2218,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República"
 }
