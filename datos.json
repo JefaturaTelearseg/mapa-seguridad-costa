@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-01T06:00:00-05:00",
-  "actualizado_texto": "domingo 1 nov 2026, 06:00",
+  "actualizado": "2026-11-01T18:00:00-05:00",
+  "actualizado_texto": "domingo 1 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
@@ -8,7 +8,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos en 36 h; último grave el 3 oct (4 muertos en una barbería de Tres Postes). Hace un año (31 oct–3 nov 2025) hubo 8 asesinatos rurales con panfletos de «limpieza»: vigilar estos días de feriado."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos en 36 h; último grave el 3 oct (4 muertos en una barbería de Tres Postes). La Policía ubica a la estructura «Águilas-Fatales» robando, secuestrando y extorsionando en Tres Postes. Hace un año (31 oct–3 nov 2025) hubo 8 asesinatos rurales: vigilar estos días de feriado."
     },
     {
       "tipo": "camaronera",
@@ -20,7 +20,7 @@
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda vigente 00:00–05:00 desde hoy (dom 1 nov) hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
+      "texto": "Toque de queda 00:00–05:00 vigente hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Primera noche: 218 aprehendidos y controles fijos en vía a Daule, Bellavista y Perimetral. Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
     },
     {
       "tipo": "alta",
@@ -211,11 +211,12 @@
         "lobosbox",
         "choneros",
         "aguilas",
-        "duendes"
+        "duendes",
+        "fatales"
       ],
       "disputa": true,
       "fecha": "2026-10-15",
-      "detalle": "Frontera entre Lobos Box y facciones de Los Choneros. En octubre de 2026 cayeron una facción de Las Águilas y 6 integrantes de \"Los Duendes\", entre ellos 2 policías y un agente de tránsito, por asaltos a camiones. El 3 oct 2026 un ataque armado en una barbería del recinto dejó 4 muertos y 2 heridos (móvil no confirmado).",
+      "detalle": "Frontera entre Lobos Box y facciones de Los Choneros. En octubre de 2026 cayeron una facción de Las Águilas y 6 integrantes de \"Los Duendes\", entre ellos 2 policías y un agente de tránsito, por asaltos a camiones. El 3 oct 2026 un ataque armado en una barbería del recinto dejó 4 muertos y 2 heridos (móvil no confirmado). El 25 sep 2026 la Policía (operativo Atlas, recinto La Zanja, Jujan) detuvo a 5 presuntos miembros de la estructura «Águilas-Fatales», investigada por robos, secuestros y extorsiones en Tres Postes y Lorenzo de Garaicoa.",
       "fuente": "Extra / Vistazo / El Diario, 2025–2026",
       "url": "https://www.vistazo.com/seguridad/2026-10-14-policias-vigilante-duendes-aprehendidos-robo-camion-guayas-JF11275095"
     },
@@ -2218,6 +2219,56 @@
       "detalle": "2 aprehendidos presuntamente vinculados a Los Lobos con marihuana, cocaína, posible heroína y pasta base, un celular y una moto.",
       "fuente": "El Diario, 31 oct 2026",
       "url": "https://www.eldiario.ec/seguridad/ejercito-aprehende-a-dos-presuntos-vinculados-a-un-grupo-delictivo-en-playas-31102026"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Taura",
+      "lugar": "Taura, Naranjal (sector no precisado)",
+      "lat": -2.31,
+      "lon": -79.71,
+      "fecha": "2025-03-31",
+      "quien": "Policía Nacional (DINASED)",
+      "detalle": "Madrugada: captura en Taura de un hombre en un inmueble que, según la Policía, se usaba para almacenar armas de fuego. Vinculado a extorsión y al asesinato de los cuatro menores del caso Malvinas (cuerpos hallados en un manglar de Taura en dic 2024). Operativo simultáneo en Virgen de Fátima.",
+      "fuente": "Policía Nacional, 31 mar 2025",
+      "url": "https://noticias.policia.gob.ec/policia-nacional-capturo-a-alias-momo-y-alias-taureno-en-guayas/",
+      "antecedente": true
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Virgen de Fátima (vía de tercer orden), Yaguachi",
+      "lat": -2.215,
+      "lon": -79.6,
+      "fecha": "2025-03-30",
+      "quien": "Policía Nacional (DINASED)",
+      "detalle": "Noche del 30 mar: el ocupante de un vehículo identificado por la Policía disparó contra los agentes e intentó huir por una vía alterna; fue neutralizado. Caso vinculado a extorsión y al asesinato de los cuatro menores del caso Malvinas; uno de los capturados en el operativo sería de Las Águilas.",
+      "fuente": "Policía Nacional, 31 mar 2025",
+      "url": "https://noticias.policia.gob.ec/policia-nacional-capturo-a-alias-momo-y-alias-taureno-en-guayas/",
+      "antecedente": true
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Recinto La Zanja, Jujan (área de Tres Postes)",
+      "lat": -1.93,
+      "lon": -79.62,
+      "fecha": "2026-09-25",
+      "quien": "Policía Nacional (Policía Judicial de Yaguachi)",
+      "detalle": "Operativo Atlas contra la estructura «Águilas-Fatales», investigada por robo a mano armada, secuestro y extorsión en Lorenzo de Garaicoa, Tres Postes y alrededores: 5 aprehendidos (ecuatorianos, venezolanos y colombianos), 4 armas de fuego, 2 alimentadoras de fusil, 2 motos y 5 prendas similares a uniformes militares.",
+      "fuente": "Policía Nacional, 25 sep 2026",
+      "url": "https://noticias.policia.gob.ec/golpe-a-las-estructuras-criminales-aguilas-fatales-cinco-presuntos-integrantes-fueron-aprehendidos-en-guayas/"
+    },
+    {
+      "tipo": "operativo",
+      "general": true,
+      "lugar": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-01",
+      "quien": "Policía Nacional y Fuerzas Armadas",
+      "detalle": "Primera noche del toque de queda (00:00–05:00): 218 aprehendidos según los ministerios del Interior y Defensa (Zona 8: 68; Manabí: 62; Los Ríos: 22; El Oro: 12; Esmeraldas: 53 según la Armada). Unos 200 operativos, 4 armas y 91,7 kg de droga decomisados. Puntos fijos en Guayaquil: vía a Daule, Bellavista y Perimetral (tercer puente). No se reportaron hechos violentos durante la restricción.",
+      "fuente": "El Universo / Metro Ecuador / El Diario, 1 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/suman-218-aprehendidos-en-el-primer-dia-de-toque-de-queda-en-cinco-provincias-de-ecuador-nota/"
     }
   ],
   "zonas_criticas": [
