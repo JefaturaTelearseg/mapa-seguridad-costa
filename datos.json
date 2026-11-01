@@ -1,34 +1,34 @@
 {
-  "actualizado": "2026-10-31T17:55:00-05:00",
-  "actualizado_texto": "sábado 31 oct 2026, 17:55",
+  "actualizado": "2026-11-01T06:00:00-05:00",
+  "actualizado_texto": "domingo 1 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: la estación guardacostas flotante «Lago San Pablo» se incendió y hundió el 28 oct al sur de la isla (Armada: causa preliminar accidental). Hasta su reemplazo hay menos vigilancia naval: reforzar monitoreo en Puná y el Golfo. Antecedentes en la isla: vacunas de USD 30–60 por embarcación (2025) y balacera con extorsionadores en el muelle (2023)."
-    },
-    {
-      "tipo": "camaronera",
-      "texto": "Puná: sigue sin resolverse la desaparición de los guardias que custodiaban camarón desde el 14 de junio; Los Lobos tienen campamentos en la isla."
+      "texto": "Puná: sin vigilancia flotante tras el incendio y hundimiento de la estación guardacostas «Lago San Pablo» (28 oct, sur de la isla; Armada: preliminarmente accidental). Reforzar monitoreo nocturno en Puná y el canal de Jambelí; 5 guardias desaparecidos desde el 14 jun siguen sin aparecer."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: último hecho grave el 3 oct (4 muertos en una barbería); en octubre cayeron 7 de Las Águilas y 6 de «Los Duendes». Hace un año (31 oct–3 nov 2025) hubo 8 asesinatos con panfletos de «limpieza»: vigilar la zona rural estos días. Sin hechos nuevos en 36 h."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos en 36 h; último grave el 3 oct (4 muertos en una barbería de Tres Postes). Hace un año (31 oct–3 nov 2025) hubo 8 asesinatos rurales con panfletos de «limpieza»: vigilar estos días de feriado."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos nuevos; último reporte el 27 oct (vuelos militares de EE.UU. en la Base Aérea). Las Águilas cobran vacunas en la parroquia; evitar traslados por Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
+      "texto": "Taura: sin hechos nuevos; último reporte el 27 oct (vuelos militares de EE.UU. en la Base Aérea). Las Águilas cobran vacunas y moradores denuncian poco patrullaje: evitar traslados Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin reportes nuevos; último hecho el 6 sep 2026 (16 fusiles y 5 motores en una camaronera de Progreso)."
+      "texto": "Sabana Grande / Progreso: sin reportes nuevos; último hecho el 6 sep 2026 (16 fusiles y 5 motores en una camaronera de Progreso). 31 oct: el Ejército detuvo a 2 presuntos Lobos en la vía Progreso–Playas."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 desde esta medianoche (dom 1 nov) hasta el 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Víspera violenta: 4 muertos en Durán (explosivo y fusiles en un cumpleaños), 2 guardias asesinados en Esmeraldas, muertos en Manta y Puerto Bolívar."
+      "texto": "Toque de queda vigente 00:00–05:00 desde hoy (dom 1 nov) hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
+    },
+    {
+      "tipo": "alta",
+      "texto": "Puerto Bolívar: el 31 oct detonaron un explosivo en un camión de gas (barrio Autoridad Portuaria); la Policía lo atribuye a la disputa Lobos–Sao Box. Precaución en muelles y accesos de Puerto Bolívar."
     }
   ],
   "toque_de_queda": {
-    "titulo": "Toque de queda decretado · Decreto Ejecutivo 519",
+    "titulo": "Toque de queda vigente · Decreto Ejecutivo 519",
     "fechas": "1 – 10 nov",
     "texto": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
     "datos": [
@@ -46,8 +46,8 @@
       }
     ],
     "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
-    "fuente": "Extra, 16 oct 2026 / Primicias, 30 oct 2026",
-    "url": "https://www.extra.ec/noticia/politica/daniel-noboa-oficializo-toque-queda-mediante-decreto-fecha-hora-164864_amp.html"
+    "fuente": "Ministerio del Interior / Primicias, 30–31 oct 2026",
+    "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
   "bandas": {
     "lobos": {
@@ -739,10 +739,10 @@
         "choneros"
       ],
       "disputa": true,
-      "fecha": "2026-05-27",
-      "detalle": "La alianza Lobos–Silenciosos busca desplazar a Los Choneros del cantón. Varios ataques armados en 2026.",
-      "fuente": "Primicias, 27 may 2026",
-      "url": "https://www.primicias.ec/seguridad/canton-playas-violencia-lobos-silenciosos-choneros-guerra-territorial-balacera-centro-comercial-general-villamil-123831/"
+      "fecha": "2026-10-31",
+      "detalle": "La alianza Lobos–Silenciosos busca desplazar a Los Choneros del cantón. Varios ataques armados en 2026. 31 oct 2026: el Ejército aprehendió en la vía Progreso–Playas a 2 presuntos vinculados a Los Lobos con droga.",
+      "fuente": "El Diario, 31 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/ejercito-aprehende-a-dos-presuntos-vinculados-a-un-grupo-delictivo-en-playas-31102026"
     },
     {
       "id": "posorja",
@@ -792,10 +792,10 @@
         "saobox"
       ],
       "disputa": true,
-      "fecha": "2026-10-29",
-      "detalle": "Primicias (29 oct 2026) nombra a Los Lobos, Lobos Espejo, Sao Box y Los Choneros en disputa por el microtráfico, con ataques coordinados en moto; Puerto Bolívar es el distrito más violento y Las Kattyas (norte) también es foco. 406 muertes violentas de enero a septiembre de 2026 (+52,6 %). Entre el 26 y el 28 oct no hubo homicidios: la Policía lo atribuye a las inundaciones.",
-      "fuente": "Primicias, 29 oct 2026",
-      "url": "https://primicias.ec/seguridad/machala-eloro-fenomeno-nino-tregua-crimenes-inundaciones-persistentes-muertes-violentas-policia-135967"
+      "fecha": "2026-10-31",
+      "detalle": "Primicias (29 oct 2026) nombra a Los Lobos, Lobos Espejo, Sao Box y Los Choneros en disputa por el microtráfico, con ataques coordinados en moto; Puerto Bolívar es el distrito más violento y Las Kattyas (norte) también es foco. 406 muertes violentas de enero a septiembre de 2026 (+52,6 %). Entre el 26 y el 28 oct no hubo homicidios: la Policía lo atribuye a las inundaciones. 31 oct 2026: explosivo detonado en un camión de gas en el barrio Autoridad Portuaria de Puerto Bolívar; la Policía lo atribuye a la disputa Lobos–Sao Box.",
+      "fuente": "El Comercio, 31 oct 2026",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/camion-de-gas-domestico-en-puerto-bolivar-atentado-recompensas-2026/"
     },
     {
       "id": "pasaje",
@@ -2130,6 +2130,94 @@
       "detalle": "Hacia las 00:15, dos guardias de seguridad privada que vigilaban la ciudadela fueron asesinados; los atacantes se llevaron sus dos armas de dotación (una corta y una larga).",
       "fuente": "Extra, 31 oct 2026",
       "url": "https://www.extra.ec/noticia/ecuador/dos-guardias-seguridad-asesinados-ataque-armado-esmeraldas-166715.html"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "lugar": "Barrio Caribe, parroquia Progreso",
+      "lat": -2.412,
+      "lon": -80.375,
+      "fecha": "2026-08-06",
+      "quien": "Policía Nacional (Policía Judicial)",
+      "detalle": "3 aprehendidos por secuestro extorsivo y una víctima liberada. Según la Policía, el grupo cometía secuestros en Progreso y en el cantón Playas; se decomisaron 2 celulares y un auto presuntamente usado en los plagios. Sin banda nombrada.",
+      "fuente": "Extra, 7 ago 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/detenidos-secuestro-progreso-guayaquil-liberacion-victima-160014.html"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Taura",
+      "antecedente": true,
+      "lugar": "Taura, Naranjal (sector no precisado)",
+      "general": true,
+      "lat": -2.32,
+      "lon": -79.71,
+      "fecha": "2024-08-01",
+      "quien": "Policía Nacional (UNASE)",
+      "detalle": "Rescate de un empresario secuestrado en el sur de Guayaquil y retenido 40 días en una casa de Taura; pedían USD 200.000. 8 detenidos en total (3 custodios capturados en el operativo de Taura). Sin banda nombrada.",
+      "fuente": "Teleamazonas, 2 ago 2024",
+      "url": "https://www.teleamazonas.com/policia-libera-secuestrado-taura/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Taura",
+      "antecedente": true,
+      "general": true,
+      "lugar": "Parroquia Taura",
+      "lat": -2.318,
+      "lon": -79.705,
+      "fecha": "2025-02-02",
+      "quien": "Las Águilas (según la fuente)",
+      "detalle": "Reportaje: Las Águilas (alineados con Los Choneros) controlan la parroquia con extorsión y vacunas; 8 muertes violentas en Taura en 2024. Moradores denuncian que casi no hay patrullaje de Policía ni militares; la FAE dice que mantiene intervenciones conjuntas.",
+      "fuente": "Expreso, 2 feb 2025",
+      "url": "https://www.expreso.ec/actualidad/taura-miedo-policia-nacional-fuerzas-armadas-aguilas-extorsion-vacunas-muertes-violentas-230020.html"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "antecedente": true,
+      "lugar": "Puerto Arturo, Isla Puná",
+      "lat": -2.65,
+      "lon": -80.05,
+      "fecha": "2024-03-31",
+      "quien": "Piratas armados",
+      "detalle": "Una docena de encapuchados armados irrumpió de noche en unas 20 viviendas del recinto, golpeó a moradores y se llevó dinero, celulares y motores fuera de borda (ya hubo asaltos en ago 2023 y el 20 mar 2024). 17 familias (unas 60 personas) abandonaron el pueblo el 31 de marzo. La Guardia Costera llegó al día siguiente.",
+      "fuente": "Primicias, 21 abr 2024",
+      "url": "https://primicias.ec/noticias/seguridad/golfo-guayaquil-desplazamiento-forzado-puerto-arturo"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Puná",
+      "antecedente": true,
+      "lugar": "La Pólvora, sur de la Isla Puná",
+      "lat": -2.93,
+      "lon": -80.13,
+      "fecha": "2024-10-12",
+      "quien": "Secuestro",
+      "detalle": "Una mujer y tres menores secuestrados por desconocidos fueron liberados por la Policía tras una alerta al ECU 911 (20:20). Sin detenidos: el jefe del circuito Puná señaló que el terreno y la vegetación facilitan la huida.",
+      "fuente": "Primicias, 12 oct 2024",
+      "url": "https://www.primicias.ec/sucesos/liberados-secuestro-isla-puna-policia-81048"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Autoridad Portuaria, Puerto Bolívar (Machala)",
+      "lat": -3.262,
+      "lon": -80.0,
+      "fecha": "2026-10-31",
+      "quien": "Disputa Los Lobos – Sao Box (hipótesis policial)",
+      "detalle": "Hacia las 09:30, armados en dos motos interceptaron un camión de gas, sacaron al chofer a punta de pistola, lo llevaron a un callejón y detonaron un explosivo en la cabina; los ~50 cilindros no estallaron. Daños en fachadas, sin heridos. La Policía lo vincula a la disputa entre Los Lobos y Sao Box por microtráfico; sin detenidos.",
+      "fuente": "El Comercio, 31 oct 2026",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/camion-de-gas-domestico-en-puerto-bolivar-atentado-recompensas-2026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Vía Progreso – Playas",
+      "lat": -2.56,
+      "lon": -80.34,
+      "fecha": "2026-10-31",
+      "quien": "Ejército (Fuerzas Armadas)",
+      "detalle": "2 aprehendidos presuntamente vinculados a Los Lobos con marihuana, cocaína, posible heroína y pasta base, un celular y una moto.",
+      "fuente": "El Diario, 31 oct 2026",
+      "url": "https://www.eldiario.ec/seguridad/ejercito-aprehende-a-dos-presuntos-vinculados-a-un-grupo-delictivo-en-playas-31102026"
     }
   ],
   "zonas_criticas": [
@@ -2138,7 +2226,7 @@
       "lat": -2.32,
       "lon": -79.7,
       "radio_m": 7000,
-      "detalle": "Punto crítico de la vía E-40 con asaltos a carga y robos a piscinas acuícolas. En enero de 2025, 15 hombres con fusiles irrumpieron en una camaronera. En mayo de 2026 la Policía detuvo a 8 personas en una pista ilegal de narcoavionetas.",
+      "detalle": "Punto crítico de la vía E-40 con asaltos a carga y robos a piscinas acuícolas. En enero de 2025, 15 hombres con fusiles irrumpieron en una camaronera. En mayo de 2026 la Policía detuvo a 8 personas en una pista ilegal de narcoavionetas. Moradores han denunciado falta de patrullaje policial y militar (Expreso, 2025); en 2024 la Policía rescató en Taura a un empresario secuestrado 40 días.",
       "fuente": "Primicias / Metro Ecuador / El Universo",
       "url": "https://www.primicias.ec/seguridad/asaltos-extorsion-puntos-criticos-cadena-logistica-exportacion-guayas-eloro-76025/",
       "zona": "Taura"
@@ -2149,7 +2237,7 @@
       "lat": -2.495,
       "lon": -80.2,
       "radio_m": 9000,
-      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso.",
+      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos).",
       "fuente": "El Universo / Expreso",
       "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
@@ -2185,7 +2273,7 @@
       "lat": -2.86,
       "lon": -80.12,
       "radio_m": 13000,
-      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante «Lago San Pablo» al sur de la isla (la Armada lo considera preliminarmente accidental).",
+      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante «Lago San Pablo» al sur de la isla (la Armada lo considera preliminarmente accidental). Antecedentes: en 2024 piratas saquearon Puerto Arturo y 17 familias huyeron; secuestro en La Pólvora (oct 2024).",
       "fuente": "Primicias, 29 oct 2026",
       "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/",
       "zona": "Puná"
