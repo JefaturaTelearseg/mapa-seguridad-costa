@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-11-02T05:55:00-05:00",
-  "actualizado_texto": "lunes 2 nov 2026, 05:55",
+  "actualizado": "2026-11-02T17:50:00-05:00",
+  "actualizado_texto": "lunes 2 nov 2026, 17:50",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla; Armada: preliminarmente accidental). Sin vigilancia flotante: reforzar monitoreo nocturno en Puná y el canal de Jambelí; 5 guardias desaparecidos desde el 14 jun siguen sin aparecer."
+      "texto": "Puná: sin hechos nuevos desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). Sin vigilancia flotante: reforzar monitoreo nocturno en Puná y el canal de Jambelí; los guardias desaparecidos desde el 14 jun siguen sin aparecer."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos en 36 h; último grave el 3 oct (4 muertos en una barbería de Tres Postes). La estructura «Águilas-Fatales» roba, secuestra y extorsiona en Tres Postes. Hace un año (31 oct–3 nov 2025) hubo 8 asesinatos rurales: vigilar el feriado."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos en 36 h (el 1 nov solo un accidente de tránsito en la vía a Naranjal). Último grave: 3 oct, 4 muertos en una barbería de Tres Postes. Hace un año (31 oct–3 nov 2025) hubo 8 asesinatos rurales: vigilar el cierre del feriado."
     },
     {
       "tipo": "camaronera",
@@ -20,7 +20,7 @@
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 vigente hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Primera noche: 218 aprehendidos (19 por delitos como porte de armas). Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
+      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Dos noches: 491 aprehendidos (126 por delitos como porte de armas y robo). Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
     },
     {
       "tipo": "alta",
@@ -43,10 +43,14 @@
       {
         "etiqueta": "Horario",
         "valor": "00:00 – 05:00"
+      },
+      {
+        "etiqueta": "Balance",
+        "valor": "491 aprehendidos en 2 noches"
       }
     ],
     "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
-    "fuente": "Ministerio del Interior / Primicias / Metro Ecuador, 30 oct – 1 nov 2026",
+    "fuente": "Ministerio del Interior / Primicias / Vistazo, 30 oct – 2 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
   "bandas": {
@@ -2305,6 +2309,44 @@
       "detalle": "Hacia las 15:00 dos hombres en moto dispararon dentro de una gallera: 1 muerto y 1 herido en una pierna. Huyeron; sin detenidos ni móvil confirmado. Investigan Dinased y Criminalística.",
       "fuente": "El Comercio, 1 nov 2026",
       "url": "https://www.elcomercio.com/deportes/futbol/asesinato-dirigente-santos-futbol-pasaje-oro/"
+    },
+    {
+      "tipo": "operativo",
+      "general": true,
+      "lugar": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
+      "lat": -2.17,
+      "lon": -79.9,
+      "fecha": "2026-11-02",
+      "quien": "Ministerio del Interior, Policía Nacional y Fuerzas Armadas",
+      "detalle": "Segunda noche del toque de queda: 282 aprehendidos por incumplir la restricción. Balance de las dos primeras noches: 491 aprehendidos (408 de la Policía —126 por presuntos delitos como porte de armas, robo e intimidación— y 83 de las FF.AA. en 188 operaciones), 13 armas, 51 municiones, 95,9 kg de droga, 2.000 galones de combustible, 107 vehículos y 127 motos retenidos; 168 puntos de control. Segura EP registró 133 incidentes en Guayaquil.",
+      "fuente": "Primicias / Vistazo / El Diario, 2 nov 2026",
+      "url": "https://www.primicias.ec/seguridad/segunda-jornada-toque-queda-detenidos-droga-136253/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "general": true,
+      "lugar": "Yaguachi (vía hacia Guayaquil, sector no precisado)",
+      "lat": -2.115,
+      "lon": -79.69,
+      "fecha": "2026-09-12",
+      "quien": "Desconocidos en dos motocicletas",
+      "detalle": "Hacia las 19:30, sujetos en dos motos interceptaron y dispararon contra un vehículo que iba de El Triunfo a Guayaquil: murió el conductor, asistente de una notaría; dos mujeres que lo acompañaban salieron ilesas. La Policía investiga; no se atribuyó a una banda.",
+      "fuente": "Extra, 12 sep 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/atacan-plena-via-hermano-notaria-triunfo-yaguachi-162513.html"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "general": true,
+      "lugar": "Norte de la Isla Puná",
+      "lat": -2.69,
+      "lon": -80.08,
+      "fecha": "2026-02-11",
+      "quien": "Armada del Ecuador",
+      "detalle": "La Armada destruyó una estructura clandestina usada por grupos delictivos como centro de vigilancia para observar embarcaciones mercantes y unidades navales que transitan hacia y desde los puertos del Golfo. Sin detenidos informados.",
+      "fuente": "El Diario, 11 feb 2026",
+      "url": "https://www.eldiario.ec/seguridad/armada-destruye-estructura-clandestina-usada-para-monitoreo-maritimo-en-isla-puna-11022026/"
     }
   ],
   "zonas_criticas": [
@@ -2360,7 +2402,7 @@
       "lat": -2.86,
       "lon": -80.12,
       "radio_m": 13000,
-      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante «Lago San Pablo» al sur de la isla (la Armada lo considera preliminarmente accidental). Antecedentes: en 2024 piratas saquearon Puerto Arturo y 17 familias huyeron; secuestro en La Pólvora (oct 2024).",
+      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante «Lago San Pablo» al sur de la isla (la Armada lo considera preliminarmente accidental). Antecedentes: en 2024 piratas saquearon Puerto Arturo y 17 familias huyeron; secuestro en La Pólvora (oct 2024). En feb 2026 la Armada destruyó en el norte de la isla un puesto clandestino de vigilancia de embarcaciones.",
       "fuente": "Primicias, 29 oct 2026",
       "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/",
       "zona": "Puná"
