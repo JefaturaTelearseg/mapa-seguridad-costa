@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-11-01T18:00:00-05:00",
-  "actualizado_texto": "domingo 1 nov 2026, 18:00",
+  "actualizado": "2026-11-02T05:55:00-05:00",
+  "actualizado_texto": "lunes 2 nov 2026, 05:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin vigilancia flotante tras el incendio y hundimiento de la estación guardacostas «Lago San Pablo» (28 oct, sur de la isla; Armada: preliminarmente accidental). Reforzar monitoreo nocturno en Puná y el canal de Jambelí; 5 guardias desaparecidos desde el 14 jun siguen sin aparecer."
+      "texto": "Puná: sin hechos nuevos desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla; Armada: preliminarmente accidental). Sin vigilancia flotante: reforzar monitoreo nocturno en Puná y el canal de Jambelí; 5 guardias desaparecidos desde el 14 jun siguen sin aparecer."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos en 36 h; último grave el 3 oct (4 muertos en una barbería de Tres Postes). La Policía ubica a la estructura «Águilas-Fatales» robando, secuestrando y extorsionando en Tres Postes. Hace un año (31 oct–3 nov 2025) hubo 8 asesinatos rurales: vigilar estos días de feriado."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos en 36 h; último grave el 3 oct (4 muertos en una barbería de Tres Postes). La estructura «Águilas-Fatales» roba, secuestra y extorsiona en Tres Postes. Hace un año (31 oct–3 nov 2025) hubo 8 asesinatos rurales: vigilar el feriado."
     },
     {
       "tipo": "camaronera",
@@ -16,15 +16,15 @@
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin reportes nuevos; último hecho el 6 sep 2026 (16 fusiles y 5 motores en una camaronera de Progreso). 31 oct: el Ejército detuvo a 2 presuntos Lobos en la vía Progreso–Playas."
+      "texto": "Sabana Grande / Progreso: 1 nov, las FF.AA. incluyeron Progreso entre sus controles del toque de queda (40 retenidos en Guayaquil). Último hecho grave: 6 sep (16 fusiles y 5 motores en una camaronera de Progreso); 18 sep, 4 detenidos por asaltos en la vía Cerecita–Progreso."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 vigente hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Primera noche: 218 aprehendidos y controles fijos en vía a Daule, Bellavista y Perimetral. Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
+      "texto": "Toque de queda 00:00–05:00 vigente hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Primera noche: 218 aprehendidos (19 por delitos como porte de armas). Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
     },
     {
       "tipo": "alta",
-      "texto": "Puerto Bolívar: el 31 oct detonaron un explosivo en un camión de gas (barrio Autoridad Portuaria); la Policía lo atribuye a la disputa Lobos–Sao Box. Precaución en muelles y accesos de Puerto Bolívar."
+      "texto": "El Oro: 1 nov, ataque a tiros en una gallera de Pasaje (1 muerto, 1 herido) y el 31 oct explosivo en un camión de gas en Puerto Bolívar atribuido a la disputa Lobos–Sao Box. Precaución en muelles y accesos de Puerto Bolívar."
     }
   ],
   "toque_de_queda": {
@@ -46,7 +46,7 @@
       }
     ],
     "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
-    "fuente": "Ministerio del Interior / Primicias, 30–31 oct 2026",
+    "fuente": "Ministerio del Interior / Primicias / Metro Ecuador, 30 oct – 1 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
   "bandas": {
@@ -1217,8 +1217,8 @@
       "lon": -79.83,
       "fecha": "2026-10-30",
       "quien": "Desconocidos",
-      "detalle": "Hacia las 21:00, durante un cumpleaños, un auto ingresó al predio, lanzaron un artefacto explosivo y luego hombres armados dispararon contra unas 50 personas: al menos 4 muertos (entre ellos una mujer embarazada) y 2 heridos. La Policía halló una granada sin detonar. Sin detenidos al 31 oct.",
-      "fuente": "Primicias, 30 oct 2026 / Extra, 31 oct 2026",
+      "detalle": "Hacia las 21:00, durante un cumpleaños, un auto ingresó al predio, lanzaron un artefacto explosivo y luego hombres armados dispararon contra unas 50 personas: al menos 4 muertos (entre ellos una mujer embarazada) y 2 heridos. La Policía halló una granada sin detonar. Al 1 nov la Policía no había informado detenciones ni banda responsable; los operativos continúan.",
+      "fuente": "Primicias, 30 oct 2026 / Extra, 1 nov 2026",
       "url": "https://www.primicias.ec/sucesos/ataque-armado-duran-ciudadela-rio-guayas-victimas-toque-queda-136164/"
     },
     {
@@ -2266,9 +2266,45 @@
       "lon": -79.89,
       "fecha": "2026-11-01",
       "quien": "Policía Nacional y Fuerzas Armadas",
-      "detalle": "Primera noche del toque de queda (00:00–05:00): 218 aprehendidos según los ministerios del Interior y Defensa (Zona 8: 68; Manabí: 62; Los Ríos: 22; El Oro: 12; Esmeraldas: 53 según la Armada). Unos 200 operativos, 4 armas y 91,7 kg de droga decomisados. Puntos fijos en Guayaquil: vía a Daule, Bellavista y Perimetral (tercer puente). No se reportaron hechos violentos durante la restricción.",
-      "fuente": "El Universo / Metro Ecuador / El Diario, 1 nov 2026",
+      "detalle": "Primera noche del toque de queda (00:00–05:00): 218 aprehendidos según los ministerios del Interior (174: 155 por incumplir la restricción y 19 por presuntos delitos como porte de armas, robo e intimidación) y Defensa (44). Zona 8: 68 aprehendidos. Unos 93 puntos de control y más de 300 operativos; 4 armas, ~60 municiones, 36 motos y 91 kg de droga decomisados. Puntos fijos en Guayaquil: vía a Daule, Bellavista y Perimetral (tercer puente).",
+      "fuente": "El Universo / Primicias / Metro Ecuador, 1 nov 2026",
       "url": "https://www.eluniverso.com/politica/seguridad/suman-218-aprehendidos-en-el-primer-dia-de-toque-de-queda-en-cinco-provincias-de-ecuador-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "lugar": "Vía Cerecita – Progreso",
+      "lat": -2.39,
+      "lon": -80.33,
+      "fecha": "2026-09-18",
+      "quien": "Policía Nacional",
+      "detalle": "4 aprehendidos de una presunta organización dedicada al asalto en carreteras del Guayas; se recuperó un tráiler con su contenedor y la carga, y se decomisaron un vehículo, 2 inhibidores de señal y 3 celulares. Sin banda nombrada.",
+      "fuente": "El Universo, 18 sep 2026",
+      "url": "https://www.eluniverso.com/noticias/seguridad/cuatro-aprehendidos-en-operativo-contra-presunta-banda-dedicada-al-asalto-en-carreteras-del-guayas-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "general": true,
+      "lugar": "Progreso y otros sectores de Guayaquil (controles del toque de queda)",
+      "lat": -2.41,
+      "lon": -80.37,
+      "fecha": "2026-11-01",
+      "quien": "Fuerzas Armadas",
+      "detalle": "Primera noche del toque de queda: las FF.AA. retuvieron a 40 personas por incumplir la restricción en controles en Pascuales, Nueva Prosperina, Florida, Modelo y Progreso. Sin decomisos reportados; la fuente no precisa cuántos fueron en Progreso.",
+      "fuente": "Primicias, 1 nov 2026",
+      "url": "https://www.primicias.ec/sucesos/fuerzas-armadas-detenidos-guayas-restricciones-movilidad-toque-queda-ecuador-136204/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector Praderas 1, Pasaje (gallera)",
+      "lat": -3.33,
+      "lon": -79.81,
+      "fecha": "2026-11-01",
+      "quien": "Desconocidos en moto",
+      "detalle": "Hacia las 15:00 dos hombres en moto dispararon dentro de una gallera: 1 muerto y 1 herido en una pierna. Huyeron; sin detenidos ni móvil confirmado. Investigan Dinased y Criminalística.",
+      "fuente": "El Comercio, 1 nov 2026",
+      "url": "https://www.elcomercio.com/deportes/futbol/asesinato-dirigente-santos-futbol-pasaje-oro/"
     }
   ],
   "zonas_criticas": [
@@ -2288,7 +2324,7 @@
       "lat": -2.495,
       "lon": -80.2,
       "radio_m": 9000,
-      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos).",
+      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos). 18 sep 2026: 4 detenidos por asaltos a carga en la vía Cerecita–Progreso.",
       "fuente": "El Universo / Expreso",
       "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
