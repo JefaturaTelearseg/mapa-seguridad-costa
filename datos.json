@@ -1,22 +1,22 @@
 {
-  "actualizado": "2026-11-03T06:00:00-05:00",
-  "actualizado_texto": "martes 3 nov 2026, 06:00",
+  "actualizado": "2026-11-03T17:55:00-05:00",
+  "actualizado_texto": "martes 3 nov 2026, 17:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). Sin vigilancia flotante: reforzar monitoreo nocturno en Puná y el canal de Jambelí; guardias desaparecidos desde el 14 jun."
+      "texto": "Puná: sin hechos nuevos publicados desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo»). Sin vigilancia flotante al sur de la isla: reforzar monitoreo nocturno en Puná y el canal de Jambelí; guardias desaparecidos desde el 14 jun."
+    },
+    {
+      "tipo": "camaronera",
+      "texto": "Sabana Grande / Progreso: 2 nov, crecida de un estero en la comuna Sabana Grande arrastró una camioneta (sin víctimas). Lluvias fuertes hasta el 7 nov: precaución en la vía Progreso–Puerto Sabana Grande. Último hecho delictivo grave: 6 sep, 16 fusiles en una camaronera (Los Preñados)."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos en 36 h. Último grave: 3 oct, 4 muertos en una barbería de Tres Postes. Se agregó al mapa el doble crimen del 22 sep en San Alejo (Cone). Vigilar el retorno del feriado en la vía Durán–Tambo."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos en 36 h. Último grave: 3 oct, 4 muertos en una barbería de Tres Postes. Se cumple un año de la ola de 20+ muertes de nov 2025 en Virgen de Fátima y Pedro J. Montero."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos nuevos; último reporte el 27–28 oct (AFP: ~20 vuelos militares de EE.UU. en la Base Aérea). Las Águilas cobran vacunas: evitar traslados Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
-    },
-    {
-      "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos nuevos desde el 1 nov (controles del toque de queda). Último grave: 6 sep, 16 fusiles y 5 motores en una camaronera de Progreso. Agregados antecedentes: Los Fatales en el sector San Luis (jul 2026)."
+      "texto": "Taura: sin hechos nuevos; último reporte el 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Las Águilas cobran vacunas: evitar traslados Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
     },
     {
       "tipo": "critica",
@@ -24,7 +24,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "El Oro: 2 nov, ataque armado en El Cambio (Machala), 3 muertos y 3 heridos; 1 nov, gallera de Pasaje. Santa Elena: guardia de seguridad asesinado el 1 nov. Precaución con personal de custodia en El Oro y Santa Elena."
+      "texto": "Daule: 2 nov, un teniente de Policía muerto en una persecución en Laurel; los atacantes vestían prendas tipo militar. Desconfiar de falsos controles en vías rurales."
     }
   ],
   "toque_de_queda": {
@@ -46,11 +46,11 @@
       },
       {
         "etiqueta": "Balance",
-        "valor": "491 aprehendidos en 2 noches"
+        "valor": "491 aprehendidos en 2 noches; 3.ª noche con controles en las 5 provincias"
       }
     ],
     "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
-    "fuente": "Ministerio del Interior / Primicias / Vistazo, 30 oct – 2 nov 2026",
+    "fuente": "Ministerio del Interior / El Universo / Vistazo, 30 oct – 3 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
   "bandas": {
@@ -308,13 +308,16 @@
       "lon": -80.3,
       "radio_m": 6000,
       "bandas": [
-        "preñados"
+        "preñados",
+        "fatales",
+        "tiguerones"
       ],
       "disputa": false,
       "fecha": "2026-09-06",
-      "detalle": "En una camaronera se hallaron 16 fusiles, 5.000 municiones, 3 lanchas y 5 motores fuera de borda ocultos en el manglar. La Policía lo atribuye a Los Preñados, también llamados Panza de Yegua.",
-      "fuente": "Expreso, 8 sep 2026",
-      "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
+      "detalle": "Los Preñados (Panza de Yegua): en sep 2026, 16 fusiles, 5.000 municiones, 3 lanchas y 5 motores fuera de borda en una camaronera; 4 con prisión preventiva. Los Fatales: 3 detenidos y un cuerpo enterrado en el sector San Luis (jul 2026). Los Tiguerones: 4 capturados en una camaronera de Progreso (mar 2025).",
+      "fuente": "Primicias, 7 sep 2026 / 15 jul 2026 / 8 mar 2025",
+      "url": "https://primicias.ec/sucesos/prision-detenidos-armas-camaronera-progreso-guayas-policia-132066/",
+      "zona": "Sabana Grande"
     },
     {
       "id": "guasmo-sur",
@@ -1644,8 +1647,8 @@
       "lon": -80.3,
       "fecha": "2026-09-06",
       "quien": "Policía Nacional",
-      "detalle": "En una camaronera de la parroquia Progreso, por donde se entra a Sabana Grande, se hallaron 16 fusiles, 5.000 municiones, 90 alimentadoras, 3 lanchas y 5 motores fuera de borda ocultos en el manglar. 4 detenidos. Se atribuye a Los Preñados (Panza de Yegua).",
-      "fuente": "Expreso, 8 sep 2026",
+      "detalle": "En una camaronera de la parroquia Progreso, por donde se entra a Sabana Grande, se hallaron 16 fusiles, 5.000 municiones, 90 alimentadoras, 3 lanchas y 5 motores fuera de borda ocultos en el manglar. 4 detenidos. Se atribuye a Los Preñados (Panza de Yegua). Un juez dictó prisión preventiva a los 4 por tráfico de armas; según la Policía habrían distribuido armas a otras estructuras.",
+      "fuente": "Expreso, 8 sep 2026 / Primicias, 7 sep 2026",
       "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
     {
@@ -2406,6 +2409,127 @@
       "detalle": "En la noche, dos hombres en moto interceptaron y asesinaron a tiros a un guardia de seguridad de 38 años en una calle de puestos de comida concurrida. La Policía busca a los atacantes.",
       "fuente": "El Diario, 2 nov 2026",
       "url": "https://eldiario.ec/seguridad/asesinato-calle-colesterol-santa-elena-guardia-seguridad-02112026"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Sabana Grande",
+      "lugar": "Comuna Sabana Grande, parroquia Progreso (estero)",
+      "lat": -2.49,
+      "lon": -80.21,
+      "fecha": "2026-11-02",
+      "quien": "Bomberos de Guayaquil",
+      "detalle": "Hecho climático, no delictivo: en la noche, la crecida de un estero por las lluvias arrastró una camioneta con 4 ocupantes, que salieron a salvo; Bomberos la recuperaron. Precaución en la vía de acceso a las camaroneras de Sabana Grande con lluvias fuertes (Inamhi prevé tormentas hasta el 7 nov).",
+      "fuente": "Extra, 3 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/cuatro-personas-quedaron-atrapadas-camioneta-arrastrada-estero-progreso-166871.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Virgen de Fátima (río Taura, puente lineal) y Pedro J. Montero",
+      "lat": -2.215,
+      "lon": -79.61,
+      "fecha": "2025-11-11",
+      "quien": "Desconocidos",
+      "detalle": "Tres hallazgos en menos de 48 h (10–11 nov 2025): un hombre baleado junto a la vía en Pedro J. Montero (Boliche), restos de una mujer desaparecida en sacos en una vía de tercer orden cerca de Virgen de Fátima y un cuerpo flotando en el río Taura. Sin banda identificada.",
+      "fuente": "Extra, 11 nov 2025",
+      "url": "https://www.extra.ec/noticia/ecuador/que-pasa-en-yaguachi-tres-hallazgos-en-menos-de-48-horas-una-joven-estaba-en-sacos-140738.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Virgen de Fátima y Pedro J. Montero (Yaguachi)",
+      "lat": -2.16,
+      "lon": -79.65,
+      "fecha": "2025-11-14",
+      "quien": "Varios (sin banda identificada)",
+      "detalle": "La alcaldía reportó más de 20 muertes violentas en un mes en el cantón, concentradas en Virgen de Fátima y Pedro J. Montero; pidió intervención policial y militar y clases virtuales. Un terreno para un cuartel policial lleva casi un año sin obra.",
+      "fuente": "Extra, 14 nov 2025",
+      "url": "https://www.extra.ec/noticia/ecuador/yaguachi-tras-mas-de-20-muertes-alcaldesa-pide-clases-virtuales-que-esta-pasando-140969.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Sector Las Letras y paso lateral (ingreso al recinto Bodeguita), Yaguachi",
+      "lat": -2.105,
+      "lon": -79.7,
+      "fecha": "2026-03-30",
+      "quien": "Desconocidos",
+      "detalle": "Tres muertes violentas en menos de 12 h: 29 mar hacia las 20:30, 1 muerto y 1 herida en el sector Las Letras; 30 mar a las 06:45, 2 hombres hallados amarrados y baleados en el paso lateral, a la altura del recinto Bodeguita. Sin banda identificada.",
+      "fuente": "Extra, 30 mar 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/tres-muertes-violentas-sacuden-yaguachi-12-horas-colombiano-victimas-150333.html"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Sabana Grande",
+      "lugar": "Progreso, camaronera (acceso fluvial)",
+      "lat": -2.43,
+      "lon": -80.31,
+      "fecha": "2025-03-08",
+      "quien": "Policía Nacional",
+      "detalle": "La Policía llegó en lanchas a una camaronera de Progreso y capturó a 4 presuntos integrantes de Los Tiguerones (en disputa interna entre facciones) con 3 armas, 53 municiones y 2 alimentadoras.",
+      "fuente": "Primicias, 8 mar 2025",
+      "url": "https://primicias.ec/sucesos/policia-intervino-camaronera-guayaquil-almacen-armas-captura-cuatro-tiguerones-91333",
+      "antecedente": true
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Sabana Grande",
+      "lugar": "Progreso (parroquia rural de Guayaquil)",
+      "lat": -2.41,
+      "lon": -80.37,
+      "fecha": "2025-02-20",
+      "quien": "Policía Nacional",
+      "detalle": "Allanamiento: 5 aprehendidos en flagrancia a quienes se atribuye el robo de armas en una camaronera; según la Policía las usarían para extorsionar y traficar. Decomiso: 4 escopetas, 66 cartuchos y 2 radios.",
+      "fuente": "Extra, 21 feb 2025",
+      "url": "https://www.extra.ec/noticia/ecuador/progreso-detuvieron-sospechosos-robar-armas-perverso-121672.html",
+      "antecedente": true
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Cabecera de Puná y ruta desde Guayaquil",
+      "lat": -2.73,
+      "lon": -79.92,
+      "fecha": "2025-08-19",
+      "quien": "Tiguerones y Los Lobos (según el medio)",
+      "detalle": "Reportaje: la mayoría de pescadores paga extorsión (USD 50 por «seguridad») y siguen los cobros en altamar; por temor a ataques, el transporte de pasajeros desde Guayaquil se redujo a un viaje diario (14:00). La vigilancia se reforzó en tierra pero no en el mar.",
+      "fuente": "Expreso, 19 ago 2025",
+      "url": "https://www.expreso.ec/guayaquil/puna-una-isla-hundida-entre-los-piratas-y-carreteras-polvorientas-253893.html",
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Parroquia Laurel, Daule",
+      "lat": -1.87,
+      "lon": -79.95,
+      "fecha": "2026-11-02",
+      "quien": "Asaltantes con prendas tipo militar",
+      "detalle": "Hacia las 22:06 un teniente de la Policía que perseguía a sospechosos de un atraco murió baleado; los atacantes vestían prendas similares a uniformes militares. Sin detenidos al momento del reporte.",
+      "fuente": "Extra / El Universo, 3 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/daule-persecucion-sospechosos-termino-mal-fallecio-teniente-joel-chiluisa-166865.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cdla. La Yolita, sur de Daule",
+      "lat": -1.875,
+      "lon": -79.98,
+      "fecha": "2026-11-02",
+      "quien": "Desconocidos",
+      "detalle": "En la noche, un joven de 24 años asesinado a tiros; segundo crimen en 48 h en Daule (31 oct, cerca del puente Banife). Unos 10 locales no abrieron por temor.",
+      "fuente": "Extra, 3 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/daule-vive-horas-miedo-dos-hombres-asesinados-48-horas-166895.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayas, El Oro, Manabí, Los Ríos y Esmeraldas",
+      "lat": -2.2,
+      "lon": -79.9,
+      "fecha": "2026-11-03",
+      "quien": "Policía Nacional / FF.AA.",
+      "detalle": "Tercera noche del toque de queda: 10 detenidos en Huaquillas y Santa Rosa, 8 en Nueva Prosperina (Guayaquil), 4 en Manabí (El Carmen y Manta); en Divino Niño (Durán) 4 aprehendidos y 2 menores aislados con un arma. Acumulado oficial de 2 noches: 408 (Interior) + 83 (Defensa).",
+      "fuente": "El Universo, 3 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/controles-e-intervenciones-se-replicaron-en-tercera-jornada-de-toque-de-queda-en-cinco-provincias-de-ecuador-nota/",
+      "general": true
     }
   ],
   "zonas_criticas": [
@@ -2425,7 +2549,7 @@
       "lat": -2.495,
       "lon": -80.2,
       "radio_m": 9000,
-      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos). 18 sep 2026: 4 detenidos por asaltos a carga en la vía Cerecita–Progreso. Antecedentes en Progreso: 20 ene 2026, 300 paquetes de presunta cocaína en una bodega; 14 jul 2026, 3 detenidos de Los Fatales y un cuerpo enterrado en el sector San Luis.",
+      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos). 18 sep 2026: 4 detenidos por asaltos a carga en la vía Cerecita–Progreso. Antecedentes en Progreso: 20 ene 2026, 300 paquetes de presunta cocaína en una bodega; 14 jul 2026, 3 detenidos de Los Fatales y un cuerpo enterrado en el sector San Luis. 2 nov 2026: crecida de un estero en la comuna Sabana Grande arrastró una camioneta (sin víctimas). Antecedentes en camaroneras de Progreso: robo de armas (feb 2025) y 4 Tiguerones capturados (mar 2025).",
       "fuente": "El Universo / Expreso",
       "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
