@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-02T17:50:00-05:00",
-  "actualizado_texto": "lunes 2 nov 2026, 17:50",
+  "actualizado": "2026-11-03T06:00:00-05:00",
+  "actualizado_texto": "martes 3 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). Sin vigilancia flotante: reforzar monitoreo nocturno en Puná y el canal de Jambelí; los guardias desaparecidos desde el 14 jun siguen sin aparecer."
+      "texto": "Puná: sin hechos nuevos publicados desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). Sin vigilancia flotante: reforzar monitoreo nocturno en Puná y el canal de Jambelí; guardias desaparecidos desde el 14 jun."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos en 36 h (el 1 nov solo un accidente de tránsito en la vía a Naranjal). Último grave: 3 oct, 4 muertos en una barbería de Tres Postes. Hace un año (31 oct–3 nov 2025) hubo 8 asesinatos rurales: vigilar el cierre del feriado."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos en 36 h. Último grave: 3 oct, 4 muertos en una barbería de Tres Postes. Se agregó al mapa el doble crimen del 22 sep en San Alejo (Cone). Vigilar el retorno del feriado en la vía Durán–Tambo."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos nuevos; último reporte el 27 oct (vuelos militares de EE.UU. en la Base Aérea). Las Águilas cobran vacunas y moradores denuncian poco patrullaje: evitar traslados Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
+      "texto": "Taura: sin hechos nuevos; último reporte el 27–28 oct (AFP: ~20 vuelos militares de EE.UU. en la Base Aérea). Las Águilas cobran vacunas: evitar traslados Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: 1 nov, las FF.AA. incluyeron Progreso entre sus controles del toque de queda (40 retenidos en Guayaquil). Último hecho grave: 6 sep (16 fusiles y 5 motores en una camaronera de Progreso); 18 sep, 4 detenidos por asaltos en la vía Cerecita–Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos nuevos desde el 1 nov (controles del toque de queda). Último grave: 6 sep, 16 fusiles y 5 motores en una camaronera de Progreso. Agregados antecedentes: Los Fatales en el sector San Luis (jul 2026)."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas. Dos noches: 491 aprehendidos (126 por delitos como porte de armas y robo). Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
+      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas (491 aprehendidos en 2 noches). Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
     },
     {
       "tipo": "alta",
-      "texto": "El Oro: 1 nov, ataque a tiros en una gallera de Pasaje (1 muerto, 1 herido) y el 31 oct explosivo en un camión de gas en Puerto Bolívar atribuido a la disputa Lobos–Sao Box. Precaución en muelles y accesos de Puerto Bolívar."
+      "texto": "El Oro: 2 nov, ataque armado en El Cambio (Machala), 3 muertos y 3 heridos; 1 nov, gallera de Pasaje. Santa Elena: guardia de seguridad asesinado el 1 nov. Precaución con personal de custodia en El Oro y Santa Elena."
     }
   ],
   "toque_de_queda": {
@@ -2347,6 +2347,65 @@
       "detalle": "La Armada destruyó una estructura clandestina usada por grupos delictivos como centro de vigilancia para observar embarcaciones mercantes y unidades navales que transitan hacia y desde los puertos del Golfo. Sin detenidos informados.",
       "fuente": "El Diario, 11 feb 2026",
       "url": "https://www.eldiario.ec/seguridad/armada-destruye-estructura-clandestina-usada-para-monitoreo-maritimo-en-isla-puna-11022026/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Recinto San Alejo, parroquia Cone (Yaguachi)",
+      "lat": -1.99,
+      "lon": -79.66,
+      "fecha": "2026-09-22",
+      "quien": "Desconocidos (sin banda identificada)",
+      "detalle": "Hacia las 07:10 asesinaron a tiros a una mujer de 57 años en el patio de su vivienda; hacia las 11:30 los bomberos de Cone recuperaron del río el cuerpo de un hombre de unos 40 años. Dinased investiga; la fuente no vincula los dos hechos.",
+      "fuente": "Extra, 23 sep 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/yaguachi-dos-muertes-cuatro-horas-alarmaron-parroquia-cone-163258.html"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "general": true,
+      "lugar": "Parroquia rural Progreso (sector no precisado)",
+      "lat": -2.42,
+      "lon": -80.37,
+      "fecha": "2026-01-20",
+      "quien": "Policía Nacional",
+      "detalle": "Con apoyo de canes antidrogas se hallaron 300 paquetes de presunta cocaína en una bodega, listos para contaminar contenedores en puertos del Guayas. Sin detenidos informados.",
+      "fuente": "Primicias, 20 ene 2026",
+      "url": "https://www.primicias.ec/sucesos/decomiso-droga-cocaina-progreso-puertos-guayaquil-contenedores-policia-guayas-114248/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "lugar": "Sector San Luis, Progreso",
+      "lat": -2.41,
+      "lon": -80.37,
+      "fecha": "2026-07-14",
+      "quien": "Policía Nacional (Unidae) · Los Fatales",
+      "detalle": "Allanamiento de 2 inmuebles usados como punto de venta de droga, guarida y bodega de armas: 3 presuntos integrantes de Los Fatales detenidos; un detenido condujo a los agentes a un cuerpo enterrado en un solar del sector. Decomiso: subametralladora 9 mm, 16 bloques de marihuana y 2 motos.",
+      "fuente": "El Universo, 14 jul 2026",
+      "url": "https://www.eluniverso.com/noticias/seguridad/operativo-contra-los-fatales-en-guayaquil-deja-tres-detenidos-y-permite-hallar-un-cadaver-nota/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Chino, sector Unión Colombiana, parroquia El Cambio (Machala)",
+      "lat": -3.275,
+      "lon": -79.915,
+      "fecha": "2026-11-02",
+      "quien": "Desconocidos (sin banda identificada)",
+      "detalle": "Hacia el mediodía, ocupantes de un vehículo tipo taxi dispararon contra un grupo reunido en una esquina: 3 muertos y 3 heridos. 19 indicios balísticos 9 mm. La Policía señala la zona como punto de venta y consumo de droga (hipótesis no confirmada).",
+      "fuente": "Extra, 2 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/ataque-armado-machala-tres-fallecidos-parroquia-cambio-166853.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de Santa Elena («calle del colesterol»)",
+      "lat": -2.227,
+      "lon": -80.858,
+      "fecha": "2026-11-01",
+      "quien": "Desconocidos (sin banda identificada)",
+      "detalle": "En la noche, dos hombres en moto interceptaron y asesinaron a tiros a un guardia de seguridad de 38 años en una calle de puestos de comida concurrida. La Policía busca a los atacantes.",
+      "fuente": "El Diario, 2 nov 2026",
+      "url": "https://eldiario.ec/seguridad/asesinato-calle-colesterol-santa-elena-guardia-seguridad-02112026"
     }
   ],
   "zonas_criticas": [
@@ -2366,7 +2425,7 @@
       "lat": -2.495,
       "lon": -80.2,
       "radio_m": 9000,
-      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos). 18 sep 2026: 4 detenidos por asaltos a carga en la vía Cerecita–Progreso.",
+      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos). 18 sep 2026: 4 detenidos por asaltos a carga en la vía Cerecita–Progreso. Antecedentes en Progreso: 20 ene 2026, 300 paquetes de presunta cocaína en una bodega; 14 jul 2026, 3 detenidos de Los Fatales y un cuerpo enterrado en el sector San Luis.",
       "fuente": "El Universo / Expreso",
       "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
