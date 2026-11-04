@@ -1,22 +1,22 @@
 {
-  "actualizado": "2026-11-03T17:55:00-05:00",
-  "actualizado_texto": "martes 3 nov 2026, 17:55",
+  "actualizado": "2026-11-04T06:00:00-05:00",
+  "actualizado_texto": "miércoles 4 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo»). Sin vigilancia flotante al sur de la isla: reforzar monitoreo nocturno en Puná y el canal de Jambelí; guardias desaparecidos desde el 14 jun."
-    },
-    {
-      "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: 2 nov, crecida de un estero en la comuna Sabana Grande arrastró una camioneta (sin víctimas). Lluvias fuertes hasta el 7 nov: precaución en la vía Progreso–Puerto Sabana Grande. Último hecho delictivo grave: 6 sep, 16 fusiles en una camaronera (Los Preñados)."
+      "texto": "Puná: sin hechos nuevos publicados desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo», preliminarmente accidental según la Armada). Sin vigilancia flotante al sur de la isla: reforzar monitoreo nocturno en Puná y el canal de Jambelí; 6 guardias desaparecidos desde el 14 jun."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos en 36 h. Último grave: 3 oct, 4 muertos en una barbería de Tres Postes. Se cumple un año de la ola de 20+ muertes de nov 2025 en Virgen de Fátima y Pedro J. Montero."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos en 36 h. Último grave: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan. Se cargaron antecedentes 2026 (doble crimen en Tres Postes, 23 ago)."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos nuevos; último reporte el 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Las Águilas cobran vacunas: evitar traslados Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
+      "texto": "Taura: sin hechos nuevos; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Las Águilas cobran vacunas: evitar traslados Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
+    },
+    {
+      "tipo": "camaronera",
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos; 2 nov, crecida de un estero arrastró una camioneta. Lluvias fuertes hasta el 7 nov en la vía Progreso–Puerto Sabana Grande. Último hecho grave: 6 sep, 16 fusiles en una camaronera."
     },
     {
       "tipo": "critica",
@@ -24,7 +24,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "Daule: 2 nov, un teniente de Policía muerto en una persecución en Laurel; los atacantes vestían prendas tipo militar. Desconfiar de falsos controles en vías rurales."
+      "texto": "Manta: 3 nov, hombre asesinado a tiros a las 05:40 en el barrio 5 de Junio, en pleno toque de queda. Daule: sin detenidos por la muerte del teniente en Laurel (atacantes con prendas tipo militar)."
     }
   ],
   "toque_de_queda": {
@@ -46,7 +46,7 @@
       },
       {
         "etiqueta": "Balance",
-        "valor": "491 aprehendidos en 2 noches; 3.ª noche con controles en las 5 provincias"
+        "valor": "491 aprehendidos en 2 noches; 3.ª noche: 8 en Nueva Prosperina, 4 en Durán, 10 en El Oro, 4 en Manabí"
       }
     ],
     "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
@@ -2504,7 +2504,7 @@
       "lon": -79.95,
       "fecha": "2026-11-02",
       "quien": "Asaltantes con prendas tipo militar",
-      "detalle": "Hacia las 22:06 un teniente de la Policía que perseguía a sospechosos de un atraco murió baleado; los atacantes vestían prendas similares a uniformes militares. Sin detenidos al momento del reporte.",
+      "detalle": "Hacia las 22:06 un teniente de la Policía que perseguía a sospechosos de un atraco murió baleado; los atacantes vestían prendas similares a uniformes militares. Sin detenidos al momento del reporte. Al 3 nov, la Policía no reporta detenidos; Dinased e Inteligencia buscan a los responsables.",
       "fuente": "Extra / El Universo, 3 nov 2026",
       "url": "https://www.extra.ec/noticia/guayaquil/daule-persecucion-sospechosos-termino-mal-fallecio-teniente-joel-chiluisa-166865.html"
     },
@@ -2530,6 +2530,103 @@
       "fuente": "El Universo, 3 nov 2026",
       "url": "https://www.eluniverso.com/politica/seguridad/controles-e-intervenciones-se-replicaron-en-tercera-jornada-de-toque-de-queda-en-cinco-provincias-de-ecuador-nota/",
       "general": true
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Sector Tres Postes, Yaguachi",
+      "lat": -1.935,
+      "lon": -79.645,
+      "fecha": "2026-08-23",
+      "quien": "Hombres armados encapuchados (sin banda identificada)",
+      "detalle": "Hacia las 00:30, unos seis hombres armados llegaron en dos camionetas con chalecos y prendas parecidas a las de fuerzas de seguridad; asesinaron a dos hombres (49 y 29 años) en dos viviendas contiguas. Se hallaron 30 casquillos 9 mm y 5.56. La Policía indicó que una de las víctimas, colaborador de medios internacionales, había recibido amenazas.",
+      "fuente": "Extra, 31 ago 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/rene-cobos-colaborador-periodistas-extranjeros-asesinado-yaguachi-161701.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Recinto La Carlota, Yaguachi (vía de tercer orden)",
+      "lat": -2.06,
+      "lon": -79.66,
+      "fecha": "2026-05-18",
+      "quien": "Desconocidos",
+      "detalle": "Hallazgo de los cuerpos de un hombre y una mujer, maniatados, envueltos y con heridas de bala, junto a una vía de tercer orden del recinto. La Policía investiga si fueron asesinados en otro punto; se indaga una posible venganza.",
+      "fuente": "Extra, 18 may 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/pareja-encontrada-vida-maniatada-zona-rural-canton-yaguachi-153975.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Recinto El Deseo, Yaguachi",
+      "lat": -2.07,
+      "lon": -79.72,
+      "fecha": "2026-03-09",
+      "quien": "Sicarios en moto (sin banda identificada)",
+      "detalle": "Hacia las 16:30, sicarios en moto dispararon contra un hombre afuera de un taller de motos; murió él y una mujer que pasaba (víctima colateral). Criminalística recogió 11 casquillos 9 mm.",
+      "fuente": "Extra, 10 mar 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/triste-caso-mujer-iba-colegio-hija-victima-colateral-ataque-yaguachi-148685.html"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "general": true,
+      "lugar": "Cantón Yaguachi (farmacias)",
+      "lat": -2.093,
+      "lon": -79.69,
+      "fecha": "2026-02-16",
+      "quien": "Policía Nacional (Unase Guayas)",
+      "detalle": "Tras casi dos meses de extorsiones a farmacias del cantón (panfletos, disparos y amenazas de explosivos; exigían USD 15.000 por local), la Unase aprehendió en flagrancia a un adulto y un adolescente con una moto robada, un celular y dinero.",
+      "fuente": "Extra, 17 feb 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/terror-extorsiones-farmacias-yaguachi-monto-exigian-dos-detenidos-147224.html"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "antecedente": true,
+      "lugar": "Estero Matorrillo, ruta Guayaquil – Isla Puná",
+      "lat": -2.62,
+      "lon": -79.93,
+      "fecha": "2021-07-25",
+      "quien": "Piratas / Policía Nacional",
+      "detalle": "Cinco hombres armados en una canoa interceptaron una embarcación que llevaba mercadería de Guayaquil a Puná; el policía que custodiaba la carga repelió el ataque: 2 asaltantes muertos, 1 herido y 2 huyeron. Un pescador resultó herido.",
+      "fuente": "El Universo, 27 jul 2021",
+      "url": "https://www.eluniverso.com/noticias/seguridad/murieron-dos-piratas-que-intentaron-robar-a-pescadores-que-llegaban-a-la-isla-puna-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "general": true,
+      "lugar": "Distrito Progreso (Zona 8)",
+      "lat": -2.41,
+      "lon": -80.37,
+      "fecha": "2026-04-11",
+      "quien": "Policía Nacional (Unidad de Detención de Personas de Alta Peligrosidad)",
+      "detalle": "Operación «Cero Impunidad 11060»: captura en el distrito Progreso de un prófugo requerido por un asesinato cometido en 2018 en Baba (Los Ríos).",
+      "fuente": "Extra, 11 abr 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/progreso-capturan-peligroso-profugo-asesinato-detenido-151343.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio 5 de Junio, Manta",
+      "lat": -0.955,
+      "lon": -80.72,
+      "fecha": "2026-11-03",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 05:40, en pleno horario de toque de queda, vecinos oyeron múltiples disparos; a las 06:30 hallaron asesinado a un hombre dedicado al reciclaje. Dinased y Criminalística investigan.",
+      "fuente": "El Diario, 3 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/escucharon-disparos-en-la-madrugada-hombre-es-asesinado-en-el-barrio-5-de-junio-de-manta-03112026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Vía Las Palmas – Samborondón (piladora)",
+      "lat": -1.93,
+      "lon": -79.75,
+      "fecha": "2026-10-09",
+      "quien": "Policía Nacional / Fiscalía",
+      "detalle": "Diez policías (9 de Inteligencia y 1 de la Dinased, Zona 5) con prisión preventiva por presunta concusión: según la Fiscalía, irrumpieron de madrugada en una piladora haciéndose pasar por un operativo y se llevaron USD 12.000, joyas y efectivo.",
+      "fuente": "Vistazo, 13 oct 2026",
+      "url": "https://www.vistazo.com/seguridad/2026-10-13-prision-preventiva-diez-policias-acusados-exigir-dinero-propietarios-piladora-guayas-EF11274473"
     }
   ],
   "zonas_criticas": [
