@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-04T06:00:00-05:00",
-  "actualizado_texto": "miércoles 4 nov 2026, 06:00",
+  "actualizado": "2026-11-04T18:00:00-05:00",
+  "actualizado_texto": "miércoles 4 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
@@ -20,7 +20,7 @@
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas (491 aprehendidos en 2 noches). Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
+      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas: 923 detenidos en 4 días (524 por incumplirlo). Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
     },
     {
       "tipo": "alta",
@@ -46,11 +46,11 @@
       },
       {
         "etiqueta": "Balance",
-        "valor": "491 aprehendidos en 2 noches; 3.ª noche: 8 en Nueva Prosperina, 4 en Durán, 10 en El Oro, 4 en Manabí"
+        "valor": "923 detenidos en 4 días (524 por incumplir el toque, 399 por otros delitos) + 149 de FF.AA."
       }
     ],
     "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
-    "fuente": "Ministerio del Interior / El Universo / Vistazo, 30 oct – 3 nov 2026",
+    "fuente": "Ministerio del Interior / Primicias / Teleamazonas, 30 oct – 4 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
   "bandas": {
@@ -2627,6 +2627,18 @@
       "detalle": "Diez policías (9 de Inteligencia y 1 de la Dinased, Zona 5) con prisión preventiva por presunta concusión: según la Fiscalía, irrumpieron de madrugada en una piladora haciéndose pasar por un operativo y se llevaron USD 12.000, joyas y efectivo.",
       "fuente": "Vistazo, 13 oct 2026",
       "url": "https://www.vistazo.com/seguridad/2026-10-13-prision-preventiva-diez-policias-acusados-exigir-dinero-propietarios-piladora-guayas-EF11274473"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-04",
+      "quien": "Ministerio del Interior / Policía Nacional / Ministerio de Defensa",
+      "detalle": "Balance de los 4 primeros días del toque de queda (1–4 nov): 524 aprehendidos por incumplirlo y 399 por otros delitos (923 según el Ministerio del Interior); las FF.AA. reportan además unos 149 en 462 operaciones. Decomiso: 60 armas de fuego, 190 municiones, 114,78 kg de droga y 2.000 galones de combustible; 253 vehículos y 476 motos retenidos o recuperados.",
+      "fuente": "Primicias / Teleamazonas, 4 nov 2026",
+      "url": "https://www.primicias.ec/seguridad/toque-queda-4noviembre-detenidos-guayas-manabi-136368/",
+      "general": true
     }
   ],
   "zonas_criticas": [
