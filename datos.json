@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-04T18:00:00-05:00",
-  "actualizado_texto": "miércoles 4 nov 2026, 18:00",
+  "actualizado": "2026-11-05T06:00:00-05:00",
+  "actualizado_texto": "jueves 5 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo», preliminarmente accidental según la Armada). Sin vigilancia flotante al sur de la isla: reforzar monitoreo nocturno en Puná y el canal de Jambelí; 6 guardias desaparecidos desde el 14 jun."
+      "texto": "Puná: sin hechos nuevos publicados desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo», preliminarmente accidental según la Armada). Sin vigilancia flotante al sur de la isla: reforzar monitoreo nocturno en Puná y el canal de Jambelí."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos en 36 h. Último grave: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan. Se cargaron antecedentes 2026 (doble crimen en Tres Postes, 23 ago)."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos en 36 h. Último: 2 nov, disparos contra un grupo en barrio Chino; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos nuevos; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Las Águilas cobran vacunas: evitar traslados Durán–Km 26–Taura–Naranjal entre 20:00 y 05:00."
+      "texto": "Taura: sin hechos nuevos; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Ríos y esteros desbordados en Guayas: evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos; 2 nov, crecida de un estero arrastró una camioneta. Lluvias fuertes hasta el 7 nov en la vía Progreso–Puerto Sabana Grande. Último hecho grave: 6 sep, 16 fusiles en una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles en una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas: 923 detenidos en 4 días (524 por incumplirlo). Coordinar salvoconductos para custodias y traslados de camarón nocturnos."
+      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas: 1.072 aprehendidos y más de 700 vehículos retenidos. Coordinar salvoconductos para custodias y traslados de camarón."
     },
     {
       "tipo": "alta",
-      "texto": "Manta: 3 nov, hombre asesinado a tiros a las 05:40 en el barrio 5 de Junio, en pleno toque de queda. Daule: sin detenidos por la muerte del teniente en Laurel (atacantes con prendas tipo militar)."
+      "texto": "Guayaquil: 3 nov, hombre asesinado a tiros en Sauces 2 (norte); 4 nov, detenido en Guayaquil un requerido por EE.UU. por narcotráfico."
     }
   ],
   "toque_de_queda": {
@@ -46,11 +46,11 @@
       },
       {
         "etiqueta": "Balance",
-        "valor": "923 detenidos en 4 días (524 por incumplir el toque, 399 por otros delitos) + 149 de FF.AA."
+        "valor": "1.072 aprehendidos y más de 700 vehículos y motos retenidos (acumulado al 5 nov)"
       }
     ],
     "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
-    "fuente": "Ministerio del Interior / Primicias / Teleamazonas, 30 oct – 4 nov 2026",
+    "fuente": "Ministerio del Interior / Extra / El Telégrafo, 30 oct – 5 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
   "bandas": {
@@ -2639,6 +2639,41 @@
       "fuente": "Primicias / Teleamazonas, 4 nov 2026",
       "url": "https://www.primicias.ec/seguridad/toque-queda-4noviembre-detenidos-guayas-manabi-136368/",
       "general": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sauces 2 – Sauces 7, norte de Guayaquil",
+      "lat": -2.128,
+      "lon": -79.902,
+      "fecha": "2026-11-03",
+      "quien": "Desconocidos armados (a pie)",
+      "detalle": "En la noche, un hombre fue atacado con unos seis disparos frente a un local de comidas y murió en minutos. La Policía levantó indicios balísticos; sin detenidos.",
+      "fuente": "Extra, 4 nov 2026",
+      "url": "https://www.extra.ec/noticia/justicia/norte-guayaquil-hombre-sorprendido-sujetos-armados-no-sobrevivio-166940.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayaquil (sector no precisado)",
+      "lat": -2.17,
+      "lon": -79.9,
+      "fecha": "2026-11-04",
+      "quien": "Policía Nacional / Ministerio del Interior",
+      "detalle": "Detenido un hombre con notificación roja de Interpol, requerido por EE.UU. por presuntos vínculos con el narcotráfico; según el ministro del Interior será extraditado.",
+      "fuente": "El Diario, 4 nov 2026",
+      "url": "https://www.eldiario.ec/ecuador/jacobo-bucaram-es-detenido-en-guayaquil-tras-notificacion-roja-de-interpol-y-sera-extraditado-a-estados-unidos-04112026/",
+      "general": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
+      "lat": -2.19,
+      "lon": -79.88,
+      "fecha": "2026-11-05",
+      "quien": "Policía Nacional / FF.AA. / Ministerio del Interior",
+      "detalle": "Balance acumulado del toque de queda: 1.072 aprehendidos en las cinco provincias y más de 700 vehículos y motos retenidos.",
+      "fuente": "Extra / El Telégrafo, 5 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/toque-queda-ecuador-deja-1-072-detenidos-cinco-provincias-166978.html",
+      "general": true
     }
   ],
   "zonas_criticas": [
@@ -2727,5 +2762,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo"
 }
