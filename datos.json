@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-05T06:00:00-05:00",
-  "actualizado_texto": "jueves 5 nov 2026, 06:00",
+  "actualizado": "2026-11-05T18:00:00-05:00",
+  "actualizado_texto": "jueves 5 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
@@ -20,11 +20,11 @@
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas: 1.072 aprehendidos y más de 700 vehículos retenidos. Coordinar salvoconductos para custodias y traslados de camarón."
+      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas: más de 1.200 aprehendidos al 5 nov. Coordinar salvoconductos para custodias y traslados de camarón."
     },
     {
       "tipo": "alta",
-      "texto": "Guayaquil: 3 nov, hombre asesinado a tiros en Sauces 2 (norte); 4 nov, detenido en Guayaquil un requerido por EE.UU. por narcotráfico."
+      "texto": "Manta: 4 nov, masacre de 5 jóvenes en Costa Azul (atacantes simularon un operativo policial). Guayaquil: 5 nov, motociclista asesinado en Flor de Bastión. 5 nov: Operación Zeus 4 detuvo a 14 de una facción de Los Lobos (Los Ríos, Guayaquil y Santa Elena)."
     }
   ],
   "toque_de_queda": {
@@ -46,11 +46,11 @@
       },
       {
         "etiqueta": "Balance",
-        "valor": "1.072 aprehendidos y más de 700 vehículos y motos retenidos (acumulado al 5 nov)"
+        "valor": "Más de 1.200 aprehendidos, 96 armas y 582 kg de droga decomisados; más de 1.000 vehículos y motos retenidos (acumulado al 5 nov)"
       }
     ],
     "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
-    "fuente": "Ministerio del Interior / Extra / El Telégrafo, 30 oct – 5 nov 2026",
+    "fuente": "Ministerio del Interior / El Universo / Extra, 30 oct – 5 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
   "bandas": {
@@ -1150,10 +1150,10 @@
         "r7"
       ],
       "disputa": true,
-      "fecha": "2025-12-03",
-      "detalle": "Disputa Choneros–Lobos en la provincia; los R7 operan con Los Lobos respaldados por Los Pájaros Locos.",
-      "fuente": "Primicias, 3 dic 2025",
-      "url": "https://www.primicias.ec/seguridad/rios-provincia-peligrosa-ecuador-guerra-choneros-lobos-110969/"
+      "fecha": "2026-11-05",
+      "detalle": "Disputa Choneros–Lobos en la provincia; los R7 operan con Los Lobos. 5 nov 2026: Operación Zeus 4 detuvo a 14 integrantes de una facción de Los Lobos con mayor presencia en Quevedo y Buena Fe, atribuida a al menos 60 muertes violentas.",
+      "fuente": "Extra / Ministerio del Interior, 5 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/operacion-zeus-4-policia-nacional-detiene-14-presuntos-miembros-faccion-lobos-167036.html"
     },
     {
       "id": "montalvo",
@@ -2670,10 +2670,65 @@
       "lon": -79.88,
       "fecha": "2026-11-05",
       "quien": "Policía Nacional / FF.AA. / Ministerio del Interior",
-      "detalle": "Balance acumulado del toque de queda: 1.072 aprehendidos en las cinco provincias y más de 700 vehículos y motos retenidos.",
-      "fuente": "Extra / El Telégrafo, 5 nov 2026",
-      "url": "https://www.extra.ec/noticia/ecuador/toque-queda-ecuador-deja-1-072-detenidos-cinco-provincias-166978.html",
+      "detalle": "Balance de las cinco primeras jornadas del toque de queda (1–5 nov): más de 1.200 aprehendidos (Interior: 559 por incumplir la restricción y 519 por otros delitos; Defensa: 181 en 586 operaciones militares). Decomisos: 96 armas, 317 municiones, 582 kg de droga; 330 vehículos y 696 motos retenidos o recuperados.",
+      "fuente": "El Universo, 5 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/quinta-jornada-de-toque-de-queda-mas-de-1200-aprehendidos-en-cinco-provincias-del-pais-nota/",
       "general": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cdla. Costa Azul, Manta",
+      "lat": -0.955,
+      "lon": -80.745,
+      "fecha": "2026-11-04",
+      "quien": "Desconocidos (armados)",
+      "detalle": "Hacia las 22:45, varios hombres armados que según moradores simularon un operativo policial irrumpieron en una vivienda y mataron a tiros a 5 hombres de 22 a 27 años; se oyeron más de 20 detonaciones. Sin detenidos. Nueva masacre en Manta en plena vigencia del toque de queda.",
+      "fuente": "Primicias / El Diario, 5 nov 2026",
+      "url": "https://primicias.ec/sucesos/masacre-manta-manabi-costa-azul-victimas-toque-queda-estado-excepcion-136433"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Flor de Bastión (bloque 21), noroeste de Guayaquil",
+      "lat": -2.105,
+      "lon": -79.965,
+      "fecha": "2026-11-05",
+      "quien": "Desconocidos (en moto)",
+      "detalle": "Hacia las 07:00, sujetos en moto dispararon seis veces contra un motociclista, que murió en el lugar; los atacantes huyeron. Se revisan cámaras del sector.",
+      "fuente": "Extra, 5 nov 2026",
+      "url": "https://www.extra.ec/noticia/justicia/ataque-armado-flor-bastion-marco-desenlace-tragico-motociclista-167063.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Quevedo y Buena Fe (Los Ríos), con allanamientos en Guayaquil y Santa Elena",
+      "lat": -1.027,
+      "lon": -79.463,
+      "fecha": "2026-11-05",
+      "quien": "Policía Nacional / Fiscalía",
+      "detalle": "Operación Zeus 4: 25 allanamientos en 8 cantones de 6 provincias (incluidos Guayaquil y Santa Elena) y 14 detenidos de una facción de Los Lobos con mayor presencia en Quevedo y Buena Fe, atribuida a al menos 60 muertes violentas, extorsión y narcotráfico. Decomiso de armas, municiones, vehículos robados, droga y dinero; flujo bancario de unos USD 5 millones.",
+      "fuente": "Extra / Ministerio del Interior, 5 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/operacion-zeus-4-policia-nacional-detiene-14-presuntos-miembros-faccion-lobos-167036.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Vía Ancón y La Libertad, Santa Elena",
+      "lat": -2.225,
+      "lon": -80.905,
+      "fecha": "2026-11-05",
+      "quien": "Policía Nacional (Unase)",
+      "detalle": "Operativo Libertad E-1195: 4 aprehendidos (uno IIPR) por exigir USD 10.000 a una empresa con amenazas a trabajadores y conductores. Decomiso de 5 celulares, una moto, panfletos y dinero.",
+      "fuente": "El Universo / Ministerio del Interior, 5 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/cuatro-presuntos-extorsionadores-fueron-aprehendidos-en-santa-elena-por-exigir-10000-a-una-empresa-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Sector Divino Niño, Durán",
+      "lat": -2.17,
+      "lon": -79.83,
+      "fecha": "2026-11-05",
+      "quien": "Policía Nacional",
+      "detalle": "En controles del toque de queda, 4 adultos aprehendidos y 2 menores aislados con un arma de fuego y varios celulares.",
+      "fuente": "El Universo, 5 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/quinta-jornada-de-toque-de-queda-mas-de-1200-aprehendidos-en-cinco-provincias-del-pais-nota/"
     }
   ],
   "zonas_criticas": [
