@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-11-06T06:00:00-05:00",
-  "actualizado_texto": "viernes 6 nov 2026, 06:00",
+  "actualizado": "2026-11-06T18:00:00-05:00",
+  "actualizado_texto": "viernes 6 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados desde el 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo», preliminarmente accidental según la Armada). Sin vigilancia flotante al sur de la isla: reforzar monitoreo nocturno en Puná y el canal de Jambelí."
+      "texto": "Puná: sin hechos nuevos publicados al 6 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo», preliminarmente accidental según la Armada). Sin vigilancia flotante al sur de la isla: reforzar monitoreo nocturno en Puná y el canal de Jambelí."
     },
     {
       "tipo": "alta",
@@ -24,7 +24,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "Manta: 4 nov, masacre de 5 jóvenes en Costa Azul (atacantes simularon un operativo policial). Guayaquil: 5 nov, hallado un hombre maniatado en un estero de la Trinitaria y motociclista asesinado en Flor de Bastión. Operación Zeus 4: 14 detenidos de una facción de Los Lobos."
+      "texto": "Machala: 5 nov, 23:15, explosivo lanzado desde una moto contra una joyería del centro (calle Rocafuerte); sin heridos, daños en 5–7 edificios. Segundo ataque al mismo propietario desde el 23 oct; Policía ofrece recompensa. Manta: 4 nov, masacre de 5 jóvenes en Costa Azul."
     }
   ],
   "toque_de_queda": {
@@ -2753,6 +2753,17 @@
       "detalle": "En la mañana, moradores hallaron el cuerpo de un hombre con las piernas atadas a orillas de un estero, cerca del segundo puente de la Perimetral; la Policía lo investiga como posible muerte violenta.",
       "fuente": "Extra, 5 nov 2026",
       "url": "https://www.extra.ec/noticia/justicia/asombro-suroeste-guayaquil-hallazgo-ciudadano-orillas-estero-167078.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de Machala (calle Rocafuerte, entre 9 de Mayo y Juan Montalvo)",
+      "lat": -3.2595,
+      "lon": -79.9605,
+      "fecha": "2026-11-05",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 23:15–23:30, minutos antes del toque de queda, dos sujetos en moto (vestidos como repartidores) lanzaron un explosivo contra una joyería: sin heridos; daños en fachadas y vidrios de 5 a 7 edificaciones. Segundo ataque contra locales del mismo propietario (el anterior, 23 oct, a unos 50 m). La Policía investiga posible extorsión y ofrece recompensa.",
+      "fuente": "Vistazo / El Diario / Extra / Metro Ecuador, 6 nov 2026",
+      "url": "https://www.vistazo.com/seguridad/2026-11-06-atentado-explosivo-contra-joyeria-machala-MD11306578"
     }
   ],
   "zonas_criticas": [
