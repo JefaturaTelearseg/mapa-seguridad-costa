@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-07T06:00:00-05:00",
-  "actualizado_texto": "sábado 7 nov 2026, 06:00",
+  "actualizado": "2026-11-07T18:00:00-05:00",
+  "actualizado_texto": "sábado 7 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
@@ -8,23 +8,23 @@
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados desde el 2 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados desde el 2 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan. Se cargó historial de masacres 2022–2023."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Lluvias y esteros desbordados en Guayas al 6 nov: evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
+      "texto": "Taura: sin hechos delictivos nuevos al 7 nov; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Lluvias y esteros desbordados en Guayas: evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 7 nov; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas: más de 1.200 aprehendidos al 5 nov. Coordinar salvoconductos para custodias y traslados de camarón."
+      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas: 1.277 aprehendidos al 6 nov (Ministerio del Interior). Coordinar salvoconductos para custodias y traslados de camarón."
     },
     {
       "tipo": "operativo",
-      "texto": "6 nov: 8 detenidos de una facción de Los Lobos por desvío de combustible en Guayas, El Oro y Azuay. Machala: 5 nov, un hombre asesinado a tiros en la zona de bares del centro, misma noche del explosivo contra una joyería."
+      "texto": "7 nov: 10 operativos antiextorsión dejan 31 aprehendidos; en Santa Rosa (El Oro) 3 ligados a Lobos Box y en Pascuales 2 de «La Mafia». Machala: el explosivo del 5 nov contra una joyería era de uso minero."
     }
   ],
   "toque_de_queda": {
@@ -46,11 +46,11 @@
       },
       {
         "etiqueta": "Balance",
-        "valor": "Más de 1.200 aprehendidos, 96 armas y 582 kg de droga decomisados; más de 1.000 vehículos y motos retenidos (acumulado al 5 nov)"
+        "valor": "1.277 aprehendidos (588 por incumplir el toque y 689 por otros delitos), 148 armas, 603 kg de droga, 397 vehículos y 841 motos retenidos (Ministerio del Interior, 1–6 nov); 185 más por FF.AA."
       }
     ],
     "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
-    "fuente": "Ministerio del Interior / El Universo / Extra, 30 oct – 5 nov 2026",
+    "fuente": "Ministerio del Interior / Ministerio de Defensa / El Universo / Notimundo, 30 oct – 7 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
   "bandas": {
@@ -259,7 +259,7 @@
       ],
       "disputa": true,
       "fecha": "2026-10-15",
-      "detalle": "Las Águilas, brazo armado de Los Choneros, disputan el cantón con Los Lobos. El 15 de octubre de 2026 la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas que operaban en Jujan, Simón Bolívar y el recinto Tres Postes, con subfusil, subametralladora, pistolas y más de 200 cartuchos; se les vincula a extorsiones y asaltos. En junio cayó su cabecilla en el cantón. El barrio Chino es el sector más golpeado. Antecedente: el 21 oct 2023 una masacre en el barrio Chino dejó 7 muertos, en medio de la disputa Lobos–Águilas.",
+      "detalle": "Las Águilas, brazo armado de Los Choneros, disputan el cantón con Los Lobos. El 15 de octubre de 2026 la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas que operaban en Jujan, Simón Bolívar y el recinto Tres Postes, con subfusil, subametralladora, pistolas y más de 200 cartuchos; se les vincula a extorsiones y asaltos. En junio cayó su cabecilla en el cantón. El barrio Chino es el sector más golpeado. Antecedente: el 21 oct 2023 una masacre en el barrio Chino dejó 7 muertos, en medio de la disputa Lobos–Águilas. Otros antecedentes: oct 2022, dos ataques en una semana (puente del río Yaguachi y recinto La Leona, 8 muertos); mar y ago 2023, balaceras en el barrio Chino y el centro (7 muertos).",
       "fuente": "Expreso, 16 oct 2026",
       "url": "https://www.expreso.ec/ecuador/alias-perra-flaca-bacteria-capturados-operativo-aguilas-guayas-299568.html",
       "zona": "Yaguachi"
@@ -509,13 +509,14 @@
       "lon": -79.957,
       "radio_m": 1600,
       "bandas": [
-        "tiguerones"
+        "tiguerones",
+        "lamafia"
       ],
-      "disputa": false,
-      "fecha": "2025-03-28",
-      "detalle": "Sector de Tiguerones, facción Fénix.",
-      "fuente": "El Universo, 28 mar 2025",
-      "url": "https://www.eluniverso.com/noticias/seguridad/los-siete-cabecillas-de-bandas-que-operan-en-nueva-prosperina-policia-va-por-su-captura-nota/"
+      "disputa": true,
+      "fecha": "2026-11-07",
+      "detalle": "Sector de Tiguerones, facción Fénix (mar 2025). 7 nov 2026: 2 aprehendidos por extorsión de la presunta estructura «La Mafia» en Pascuales.",
+      "fuente": "El Universo, 7 nov 2026 / El Universo, 28 mar 2025",
+      "url": "https://www.eluniverso.com/politica/seguridad/diez-operativos-policiales-contra-extorsion-secuestro-permiten-liberar-tres-victimas-aprehender-31-personas-nota/"
     },
     {
       "id": "balerio",
@@ -834,13 +835,14 @@
       "bandas": [
         "choneros",
         "saobox",
-        "lobos"
+        "lobos",
+        "lobosbox"
       ],
       "disputa": true,
-      "fecha": "2026-07-20",
-      "detalle": "Pacto Choneros–Sao Box según la Policía; también aprehensiones de Lobos por extorsión. 87 homicidios de enero a agosto de 2026.",
-      "fuente": "Primicias, 20 jul 2026",
-      "url": "https://www.primicias.ec/seguridad/eloro-epicentro-violencia-tasa-homicidios-ecuador-aumento-crimenes-primer-semestre-128413/"
+      "fecha": "2026-11-07",
+      "detalle": "Pacto Choneros–Sao Box según la Policía (jul 2026); también aprehensiones de Lobos por extorsión. 7 nov 2026: 3 aprehendidos por extorsión con presunto vínculo con Lobos Box. 87 homicidios de enero a agosto de 2026.",
+      "fuente": "El Universo, 7 nov 2026 / Primicias, 20 jul 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/diez-operativos-policiales-contra-extorsion-secuestro-permiten-liberar-tres-victimas-aprehender-31-personas-nota/"
     },
     {
       "id": "huaquillas",
@@ -2761,8 +2763,8 @@
       "lon": -79.9605,
       "fecha": "2026-11-05",
       "quien": "Desconocidos",
-      "detalle": "Hacia las 23:15–23:30, minutos antes del toque de queda, dos sujetos en moto (vestidos como repartidores) lanzaron un explosivo contra una joyería: sin heridos; daños en fachadas y vidrios de 5 a 7 edificaciones. Segundo ataque contra locales del mismo propietario (el anterior, 23 oct, a unos 50 m). La Policía investiga posible extorsión y ofrece recompensa.",
-      "fuente": "Vistazo / El Diario / Extra / Metro Ecuador, 6 nov 2026",
+      "detalle": "Hacia las 23:15–23:30, minutos antes del toque de queda, dos sujetos en moto (vestidos como repartidores) lanzaron un explosivo contra una joyería: sin heridos; daños en fachadas y vidrios de 5 a 7 edificaciones. Segundo ataque contra locales del mismo propietario (el anterior, 23 oct, a unos 50 m). La Policía investiga posible extorsión y ofrece recompensa. Según la Policía, el explosivo era de alta potencia, de uso minero; también destruyó un cajero automático cercano. Se investiga si hay relación con amenazas denunciadas por el gobernador de El Oro; sin detenidos al 6 nov.",
+      "fuente": "Vistazo / El Diario / Extra / Metro Ecuador / Primicias, 6 nov 2026",
       "url": "https://www.vistazo.com/seguridad/2026-11-06-atentado-explosivo-contra-joyeria-machala-MD11306578"
     },
     {
@@ -2813,6 +2815,115 @@
       "detalle": "Poco antes de las 11:00, balacera en la cabecera: 1 muerto, familiar de un cabecilla de Las Águilas, y heridos. El medio ubica a Yaguachi en disputa entre Las Águilas, Los Lobos y Los Choneros. Sin detenidos en este hecho.",
       "fuente": "El Universo, 12 may 2023",
       "url": "https://www.eluniverso.com/noticias/seguridad/el-hermano-de-alias-la-mole-fue-asesinado-en-una-balacera-en-yaguachi-nota/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cerca del puente sobre el río Yaguachi, cabecera cantonal",
+      "lat": -2.0955,
+      "lon": -79.6985,
+      "fecha": "2022-10-02",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 21:00 atacantes dispararon cerca del puente sobre el río Yaguachi: 2 muertos y 4 heridos; luego quemaron una camioneta y dos motos. Hubo enfrentamientos entre familiares y personal médico en la casa de salud.",
+      "fuente": "Primicias, 3 oct 2022",
+      "url": "https://www.primicias.ec/noticias/sucesos/yaguachi-fallecidos-heridos-vehiculos-incinerados",
+      "zona": "Yaguachi",
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Recinto La Leona, Yaguachi",
+      "lat": -2.12,
+      "lon": -79.66,
+      "fecha": "2022-10-09",
+      "quien": "Desconocidos",
+      "detalle": "En la noche, al menos 12 hombres armados llegaron en camioneta y dispararon contra viviendas: 6 muertos de una misma familia y un adolescente herido. Segunda masacre en el cantón en una semana; más de 30 muertes violentas en Yaguachi en 2022 según el medio.",
+      "fuente": "Primicias, 11 oct 2022 / El Diario, 10 oct 2022",
+      "url": "https://primicias.ec/noticias/sucesos/yaguachi-segunda-masacre-una-semana",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "general": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Chino, Yaguachi",
+      "lat": -2.099,
+      "lon": -79.689,
+      "fecha": "2023-03-27",
+      "quien": "Desconocidos",
+      "detalle": "En la noche, más de 50 disparos (con fusiles, según la Policía) contra hombres reunidos en la calle: 3 muertos y 4 heridos. El vehículo usado apareció incinerado en la vía Tres Postes–Jujan.",
+      "fuente": "Primicias, 28 mar 2023",
+      "url": "https://www.primicias.ec/noticias/sucesos/ataque-sicarios-muertos-yaguachi",
+      "zona": "Yaguachi",
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de Yaguachi (cerca de una unidad educativa)",
+      "lat": -2.0965,
+      "lon": -79.692,
+      "fecha": "2023-08-24",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 12:54, al menos seis sujetos en camioneta dispararon cerca de una escuela fiscal: 4 muertos (uno de 17 años) y 3 heridos, entre ellos una estudiante. 3 sospechosos detenidos y 2 armas decomisadas. La Policía lo atribuyó a disputa territorial entre organizaciones delictivas.",
+      "fuente": "Primicias, 24 ago 2023",
+      "url": "https://primicias.ec/noticias/sucesos/guayas-balacera-escuela-yaguachi",
+      "zona": "Yaguachi",
+      "antecedente": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional / FF.AA. / Ministerio del Interior",
+      "detalle": "Balance oficial de los seis primeros días del toque de queda (1–6 nov): 1.277 aprehendidos según el Ministerio del Interior (588 por incumplir la restricción y 689 por otros delitos, 33 de interés penal relevante), 603,57 kg de droga, 148 armas, 1.442 municiones, 397 vehículos y 841 motos retenidos; Defensa reporta 185 aprehendidos y 715 operaciones militares. En la séptima madrugada (7 nov) siguieron controles en Esmeraldas, San Lorenzo, Eloy Alfaro y ejes viales de El Oro.",
+      "fuente": "Notimundo, 6 nov 2026 / KCH-El Universo, 7 nov 2026",
+      "url": "https://kchcomunicacion.com/2026/11/07/controles-e-intervenciones-se-replicaron-durante-septima-jornada-de-toque-de-queda-en-cinco-provincias-del-pais/",
+      "general": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Santa Rosa, El Oro",
+      "lat": -3.449,
+      "lon": -79.96,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional (Unase)",
+      "detalle": "Operativos Libertad contra extorsión y secuestro: 3 aprehendidos en Santa Rosa con presunto vínculo con Lobos Box. A nivel nacional, 10 operativos dejaron 31 aprehendidos y 3 víctimas liberadas.",
+      "fuente": "El Universo, 7 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/diez-operativos-policiales-contra-extorsion-secuestro-permiten-liberar-tres-victimas-aprehender-31-personas-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Pascuales, norte de Guayaquil",
+      "lat": -2.067,
+      "lon": -79.957,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional (Unase)",
+      "detalle": "Operativos Libertad contra extorsión: 2 aprehendidos de la presunta estructura «La Mafia» en Pascuales; además 3 en el sector 9 de Octubre (Guayas) y 1 en El Recreo (Durán). Se decomisaron celulares, panfletos y comprobantes de depósito.",
+      "fuente": "El Universo, 7 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/diez-operativos-policiales-contra-extorsion-secuestro-permiten-liberar-tres-victimas-aprehender-31-personas-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "El Recreo, Durán",
+      "lat": -2.183,
+      "lon": -79.832,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional (Unase)",
+      "detalle": "Operativos Libertad contra extorsión: 1 aprehendido en el sector El Recreo, Durán.",
+      "fuente": "El Universo, 7 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/diez-operativos-policiales-contra-extorsion-secuestro-permiten-liberar-tres-victimas-aprehender-31-personas-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Manta y Jaramijó, Manabí",
+      "lat": -0.955,
+      "lon": -80.7,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional (Unase)",
+      "detalle": "Operativos Libertad contra extorsión y secuestro: 2 aprehendidos en Manta y Jaramijó.",
+      "fuente": "El Universo, 7 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/diez-operativos-policiales-contra-extorsion-secuestro-permiten-liberar-tres-victimas-aprehender-31-personas-nota/"
     }
   ],
   "zonas_criticas": [
@@ -2901,5 +3012,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo, Notimundo, KCH FM"
 }
