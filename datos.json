@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-06T18:00:00-05:00",
-  "actualizado_texto": "viernes 6 nov 2026, 18:00",
+  "actualizado": "2026-11-07T06:00:00-05:00",
+  "actualizado_texto": "sábado 7 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados al 6 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo», preliminarmente accidental según la Armada). Sin vigilancia flotante al sur de la isla: reforzar monitoreo nocturno en Puná y el canal de Jambelí."
+      "texto": "Puná: sin hechos nuevos publicados al 7 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada). Mantener monitoreo nocturno en Puná y el canal de Jambelí."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos publicados desde el 2 nov (disparos contra un grupo en barrio Chino). 15 oct: 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados desde el 2 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos nuevos; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Ríos y esteros desbordados en Guayas: evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
+      "texto": "Taura: sin hechos delictivos nuevos; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Lluvias y esteros desbordados en Guayas al 6 nov: evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles en una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
       "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas: más de 1.200 aprehendidos al 5 nov. Coordinar salvoconductos para custodias y traslados de camarón."
     },
     {
-      "tipo": "alta",
-      "texto": "Machala: 5 nov, 23:15, explosivo lanzado desde una moto contra una joyería del centro (calle Rocafuerte); sin heridos, daños en 5–7 edificios. Segundo ataque al mismo propietario desde el 23 oct; Policía ofrece recompensa. Manta: 4 nov, masacre de 5 jóvenes en Costa Azul."
+      "tipo": "operativo",
+      "texto": "6 nov: 8 detenidos de una facción de Los Lobos por desvío de combustible en Guayas, El Oro y Azuay. Machala: 5 nov, un hombre asesinado a tiros en la zona de bares del centro, misma noche del explosivo contra una joyería."
     }
   ],
   "toque_de_queda": {
@@ -2764,6 +2764,55 @@
       "detalle": "Hacia las 23:15–23:30, minutos antes del toque de queda, dos sujetos en moto (vestidos como repartidores) lanzaron un explosivo contra una joyería: sin heridos; daños en fachadas y vidrios de 5 a 7 edificaciones. Segundo ataque contra locales del mismo propietario (el anterior, 23 oct, a unos 50 m). La Policía investiga posible extorsión y ofrece recompensa.",
       "fuente": "Vistazo / El Diario / Extra / Metro Ecuador, 6 nov 2026",
       "url": "https://www.vistazo.com/seguridad/2026-11-06-atentado-explosivo-contra-joyeria-machala-MD11306578"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de Machala (calles Arízaga y Buenavista, zona de bares)",
+      "lat": -3.259,
+      "lon": -79.958,
+      "fecha": "2026-11-05",
+      "quien": "Desconocidos (dos hombres en moto)",
+      "detalle": "En la noche, el pasajero de una moto disparó repetidamente contra un hombre que captaba clientes en los exteriores de bares del centro; murió en el lugar. Criminalística levantó 7 indicios balísticos. Sin detenidos ni móvil establecido.",
+      "fuente": "El Diario, 6 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/asesinan-a-tiros-a-un-hombre-que-trabajaba-en-los-exteriores-de-bares-en-el-centro-de-machala-06112026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayas y El Oro (con allanamientos también en Azuay)",
+      "lat": -3.3,
+      "lon": -79.85,
+      "general": true,
+      "fecha": "2026-11-06",
+      "quien": "Policía Nacional y Fiscalía",
+      "detalle": "En la madrugada, operativo contra una facción de Los Lobos dedicada al desvío y venta ilícita de combustible en Azuay, Guayas y El Oro: 8 detenidos (2 de interés penal relevante), 4 armas, radios, USD 8.260, 100 galones de combustible y vehículos. La ARCH suspendió una gasolinera en El Oro por orden judicial. Investigación de unos seis meses.",
+      "fuente": "Primicias / El Mercurio, 6 nov 2026",
+      "url": "https://www.primicias.ec/sucesos/allanamiento-guayas-tenguel-eloro-comercio-ilegal-combustibles-fiscalia-136536/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "lugar": "Cabecera de Yaguachi (cerca de la Fiscalía)",
+      "lat": -2.098,
+      "lon": -79.697,
+      "fecha": "2022-12-07",
+      "quien": "Desconocidos (4 sujetos en dos motos)",
+      "detalle": "Hacia las 20:30, atacantes en dos motos dispararon con armas cortas contra ocupantes de un auto y una moto a pocos metros de la Fiscalía: 4 muertos (2 hombres y 2 mujeres) y una mujer herida. Sin detenidos; investigó la Dinased.",
+      "fuente": "Expreso, 8 dic 2022",
+      "url": "https://www.expreso.ec/actualidad/metros-fiscalia-yaguachi-tirotean-asesinan-cuatro-personas-143517.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "lugar": "Cabecera de Yaguachi (av. Centenario)",
+      "lat": -2.1,
+      "lon": -79.695,
+      "fecha": "2023-05-12",
+      "quien": "Desconocidos (vehículo y motos con armados)",
+      "detalle": "Poco antes de las 11:00, balacera en la cabecera: 1 muerto, familiar de un cabecilla de Las Águilas, y heridos. El medio ubica a Yaguachi en disputa entre Las Águilas, Los Lobos y Los Choneros. Sin detenidos en este hecho.",
+      "fuente": "El Universo, 12 may 2023",
+      "url": "https://www.eluniverso.com/noticias/seguridad/el-hermano-de-alias-la-mole-fue-asesinado-en-una-balacera-en-yaguachi-nota/"
     }
   ],
   "zonas_criticas": [
