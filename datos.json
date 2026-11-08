@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-08T05:54:00-05:00",
-  "actualizado_texto": "domingo 8 nov 2026, 05:54",
+  "actualizado": "2026-11-08T17:55:00-05:00",
+  "actualizado_texto": "domingo 8 nov 2026, 17:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados al 8 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada). Se completó el historial: feb 2026, Bloque de Seguridad quemó una «casa de la mafia» que vigilaba el puerto de Posorja."
+      "texto": "Puná: sin hechos nuevos publicados al 8 nov (tarde); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada)."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 8 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 8 nov (tarde). Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 8 nov; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
+      "texto": "Taura: sin hechos delictivos nuevos al 8 nov (tarde); último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 8 nov; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 8 nov (tarde); 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas; sin extensión anunciada al 8 nov. Coordinar salvoconductos para custodias y traslados de camarón."
+      "texto": "Toque de queda 00:00–05:00 termina el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas; 2.292 aprehendidos del 1 al 8 nov y sin extensión anunciada. Coordinar salvoconductos para custodias y traslados de camarón."
     },
     {
-      "tipo": "info",
-      "texto": "Manta: 6 nov, joven asesinado a tiros en la Cdla. 20 de Mayo (Tarqui); el distrito suma 429 muertes violentas en 2026."
+      "tipo": "alta",
+      "texto": "Manabí: 7 nov, 13 muertos en ataques armados en siete cantones (Portoviejo, Calceta, Sucre, Manta, Montecristi, Jipijapa, El Carmen); en Calceta armados se llevaron dos cuerpos."
     }
   ],
   "toque_de_queda": {
@@ -46,11 +46,11 @@
       },
       {
         "etiqueta": "Balance",
-        "valor": "1.277 aprehendidos (588 por incumplir el toque y 689 por otros delitos), 148 armas, 603 kg de droga, 397 vehículos y 841 motos retenidos (Ministerio del Interior, 1–6 nov); 185 más por FF.AA."
+        "valor": "2.292 aprehendidos entre el 1 y el 8 nov: 1.763 por la Policía (760 por incumplir el toque y 1.003 por otros delitos) y 529 por FF.AA.; 204 armas, 565 vehículos y 1.188 motos retenidos (Ministerio del Interior / Defensa)"
       }
     ],
-    "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias. Sin extensión anunciada al 8 nov.",
-    "fuente": "Ministerio del Interior / Ministerio de Defensa / El Universo / Notimundo, 30 oct – 7 nov 2026",
+    "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias. Termina el mar 10 nov a las 05:00; sin extensión anunciada al 8 nov (tarde).",
+    "fuente": "Ministerio del Interior / Ministerio de Defensa / El Universo / Notimundo, 30 oct – 8 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
   "bandas": {
@@ -2948,6 +2948,120 @@
       "detalle": "Hacia las 21:30, ocupantes de una moto interceptaron a un joven de 25 años que caminaba cerca del centro de salud y le dispararon al menos diez veces; murió en una casa de salud. Según el medio, el sector tiene historial de disputa entre Los Lobos y Los Choneros; no se ha establecido el móvil. El distrito Manta suma 429 muertes violentas en 2026.",
       "fuente": "Extra, 7 nov 2026",
       "url": "https://www.extra.ec/noticia/ecuador/manta-joven-25-anos-victima-ataque-cerca-centro-salud-167287.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Portoviejo (Calderón – Miguelillo, San Pablo y La Arbolada)",
+      "lat": -1.055,
+      "lon": -80.455,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional / Dinased (investiga)",
+      "detalle": "4 personas asesinadas en ataques armados el sábado en tres sectores de Portoviejo (1 en el sitio Chirimoya de Miguelillo, parroquia Calderón; 2 en la parroquia San Pablo; 1 en La Arbolada). Atacantes no identificados; el distrito Portoviejo suma 195 muertes violentas en 2026.",
+      "fuente": "El Diario, 8 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/terror-en-manabi-ataques-armados-dejan-13-fallecidos-en-siete-cantones-y-cuerpos-sustraidos-en-calceta-08112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Calceta, cantón Bolívar (Manabí)",
+      "lat": -0.845,
+      "lon": -80.165,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional / Dinased (investiga)",
+      "detalle": "En la tarde (alerta 15:49), ataque armado en el centro de Calceta: según moradores y el parte policial murieron 3 personas, pero hombres armados se llevaron dos cuerpos antes de que llegara la Policía; solo un cadáver quedó en la escena.",
+      "fuente": "El Diario, 8 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/terror-en-manabi-ataques-armados-dejan-13-fallecidos-en-siete-cantones-y-cuerpos-sustraidos-en-calceta-08112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Parroquia San Isidro, cantón Sucre (Manabí)",
+      "lat": -0.375,
+      "lon": -80.17,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional / Dinased (investiga)",
+      "detalle": "2 personas asesinadas en un ataque armado; Dinased investiga.",
+      "fuente": "El Diario, 8 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/terror-en-manabi-ataques-armados-dejan-13-fallecidos-en-siete-cantones-y-cuerpos-sustraidos-en-calceta-08112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector Mar y Cielo / Divino Niño, Manta",
+      "lat": -0.96,
+      "lon": -80.73,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional / Dinased (investiga)",
+      "detalle": "1 hombre asesinado a tiros, parte de la jornada de 13 muertes violentas en siete cantones de Manabí el sábado 7 nov. El distrito Manta-Montecristi-Jaramijó suma 423 muertes violentas en 2026.",
+      "fuente": "El Diario, 8 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/terror-en-manabi-ataques-armados-dejan-13-fallecidos-en-siete-cantones-y-cuerpos-sustraidos-en-calceta-08112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector San Eloy, Montecristi",
+      "lat": -1.05,
+      "lon": -80.66,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional / Dinased (investiga)",
+      "detalle": "1 muerto y 1 mujer herida en un ataque armado detrás de la Cdla. El Ceibo Renacer.",
+      "fuente": "El Diario, 8 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/terror-en-manabi-ataques-armados-dejan-13-fallecidos-en-siete-cantones-y-cuerpos-sustraidos-en-calceta-08112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Parroquia Joa, Jipijapa",
+      "lat": -1.35,
+      "lon": -80.6,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional / Dinased (investiga)",
+      "detalle": "1 persona asesinada en un ataque armado; misma jornada violenta en Manabí.",
+      "fuente": "El Diario, 8 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/terror-en-manabi-ataques-armados-dejan-13-fallecidos-en-siete-cantones-y-cuerpos-sustraidos-en-calceta-08112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sitio Cañitas, Charapotó (Sucre)",
+      "lat": -0.82,
+      "lon": -80.47,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional / Dinased (investiga)",
+      "detalle": "1 persona asesinada en un ataque armado durante la jornada del 7 nov en Manabí.",
+      "fuente": "El Diario, 8 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/terror-en-manabi-ataques-armados-dejan-13-fallecidos-en-siete-cantones-y-cuerpos-sustraidos-en-calceta-08112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "El Carmen, Manabí",
+      "lat": -0.27,
+      "lon": -79.46,
+      "fecha": "2026-11-07",
+      "quien": "Policía Nacional / Dinased (investiga)",
+      "detalle": "1 persona asesinada en un ataque armado (sector no precisado por la fuente).",
+      "fuente": "El Diario, 8 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/terror-en-manabi-ataques-armados-dejan-13-fallecidos-en-siete-cantones-y-cuerpos-sustraidos-en-calceta-08112026/",
+      "general": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-08",
+      "quien": "Ministerio del Interior / Ministerio de Defensa (Bloque de Seguridad)",
+      "detalle": "Balance del toque de queda del 1 al 8 nov: 2.292 aprehendidos (1.763 de Policía: 760 por incumplir la restricción y 1.003 por otros delitos; 529 de FF.AA. con 1.567 militares). Decomisos: 204 armas de fuego, 1.647 municiones, ~67 kg de droga, 6.000 galones de combustible, 565 vehículos y 1.188 motos retenidos. 47 detenidos de interés penal relevante.",
+      "fuente": "Notimundo, 8 nov 2026",
+      "url": "https://fmmundo.com/notimundo/actualidad/2292-detenidos-1-8-noviembre-cinco-provincias-toque-queda-n89724",
+      "general": true
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Camaronera abandonada junto al canal de acceso a los puertos de Guayaquil",
+      "lat": -2.45,
+      "lon": -79.93,
+      "fecha": "2024-11-21",
+      "quien": "Armada – Comando de Guardacostas (Grupo de Operaciones Marítimas)",
+      "detalle": "La Armada halló una embarcación usada como logística por grupos de delincuencia organizada en una camaronera abandonada cerca del canal de acceso a los puertos, con antenas de internet satelital, generadores, GPS, celulares, ropa oscura y pasamontañas; según la fuente, material usado para interferir buques mercantes. Sin detenidos informados.",
+      "fuente": "Primicias, 21 nov 2024",
+      "url": "https://www.primicias.ec/sucesos/guardacostas-embarcacion-grupos-criminales-puerto-guayaquil-guayas-83832/",
+      "general": true,
+      "antecedente": true
     }
   ],
   "zonas_criticas": [
