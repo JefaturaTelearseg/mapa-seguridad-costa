@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-07T18:00:00-05:00",
-  "actualizado_texto": "sábado 7 nov 2026, 18:00",
+  "actualizado": "2026-11-08T05:54:00-05:00",
+  "actualizado_texto": "domingo 8 nov 2026, 05:54",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados al 7 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada). Mantener monitoreo nocturno en Puná y el canal de Jambelí."
+      "texto": "Puná: sin hechos nuevos publicados al 8 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada). Se completó el historial: feb 2026, Bloque de Seguridad quemó una «casa de la mafia» que vigilaba el puerto de Posorja."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados desde el 2 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan. Se cargó historial de masacres 2022–2023."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 8 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 7 nov; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Lluvias y esteros desbordados en Guayas: evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
+      "texto": "Taura: sin hechos delictivos nuevos al 8 nov; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 7 nov; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 8 nov; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas: 1.277 aprehendidos al 6 nov (Ministerio del Interior). Coordinar salvoconductos para custodias y traslados de camarón."
+      "texto": "Toque de queda 00:00–05:00 hasta el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas; sin extensión anunciada al 8 nov. Coordinar salvoconductos para custodias y traslados de camarón."
     },
     {
-      "tipo": "operativo",
-      "texto": "7 nov: 10 operativos antiextorsión dejan 31 aprehendidos; en Santa Rosa (El Oro) 3 ligados a Lobos Box y en Pascuales 2 de «La Mafia». Machala: el explosivo del 5 nov contra una joyería era de uso minero."
+      "tipo": "info",
+      "texto": "Manta: 6 nov, joven asesinado a tiros en la Cdla. 20 de Mayo (Tarqui); el distrito suma 429 muertes violentas en 2026."
     }
   ],
   "toque_de_queda": {
@@ -49,7 +49,7 @@
         "valor": "1.277 aprehendidos (588 por incumplir el toque y 689 por otros delitos), 148 armas, 603 kg de droga, 397 vehículos y 841 motos retenidos (Ministerio del Interior, 1–6 nov); 185 más por FF.AA."
       }
     ],
-    "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias.",
+    "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias. Sin extensión anunciada al 8 nov.",
     "fuente": "Ministerio del Interior / Ministerio de Defensa / El Universo / Notimundo, 30 oct – 7 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
@@ -1329,12 +1329,12 @@
     {
       "tipo": "camaronera",
       "zona": "Puná",
-      "lugar": "Muelle de la cabecera de Puná",
+      "lugar": "Muelle de la cabecera de Puná (Barrio Lindo)",
       "lat": -2.735,
       "lon": -79.915,
       "fecha": "2025-07-31",
       "quien": "Ataque armado",
-      "detalle": "Cuatro lanchas dispararon y colocaron explosivos en dos embarcaciones de carga atracadas: una se hundió y otra se incendió. Esa noche también dispararon contra la Unidad de Vigilancia Marítima de Puná. Según moradores, 2 tripulantes habrían sido secuestrados y la cabecera, Barrio Lindo, Balza Amarilla y La Loma estarían bajo control de bandas.",
+      "detalle": "Cuatro lanchas dispararon y colocaron explosivos en dos embarcaciones de carga atracadas: una se hundió y otra se incendió. Esa noche también dispararon contra la Unidad de Vigilancia Marítima de Puná. Según moradores, 2 tripulantes habrían sido secuestrados y la cabecera, Barrio Lindo, Balza Amarilla y La Loma estarían bajo control de bandas. Según la Armada, la Unidad de Vigilancia Marítima respondió al fuego y obligó a huir a los atacantes; sin heridos (Extra, 1 ago 2025).",
       "fuente": "Expreso / Primicias, 1 ago 2025",
       "url": "https://www.expreso.ec/guayaquil/ataque-armado-en-isla-puna-esto-es-lo-que-se-sabe-hasta-el-momento-251962.html",
       "antecedente": true
@@ -2349,8 +2349,8 @@
       "lon": -80.08,
       "fecha": "2026-02-11",
       "quien": "Armada del Ecuador",
-      "detalle": "La Armada destruyó una estructura clandestina usada por grupos delictivos como centro de vigilancia para observar embarcaciones mercantes y unidades navales que transitan hacia y desde los puertos del Golfo. Sin detenidos informados.",
-      "fuente": "El Diario, 11 feb 2026",
+      "detalle": "La Armada destruyó una estructura clandestina usada por grupos delictivos como centro de vigilancia para observar embarcaciones mercantes y unidades navales que transitan hacia y desde los puertos del Golfo. Sin detenidos informados. El 13 feb, el Bloque de Seguridad (militares y policías, operación de la Armada) inspeccionó y quemó en Puná una construcción de cemento que el Ministerio de Defensa llamó «casa de la mafia», usada para vigilar el puerto de Posorja; estaba vacía pero con señales de ocupación reciente.",
+      "fuente": "El Diario, 11 feb 2026 / Primicias, 13 feb 2026",
       "url": "https://www.eldiario.ec/seguridad/armada-destruye-estructura-clandestina-usada-para-monitoreo-maritimo-en-isla-puna-11022026/"
     },
     {
@@ -2924,6 +2924,30 @@
       "detalle": "Operativos Libertad contra extorsión y secuestro: 2 aprehendidos en Manta y Jaramijó.",
       "fuente": "El Universo, 7 nov 2026",
       "url": "https://www.eluniverso.com/politica/seguridad/diez-operativos-policiales-contra-extorsion-secuestro-permiten-liberar-tres-victimas-aprehender-31-personas-nota/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "lugar": "Cantón Yaguachi – sector Tamarindo (Jujan)",
+      "lat": -2.08,
+      "lon": -79.62,
+      "fecha": "2023-06-01",
+      "quien": "Policía Nacional",
+      "detalle": "En la noche, ocupantes de dos camionetas se llevaron a dos hombres de una vivienda en Yaguachi; el 2 jun hacia las 06:00 fueron hallados asesinados con fusil y machete en el sector Tamarindo (Jujan). Se hallaron vainas 9 mm y .223. Fuentes policiales lo vinculan a la disputa entre Las Águilas y Los Choneros.",
+      "fuente": "Expreso, 2 jun 2023",
+      "url": "https://www.expreso.ec/actualidad/yaguachi-dos-secuestrados-asesinaron-disparos-162503.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cdla. 20 de Mayo, parroquia Tarqui, Manta",
+      "lat": -0.965,
+      "lon": -80.72,
+      "fecha": "2026-11-06",
+      "quien": "Policía Nacional (investiga)",
+      "detalle": "Hacia las 21:30, ocupantes de una moto interceptaron a un joven de 25 años que caminaba cerca del centro de salud y le dispararon al menos diez veces; murió en una casa de salud. Según el medio, el sector tiene historial de disputa entre Los Lobos y Los Choneros; no se ha establecido el móvil. El distrito Manta suma 429 muertes violentas en 2026.",
+      "fuente": "Extra, 7 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/manta-joven-25-anos-victima-ataque-cerca-centro-salud-167287.html"
     }
   ],
   "zonas_criticas": [
@@ -2979,7 +3003,7 @@
       "lat": -2.86,
       "lon": -80.12,
       "radio_m": 13000,
-      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante «Lago San Pablo» al sur de la isla (la Armada lo considera preliminarmente accidental). Antecedentes: en 2024 piratas saquearon Puerto Arturo y 17 familias huyeron; secuestro en La Pólvora (oct 2024). En feb 2026 la Armada destruyó en el norte de la isla un puesto clandestino de vigilancia de embarcaciones.",
+      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante «Lago San Pablo» al sur de la isla (la Armada lo considera preliminarmente accidental). Antecedentes: en 2024 piratas saquearon Puerto Arturo y 17 familias huyeron; secuestro en La Pólvora (oct 2024). En feb 2026 la Armada destruyó en el norte de la isla un puesto clandestino de vigilancia de embarcaciones. Sin hechos nuevos publicados al 8 nov.",
       "fuente": "Primicias, 29 oct 2026",
       "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/",
       "zona": "Puná"
