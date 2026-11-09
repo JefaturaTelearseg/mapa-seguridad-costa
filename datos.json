@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-09T05:52:00-05:00",
-  "actualizado_texto": "lunes 9 nov 2026, 05:52",
+  "actualizado": "2026-11-09T12:55:00-05:00",
+  "actualizado_texto": "lunes 9 nov 2026, 12:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados al 9 nov (mañana); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada)."
+      "texto": "Puná: sin hechos nuevos publicados al 9 nov (tarde); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada)."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 9 nov (mañana). Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 9 nov (tarde). Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 9 nov (mañana); último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
+      "texto": "Taura: sin hechos delictivos nuevos al 9 nov (tarde); último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 9 nov (mañana); 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 9 nov (tarde); 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00: última noche la del lun 9 al mar 10 nov (termina 05:00) en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas; 2.292 aprehendidos del 1 al 8 nov y sin extensión anunciada. Prever custodias y traslados de camarón tras el fin de la restricción."
+      "texto": "Toque de queda 00:00–05:00: última noche la de hoy lun 9 al mar 10 nov (termina 05:00) en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas; 2.503 aprehendidos del 1 al 9 nov y sin extensión anunciada. Prever custodias y traslados de camarón tras el fin de la restricción."
     },
     {
       "tipo": "alta",
-      "texto": "Manabí: 7 nov, 13 muertos en ataques armados en siete cantones (Portoviejo, Calceta, Sucre, Manta, Montecristi, Jipijapa, El Carmen); en Calceta armados se llevaron dos cuerpos."
+      "texto": "9 nov: doble crimen de dos mujeres en una camioneta en la vía a la Costa km 22 (Guayaquil) y un joven asesinado en el centro de Esmeraldas; 8 nov: periodista asesinado en Calceta y un muerto en La Iberia (El Guabo)."
     }
   ],
   "toque_de_queda": {
@@ -46,11 +46,11 @@
       },
       {
         "etiqueta": "Balance",
-        "valor": "2.292 aprehendidos entre el 1 y el 8 nov: 1.763 por la Policía (760 por incumplir el toque y 1.003 por otros delitos) y 529 por FF.AA.; 204 armas, 565 vehículos y 1.188 motos retenidos (Ministerio del Interior / Defensa)"
+        "valor": "2.503 aprehendidos del 1 al 9 nov: 1.963 por la Policía (813 por incumplir el toque y 1.150 por otros delitos) y 540 por FF.AA.; 242 armas, 1,07 t de droga, 688 vehículos y 1.384 motos retenidos (Ministerios del Interior y Defensa)"
       }
     ],
-    "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias. Última noche: lun 9 al mar 10 nov (termina a las 05:00); sin extensión anunciada al 9 nov (mañana).",
-    "fuente": "Ministerio del Interior / Ministerio de Defensa / El Universo / Notimundo, 30 oct – 8 nov 2026",
+    "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias. Última noche: lun 9 al mar 10 nov (termina a las 05:00); sin extensión anunciada al 9 nov (tarde).",
+    "fuente": "Ministerio del Interior / Ministerio de Defensa / El Universo / KCH FM / El Diario, 30 oct – 9 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
   "bandas": {
@@ -3062,6 +3062,62 @@
       "url": "https://www.primicias.ec/sucesos/guardacostas-embarcacion-grupos-criminales-puerto-guayaquil-guayas-83832/",
       "general": true,
       "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Vía a la Costa km 22 (ingreso a una urbanización), oeste de Guayaquil",
+      "lat": -2.175,
+      "lon": -80.035,
+      "fecha": "2026-11-09",
+      "quien": "Desconocidos (móvil no establecido)",
+      "detalle": "Hacia las 13:30, dos mujeres asesinadas a tiros dentro de una camioneta en el ingreso de una urbanización de la vía a la Costa; una murió en una casa de salud cercana. Criminalística levantó más de 20 indicios balísticos; sin detenidos.",
+      "fuente": "Teleamazonas / Extra, 9 nov 2026",
+      "url": "https://www.teleamazonas.com/actualidad/noticias/seguridad/dos-mujeres-asesinadas-camioneta-guayaquil-132546/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de Esmeraldas (Malecón y Espejo, bajada a barrio Santa Martha)",
+      "lat": 0.962,
+      "lon": -79.653,
+      "fecha": "2026-11-09",
+      "quien": "Sujetos en moto (sin identificar)",
+      "detalle": "En la tarde, un joven de unos 24 años asesinado con unos cuatro disparos en una escalinata del centro. Criminalística acordonó la zona; militares y policías resguardaron el perímetro. Sin detenidos.",
+      "fuente": "Extra, 9 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/joven-victima-ataque-centro-esmeraldas-167433.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Parroquia La Iberia, cantón El Guabo (El Oro)",
+      "lat": -3.252,
+      "lon": -79.865,
+      "fecha": "2026-11-08",
+      "quien": "Dos sujetos en moto",
+      "detalle": "Hacia las 20:00, un hombre de 26 años baleado frente a una unidad educativa de La Iberia; murió en el hospital de El Guabo. Sin detenidos; móvil desconocido.",
+      "fuente": "El Diario, 9 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/hombre-de-26-anos-muere-tras-ataque-armado-en-una-vivienda-de-la-iberia-provincia-de-el-oro-09112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Calceta, cantón Bolívar (Manabí)",
+      "lat": -0.846,
+      "lon": -80.165,
+      "fecha": "2026-11-08",
+      "quien": "Varios hombres armados",
+      "detalle": "En la noche, un periodista local asesinado a tiros al estacionar su vehículo; había recibido amenazas y tenía medidas de protección de Fiscalía. El medio indica que dos colaboradores del mismo medio también fueron asesinados antes. Sin detenidos.",
+      "fuente": "El Comercio, 9 nov 2026",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/periodista-tomas-beltran-asesinado-calceta-manabi/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-09",
+      "general": true,
+      "quien": "Policía Nacional y FF.AA. (Ministerios del Interior y Defensa)",
+      "detalle": "Balance del toque de queda del 1 al 9 nov: 2.503 aprehendidos (1.963 por la Policía: 813 por incumplirlo y 1.150 por otros delitos; 540 por FF.AA.), 242 armas de fuego, 1,07 t de droga, 688 vehículos y 1.384 motos retenidos, 32 allanamientos. Termina el mar 10 nov a las 05:00, sin extensión anunciada.",
+      "fuente": "KCH FM / El Universo / El Diario, 9 nov 2026",
+      "url": "https://kchcomunicacion.com/2026/11/09/balance-final-del-toque-de-queda-2-503-aprehendidos-en-las-provincias-intervenidas/"
     }
   ],
   "zonas_criticas": [
