@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-08T17:55:00-05:00",
-  "actualizado_texto": "domingo 8 nov 2026, 17:55",
+  "actualizado": "2026-11-09T05:52:00-05:00",
+  "actualizado_texto": "lunes 9 nov 2026, 05:52",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados al 8 nov (tarde); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada)."
+      "texto": "Puná: sin hechos nuevos publicados al 9 nov (mañana); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada)."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 8 nov (tarde). Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 9 nov (mañana). Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 8 nov (tarde); último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
+      "texto": "Taura: sin hechos delictivos nuevos al 9 nov (mañana); último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 8 nov (tarde); 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 9 nov (mañana); 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00 termina el mar 10 nov en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas; 2.292 aprehendidos del 1 al 8 nov y sin extensión anunciada. Coordinar salvoconductos para custodias y traslados de camarón."
+      "texto": "Toque de queda 00:00–05:00: última noche la del lun 9 al mar 10 nov (termina 05:00) en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas; 2.292 aprehendidos del 1 al 8 nov y sin extensión anunciada. Prever custodias y traslados de camarón tras el fin de la restricción."
     },
     {
       "tipo": "alta",
@@ -49,7 +49,7 @@
         "valor": "2.292 aprehendidos entre el 1 y el 8 nov: 1.763 por la Policía (760 por incumplir el toque y 1.003 por otros delitos) y 529 por FF.AA.; 204 armas, 565 vehículos y 1.188 motos retenidos (Ministerio del Interior / Defensa)"
       }
     ],
-    "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias. Termina el mar 10 nov a las 05:00; sin extensión anunciada al 8 nov (tarde).",
+    "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias. Última noche: lun 9 al mar 10 nov (termina a las 05:00); sin extensión anunciada al 9 nov (mañana).",
     "fuente": "Ministerio del Interior / Ministerio de Defensa / El Universo / Notimundo, 30 oct – 8 nov 2026",
     "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
   },
