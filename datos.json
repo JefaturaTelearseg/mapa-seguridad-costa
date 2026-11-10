@@ -1,58 +1,33 @@
 {
-  "actualizado": "2026-11-09T12:55:00-05:00",
-  "actualizado_texto": "lunes 9 nov 2026, 12:55",
+  "actualizado": "2026-11-10T05:55:00-05:00",
+  "actualizado_texto": "martes 10 nov 2026, 05:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados al 9 nov (tarde); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada)."
+      "texto": "Puná: sin hechos nuevos publicados al 10 nov (madrugada); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada). Menor presencia naval en el Golfo."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 9 nov (tarde). Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 10 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 9 nov (tarde); último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
+      "texto": "Taura: sin hechos delictivos nuevos al 10 nov; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 9 nov (tarde); 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 10 nov; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "Toque de queda 00:00–05:00: última noche la de hoy lun 9 al mar 10 nov (termina 05:00) en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas; 2.503 aprehendidos del 1 al 9 nov y sin extensión anunciada. Prever custodias y traslados de camarón tras el fin de la restricción."
+      "texto": "Terminó el toque de queda (05:00 del mar 10 nov) en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas, sin extensión anunciada; balance 1–9 nov: 2.503 aprehendidos. Desde hoy, sin restricción nocturna: reforzar custodias y traslados de camarón de madrugada."
     },
     {
       "tipo": "alta",
-      "texto": "9 nov: doble crimen de dos mujeres en una camioneta en la vía a la Costa km 22 (Guayaquil) y un joven asesinado en el centro de Esmeraldas; 8 nov: periodista asesinado en Calceta y un muerto en La Iberia (El Guabo)."
+      "texto": "9 nov: ataque armado en un mitin en Huaquillas (El Oro) deja 3 muertos, entre ellos el exalcalde y un candidato a concejal; doble crimen de dos mujeres en la vía a la Costa km 22 (Guayaquil)."
     }
   ],
-  "toque_de_queda": {
-    "titulo": "Toque de queda vigente · Decreto Ejecutivo 519",
-    "fechas": "1 – 10 nov",
-    "texto": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
-    "datos": [
-      {
-        "etiqueta": "Inicio",
-        "valor": "Dom 1 nov"
-      },
-      {
-        "etiqueta": "Fin",
-        "valor": "Mar 10 nov"
-      },
-      {
-        "etiqueta": "Horario",
-        "valor": "00:00 – 05:00"
-      },
-      {
-        "etiqueta": "Balance",
-        "valor": "2.503 aprehendidos del 1 al 9 nov: 1.963 por la Policía (813 por incumplir el toque y 1.150 por otros delitos) y 540 por FF.AA.; 242 armas, 1,07 t de droga, 688 vehículos y 1.384 motos retenidos (Ministerios del Interior y Defensa)"
-      }
-    ],
-    "nota": "Exceptuados: salud, seguridad pública y privada, sectores estratégicos y cadenas de abastecimiento, prensa y atención de emergencias. Última noche: lun 9 al mar 10 nov (termina a las 05:00); sin extensión anunciada al 9 nov (tarde).",
-    "fuente": "Ministerio del Interior / Ministerio de Defensa / El Universo / KCH FM / El Diario, 30 oct – 9 nov 2026",
-    "url": "https://www.ministeriodelinterior.gob.ec/desde-el-1-de-noviembre-regira-el-toque-de-queda-de-00h00-a-05h00-en-cinco-provincias/"
-  },
+  "toque_de_queda": null,
   "bandas": {
     "lobos": {
       "nombre": "Los Lobos",
@@ -3118,6 +3093,17 @@
       "detalle": "Balance del toque de queda del 1 al 9 nov: 2.503 aprehendidos (1.963 por la Policía: 813 por incumplirlo y 1.150 por otros delitos; 540 por FF.AA.), 242 armas de fuego, 1,07 t de droga, 688 vehículos y 1.384 motos retenidos, 32 allanamientos. Termina el mar 10 nov a las 05:00, sin extensión anunciada.",
       "fuente": "KCH FM / El Universo / El Diario, 9 nov 2026",
       "url": "https://kchcomunicacion.com/2026/11/09/balance-final-del-toque-de-queda-2-503-aprehendidos-en-las-provincias-intervenidas/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cdla. Los Israelitas, Huaquillas (El Oro)",
+      "lat": -3.476,
+      "lon": -80.232,
+      "fecha": "2026-11-09",
+      "quien": "Desconocidos armados; Policía y Fiscalía investigan",
+      "detalle": "En la noche, sujetos armados dispararon contra los asistentes al sitio de un mitin político: 3 muertos (el exalcalde de Huaquillas y candidato a la alcaldía, un candidato a concejal y una comerciante que los acompañaba). Sin banda identificada ni detenidos reportados; el Municipio declaró tres días de duelo.",
+      "fuente": "Primicias / Extra / Machala Móvil, 9 nov 2026",
+      "url": "https://www.primicias.ec/sucesos/muerte-ronald-farfan-exalcalde-huaquillas-candidato-concejal-cristhian-rugel-136792/"
     }
   ],
   "zonas_criticas": [
