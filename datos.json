@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-10T05:55:00-05:00",
-  "actualizado_texto": "martes 10 nov 2026, 05:55",
+  "actualizado": "2026-11-10T17:55:00-05:00",
+  "actualizado_texto": "martes 10 nov 2026, 17:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados al 10 nov (madrugada); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada). Menor presencia naval en el Golfo."
+      "texto": "Puná: sin hechos nuevos publicados al 10 nov (tarde); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada). Menor presencia naval en el Golfo."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 10 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 10 nov (tarde). Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 10 nov; último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
+      "texto": "Taura: sin hechos delictivos nuevos al 10 nov (tarde); último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 10 nov; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 10 nov (tarde); 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "Terminó el toque de queda (05:00 del mar 10 nov) en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas, sin extensión anunciada; balance 1–9 nov: 2.503 aprehendidos. Desde hoy, sin restricción nocturna: reforzar custodias y traslados de camarón de madrugada."
+      "texto": "Terminó el toque de queda (05:00 del 10 nov) en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas, sin extensión anunciada; balance final: más de 2.600 detenidos. Sin restricción nocturna: reforzar custodias y traslados de camarón de madrugada."
     },
     {
       "tipo": "alta",
-      "texto": "9 nov: ataque armado en un mitin en Huaquillas (El Oro) deja 3 muertos, entre ellos el exalcalde y un candidato a concejal; doble crimen de dos mujeres en la vía a la Costa km 22 (Guayaquil)."
+      "texto": "10 nov: Policía y Fiscalía desarticulan red que contaminaba contenedores en el puerto de Posorja (11 detenidos, 1,36 t de cocaína). 9 nov: 3 muertos en ataque a un mitin en Huaquillas; línea principal, extorsión."
     }
   ],
   "toque_de_queda": null,
@@ -3101,9 +3101,32 @@
       "lon": -80.232,
       "fecha": "2026-11-09",
       "quien": "Desconocidos armados; Policía y Fiscalía investigan",
-      "detalle": "En la noche, sujetos armados dispararon contra los asistentes al sitio de un mitin político: 3 muertos (el exalcalde de Huaquillas y candidato a la alcaldía, un candidato a concejal y una comerciante que los acompañaba). Sin banda identificada ni detenidos reportados; el Municipio declaró tres días de duelo.",
-      "fuente": "Primicias / Extra / Machala Móvil, 9 nov 2026",
-      "url": "https://www.primicias.ec/sucesos/muerte-ronald-farfan-exalcalde-huaquillas-candidato-concejal-cristhian-rugel-136792/"
+      "detalle": "Hacia las 20:30, cuatro sujetos en dos motos dispararon contra los asistentes al sitio de un mitin político: 3 muertos (el exalcalde de Huaquillas y candidato a la alcaldía, un candidato a concejal y un comerciante) y 1 herido. Según el jefe policial de la zona, la principal línea es una denuncia por extorsión presentada meses antes por el candidato a concejal; no se descarta móvil político. Sin banda identificada ni detenidos; tres días de duelo cantonal.",
+      "fuente": "Primicias / Extra / Infobae, 9–10 nov 2026",
+      "url": "https://www.infobae.com/america/america-latina/2026/11/10/ecuador-asesinaron-a-un-exalcalde-y-candidato-y-a-otro-postulante-suyo-antes-del-inicio-de-la-campana/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayaquil (seis sectores) y puerto de Posorja, Guayas; con allanamientos en Sucre (Manabí) y Quito",
+      "lat": -2.17,
+      "lon": -79.9,
+      "fecha": "2026-11-10",
+      "quien": "Policía Nacional y Fiscalía",
+      "detalle": "En la madrugada, 11 allanamientos simultáneos desarticulan una red que contaminaba contenedores de exportación en el puerto de Posorja con el método «gancho ciego» y reclutaba personal portuario y logístico: 11 detenidos por delincuencia organizada y 1,36 t de cocaína decomisadas en total (destinos Alemania y Nueva Zelanda, más cargamentos interceptados en controles preventivos). Sin banda nombrada.",
+      "fuente": "El Diario / El Universo / Extra, 10 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/policia-nacional-incauta-1-3-toneladas-de-cocaina-y-detiene-a-once-sospechosos-en-manabi-guayas-y-pichincha-10112026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
+      "lat": -2.19,
+      "lon": -79.89,
+      "general": true,
+      "fecha": "2026-11-10",
+      "quien": "Ministerio del Interior, Policía Nacional y Fuerzas Armadas",
+      "detalle": "Balance final de los 10 días de toque de queda (1–10 nov, 00:00–05:00), que terminó sin extensión anunciada: más de 2.600 detenidos (846 por incumplir la restricción y 1.238 por presuntos delitos según Interior; 543 en 1.851 operativos militares según Defensa), 2,5 t de droga, 249 armas de fuego y 2.431 municiones; el Gobierno dijo haber capturado una facción de Los Lobos (sin sector precisado).",
+      "fuente": "El Comercio / El Diario, 10 nov 2026",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/ecuador-termina-toque-queda-detenidos-toneladas-droga-incautadas/"
     }
   ],
   "zonas_criticas": [
