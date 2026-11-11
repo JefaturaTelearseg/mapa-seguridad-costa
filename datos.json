@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-10T17:55:00-05:00",
-  "actualizado_texto": "martes 10 nov 2026, 17:55",
+  "actualizado": "2026-11-11T06:00:00-05:00",
+  "actualizado_texto": "miércoles 11 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos publicados al 10 nov (tarde); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada). Menor presencia naval en el Golfo."
+      "texto": "Taura: la UNASE rescató a 2 personas secuestradas mientras viajaban en un camión por el sector de Taura (pedían USD 200.000; reportado 10 nov, Op. Libertad 1209, Naranjal). Sin detenidos: extremar custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 10 nov (tarde). Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Puná: sin hechos nuevos publicados al 11 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada). Menor presencia naval en el Golfo."
+    },
+    {
+      "tipo": "alta",
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 11 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 10 nov (tarde); último reporte 27–28 oct (vuelos militares de EE.UU. en la Base Aérea). Evitar traslados nocturnos Durán–Km 26–Taura–Naranjal."
-    },
-    {
-      "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 10 nov (tarde); 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 11 nov; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "Terminó el toque de queda (05:00 del 10 nov) en Guayas, El Oro, Manabí, Los Ríos y Esmeraldas, sin extensión anunciada; balance final: más de 2.600 detenidos. Sin restricción nocturna: reforzar custodias y traslados de camarón de madrugada."
+      "texto": "Sin toque de queda desde el 10 nov (balance final: más de 2.500 detenidos). Al menos 45 asesinatos del 6 al 10 nov en la Costa (conteo de prensa); 9 nov: 1 muerto y 3 heridos en dos ataques en Pascuales."
     },
     {
-      "tipo": "alta",
-      "texto": "10 nov: Policía y Fiscalía desarticulan red que contaminaba contenedores en el puerto de Posorja (11 detenidos, 1,36 t de cocaína). 9 nov: 3 muertos en ataque a un mitin en Huaquillas; línea principal, extorsión."
+      "tipo": "operativo",
+      "texto": "10 nov: UNASE rescata a 5 secuestrados (Taura, Quevedo y Cañar) y detiene a 3 extorsionadores en Guayaquil; 11 detenidos y 1,3 t de cocaína en la red de contenedores de Posorja."
     }
   ],
   "toque_de_queda": null,
@@ -922,10 +922,10 @@
         "r7"
       ],
       "disputa": true,
-      "fecha": "2026-06-06",
-      "detalle": "Guerra entre Choneros y Lobos por la salida de droga; los R7 se sumaron del lado de los Lobos. Explosión de barcos atribuida a la disputa.",
-      "fuente": "Vistazo, 6 jun 2026",
-      "url": "https://www.vistazo.com/seguridad/2026-06-06-explosion-barcos-manta-atribuye-disputa-los-lobos-los-choneros-OD11038622"
+      "fecha": "2026-11-10",
+      "detalle": "Guerra entre Choneros y Lobos por la salida de droga; los R7 se sumaron del lado de los Lobos. Explosión de barcos atribuida a la disputa (jun 2026). En noviembre, la Policía atribuye la ola de crímenes en Manabí a la disputa de rutas; Lobos y Choneros se disputan la Cdla. 20 de Mayo (Tarqui).",
+      "fuente": "Vistazo, 6 jun 2026 / La República, 10 nov 2026",
+      "url": "https://www.larepublica.ec/blog/2026/11/10/al-menos-45-asesinatos-desde-la-madrugada-del-viernes-en-pleno-estado-de-emergencia-y-toque-de-queda/"
     },
     {
       "id": "montecristi",
@@ -3127,6 +3127,52 @@
       "detalle": "Balance final de los 10 días de toque de queda (1–10 nov, 00:00–05:00), que terminó sin extensión anunciada: más de 2.600 detenidos (846 por incumplir la restricción y 1.238 por presuntos delitos según Interior; 543 en 1.851 operativos militares según Defensa), 2,5 t de droga, 249 armas de fuego y 2.431 municiones; el Gobierno dijo haber capturado una facción de Los Lobos (sin sector precisado).",
       "fuente": "El Comercio / El Diario, 10 nov 2026",
       "url": "https://www.elcomercio.com/actualidad/seguridad/ecuador-termina-toque-queda-detenidos-toneladas-droga-incautadas/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Taura",
+      "general": true,
+      "lugar": "Taura, Naranjal (sector no precisado)",
+      "lat": -2.318,
+      "lon": -79.71,
+      "fecha": "2026-11-10",
+      "quien": "Policía Nacional (UNASE)",
+      "detalle": "Secuestro: 2 personas fueron capturadas cuando viajaban en un camión por el sector de Taura; los secuestradores exigían USD 200.000. La UNASE las rescató sin pago (Operación Libertad 1209, cantón Naranjal). Sin detenidos ni banda nombrada en este caso. Alerta para traslados por la vía a Taura.",
+      "fuente": "Metro Ecuador / El Universo, 10 nov 2026",
+      "url": "https://www.metroecuador.com.ec/noticias/2026/11/10/cinco-personas-liberadas-y-cinco-detenidos-tras-operativos-contra-el-secuestro-y-la-extorsion-en-ecuador/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Distrito 9 de Octubre, Guayaquil",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-10",
+      "quien": "Policía Nacional (UNASE)",
+      "detalle": "Operación Libertad 1210: 3 aprehendidos en flagrancia por extorsionar con USD 1.500 a un comerciante (denuncia originada en el distrito Nueva Prosperina). Sin banda nombrada.",
+      "fuente": "Metro Ecuador, 10 nov 2026",
+      "url": "https://www.metroecuador.com.ec/noticias/2026/11/10/cinco-personas-liberadas-y-cinco-detenidos-tras-operativos-contra-el-secuestro-y-la-extorsion-en-ecuador/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Sector La Valdramina, Quevedo (Los Ríos)",
+      "lat": -1.03,
+      "lon": -79.46,
+      "fecha": "2026-11-10",
+      "quien": "Policía Nacional (UNASE)",
+      "detalle": "Operación Libertad 1211: rescatada una mujer secuestrada el 6 nov en el sector Zapotal (Ventanas) y retenida en un predio de La Valdramina. Sin detenidos informados.",
+      "fuente": "Metro Ecuador, 10 nov 2026",
+      "url": "https://www.metroecuador.com.ec/noticias/2026/11/10/cinco-personas-liberadas-y-cinco-detenidos-tras-operativos-contra-el-secuestro-y-la-extorsion-en-ecuador/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Pascuales, norte de Guayaquil (Coop. Pie de Lucha y zona central)",
+      "lat": -2.08,
+      "lon": -79.95,
+      "fecha": "2026-11-09",
+      "quien": "Sicariato",
+      "detalle": "Hacia las 16:00, dos sujetos en moto mataron a tiros a un hombre de 27 años en la Coop. Pie de Lucha; horas después, seis hombres en tres motos dispararon dentro de un billar en la zona central de Pascuales: 3 heridos. Dinased investiga; sin detenidos.",
+      "fuente": "Extra, 10 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/tarde-violencia-pascuales-joven-fallecio-tres-personas-resultaron-heridas-billar-167479.html"
     }
   ],
   "zonas_criticas": [
@@ -3135,7 +3181,7 @@
       "lat": -2.32,
       "lon": -79.7,
       "radio_m": 7000,
-      "detalle": "Punto crítico de la vía E-40 con asaltos a carga y robos a piscinas acuícolas. En enero de 2025, 15 hombres con fusiles irrumpieron en una camaronera. En mayo de 2026 la Policía detuvo a 8 personas en una pista ilegal de narcoavionetas. Moradores han denunciado falta de patrullaje policial y militar (Expreso, 2025); en 2024 la Policía rescató en Taura a un empresario secuestrado 40 días.",
+      "detalle": "Punto crítico de la vía E-40 con asaltos a carga y robos a piscinas acuícolas. 10 nov 2026: la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). En enero de 2025, 15 hombres con fusiles irrumpieron en una camaronera. En mayo de 2026 la Policía detuvo a 8 personas en una pista ilegal de narcoavionetas. Moradores han denunciado falta de patrullaje policial y militar (Expreso, 2025).",
       "fuente": "Primicias / Metro Ecuador / El Universo",
       "url": "https://www.primicias.ec/seguridad/asaltos-extorsion-puntos-criticos-cadena-logistica-exportacion-guayas-eloro-76025/",
       "zona": "Taura"
