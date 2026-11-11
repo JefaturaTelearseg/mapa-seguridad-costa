@@ -1,14 +1,10 @@
 {
-  "actualizado": "2026-11-11T06:00:00-05:00",
-  "actualizado_texto": "miércoles 11 nov 2026, 06:00",
+  "actualizado": "2026-11-11T17:54:00-05:00",
+  "actualizado_texto": "miércoles 11 nov 2026, 17:54",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: la UNASE rescató a 2 personas secuestradas mientras viajaban en un camión por el sector de Taura (pedían USD 200.000; reportado 10 nov, Op. Libertad 1209, Naranjal). Sin detenidos: extremar custodia en la vía a Taura y la E-40."
-    },
-    {
-      "tipo": "alta",
-      "texto": "Puná: sin hechos nuevos publicados al 11 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, preliminarmente accidental según la Armada). Menor presencia naval en el Golfo."
+      "texto": "Taura: 10 nov, la UNASE rescató a 2 personas secuestradas mientras viajaban en un camión por el sector de Taura (pedían USD 200.000). Sin detenidos: extremar custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "alta",
@@ -16,15 +12,19 @@
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 11 nov; 2 nov, crecida de un estero arrastró una camioneta. Último hecho grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Puná: sin hechos nuevos al 11 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla; causa en investigación por la Armada). Menor presencia naval en el Golfo."
+    },
+    {
+      "tipo": "camaronera",
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 11 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "Sin toque de queda desde el 10 nov (balance final: más de 2.500 detenidos). Al menos 45 asesinatos del 6 al 10 nov en la Costa (conteo de prensa); 9 nov: 1 muerto y 3 heridos en dos ataques en Pascuales."
+      "texto": "11 nov: 1 muerto y 3 heridos (2 menores) en ataque con fusiles en el sur de Machala; 1 joven asesinado en el norte de Guayaquil. Sin toque de queda desde el 10 nov (2.627 aprehendidos en 10 días)."
     },
     {
       "tipo": "operativo",
-      "texto": "10 nov: UNASE rescata a 5 secuestrados (Taura, Quevedo y Cañar) y detiene a 3 extorsionadores en Guayaquil; 11 detenidos y 1,3 t de cocaína en la red de contenedores de Posorja."
+      "texto": "11 nov: FF.AA. (FTC Guayas) detienen a 3 con pistola en Guayaquil. 9 nov: 2 infantes de marina del batallón «Jambelí» detenidos por robo en Machala."
     }
   ],
   "toque_de_queda": null,
@@ -2718,7 +2718,8 @@
       "detalle": "Hacia las 05:00, presuntos piratas interceptaron en alta mar una embarcación que transportaba larvas de camarón: 1 muerto y 1 herido. Hecho previo al ataque con explosivos en el muelle de Puná (31 jul 2025).",
       "fuente": "Expreso, 1 ago 2025",
       "url": "https://www.expreso.ec/guayaquil/ataque-armado-en-isla-puna-esto-es-lo-que-se-sabe-hasta-el-momento-251962.html",
-      "general": true
+      "general": true,
+      "antecedente": true
     },
     {
       "tipo": "ataque",
@@ -3173,6 +3174,76 @@
       "detalle": "Hacia las 16:00, dos sujetos en moto mataron a tiros a un hombre de 27 años en la Coop. Pie de Lucha; horas después, seis hombres en tres motos dispararon dentro de un billar en la zona central de Pascuales: 3 heridos. Dinased investiga; sin detenidos.",
       "fuente": "Extra, 10 nov 2026",
       "url": "https://www.extra.ec/noticia/guayaquil/tarde-violencia-pascuales-joven-fallecio-tres-personas-resultaron-heridas-billar-167479.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Costado de la vía a Yaguachi (sector no precisado), Yaguachi",
+      "lat": -2.1,
+      "lon": -79.7,
+      "fecha": "2026-08-07",
+      "quien": "Policía Nacional",
+      "detalle": "En la mañana se halló el cuerpo decapitado de un hombre, envuelto en plástico, a un costado de la vía a Yaguachi; según moradores no hubo disparos y el cuerpo habría sido abandonado. Había sido secuestrado el día anterior. Era testigo en un caso contra militares por una presunta ejecución extrajudicial en Milagro (marzo 2026). Las primeras indagaciones, preliminares, lo vinculan a Las Águilas, estructura que según la fuente opera en Milagro.",
+      "fuente": "Extra, 7 ago 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/crimen-yaguachi-hallan-decapitado-testigo-clave-caso-militares-160041.html",
+      "zona": "Yaguachi",
+      "general": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Av. Circunvalación Sur, Cdla. Los Girasoles, sur de Machala",
+      "lat": -3.285,
+      "lon": -79.955,
+      "fecha": "2026-11-11",
+      "quien": "Policía Nacional",
+      "detalle": "Hacia el mediodía, atacantes en moto con pistolas y fusiles dispararon contra personas que regresaban de hacer compras: 1 muerto y 3 heridos, entre ellos 2 menores (uno en estado crítico). Sin detenidos.",
+      "fuente": "El Diario, 11 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/regresaban-de-hacer-compras-cuando-fueron-atacados-a-tiros-dos-menores-entre-los-heridos-en-machala-11112026"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Coop. Guerrero del Fortín (Entrada de la 8), norte de Guayaquil",
+      "lat": -2.085,
+      "lon": -79.955,
+      "fecha": "2026-11-11",
+      "quien": "Policía Nacional",
+      "detalle": "Hacia las 10:30, un joven de unos 22 a 25 años murió baleado afuera de una vivienda; testigos señalan a cuatro personas en dos motos. Sin detenidos.",
+      "fuente": "Extra, 11 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/joven-permanecia-fuera-vivienda-murio-ataque-norte-guayaquil-167615.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Samanes 5, norte de Guayaquil (canal)",
+      "lat": -2.105,
+      "lon": -79.905,
+      "fecha": "2026-11-11",
+      "quien": "Policía Nacional / Bomberos",
+      "detalle": "Hallado el cuerpo de un hombre de unos 28 a 30 años en un canal de drenaje. Versiones no confirmadas de moradores: huía de un intento de robo de motorizados y se ahogó, o fue baleado. Causa en investigación.",
+      "fuente": "Extra, 11 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/hallan-cuerpo-zanja-guayaquil-vecinos-manejan-dos-versiones-ocurrido-167651.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayaquil (sector no precisado)",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-11",
+      "quien": "FF.AA. (Fuerza de Tarea Conjunta Guayas)",
+      "detalle": "Patrullaje CAMEX: 3 detenidos (2 adultos y 1 adolescente) con una pistola y 12 cartuchos, 3 armas blancas, 1 moto y 2 celulares. Adultos a la Unidad de Flagrancia por tenencia ilegal de armas.",
+      "fuente": "El Diario, 11 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/un-operativo-militar-deja-tres-detenidos-armas-y-material-belico-decomisado-en-guayaquil-11112026",
+      "general": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Machala (sector no precisado)",
+      "lat": -3.26,
+      "lon": -79.96,
+      "fecha": "2026-11-09",
+      "quien": "Policía Nacional / Armada",
+      "detalle": "2 infantes de marina en servicio activo (Batallón de Infantería de Marina N.° 22 «Jambelí») detenidos en flagrancia por la Policía por robo a personas; la Armada informó que estaban francos y fuera de operaciones.",
+      "fuente": "El Mercurio, 10 nov 2026",
+      "url": "https://elmercurio.com.ec/ultimas-noticias/2026/11/10/dos-militares-acusados-robo-personas/",
+      "general": true
     }
   ],
   "zonas_criticas": [
