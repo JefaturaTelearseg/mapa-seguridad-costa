@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-12T05:55:00-05:00",
-  "actualizado_texto": "jueves 12 nov 2026, 05:55",
+  "actualizado": "2026-11-12T18:00:00-05:00",
+  "actualizado_texto": "jueves 12 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
@@ -8,7 +8,7 @@
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná: sin hechos nuevos al 12 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla; causa en investigación). Menor presencia naval en el Golfo."
+      "texto": "Puná: sin hechos nuevos al 12 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). 12 nov: la Armada suma la lancha guardacostas LG-41 al patrullaje marítimo."
     },
     {
       "tipo": "alta",
@@ -20,7 +20,7 @@
     },
     {
       "tipo": "operativo",
-      "texto": "12 nov: 14 detenidos y ~500 kg de cocaína en un muelle clandestino en Manabí (red ligada a Los Choneros). 11 nov: FF.AA. detienen a 3 con pistola y droga en Mapasingue; aprehendido el alcalde de Naranjal (caso de corrupción)."
+      "texto": "11–12 nov: 10 detenidos de una red de droga en Nueva Prosperina y Petrillo; 3 detenidos por exigir USD 1 millón (Los Ceibos/Posorja); 14 detenidos y ~500 kg de cocaína en Manabí (red ligada a Los Choneros)."
     },
     {
       "tipo": "critica",
@@ -3277,6 +3277,64 @@
       "detalle": "2 infantes de marina en servicio activo (Batallón de Infantería de Marina N.° 22 «Jambelí») detenidos en flagrancia por la Policía por robo a personas; la Armada informó que estaban francos y fuera de operaciones.",
       "fuente": "El Mercurio, 10 nov 2026",
       "url": "https://elmercurio.com.ec/ultimas-noticias/2026/11/10/dos-militares-acusados-robo-personas/",
+      "general": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Recinto La Clementina, Yaguachi",
+      "lat": -2.11,
+      "lon": -79.67,
+      "fecha": "2026-08-08",
+      "quien": "Policía Nacional",
+      "detalle": "Golpe a Los Águilas (GDO): 1 aprehendido con 5 armas de fuego y 2 municiones; también se retuvo una motocicleta.",
+      "fuente": "Policía Nacional, 8 ago 2026",
+      "url": "https://noticias.policia.gob.ec/golpe-al-delito-incautan-cinco-armas-de-fuego-en-yaguachi/",
+      "zona": "Yaguachi"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Nueva Prosperina (Guayaquil) y Petrillo (Nobol)",
+      "lat": -2.13,
+      "lon": -79.97,
+      "fecha": "2026-11-11",
+      "quien": "Policía Nacional (Zona 8) y Fiscalía",
+      "detalle": "Tras cuatro meses de investigación, desarticulada una red de distribución de droga que dosificaba en un inmueble y vendía desde una furgoneta y triciclos: 10 detenidos (9 con antecedentes por tráfico y robo). La fuente no nombra banda.",
+      "fuente": "Vistazo, 11 nov 2026",
+      "url": "https://www.vistazo.com/seguridad/2026-11-11-cayo-estructura-la-patrona-detenidos-distribucion-droga-guayas-EC11315221"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Los Ceibos (Guayaquil) y Posorja",
+      "lat": -2.17,
+      "lon": -79.95,
+      "fecha": "2026-11-11",
+      "quien": "Policía Nacional (UNASE)",
+      "detalle": "Extorsión: exigían USD 1 millón por WhatsApp para no atentar contra una familia. 3 detenidos; decomiso de 5 celulares, 1 vehículo y 4 comprobantes de depósito. Sin banda identificada.",
+      "fuente": "Vistazo, 11 nov 2026",
+      "url": "https://www.vistazo.com/seguridad/2026-11-11-exigian-usd-1-millon-no-atentar-familia-guayaquil-tres-personas-detenidas-HC11315727"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayaquil (sector no precisado)",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-12",
+      "quien": "Fuerzas Armadas (FTC Guayas)",
+      "detalle": "Patrullaje y control militar: 1 detenido con 23 dosis de presuntas sustancias ilícitas, entregado a la Policía.",
+      "fuente": "El Diario, 12 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/detienen-a-un-hombre-y-decomisan-23-dosis-de-droga-durante-un-operativo-en-guayaquil-12112026",
+      "general": true
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Base Naval Sur, Guayaquil (Golfo de Guayaquil)",
+      "lat": -2.25,
+      "lon": -79.89,
+      "fecha": "2026-11-12",
+      "quien": "Armada del Ecuador",
+      "detalle": "La Armada incorporó la lancha guardacostas LG-41 (repotenciada con USD 5 millones, donada por EE.UU.) para patrullaje e interdicción en el mar contra narcotráfico, contrabando y pesca ilegal; autonomía de unos 5 días y 1.400 millas. La fuente no precisa su zona de operación.",
+      "fuente": "Primicias, 12 nov 2026",
+      "url": "https://www.primicias.ec/seguridad/ecuador-inversion-rehabilitar-lancha-guardacostas-isla-puna-donada-estados-unidos-136997/",
       "general": true
     }
   ],
