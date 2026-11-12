@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-11T17:54:00-05:00",
-  "actualizado_texto": "miércoles 11 nov 2026, 17:54",
+  "actualizado": "2026-11-12T05:55:00-05:00",
+  "actualizado_texto": "jueves 12 nov 2026, 05:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: 10 nov, la UNASE rescató a 2 personas secuestradas mientras viajaban en un camión por el sector de Taura (pedían USD 200.000). Sin detenidos: extremar custodia en la vía a Taura y la E-40."
+      "texto": "Taura: 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 12 nov; extremar custodia en la vía a Taura y la E-40."
+    },
+    {
+      "tipo": "camaronera",
+      "texto": "Puná: sin hechos nuevos al 12 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla; causa en investigación). Menor presencia naval en el Golfo."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos publicados al 11 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos al 12 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná: sin hechos nuevos al 11 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla; causa en investigación por la Armada). Menor presencia naval en el Golfo."
-    },
-    {
-      "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 11 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
-    },
-    {
-      "tipo": "critica",
-      "texto": "11 nov: 1 muerto y 3 heridos (2 menores) en ataque con fusiles en el sur de Machala; 1 joven asesinado en el norte de Guayaquil. Sin toque de queda desde el 10 nov (2.627 aprehendidos en 10 días)."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 12 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "operativo",
-      "texto": "11 nov: FF.AA. (FTC Guayas) detienen a 3 con pistola en Guayaquil. 9 nov: 2 infantes de marina del batallón «Jambelí» detenidos por robo en Machala."
+      "texto": "12 nov: 14 detenidos y ~500 kg de cocaína en un muelle clandestino en Manabí (red ligada a Los Choneros). 11 nov: FF.AA. detienen a 3 con pistola y droga en Mapasingue; aprehendido el alcalde de Naranjal (caso de corrupción)."
+    },
+    {
+      "tipo": "critica",
+      "texto": "11 nov: 1 muerto y 3 heridos (2 menores) en ataque con fusiles en el sur de Machala; 1 joven asesinado en el norte de Guayaquil. Sin toque de queda desde el 10 nov."
     }
   ],
   "toque_de_queda": null,
@@ -1169,6 +1169,40 @@
     }
   ],
   "eventos": [
+    {
+      "tipo": "operativo",
+      "lugar": "Mapasingue, norte de Guayaquil",
+      "lat": -2.155,
+      "lon": -79.935,
+      "fecha": "2026-11-11",
+      "quien": "FF.AA. (Fuerza de Tarea Conjunta Guayas)",
+      "detalle": "Operativo militar: 3 detenidos con una pistola 9 mm y 14 cartuchos, 5 celulares y varios paquetes de droga. Sin enfrentamientos; detenidos entregados a la Fiscalía.",
+      "fuente": "El Diario, 11 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/operativo-militar-en-mapasingue-deja-tres-detenidos-un-arma-glock-y-drogas-11112026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Cabecera cantonal de Naranjal (Municipio)",
+      "lat": -2.672,
+      "lon": -79.616,
+      "fecha": "2026-11-11",
+      "quien": "Fiscalía / Policía Nacional",
+      "detalle": "Caso «Naranjal»: en la madrugada, allanamientos al Municipio y a dos inmuebles; aprehendido el alcalde del cantón por presunto tráfico de influencias y falsificación de documentos. Se incautaron celulares, documentos y computadoras. Sin relación reportada con bandas.",
+      "fuente": "Teleamazonas, 11 nov 2026",
+      "url": "https://www.teleamazonas.com/actualidad/noticias/judicial/fiscalia-aprehendio-alcalde-naranjal-allano-municipio-132790/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Manta, Portoviejo, Jipijapa y Paján (Manabí)",
+      "lat": -1.06,
+      "lon": -80.45,
+      "fecha": "2026-11-12",
+      "quien": "Fiscalía / Policía Nacional",
+      "detalle": "Operación «Gran Fénix-Palmar»: 15 allanamientos simultáneos, 14 detenidos de una red de micro y narcotráfico vinculada a Los Choneros; ~500 kg de cocaína y lanchas rápidas halladas en un muelle clandestino en el manglar. La red también se vincula a tráfico de armas, robo de vehículos y extorsión.",
+      "fuente": "El Universo, 12 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/catorce-detenidos-en-operativo-en-manabi-contra-red-de-micro-y-narcotrafico-asociada-con-los-choneros-hasta-la-abuelita-traficaba-nota/",
+      "general": true
+    },
     {
       "tipo": "ataque",
       "zona": "Yaguachi",
