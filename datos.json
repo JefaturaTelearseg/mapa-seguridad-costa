@@ -1,18 +1,18 @@
 {
-  "actualizado": "2026-11-13T06:00:00-05:00",
-  "actualizado_texto": "viernes 13 nov 2026, 06:00",
+  "actualizado": "2026-11-13T17:50:00-05:00",
+  "actualizado_texto": "viernes 13 nov 2026, 17:50",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 13 nov; extremar custodia en la vía a Taura y la E-40."
+      "texto": "Taura: 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 13 nov (tarde); extremar custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná: sin hechos nuevos al 13 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). 12 nov: EE.UU. entrega a la Armada la lancha guardacostas «Isla Puná» (LG-41) para el patrullaje."
+      "texto": "Puná: sin hechos delictivos nuevos al 13 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). 12 nov: la Armada incorporó la lancha guardacostas «Isla Puná» (LG-41) para el patrullaje del Golfo."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos al 13 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos al 13 nov (solo inundaciones por lluvias). Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
@@ -20,11 +20,11 @@
     },
     {
       "tipo": "critica",
-      "texto": "11–12 nov: 3 muertos en dos ataques a viviendas en Manta (Las Cumbres) y Montecristi (San Eloy Alto); 1 asesinado en una barbería de La Libertad; 2 comerciantes heridos en el mercado Caraguay (Guayaquil), 1 detenido."
+      "texto": "12 nov: en Gallegos Lara (norte de Guayaquil) un sospechoso murió y otro quedó herido tras disparar a la Policía en una persecución (plan de asesinato, según la Policía). Jipijapa: 4 cuerpos hallados en 5 días; 11–12 nov, 3 muertos en Manta y Montecristi."
     },
     {
       "tipo": "operativo",
-      "texto": "12 nov: FF.AA. detienen a 1 presunto integrante de Los Lobos en Portoviejo y decomisan municiones y pólvora en Quevedo; 14 detenidos y ~500 kg de cocaína en Manabí (red ligada a Los Choneros)."
+      "texto": "13 nov: 2 aprehendidos con 6 armas y ~100 cartuchos en Portoviejo. 12 nov: FF.AA. detienen a 1 presunto integrante de Los Lobos en Portoviejo; 14 detenidos y ~500 kg de cocaína en Manabí (red ligada a Los Choneros)."
     }
   ],
   "toque_de_queda": null,
@@ -3402,6 +3402,39 @@
       "detalle": "Hacia las 17:18, atacantes en moto dispararon en el área de mariscos del mercado: 2 comerciantes heridos (uno grave). Un comerciante dijo que mencionaron extorsión. La Policía detuvo a 1 sospechoso con moto, arma, radio y celular.",
       "fuente": "Primicias, 12 nov 2026",
       "url": "https://www.primicias.ec/sucesos/balacera-ataque-armado-mercado-caraguay-guayaquil-detenidos-victimas-136962/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector Gallegos Lara, norte de Guayaquil (Distrito Florida)",
+      "lat": -2.115,
+      "lon": -79.93,
+      "fecha": "2026-11-12",
+      "quien": "Policía Nacional (GOM, Distrito Florida)",
+      "detalle": "Hacia las 22:00, persecución policial a 2 hombres en moto que dispararon contra los agentes: ambos heridos, el acompañante murió en una clínica y el conductor quedó bajo custodia. Decomiso de un revólver .22, cartuchos y un celular con mensajes que, según la Policía, apuntaban a un plan de asesinato. Dinased investiga si pertenecían a una organización criminal.",
+      "fuente": "Primicias, 13 nov 2026",
+      "url": "https://www.primicias.ec/sucesos/persecucion-policial-guayaquil-sospechoso-asesinato-abatido-gallegos-lara-137101/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Portoviejo, Manabí (sector no precisado)",
+      "lat": -1.055,
+      "lon": -80.455,
+      "fecha": "2026-11-13",
+      "quien": "Policía Nacional (Zona 4)",
+      "detalle": "Allanamientos a 2 inmuebles: 2 aprehendidos por receptación y tenencia de armas; decomiso de 5 revólveres, 1 escopeta y unos 100 cartuchos de varios calibres; recuperada 1 moto.",
+      "fuente": "El Diario, 13 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/dos-personas-son-aprehendidas-con-armas-y-municiones-en-portoviejo-13112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Vía Jipijapa – Paján (recinto El Alta), Jipijapa",
+      "lat": -1.4,
+      "lon": -80.52,
+      "fecha": "2026-11-12",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 21:00 se halló un cuerpo en la vía a Paján, antes del cementerio de San Vicente: es el cuarto cuerpo encontrado en cinco días en distintos sectores de Jipijapa (otro el 11 nov en la vía al cerro La Mona). Causas aún no confirmadas; trasladados a Medicina Legal de Manta.",
+      "fuente": "El Diario, 13 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/cuatro-cuerpos-han-sido-encontrados-en-cinco-dias-en-distintos-sectores-de-jipijapa-13112026/"
     }
   ],
   "zonas_criticas": [
