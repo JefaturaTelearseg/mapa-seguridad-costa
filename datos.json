@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-12T18:00:00-05:00",
-  "actualizado_texto": "jueves 12 nov 2026, 18:00",
+  "actualizado": "2026-11-13T06:00:00-05:00",
+  "actualizado_texto": "viernes 13 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 12 nov; extremar custodia en la vía a Taura y la E-40."
+      "texto": "Taura: 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 13 nov; extremar custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná: sin hechos nuevos al 12 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). 12 nov: la Armada suma la lancha guardacostas LG-41 al patrullaje marítimo."
+      "texto": "Puná: sin hechos nuevos al 13 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). 12 nov: EE.UU. entrega a la Armada la lancha guardacostas «Isla Puná» (LG-41) para el patrullaje."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos al 12 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos nuevos al 13 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 12 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
-    },
-    {
-      "tipo": "operativo",
-      "texto": "11–12 nov: 10 detenidos de una red de droga en Nueva Prosperina y Petrillo; 3 detenidos por exigir USD 1 millón (Los Ceibos/Posorja); 14 detenidos y ~500 kg de cocaína en Manabí (red ligada a Los Choneros)."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 13 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "11 nov: 1 muerto y 3 heridos (2 menores) en ataque con fusiles en el sur de Machala; 1 joven asesinado en el norte de Guayaquil. Sin toque de queda desde el 10 nov."
+      "texto": "11–12 nov: 3 muertos en dos ataques a viviendas en Manta (Las Cumbres) y Montecristi (San Eloy Alto); 1 asesinado en una barbería de La Libertad; 2 comerciantes heridos en el mercado Caraguay (Guayaquil), 1 detenido."
+    },
+    {
+      "tipo": "operativo",
+      "texto": "12 nov: FF.AA. detienen a 1 presunto integrante de Los Lobos en Portoviejo y decomisan municiones y pólvora en Quevedo; 14 detenidos y ~500 kg de cocaína en Manabí (red ligada a Los Choneros)."
     }
   ],
   "toque_de_queda": null,
@@ -985,10 +985,10 @@
         "lobos"
       ],
       "disputa": true,
-      "fecha": "2026-04-18",
-      "detalle": "Declarada zona de guerra entre Choneros y Lobos.",
-      "fuente": "Primicias, 18 abr 2026",
-      "url": "https://www.primicias.ec/seguridad/lobos-expansion-ataques-ultimos-bastiones-choneros-narcotrafico-manabi-120670/"
+      "fecha": "2026-11-12",
+      "detalle": "Declarada zona de guerra entre Choneros y Lobos. 12 nov 2026: FF.AA. detienen en Las Orquídeas a 1 presunto integrante de Los Lobos con arma, droga y dinero.",
+      "fuente": "El Diario, 12 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/dinero-en-efectivo-un-arma-un-detenido-y-presuntas-drogas-hallan-en-intervencion-en-portoviejo-12112026/"
     },
     {
       "id": "puerto-lopez",
@@ -3336,6 +3336,72 @@
       "fuente": "Primicias, 12 nov 2026",
       "url": "https://www.primicias.ec/seguridad/ecuador-inversion-rehabilitar-lancha-guardacostas-isla-puna-donada-estados-unidos-136997/",
       "general": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Las Cumbres, Manta",
+      "lat": -0.965,
+      "lon": -80.72,
+      "fecha": "2026-11-12",
+      "quien": "Desconocidos (Dinased investiga)",
+      "detalle": "Hacia la medianoche, atacantes ingresaron a una vivienda y mataron a tiros a un padre y su hijo (el hijo murió en el hospital). Motivo no establecido.",
+      "fuente": "El Diario, 12 nov 2026",
+      "url": "https://eldiario.ec/seguridad/padre-e-hijo-fueron-asesinados-dentro-de-una-vivienda-en-el-barrio-las-cumbres-de-manta-12112026"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector San Eloy Alto, Montecristi",
+      "lat": -1.05,
+      "lon": -80.66,
+      "fecha": "2026-11-11",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 23:30, hombres armados ingresaron a una vivienda y mataron a un hombre; menos de una hora después ocurrió el doble crimen de Las Cumbres (Manta). Se investiga si están vinculados (mismo calibre 9 mm).",
+      "fuente": "Extra, 12 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/tres-hombres-asesinados-hora-terror-manta-montecristi-167743.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Las Orquídeas, Portoviejo",
+      "lat": -1.045,
+      "lon": -80.46,
+      "fecha": "2026-11-12",
+      "quien": "Fuerzas Armadas (Ejército)",
+      "detalle": "Intervención por inteligencia militar: 1 detenido presuntamente vinculado a Los Lobos; decomiso de una pistola 9 mm, 24 envolturas de presunta cocaína, balanzas, celulares, 3 laptops y USD 1.897.",
+      "fuente": "El Diario, 12 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/dinero-en-efectivo-un-arma-un-detenido-y-presuntas-drogas-hallan-en-intervencion-en-portoviejo-12112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio 12 de Octubre, La Libertad (Santa Elena)",
+      "lat": -2.233,
+      "lon": -80.905,
+      "fecha": "2026-11-12",
+      "quien": "Desconocidos",
+      "detalle": "En la tarde, dos hombres que se hicieron pasar por clientes entraron a una barbería y mataron a tiros a un trabajador de unos 25 años; huyeron en moto.",
+      "fuente": "El Diario, 12 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/asesinan-a-trabajador-de-una-barberia-durante-ataque-armado-en-la-libertad-12112026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Sector 20 de Febrero, Quevedo (Los Ríos)",
+      "lat": -1.02,
+      "lon": -79.46,
+      "fecha": "2026-11-12",
+      "quien": "Fuerzas Armadas (Ejército)",
+      "detalle": "Allanamiento por inteligencia: decomiso de 100 cartuchos calibre .38, 25 de escopeta, 400 fulminantes y 300 g de pólvora en una vivienda.",
+      "fuente": "El Diario, 12 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/decomisan-100-municiones-y-material-explosivo-en-una-vivienda-de-quevedo-los-rios-12112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Mercado Caraguay, sur de Guayaquil",
+      "lat": -2.225,
+      "lon": -79.895,
+      "fecha": "2026-11-11",
+      "quien": "Desconocidos / Policía Nacional",
+      "detalle": "Hacia las 17:18, atacantes en moto dispararon en el área de mariscos del mercado: 2 comerciantes heridos (uno grave). Un comerciante dijo que mencionaron extorsión. La Policía detuvo a 1 sospechoso con moto, arma, radio y celular.",
+      "fuente": "Primicias, 12 nov 2026",
+      "url": "https://www.primicias.ec/sucesos/balacera-ataque-armado-mercado-caraguay-guayaquil-detenidos-victimas-136962/"
     }
   ],
   "zonas_criticas": [
