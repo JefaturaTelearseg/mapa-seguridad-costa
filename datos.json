@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-13T17:50:00-05:00",
-  "actualizado_texto": "viernes 13 nov 2026, 17:50",
+  "actualizado": "2026-11-14T06:00:00-05:00",
+  "actualizado_texto": "sábado 14 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 13 nov (tarde); extremar custodia en la vía a Taura y la E-40."
+      "texto": "Taura: 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 14 nov; extremar custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná: sin hechos delictivos nuevos al 13 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). 12 nov: la Armada incorporó la lancha guardacostas «Isla Puná» (LG-41) para el patrullaje del Golfo."
+      "texto": "Puná: sin hechos delictivos nuevos al 14 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). 12 nov: la Armada incorporó la lancha guardacostas «Isla Puná» (LG-41) al patrullaje del Golfo."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos al 13 nov (solo inundaciones por lluvias). Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos al 14 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 13 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 14 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
     },
     {
       "tipo": "critica",
-      "texto": "12 nov: en Gallegos Lara (norte de Guayaquil) un sospechoso murió y otro quedó herido tras disparar a la Policía en una persecución (plan de asesinato, según la Policía). Jipijapa: 4 cuerpos hallados en 5 días; 11–12 nov, 3 muertos en Manta y Montecristi."
+      "texto": "Manabí: 13 nov, 2 asesinados en Chone (uno maniatado y torturado en Santa Rita); 4 cuerpos en 5 días en Jipijapa; 12 nov, adolescente de 14 años asesinado en Las Cumbres (Manta)."
     },
     {
       "tipo": "operativo",
-      "texto": "13 nov: 2 aprehendidos con 6 armas y ~100 cartuchos en Portoviejo. 12 nov: FF.AA. detienen a 1 presunto integrante de Los Lobos en Portoviejo; 14 detenidos y ~500 kg de cocaína en Manabí (red ligada a Los Choneros)."
+      "texto": "13 nov: 4 detenidos con armas, 1 kg de cocaína y ~USD 55.000 en Pedernales (investigan nexo con Los Lobos); 2 aprehendidos con 6 armas y ~100 cartuchos en Portoviejo."
     }
   ],
   "toque_de_queda": null,
@@ -3435,6 +3435,28 @@
       "detalle": "Hacia las 21:00 se halló un cuerpo en la vía a Paján, antes del cementerio de San Vicente: es el cuarto cuerpo encontrado en cinco días en distintos sectores de Jipijapa (otro el 11 nov en la vía al cerro La Mona). Causas aún no confirmadas; trasladados a Medicina Legal de Manta.",
       "fuente": "El Diario, 13 nov 2026",
       "url": "https://www.eldiario.ec/seguridad/cuatro-cuerpos-han-sido-encontrados-en-cinco-dias-en-distintos-sectores-de-jipijapa-13112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector La Camareta (parroquia Santa Rita) y Cdla. Jorge Gallardo, Chone (Manabí)",
+      "lat": -0.7,
+      "lon": -80.09,
+      "fecha": "2026-11-13",
+      "quien": "Desconocidos",
+      "detalle": "Dos muertes violentas en distintos sectores de Chone: hacia las 17:30 un hombre hallado sin vida, maniatado y con huellas de tortura, al borde de la vía en La Camareta (Santa Rita); hacia las 21:00 otro hombre asesinado a tiros afuera de una vivienda en la Cdla. Jorge Gallardo. Investigan la Policía y la Dinased; sin detenidos.",
+      "fuente": "Extra, 13 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/manabi-tragico-dos-hombres-distintos-barrios-chone-167918.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Vía Canoa – Jama, cantón Pedernales (Manabí)",
+      "lat": 0.07,
+      "lon": -80.05,
+      "fecha": "2026-11-13",
+      "quien": "Policía Nacional (Zona 4)",
+      "detalle": "Allanamientos a dos inmuebles que serían apoyo logístico del crimen organizado: 4 detenidos, armas de fuego, 1 kg de cocaína y entre USD 50.000 y 60.000 en efectivo sin justificar. La Policía investiga si tienen vínculo con Los Lobos (no confirmado).",
+      "fuente": "El Diario, 13 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/cuatro-detenidos-tras-hallar-armas-dinero-y-cocaina-en-el-canton-pedernales-13112026/"
     }
   ],
   "zonas_criticas": [
