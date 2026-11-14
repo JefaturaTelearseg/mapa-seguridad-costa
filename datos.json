@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-11-14T06:00:00-05:00",
-  "actualizado_texto": "sábado 14 nov 2026, 06:00",
+  "actualizado": "2026-11-14T17:56:00-05:00",
+  "actualizado_texto": "sábado 14 nov 2026, 17:56",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 14 nov; extremar custodia en la vía a Taura y la E-40."
+      "texto": "Taura: último hecho, 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 14 nov; mantener custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná: sin hechos delictivos nuevos al 14 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). 12 nov: la Armada incorporó la lancha guardacostas «Isla Puná» (LG-41) al patrullaje del Golfo."
+      "texto": "Puná: sin hechos delictivos nuevos al 14 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). Desde el 12 nov patrulla el Golfo la lancha guardacostas «Isla Puná» (LG-41)."
     },
     {
       "tipo": "alta",
@@ -20,11 +20,11 @@
     },
     {
       "tipo": "critica",
-      "texto": "Manabí: 13 nov, 2 asesinados en Chone (uno maniatado y torturado en Santa Rita); 4 cuerpos en 5 días en Jipijapa; 12 nov, adolescente de 14 años asesinado en Las Cumbres (Manta)."
+      "texto": "14 nov: dos balaceras al mediodía en Santa Lucía (Guayas), 1 muerto en el recinto El Porvenir y pánico en el mercado municipal; en Manta (barrio La Paz) asesinaron a una comerciante en su local."
     },
     {
-      "tipo": "operativo",
-      "texto": "13 nov: 4 detenidos con armas, 1 kg de cocaína y ~USD 55.000 en Pedernales (investigan nexo con Los Lobos); 2 aprehendidos con 6 armas y ~100 cartuchos en Portoviejo."
+      "tipo": "info",
+      "texto": "Estado de excepción renovado por 30 días en ocho provincias (desde 11 nov), sin toque de queda vigente."
     }
   ],
   "toque_de_queda": null,
@@ -3457,6 +3457,28 @@
       "detalle": "Allanamientos a dos inmuebles que serían apoyo logístico del crimen organizado: 4 detenidos, armas de fuego, 1 kg de cocaína y entre USD 50.000 y 60.000 en efectivo sin justificar. La Policía investiga si tienen vínculo con Los Lobos (no confirmado).",
       "fuente": "El Diario, 13 nov 2026",
       "url": "https://www.eldiario.ec/seguridad/cuatro-detenidos-tras-hallar-armas-dinero-y-cocaina-en-el-canton-pedernales-13112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Recinto El Porvenir (sector La Fortuna) y mercado municipal, Santa Lucía (Guayas)",
+      "lat": -1.71,
+      "lon": -80.0,
+      "fecha": "2026-11-14",
+      "quien": "Desconocidos armados; actuó la Policía Nacional (Distrito Daule)",
+      "detalle": "Cerca del mediodía, dos balaceras casi simultáneas: en el recinto El Porvenir, zona rural a unos 15 minutos de la cabecera, un hombre de unos 25 años murió con varios impactos junto a una cancha; dentro del mercado municipal otra balacera hizo huir a comerciantes y compradores (se verificaba si hubo heridos). No se confirma relación entre ambos hechos ni se nombra banda.",
+      "fuente": "Extra, 14 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/dos-balaceras-santa-lucia-guayas-hombre-asesinado-mercado-municipal-167944.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio La Paz, Manta (Manabí)",
+      "lat": -0.955,
+      "lon": -80.72,
+      "fecha": "2026-11-14",
+      "quien": "Sujetos armados; actuaron Policía Nacional y Dinased",
+      "detalle": "En la mañana, atacantes llegaron a un pequeño negocio de encebollados y dispararon más de tres veces contra la comerciante, que murió en el lugar. Móvil no determinado; sin detenidos. El reporte cita 436 muertes violentas en 2026 en Manta, Montecristi y Jaramijó.",
+      "fuente": "El Diario, 14 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/una-mujer-fue-asesinada-mientras-atendia-su-negocio-de-encebollados-en-manta-14112026/"
     }
   ],
   "zonas_criticas": [
