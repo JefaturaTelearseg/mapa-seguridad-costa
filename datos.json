@@ -1,22 +1,22 @@
 {
-  "actualizado": "2026-11-15T06:00:00-05:00",
-  "actualizado_texto": "domingo 15 nov 2026, 06:00",
+  "actualizado": "2026-11-15T17:56:00-05:00",
+  "actualizado_texto": "domingo 15 nov 2026, 17:56",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: último hecho, 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 15 nov; mantener custodia en la vía a Taura y la E-40."
+      "texto": "Taura: último hecho, 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 15 nov (corte vespertino); mantener custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 15 nov. Agregado: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Ojo con controles no identificados."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 15 nov (corte vespertino). Agregado: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Ojo con controles no identificados."
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná: sin hechos delictivos nuevos al 15 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, causa preliminar accidental). Desde el 12 nov patrulla el Golfo la lancha guardacostas «Isla Puná» (LG-41)."
+      "texto": "Puná: sin hechos delictivos nuevos al 15 nov (corte vespertino); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, causa preliminar accidental). Desde el 12 nov patrulla el Golfo la lancha guardacostas «Isla Puná» (LG-41)."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 15 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera; 2 nov, crecida de un estero arrastró una camioneta (sin víctimas)."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 15 nov (corte vespertino). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera; 2 nov, crecida de un estero arrastró una camioneta (sin víctimas)."
     },
     {
       "tipo": "critica",
