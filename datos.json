@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-14T17:56:00-05:00",
-  "actualizado_texto": "sábado 14 nov 2026, 17:56",
+  "actualizado": "2026-11-15T06:00:00-05:00",
+  "actualizado_texto": "domingo 15 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: último hecho, 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 14 nov; mantener custodia en la vía a Taura y la E-40."
-    },
-    {
-      "tipo": "camaronera",
-      "texto": "Puná: sin hechos delictivos nuevos al 14 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla). Desde el 12 nov patrulla el Golfo la lancha guardacostas «Isla Puná» (LG-41)."
+      "texto": "Taura: último hecho, 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 15 nov; mantener custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes / Virgen de Fátima: sin hechos delictivos nuevos al 14 nov. Últimos graves: 3 oct, 4 muertos en una barbería de Tres Postes; 15 oct, 7 detenidos de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 15 nov. Agregado: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Ojo con controles no identificados."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 14 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera."
+      "texto": "Puná: sin hechos delictivos nuevos al 15 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, causa preliminar accidental). Desde el 12 nov patrulla el Golfo la lancha guardacostas «Isla Puná» (LG-41)."
+    },
+    {
+      "tipo": "camaronera",
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 15 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera; 2 nov, crecida de un estero arrastró una camioneta (sin víctimas)."
     },
     {
       "tipo": "critica",
-      "texto": "14 nov: dos balaceras al mediodía en Santa Lucía (Guayas), 1 muerto en el recinto El Porvenir y pánico en el mercado municipal; en Manta (barrio La Paz) asesinaron a una comerciante en su local."
+      "texto": "14 nov: dos balaceras al mediodía en Santa Lucía (Guayas), 1 muerto en el recinto El Porvenir; en Manta asesinaron a una comerciante en su local y la Policía detuvo a 8 por una red de estafa de vehículos."
     },
     {
       "tipo": "info",
@@ -195,7 +195,7 @@
       ],
       "disputa": true,
       "fecha": "2026-10-15",
-      "detalle": "Frontera entre Lobos Box y facciones de Los Choneros. En octubre de 2026 cayeron una facción de Las Águilas y 6 integrantes de \"Los Duendes\", entre ellos 2 policías y un agente de tránsito, por asaltos a camiones. El 3 oct 2026 un ataque armado en una barbería del recinto dejó 4 muertos y 2 heridos (móvil no confirmado). El 25 sep 2026 la Policía (operativo Atlas, recinto La Zanja, Jujan) detuvo a 5 presuntos miembros de la estructura «Águilas-Fatales», investigada por robos, secuestros y extorsiones en Tres Postes y Lorenzo de Garaicoa.",
+      "detalle": "Frontera entre Lobos Box y facciones de Los Choneros. En octubre de 2026 cayeron una facción de Las Águilas y 6 integrantes de \"Los Duendes\", entre ellos 2 policías y un agente de tránsito, por asaltos a camiones. El 3 oct 2026 un ataque armado en una barbería del recinto dejó 4 muertos y 2 heridos (móvil no confirmado). El 25 sep 2026 la Policía (operativo Atlas, recinto La Zanja, Jujan) detuvo a 5 presuntos miembros de la estructura «Águilas-Fatales», investigada por robos, secuestros y extorsiones en Tres Postes y Lorenzo de Garaicoa. 15 oct 2026: robo de un camión de cacao con falso control policial en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE entre los 6 procesados (Fiscalía).",
       "fuente": "Extra / Vistazo / El Diario, 2025–2026",
       "url": "https://www.vistazo.com/seguridad/2026-10-14-policias-vigilante-duendes-aprehendidos-robo-camion-guayas-JF11275095"
     },
@@ -3479,6 +3479,53 @@
       "detalle": "En la mañana, atacantes llegaron a un pequeño negocio de encebollados y dispararon más de tres veces contra la comerciante, que murió en el lugar. Móvil no determinado; sin detenidos. El reporte cita 436 muertes violentas en 2026 en Manta, Montecristi y Jaramijó.",
       "fuente": "El Diario, 14 nov 2026",
       "url": "https://www.eldiario.ec/seguridad/una-mujer-fue-asesinada-mientras-atendia-su-negocio-de-encebollados-en-manta-14112026/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Recinto Tres Postes, vía Yaguachi – Milagro",
+      "lat": -2.06,
+      "lon": -79.62,
+      "fecha": "2026-10-15",
+      "quien": "Fiscalía / Policía Nacional (procesados: 2 policías en servicio activo y 1 presunto miembro de la CTE)",
+      "detalle": "Robo de un camión cargado de cacao de exportación: un motorizado con uniforme policial simuló un control de documentos en el recinto Tres Postes (ruta Ventanas–Durán) y 5 armados se llevaron el camión; el vehículo apareció en el sector norte de Yaguachi. 6 procesados con prisión preventiva, entre ellos 2 policías activos y un presunto integrante de la CTE (tenía credencial y radio). Decomiso: 2 armas, 50 municiones, 5 cargadores, 1 chaleco antibalas y 6 celulares. Alerta: falsos controles en la vía para traslados de carga.",
+      "fuente": "Fiscalía General del Estado / El Universo, 16 oct 2026",
+      "url": "https://www.fiscalia.gob.ec/6-procesados-por-robo-de-un-camion-con-cacao-en-guayas/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Coop. 4 de Septiembre, Isla Trinitaria (sur de Guayaquil)",
+      "lat": -2.245,
+      "lon": -79.905,
+      "fecha": "2026-11-13",
+      "quien": "Policía Nacional (DINASED, Distrito Esteros)",
+      "detalle": "Operación «Cero Impunidad 37102»: 1 aprehendido de 22 años por su presunta participación en la muerte de un hombre de 26 años, atacado con arma blanca el 12 nov durante una disputa por material reciclable.",
+      "fuente": "Policía Nacional, 14 nov 2026",
+      "url": "https://noticias.policia.gob.ec/policia-nacional-aprehende-a-un-ciudadano-por-su-presunta-participacion-en-una-muerte-violenta-en-guayaquil/"
+    },
+    {
+      "tipo": "operativo",
+      "general": true,
+      "lugar": "Manta, Manabí (sector no precisado)",
+      "lat": -0.955,
+      "lon": -80.72,
+      "fecha": "2026-11-14",
+      "quien": "Policía Nacional (Policía Judicial Manta) y Fiscalía",
+      "detalle": "Allanamiento a un local de venta de vehículos por presunta estafa (cobraban autos que nunca entregaban): 8 detenidos; decomiso de 1 pistola 9 mm, 14 cartuchos, 4 vehículos, radios y celulares. Sin banda nombrada.",
+      "fuente": "El Diario, 14 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/cae-presunta-red-de-estafa-de-vehiculos-en-manta-la-policia-incauta-armas-autos-y-dispositivos-en-allanamiento-14112026/"
+    },
+    {
+      "tipo": "camaronera",
+      "antecedente": true,
+      "lugar": "Guasmo Sur (Playita del Guasmo) y muelle clandestino de Puerto Lisita, Guayaquil",
+      "lat": -2.29,
+      "lon": -79.875,
+      "fecha": "2024-09-29",
+      "quien": "Bloque de Seguridad (FF.AA. y Policía) con grupo marítimo",
+      "detalle": "Operativo contra un grupo que presuntamente asaltaba camaroneras del Golfo de Guayaquil: 5 detenidos, otras 11 personas retenidas para verificación, 7 armas de fuego y 2 embarcaciones decomisadas, y camarón sin registro.",
+      "fuente": "KCH FM, 30 sep 2024",
+      "url": "https://kchcomunicacion.com/?p=125848"
     }
   ],
   "zonas_criticas": [
@@ -3567,5 +3614,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo, Notimundo, KCH FM"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo, Notimundo, KCH FM, Fiscalía General del Estado"
 }
