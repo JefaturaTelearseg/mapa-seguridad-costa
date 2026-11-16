@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-15T17:56:00-05:00",
-  "actualizado_texto": "domingo 15 nov 2026, 17:56",
+  "actualizado": "2026-11-16T06:00:00-05:00",
+  "actualizado_texto": "lunes 16 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: último hecho, 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 15 nov (corte vespertino); mantener custodia en la vía a Taura y la E-40."
+      "texto": "Taura: último hecho, 10 nov, la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). Sin hechos nuevos al 16 nov (corte matutino); mantener custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 15 nov (corte vespertino). Agregado: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Ojo con controles no identificados."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 16 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Ojo con controles no identificados."
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná: sin hechos delictivos nuevos al 15 nov (corte vespertino); último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, causa preliminar accidental). Desde el 12 nov patrulla el Golfo la lancha guardacostas «Isla Puná» (LG-41)."
+      "texto": "Puná: sin hechos delictivos nuevos al 16 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, causa preliminar accidental). Desde el 12 nov patrulla el Golfo la lancha guardacostas «Isla Puná» (LG-41)."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 15 nov (corte vespertino). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera; 2 nov, crecida de un estero arrastró una camioneta (sin víctimas)."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 16 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso; 2 nov, crecida de un estero arrastró una camioneta (sin víctimas)."
     },
     {
       "tipo": "critica",
-      "texto": "14 nov: dos balaceras al mediodía en Santa Lucía (Guayas), 1 muerto en el recinto El Porvenir; en Manta asesinaron a una comerciante en su local y la Policía detuvo a 8 por una red de estafa de vehículos."
+      "texto": "15 nov: masacre en el barrio 24 de Septiembre de Machala (5 muertos, 4 heridos); en Manta, un hombre asesinado en Las Cumbres y un detenido por asalto armado en la Ruta del Spondylus. 14 nov: mototaxista asesinado en el centro de Esmeraldas."
     },
     {
       "tipo": "info",
@@ -3526,6 +3526,50 @@
       "detalle": "Operativo contra un grupo que presuntamente asaltaba camaroneras del Golfo de Guayaquil: 5 detenidos, otras 11 personas retenidas para verificación, 7 armas de fuego y 2 embarcaciones decomisadas, y camarón sin registro.",
       "fuente": "KCH FM, 30 sep 2024",
       "url": "https://kchcomunicacion.com/?p=125848"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio 24 de Septiembre, Machala (El Oro)",
+      "lat": -3.262,
+      "lon": -79.948,
+      "fecha": "2026-11-15",
+      "quien": "Policía Nacional (Criminalística)",
+      "detalle": "Masacre: hacia la 01:15, dos hombres en moto dispararon contra un grupo reunido afuera de una vivienda: 5 muertos (4 en el sitio, 1 en el hospital) y 4 heridos. 25 vainas 9 mm. Sin detenidos; la Policía no descarta disputa entre organizaciones (sin banda nombrada).",
+      "fuente": "El Diario, 15 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/masacre-en-machala-deja-cinco-muertos-y-cuatro-heridos-durante-una-reunion-15112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Las Cumbres, Manta (Manabí)",
+      "lat": -0.965,
+      "lon": -80.72,
+      "fecha": "2026-11-15",
+      "quien": "Policía Nacional (Criminalística)",
+      "detalle": "Hacia las 12:30, varios hombres armados mataron a tiros a un hombre (preliminarmente barbero) en la vía y huyeron en un vehículo; ~5 vainas 9 mm. Sin detenidos. Es el segundo hecho en Las Cumbres esta semana (doble crimen del 11–12 nov). En el fin de semana hubo además un asesinato de un taxista en zona rural de Montecristi.",
+      "fuente": "El Diario, 15 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/un-barbero-es-asesinado-a-tiros-en-el-barrio-las-cumbres-de-manta-15112026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Sector La Fabril, Ruta del Spondylus, Manta (Manabí)",
+      "lat": -0.94,
+      "lon": -80.69,
+      "fecha": "2026-11-15",
+      "quien": "Policía Nacional (Distrito Manta, Operativo Apolo)",
+      "detalle": "Tres hombres en un auto asaltaron con armas a un grupo de caminantes en la Ruta del Spondylus; tras una persecución, 1 detenido (flagrancia) y decomiso de una pistola, 3 cartuchos y el vehículo. Dos sospechosos prófugos.",
+      "fuente": "El Diario, 15 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/detienen-a-un-sospechoso-tras-presunto-robo-a-mano-armada-en-la-ruta-del-spondylus-en-manta-15112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de Esmeraldas (sector calle México)",
+      "lat": 0.958,
+      "lon": -79.655,
+      "fecha": "2026-11-14",
+      "quien": "Sujetos en moto (sin identificar); acudieron Policía y FF.AA.",
+      "detalle": "Hacia las 18:00, dos encapuchados en moto dispararon repetidamente contra un joven mototaxista: 1 muerto. La Policía hizo operativos y allanamientos en una calle cercana, sin detenidos reportados. Segundo crimen en el centro en una semana (9 nov).",
+      "fuente": "Extra, 14 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/joven-trabajaba-mototaxista-victima-ataque-centro-esmeraldas-167966.html"
     }
   ],
   "zonas_criticas": [
