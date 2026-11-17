@@ -1,10 +1,14 @@
 {
-  "actualizado": "2026-11-17T06:00:00-05:00",
-  "actualizado_texto": "martes 17 nov 2026, 06:00",
+  "actualizado": "2026-11-17T17:53:00-05:00",
+  "actualizado_texto": "martes 17 nov 2026, 17:53",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: sin hechos delictivos nuevos al 17 nov. Último: 10 nov, la UNASE rescató a 2 personas secuestradas que viajaban en un camión por Taura (pedían USD 200.000). 16 nov: el Presidente ratificó el plan de un aeropuerto internacional junto a la base de Taura. Mantener custodia en la vía a Taura y la E-40."
+      "texto": "Puná: noche del 16 nov, detonaciones e incendio de una lancha que transportaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego. Moradores hablan de armados que dispararon contra dos embarcaciones; sin heridos ni detenidos. Reforzar custodia en muelles y traslados."
+    },
+    {
+      "tipo": "camaronera",
+      "texto": "Taura: sin hechos delictivos nuevos al 17 nov. Último: 10 nov, la UNASE rescató a 2 personas secuestradas que viajaban en un camión por Taura (pedían USD 200.000). Mantener custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "alta",
@@ -12,15 +16,11 @@
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná: sin hechos delictivos nuevos al 17 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, causa preliminar accidental). Desde el 12 nov patrulla el Golfo la lancha guardacostas «Isla Puná» (LG-41)."
-    },
-    {
-      "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 17 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso; 2 nov, crecida de un estero arrastró una camioneta (sin víctimas)."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 17 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
       "tipo": "critica",
-      "texto": "16 nov: hombre baleado dentro de una vivienda en el centro de Machala, un día después de la masacre de 5 muertos en el barrio 24 de Septiembre. 15 nov: 6 crímenes en 12 h en el distrito Manta; 134 kg de cocaína en madera de balsa decomisados en el puerto de Posorja."
+      "texto": "17 nov: mujer asesinada al salir de un gimnasio en Los Esteros (sur de Guayaquil); sicarios mataron a un hombre en la piscina de un complejo en Arenillas. 16 nov: FF.AA. abatieron a 1 y hallaron ~500 kg de cocaína de Los Lobos en Montecristi. 15 nov: 3 muertos en discoteca de Playas."
     },
     {
       "tipo": "info",
@@ -1169,6 +1169,85 @@
     }
   ],
   "eventos": [
+    {
+      "tipo": "camaronera",
+      "zona": "Puná",
+      "lugar": "Atracadero de Barrio Lindo, cabecera de Isla Puná",
+      "lat": -2.735,
+      "lon": -79.915,
+      "fecha": "2026-11-16",
+      "quien": "Policía Nacional / Armada del Ecuador",
+      "detalle": "Hacia las 22:45, una patrulla policial escuchó detonaciones en el atracadero de embarcaciones de Barrio Lindo y halló una lancha en llamas; personal de la Armada apagó el fuego con extintores. Según moradores, la lancha transportaba combustible a la isla (los bidones estaban vacíos). Sin heridos reportados. Otras versiones de moradores hablan de hombres armados que dispararon e incendiaron dos embarcaciones (más de 10 detonaciones); las autoridades no lo han confirmado. Sin detenidos; se investiga si hubo amenaza previa al dueño.",
+      "fuente": "Extra, 17 nov 2026; El Comercio, 17 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/isla-puna-incendio-embarcacion-detonaciones-guayaquil-168188.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector Los Esteros, sur de Guayaquil",
+      "lat": -2.235,
+      "lon": -79.895,
+      "fecha": "2026-11-17",
+      "quien": "Policía Nacional",
+      "detalle": "Poco después de las 10:00, una mujer fue asesinada a tiros por atacantes en moto al salir de un gimnasio. 4 casquillos recogidos. Sin detenidos.",
+      "fuente": "Extra, 17 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/salir-gimnasio-sur-guayaquil-mujer-sufrio-ataque-armado-fallecio-168156.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Complejo turístico, cantón Arenillas (El Oro)",
+      "lat": -3.551,
+      "lon": -80.064,
+      "general": true,
+      "fecha": "2026-11-17",
+      "quien": "Policía Nacional",
+      "detalle": "Sicarios encapuchados mataron a tiros a un hombre en la piscina de un complejo turístico, frente a bañistas; el ataque quedó grabado en cámaras. Sin detenidos.",
+      "fuente": "El Diario, 17 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/terror-en-la-piscina-sicarios-encapuchados-ejecutaron-a-un-hombre-frente-a-todos-los-turistas-en-arenillas-17112026"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Sitio Manantiales, Montecristi (Manabí)",
+      "lat": -1.06,
+      "lon": -80.66,
+      "fecha": "2026-11-16",
+      "quien": "Fuerzas Armadas (FTC Manabí)",
+      "detalle": "En la madrugada, enfrentamiento armado: 1 presunto delincuente abatido y 3 detenidos (1 menor). Unos 500 kg de cocaína en una caleta subterránea, fusil(es), escopeta, pistola, USD 16.000 y un vehículo robado. Atribuido a una facción de Los Lobos.",
+      "fuente": "El Diario, 16 nov 2026; Extra, 16 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/operativo-militar-en-montecristi-deja-un-presunto-delincuente-abatido-tres-detenidos-y-mas-de-media-tonelada-de-cocaina-incautada-16112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Parroquia La Unión, Babahoyo (Los Ríos)",
+      "lat": -1.79,
+      "lon": -79.52,
+      "fecha": "2026-11-17",
+      "quien": "Policía Nacional / antiexplosivos",
+      "detalle": "Hacia las 02:25, un cajero automático fue destrozado con un presunto explosivo en un intento de robo. No se confirma si se llevaron dinero. Sin detenidos.",
+      "fuente": "El Diario, 17 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/cajero-automatico-queda-destrozado-en-babahoyo-lograron-llevarse-el-dinero-17112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Las Peñas, General Villamil Playas (Guayas)",
+      "lat": -2.633,
+      "lon": -80.39,
+      "fecha": "2026-11-15",
+      "quien": "Policía Nacional (DINASED)",
+      "detalle": "Hacia la 01:00, ataque armado en una discoteca durante un cumpleaños: 3 muertos (entre ellos un policía franco y un extranjero) y 6 heridos. 21 casquillos (9 mm y 5,56 mm). Local clausurado. Sin detenidos.",
+      "fuente": "Infobae, 16 nov 2026",
+      "url": "https://www.infobae.com/colombia/2026/11/16/un-colombiano-murio-en-un-ataque-armado-en-una-discoteca-en-ecuador-se-encontraba-celebrando-un-cumpleanos/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Petrillo (Nobol/Daule), La Prosperina y El Fortín (Guayaquil)",
+      "lat": -2.07,
+      "lon": -79.96,
+      "fecha": "2026-11-17",
+      "quien": "Fiscalía General del Estado",
+      "detalle": "10 procesados con prisión preventiva por tráfico de drogas a gran escala tras allanamientos: 1,43 kg de cocaína, 5 celulares, vehículos y motos.",
+      "fuente": "El Diario, 17 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/diez-personas-quedan-en-prision-preventiva-por-trafico-de-drogas-en-guayas-17112026"
+    },
     {
       "tipo": "ataque",
       "lugar": "Barrio 24 de Septiembre, Machala (El Oro)",
@@ -3757,7 +3836,7 @@
       "lat": -2.86,
       "lon": -80.12,
       "radio_m": 13000,
-      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante «Lago San Pablo» al sur de la isla (la Armada lo considera preliminarmente accidental). Antecedentes: en 2024 piratas saquearon Puerto Arturo y 17 familias huyeron; secuestro en La Pólvora (oct 2024). En feb 2026 la Armada destruyó en el norte de la isla un puesto clandestino de vigilancia de embarcaciones. Sin hechos nuevos publicados al 8 nov.",
+      "detalle": "Campamentos de Los Lobos confirmados por la Armada; ataques con explosivos a embarcaciones (jul 2025), asalto a barcaza con 2 guardias muertos (jul 2025), 6 guardias desaparecidos custodiando camarón (jun 2026) y el 28 oct 2026 el incendio y hundimiento de la estación guardacostas flotante «Lago San Pablo» al sur de la isla (la Armada lo considera preliminarmente accidental). Antecedentes: en 2024 piratas saquearon Puerto Arturo y 17 familias huyeron; secuestro en La Pólvora (oct 2024). En feb 2026 la Armada destruyó en el norte de la isla un puesto clandestino de vigilancia de embarcaciones. 16 nov 2026: detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo (moradores hablan de ataque armado a dos embarcaciones; sin heridos ni detenidos).",
       "fuente": "Primicias, 29 oct 2026",
       "url": "https://www.primicias.ec/sucesos/estacion-guardacostas-armada-hundimiento-incendio-isla-puna-guayaquil-135955/",
       "zona": "Puná"
@@ -3790,5 +3869,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo, Notimundo, KCH FM, Fiscalía General del Estado"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo, Notimundo, KCH FM, Fiscalía General del Estado, Infobae"
 }
