@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-16T17:55:00-05:00",
-  "actualizado_texto": "lunes 16 nov 2026, 17:55",
+  "actualizado": "2026-11-17T06:00:00-05:00",
+  "actualizado_texto": "martes 17 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Taura: último hecho, 10 nov, la UNASE rescató a 2 personas secuestradas que viajaban en un camión por Taura (pedían USD 200.000). Sin hechos delictivos nuevos al 16 nov. 15 nov: el Presidente anunció un aeropuerto internacional junto a la base militar de Taura (sin detalles). Mantener custodia en la vía a Taura y la E-40."
+      "texto": "Taura: sin hechos delictivos nuevos al 17 nov. Último: 10 nov, la UNASE rescató a 2 personas secuestradas que viajaban en un camión por Taura (pedían USD 200.000). 16 nov: el Presidente ratificó el plan de un aeropuerto internacional junto a la base de Taura. Mantener custodia en la vía a Taura y la E-40."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 16 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Ojo con controles no identificados."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 17 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Ojo con controles no identificados."
     },
     {
       "tipo": "camaronera",
-      "texto": "Puná: sin hechos delictivos nuevos al 16 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, causa preliminar accidental). Desde el 12 nov patrulla el Golfo la lancha guardacostas «Isla Puná» (LG-41)."
+      "texto": "Puná: sin hechos delictivos nuevos al 17 nov; último, 28 oct (incendio y hundimiento de la estación guardacostas «Lago San Pablo» al sur de la isla, causa preliminar accidental). Desde el 12 nov patrulla el Golfo la lancha guardacostas «Isla Puná» (LG-41)."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 16 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso; 2 nov, crecida de un estero arrastró una camioneta (sin víctimas)."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 17 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso; 2 nov, crecida de un estero arrastró una camioneta (sin víctimas)."
     },
     {
       "tipo": "critica",
-      "texto": "15 nov: 6 crímenes en 12 h en el distrito Manta (15 de Abril, Las Cumbres, Montecristi, Jaramijó); en Guayaquil 3 muertos y 3 heridos en 4 ataques (Mapasingue, Chongón, Trinitaria, Pascuales); mujer asesinada en Santa Elena. Masacre en Machala (5 muertos)."
+      "texto": "16 nov: hombre baleado dentro de una vivienda en el centro de Machala, un día después de la masacre de 5 muertos en el barrio 24 de Septiembre. 15 nov: 6 crímenes en 12 h en el distrito Manta; 134 kg de cocaína en madera de balsa decomisados en el puerto de Posorja."
     },
     {
       "tipo": "info",
@@ -3680,6 +3680,28 @@
       "detalle": "Intervención de una camaronera que, según el medio, usaban Los Lobos para actividades ilícitas. Fecha por confirmar.",
       "fuente": "Ecuavisa",
       "url": "https://www.ecuavisa.com/noticias/seguridad/importante-golpe-los-lobos-camaronera-el-oro-YA9367607"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Puerto de Posorja, Guayaquil (Golfo de Guayaquil)",
+      "lat": -2.71,
+      "lon": -80.25,
+      "fecha": "2026-11-15",
+      "quien": "Policía Nacional",
+      "detalle": "Control portuario: 134 kg de cocaína (136 paquetes) ocultos entre paneles de madera de balsa en dos contenedores con destino a Alemania vía Panamá; hallados tras perfilamiento e inspección canina. Sin detenidos reportados.",
+      "fuente": "Extra, 15 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/guayaquil-cocaina-madera-balsa-posorja-alemania-134-kilos-167983.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de Machala (El Oro)",
+      "lat": -3.259,
+      "lon": -79.96,
+      "fecha": "2026-11-16",
+      "quien": "Policía Nacional / Agencia Civil de Tránsito",
+      "detalle": "Un hombre extranjero fue baleado varias veces dentro de una vivienda; agentes de tránsito lo trasladaron al hospital en el balde de un patrullero (llegó hacia las 15:20). Sin detenidos; móvil en investigación.",
+      "fuente": "El Diario, 16 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/lo-llevaron-en-el-balde-de-un-patrullero-hombre-fue-baleado-dentro-de-una-vivienda-en-machala-16112026/"
     }
   ],
   "zonas_criticas": [
