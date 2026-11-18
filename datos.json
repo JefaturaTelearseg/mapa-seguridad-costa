@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-17T17:53:00-05:00",
-  "actualizado_texto": "martes 17 nov 2026, 17:53",
+  "actualizado": "2026-11-18T05:51:00-05:00",
+  "actualizado_texto": "miércoles 18 nov 2026, 05:51",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: noche del 16 nov, detonaciones e incendio de una lancha que transportaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego. Moradores hablan de armados que dispararon contra dos embarcaciones; sin heridos ni detenidos. Reforzar custodia en muelles y traslados."
+      "texto": "Puná: sin hechos nuevos al 18 nov. Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego. Moradores reportan armados que dispararon contra dos embarcaciones; sin heridos ni detenidos. Reforzar custodia en muelles y traslados."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 17 nov. Último: 10 nov, la UNASE rescató a 2 personas secuestradas que viajaban en un camión por Taura (pedían USD 200.000). Mantener custodia en la vía a Taura y la E-40."
+      "texto": "Taura: sin hechos delictivos nuevos al 18 nov. 16 nov: el Gobierno ratificó un aeropuerto junto a la Base Aérea de Taura, prevista como punto de cooperación militar antinarcóticos. Último delito: 10 nov, la UNASE rescató a 2 secuestrados que viajaban en un camión por Taura."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 17 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Ojo con controles no identificados."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 18 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Se sumó al historial un rescate de 2 secuestrados en Playones (ene 2026, Los Águilas)."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 17 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 18 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
       "tipo": "critica",
-      "texto": "17 nov: mujer asesinada al salir de un gimnasio en Los Esteros (sur de Guayaquil); sicarios mataron a un hombre en la piscina de un complejo en Arenillas. 16 nov: FF.AA. abatieron a 1 y hallaron ~500 kg de cocaína de Los Lobos en Montecristi. 15 nov: 3 muertos en discoteca de Playas."
+      "texto": "17 nov: UNASE rescató a una secuestrada en Chongón y capturó a 4 presuntos Tiguerones; mujer asesinada al salir de un gimnasio en Los Esteros (sur de Guayaquil); sicarios mataron a un hombre en la piscina de un complejo en Arenillas. Al menos 27 muertes violentas en la Costa entre el 15 y 17 nov."
     },
     {
       "tipo": "info",
@@ -234,7 +234,7 @@
       ],
       "disputa": true,
       "fecha": "2026-10-15",
-      "detalle": "Las Águilas, brazo armado de Los Choneros, disputan el cantón con Los Lobos. El 15 de octubre de 2026 la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas que operaban en Jujan, Simón Bolívar y el recinto Tres Postes, con subfusil, subametralladora, pistolas y más de 200 cartuchos; se les vincula a extorsiones y asaltos. En junio cayó su cabecilla en el cantón. El barrio Chino es el sector más golpeado. Antecedente: el 21 oct 2023 una masacre en el barrio Chino dejó 7 muertos, en medio de la disputa Lobos–Águilas. Otros antecedentes: oct 2022, dos ataques en una semana (puente del río Yaguachi y recinto La Leona, 8 muertos); mar y ago 2023, balaceras en el barrio Chino y el centro (7 muertos).",
+      "detalle": "Las Águilas, brazo armado de Los Choneros, disputan el cantón con Los Lobos. El 15 de octubre de 2026 la Policía detuvo a 7 presuntos miembros de una facción de Las Águilas que operaban en Jujan, Simón Bolívar y el recinto Tres Postes, con subfusil, subametralladora, pistolas y más de 200 cartuchos; se les vincula a extorsiones y asaltos. En junio cayó su cabecilla en el cantón. El barrio Chino es el sector más golpeado. Antecedente: el 21 oct 2023 una masacre en el barrio Chino dejó 7 muertos, en medio de la disputa Lobos–Águilas. Otros antecedentes: oct 2022, dos ataques en una semana (puente del río Yaguachi y recinto La Leona, 8 muertos); mar y ago 2023, balaceras en el barrio Chino y el centro (7 muertos). Ene 2026: la Policía rescató a 2 secuestrados en Playones tras un enfrentamiento con Los Águilas (1 abatido).",
       "fuente": "Expreso, 16 oct 2026",
       "url": "https://www.expreso.ec/ecuador/alias-perra-flaca-bacteria-capturados-operativo-aguilas-guayas-299568.html",
       "zona": "Yaguachi"
@@ -3781,6 +3781,41 @@
       "detalle": "Un hombre extranjero fue baleado varias veces dentro de una vivienda; agentes de tránsito lo trasladaron al hospital en el balde de un patrullero (llegó hacia las 15:20). Sin detenidos; móvil en investigación.",
       "fuente": "El Diario, 16 nov 2026",
       "url": "https://www.eldiario.ec/seguridad/lo-llevaron-en-el-balde-de-un-patrullero-hombre-fue-baleado-dentro-de-una-vivienda-en-machala-16112026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Sector Playones, Yaguachi",
+      "lat": -2.06,
+      "lon": -79.66,
+      "fecha": "2026-01-28",
+      "quien": "Policía Nacional (Policía Judicial)",
+      "detalle": "Operación «Cero Impunidad 2206»: rescate de 2 personas secuestradas tras un enfrentamiento armado; 1 presunto delincuente abatido y 1 herido y aprehendido. Decomiso: 1 arma de fuego, 1 vehículo, 1 moto y 1 celular. La Policía lo vincula a Los Águilas.",
+      "fuente": "Expreso, 28 ene 2026",
+      "url": "https://www.expreso.ec/ecuador/liberan-dos-secuestrados-en-yaguachi-tras-enfrentamiento-armado-272570.html",
+      "zona": "Yaguachi"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Base Aérea de Taura, Naranjal",
+      "lat": -2.261,
+      "lon": -79.68,
+      "fecha": "2026-11-16",
+      "quien": "Presidencia / Fuerzas Armadas",
+      "detalle": "El presidente ratificó la construcción de un aeropuerto comercial junto a la Base Aérea de Taura, que según el Gobierno será punto de cooperación militar internacional contra el narcotráfico y el crimen organizado (EE.UU., Brasil, UE) bajo control ecuatoriano. Sin hechos delictivos reportados.",
+      "fuente": "El Mercurio, 16 nov 2026",
+      "url": "https://elmercurio.com.ec/ultimas-noticias/2026/11/16/nuevo-aeropuerto-base-taura-cuenca-austro/",
+      "zona": "Taura"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Chongón, vía a la Costa (oeste de Guayaquil)",
+      "lat": -2.225,
+      "lon": -80.07,
+      "fecha": "2026-11-17",
+      "quien": "Policía Nacional (UNASE) / Fiscalía",
+      "detalle": "Rescate de una mujer secuestrada y trasladada desde Santa Elena: 4 aprehendidos (3 adultos y 1 adolescente) presuntos integrantes de Los Tiguerones. Decomiso: 2 armas, municiones, 2 cargadores, 5 celulares y 1 auto. Se investiga su relación con un crimen múltiple de agosto en Bellavista.",
+      "fuente": "Extra, 17 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/presuntos-tiguerones-caen-secuestro-guayaquil-abren-pista-sobre-crimen-multiple-168197.html"
     }
   ],
   "zonas_criticas": [
