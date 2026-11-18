@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-18T05:51:00-05:00",
-  "actualizado_texto": "miércoles 18 nov 2026, 05:51",
+  "actualizado": "2026-11-18T17:55:00-05:00",
+  "actualizado_texto": "miércoles 18 nov 2026, 17:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 18 nov. Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego. Moradores reportan armados que dispararon contra dos embarcaciones; sin heridos ni detenidos. Reforzar custodia en muelles y traslados."
+      "texto": "Puná: sin hechos nuevos al 18 nov (tarde). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego. Moradores reportan armados que dispararon contra dos embarcaciones; sin heridos ni detenidos. Reforzar custodia en muelles y traslados."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 18 nov. 16 nov: el Gobierno ratificó un aeropuerto junto a la Base Aérea de Taura, prevista como punto de cooperación militar antinarcóticos. Último delito: 10 nov, la UNASE rescató a 2 secuestrados que viajaban en un camión por Taura."
+      "texto": "Taura: sin hechos delictivos nuevos al 18 nov (tarde). 16 nov: el Gobierno ratificó un aeropuerto junto a la Base Aérea de Taura, prevista como punto de cooperación militar antinarcóticos. Último delito: 10 nov, la UNASE rescató a 2 secuestrados que viajaban en un camión por Taura."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 18 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Se sumó al historial un rescate de 2 secuestrados en Playones (ene 2026, Los Águilas)."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 18 nov (tarde). Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Se sumó al historial un rescate de 2 secuestrados en Playones (ene 2026, Los Águilas)."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 18 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 18 nov (tarde). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
       "tipo": "critica",
-      "texto": "17 nov: UNASE rescató a una secuestrada en Chongón y capturó a 4 presuntos Tiguerones; mujer asesinada al salir de un gimnasio en Los Esteros (sur de Guayaquil); sicarios mataron a un hombre en la piscina de un complejo en Arenillas. Al menos 27 muertes violentas en la Costa entre el 15 y 17 nov."
+      "texto": "17–18 nov: abogado asesinado al llegar a su casa en Las Orquídeas (norte de Guayaquil); hombre asesinado al salir de un centro médico con su hija (centro-sur de Guayaquil); repartidor asesinado en San Clemente (Manabí); 1 abatido tras asalto en La Libertad. Capturado en Pascuales un implicado en el crimen de un policía en Durán."
     },
     {
       "tipo": "info",
@@ -2391,7 +2391,7 @@
       "lon": -79.835,
       "fecha": "2026-10-29",
       "quien": "Sin identificar",
-      "detalle": "Hacia las 07:30 asesinaron a un policía tras dejar a su hija en la escuela. Hipótesis inicial: robo, no confirmada. Sin detenidos.",
+      "detalle": "Hacia las 07:30 asesinaron a un policía tras dejar a su hija en la escuela. Hipótesis inicial: robo, no confirmada. Sin detenidos. 18 nov: la Policía capturó en Pascuales a 1 implicado (20 años); se busca a otro.",
       "fuente": "El Comercio, 29 oct 2026",
       "url": "https://www.elcomercio.com/actualidad/ecuador/policia-asesinado-duran-dejar-hija-escuela/"
     },
@@ -3816,6 +3816,73 @@
       "detalle": "Rescate de una mujer secuestrada y trasladada desde Santa Elena: 4 aprehendidos (3 adultos y 1 adolescente) presuntos integrantes de Los Tiguerones. Decomiso: 2 armas, municiones, 2 cargadores, 5 celulares y 1 auto. Se investiga su relación con un crimen múltiple de agosto en Bellavista.",
       "fuente": "Extra, 17 nov 2026",
       "url": "https://www.extra.ec/noticia/guayaquil/presuntos-tiguerones-caen-secuestro-guayaquil-abren-pista-sobre-crimen-multiple-168197.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro-sur de Guayaquil (distrito 9 de Octubre)",
+      "lat": -2.198,
+      "lon": -79.893,
+      "fecha": "2026-11-18",
+      "quien": "Atacantes en moto",
+      "detalle": "Pasadas las 10:30, un hombre fue interceptado por motociclistas y asesinado a tiros al salir de un centro médico al que había llevado a su hija; la niña, su pareja y el taxista salieron ilesos. Más de 6 indicios balísticos. Policía descarta robo; sin detenidos.",
+      "fuente": "Extra, 18 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/hombre-murio-ataque-salia-consulta-medica-hija-168251.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector Las Orquídeas, norte de Guayaquil",
+      "lat": -2.103,
+      "lon": -79.928,
+      "fecha": "2026-11-17",
+      "quien": "Ocupantes de un auto",
+      "detalle": "Hacia las 19:30, un abogado de 39 años fue interceptado al llegar a su domicilio; un atacante bajó de un auto, le disparó varias veces y huyó. 27 indicios balísticos de distintos calibres. Sin detenidos.",
+      "fuente": "Extra, 18 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/abogado-sufrio-atentado-perdio-vida-llegando-casa-orquideas-168227.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Parroquia Pascuales (norte de Guayaquil)",
+      "lat": -2.085,
+      "lon": -79.955,
+      "fecha": "2026-11-18",
+      "quien": "Policía Nacional (Zona 8)",
+      "detalle": "Capturado con boleta 1 hombre de 20 años implicado en el asesinato de un sargento de Policía el 29 oct en La Primavera (Durán), a quien le quitaron su arma en un asalto. Allanamiento en Durán con decomiso de ropa y munición. Se busca a un segundo implicado.",
+      "fuente": "Extra, 18 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/pascuales-capturan-implicado-crimen-policia-duran-mes-pasado-168242.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "San Clemente (sector La Y), parroquia Charapotó, cantón Sucre (Manabí)",
+      "lat": -0.775,
+      "lon": -80.51,
+      "fecha": "2026-11-18",
+      "quien": "Sin identificar",
+      "detalle": "En la mañana, el conductor de una camioneta repartidora de productos de consumo masivo fue interceptado y recibió múltiples disparos; murió en una casa de salud. Sin detenidos; Dinased investiga el móvil.",
+      "fuente": "El Diario, 18 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/san-clemente-conductor-de-camioneta-repartidora-fallecio-tras-ataque-armado-en-el-canton-sucre-18112026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "La Libertad (Santa Elena), sector no precisado",
+      "lat": -2.232,
+      "lon": -80.905,
+      "fecha": "2026-11-18",
+      "quien": "Policía Nacional",
+      "detalle": "Tras alerta por un asalto armado a una mujer, un policía interceptó a 2 hombres en moto que le apuntaron: 1 abatido y 1 detenido tras persecución a pie. Decomiso de arma de fuego y moto con reporte de robo.",
+      "fuente": "El Diario, 18 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/un-abatido-y-un-presunto-delincuente-detenido-tras-persecucion-policial-en-santa-elena-18112026/",
+      "general": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Sector Vergeles, distrito Pascuales (norte de Guayaquil)",
+      "lat": -2.11,
+      "lon": -79.94,
+      "fecha": "2026-11-17",
+      "quien": "Fuerzas Armadas (Fuerza de Tarea Conjunta Guayas)",
+      "detalle": "Patrullaje militar: 1 aprehendido en flagrancia con 19 dosis (17 de presunta marihuana y 2 de PLOP); entregado a la Policía y Fiscalía.",
+      "fuente": "El Diario, 17 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/capturan-a-un-sujeto-con-19-dosis-de-droga-durante-operativo-en-el-norte-de-guayaquil-17112026/"
     }
   ],
   "zonas_criticas": [
