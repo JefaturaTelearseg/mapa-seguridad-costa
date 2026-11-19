@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-11-19T05:58:00-05:00",
-  "actualizado_texto": "jueves 19 nov 2026, 05:58",
+  "actualizado": "2026-11-19T17:50:00-05:00",
+  "actualizado_texto": "jueves 19 nov 2026, 17:50",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 19 nov. Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se incendió y hundió la estación guardacostas flotante al sur de la isla. Reforzar custodia en muelles y traslados."
+      "texto": "Puná: sin hechos nuevos al 19 nov. Último: noche del 16 nov, detonaciones e incendio de una lancha en el atracadero de Barrio Lindo; la Armada apagó el fuego. El Comercio (19 nov) reporta, sin confirmación oficial, disparos contra 2 embarcaciones. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
@@ -12,7 +12,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 19 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes (2 policías procesados). Se sumaron al historial 6 hechos antiguos, entre ellos la captura de 3 Águilas con 5 armas en Tres Postes (nov 2025)."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 19 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes. Se sumó al historial la captura de 4 presuntos Águilas con 3 armas en Yaguachi (11 jul 2026)."
     },
     {
       "tipo": "camaronera",
@@ -20,7 +20,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "18 nov: hombre baleado y en estado crítico en El Guabito (Portoviejo); repartidor asesinado en San Clemente (Manabí); hombre asesinado al salir de un centro médico en el centro-sur de Guayaquil. La Policía investiga una serie de asesinatos de conductores en Manta, Montecristi y Jaramijó."
+      "texto": "18 nov: gemelos de 15 años asesinados en su vivienda en Pascuales (Guayaquil); en Machala cae un cabecilla colombiano de «Los Agredo». 19 nov: Apolo 51 en Guayas con 6 capturados y 7 armas; 79 bultos de droga en San Vicente (Manabí)."
     },
     {
       "tipo": "info",
@@ -1177,8 +1177,8 @@
       "lon": -79.915,
       "fecha": "2026-11-16",
       "quien": "Policía Nacional / Armada del Ecuador",
-      "detalle": "Hacia las 22:45, una patrulla policial escuchó detonaciones en el atracadero de embarcaciones de Barrio Lindo y halló una lancha en llamas; personal de la Armada apagó el fuego con extintores. Según moradores, la lancha transportaba combustible a la isla (los bidones estaban vacíos). Sin heridos reportados. Otras versiones de moradores hablan de hombres armados que dispararon e incendiaron dos embarcaciones (más de 10 detonaciones); las autoridades no lo han confirmado. Sin detenidos; se investiga si hubo amenaza previa al dueño.",
-      "fuente": "Extra, 17 nov 2026; El Comercio, 17 nov 2026",
+      "detalle": "Hacia las 22:45, una patrulla policial escuchó detonaciones en el atracadero de embarcaciones de Barrio Lindo y halló una lancha en llamas; personal de la Armada apagó el fuego con extintores. Según moradores, la lancha transportaba combustible a la isla (los bidones estaban vacíos). Sin heridos reportados. Otras versiones de moradores hablan de hombres armados que dispararon e incendiaron dos embarcaciones (más de 10 detonaciones); las autoridades no lo han confirmado. Sin detenidos; se investiga si hubo amenaza previa al dueño. El Comercio (19 nov), citando reportes iniciales y redes, señala que hombres armados habrían disparado contra 2 embarcaciones y quemado una, con más de 10 detonaciones; sin confirmación oficial de afectados ni detenidos.",
+      "fuente": "Extra, 17 nov 2026; El Comercio, 17 nov 2026 · El Comercio, 19 nov 2026",
       "url": "https://www.extra.ec/noticia/guayaquil/isla-puna-incendio-embarcacion-detonaciones-guayaquil-168188.html"
     },
     {
@@ -3979,6 +3979,76 @@
       "detalle": "Pasadas las 19:30, un hombre recibió varios disparos; fue llevado en estado crítico al Hospital de Especialidades de Portoviejo. La Policía acordonó la zona; sin detenidos.",
       "fuente": "El Diario, 18 nov 2026",
       "url": "https://www.eldiario.ec/seguridad/ataque-armado-deja-un-hombre-herido-en-el-reasentamiento-el-guabito-de-portoviejo-18112026/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "general": true,
+      "lugar": "Cantón Yaguachi (sector no precisado)",
+      "lat": -2.08,
+      "lon": -79.69,
+      "fecha": "2026-07-11",
+      "quien": "Policía Nacional",
+      "detalle": "4 adultos aprehendidos y 1 adolescente aislado, presuntos integrantes de Los Águilas vinculados a robos en carreteras y muertes violentas. Decomiso: 2 armas largas, 1 pistola, 38 cartuchos, 2 motos y 1 vehículo con reporte de robo recuperado.",
+      "fuente": "KCH FM / El Universo, 11 jul 2026",
+      "url": "https://kchcomunicacion.com/2026/07/11/cuatro-adultos-aprehendidos-y-un-menor-aislado-por-vinculos-con-robos-en-carreteras-y-muertes-violentas-en-guayas/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Coop. Vilcabamba, parroquia Pascuales (norte de Guayaquil)",
+      "lat": -2.07,
+      "lon": -79.95,
+      "fecha": "2026-11-18",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 13:10, cuatro hombres armados en dos motos asesinaron a tiros a 2 hermanos gemelos de 15 años (uno dentro y otro fuera de la vivienda); la madre resultó herida. Dinased y Criminalística levantaron 3 indicios balísticos.",
+      "fuente": "El Diario, 19 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/su-madre-quedo-herida-sicarios-asesinan-a-hermanos-gemelos-de-15-anos-en-una-vivienda-de-guayaquil-19112026"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Circunvalación Norte, Machala (El Oro)",
+      "lat": -3.25,
+      "lon": -79.96,
+      "fecha": "2026-11-18",
+      "quien": "Policía Nacional (Atlas 196) y Migración",
+      "detalle": "Hacia las 18:25, captura de un ciudadano colombiano con notificación azul de Interpol, señalado como cabecilla del grupo «Los Agredo» (Cali). Será puesto a órdenes para extradición.",
+      "fuente": "El Universo, 19 nov 2026",
+      "url": "https://eluniverso.com/politica/seguridad/capturan-en-machala-a-presunto-cabecilla-de-grupo-delictivo-colombiano-requerido-por-la-justicia-de-ese-pais-nota"
+    },
+    {
+      "tipo": "operativo",
+      "general": true,
+      "lugar": "Cantón San Vicente (Manabí)",
+      "lat": -0.6,
+      "lon": -80.41,
+      "fecha": "2026-11-19",
+      "quien": "Policía Nacional / Ministerio del Interior",
+      "detalle": "Allanamiento: 79 bultos de droga (47 de marihuana y 32 de cocaína) y 4 teléfonos satelitales.",
+      "fuente": "Metro Ecuador, 19 nov 2026",
+      "url": "https://www.metroecuador.com.ec/noticias/2026/11/19/policia-encuentra-79-bultos-de-marihuana-y-cocaina-durante-allanamiento-en-manabi/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Vía Circunvalación, Manta (Manabí)",
+      "lat": -0.97,
+      "lon": -80.71,
+      "fecha": "2026-11-19",
+      "quien": "Policía Nacional",
+      "detalle": "Control vehicular: 1 adulto aprehendido y 5 adolescentes aislados; decomiso de 1 arma de fuego.",
+      "fuente": "El Diario, 19 nov 2026",
+      "url": "https://eldiario.ec/seguridad/un-adulto-aprehendido-y-cinco-adolescentes-aislados-durante-operativo-policial-en-manta-19112026"
+    },
+    {
+      "tipo": "operativo",
+      "general": true,
+      "lugar": "Subzona Guayas (sectores no precisados)",
+      "lat": -2.05,
+      "lon": -79.8,
+      "fecha": "2026-11-19",
+      "quien": "Policía Nacional (Apolo 51)",
+      "detalle": "Operativo del 18–19 nov contra brazos logísticos del crimen: 6 capturados (1 con boleta, 1 adolescente), 7 armas de fuego, 2 armas blancas, 6 vehículos, 22 motos, unos 219 g de droga y 3 teléfonos.",
+      "fuente": "Policía Nacional, 19 nov 2026",
+      "url": "https://noticias.policia.gob.ec/operativo-apolo-51-afecta-brazos-logisticos-del-crimen-en-guayas-seis-capturados-y-armas-de-fuego-decomisadas/"
     }
   ],
   "zonas_criticas": [
