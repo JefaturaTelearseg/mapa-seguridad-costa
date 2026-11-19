@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-18T17:55:00-05:00",
-  "actualizado_texto": "miércoles 18 nov 2026, 17:55",
+  "actualizado": "2026-11-19T05:58:00-05:00",
+  "actualizado_texto": "jueves 19 nov 2026, 05:58",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 18 nov (tarde). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego. Moradores reportan armados que dispararon contra dos embarcaciones; sin heridos ni detenidos. Reforzar custodia en muelles y traslados."
+      "texto": "Puná: sin hechos nuevos al 19 nov. Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se incendió y hundió la estación guardacostas flotante al sur de la isla. Reforzar custodia en muelles y traslados."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 18 nov (tarde). 16 nov: el Gobierno ratificó un aeropuerto junto a la Base Aérea de Taura, prevista como punto de cooperación militar antinarcóticos. Último delito: 10 nov, la UNASE rescató a 2 secuestrados que viajaban en un camión por Taura."
+      "texto": "Taura: sin hechos delictivos nuevos al 19 nov. Último delito: 10 nov, la UNASE rescató a 2 secuestrados que viajaban en un camión por Taura. 16 nov: el Gobierno ratificó un aeropuerto junto a la Base Aérea de Taura."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 18 nov (tarde). Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; 2 policías activos y 1 presunto miembro de la CTE procesados. Se sumó al historial un rescate de 2 secuestrados en Playones (ene 2026, Los Águilas)."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 19 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes (2 policías procesados). Se sumaron al historial 6 hechos antiguos, entre ellos la captura de 3 Águilas con 5 armas en Tres Postes (nov 2025)."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 18 nov (tarde). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 19 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
-      "tipo": "critica",
-      "texto": "17–18 nov: abogado asesinado al llegar a su casa en Las Orquídeas (norte de Guayaquil); hombre asesinado al salir de un centro médico con su hija (centro-sur de Guayaquil); repartidor asesinado en San Clemente (Manabí); 1 abatido tras asalto en La Libertad. Capturado en Pascuales un implicado en el crimen de un policía en Durán."
+      "tipo": "alta",
+      "texto": "18 nov: hombre baleado y en estado crítico en El Guabito (Portoviejo); repartidor asesinado en San Clemente (Manabí); hombre asesinado al salir de un centro médico en el centro-sur de Guayaquil. La Policía investiga una serie de asesinatos de conductores en Manta, Montecristi y Jaramijó."
     },
     {
       "tipo": "info",
@@ -3136,7 +3136,8 @@
       "quien": "Varios (sin banda identificada)",
       "detalle": "La alcaldía reportó más de 20 muertes violentas en un mes en el cantón, concentradas en Virgen de Fátima y Pedro J. Montero; pidió intervención policial y militar y clases virtuales. Un terreno para un cuartel policial lleva casi un año sin obra.",
       "fuente": "Extra, 14 nov 2025",
-      "url": "https://www.extra.ec/noticia/ecuador/yaguachi-tras-mas-de-20-muertes-alcaldesa-pide-clases-virtuales-que-esta-pasando-140969.html"
+      "url": "https://www.extra.ec/noticia/ecuador/yaguachi-tras-mas-de-20-muertes-alcaldesa-pide-clases-virtuales-que-esta-pasando-140969.html",
+      "antecedente": true
     },
     {
       "tipo": "ataque",
@@ -3148,7 +3149,8 @@
       "quien": "Desconocidos",
       "detalle": "Tres hallazgos en menos de 48 h (10–11 nov 2025): un hombre baleado junto a la vía en Pedro J. Montero (Boliche), restos de una mujer desaparecida en sacos en una vía de tercer orden cerca de Virgen de Fátima y un cuerpo flotando en el río Taura. Sin banda identificada.",
       "fuente": "Extra, 11 nov 2025",
-      "url": "https://www.extra.ec/noticia/ecuador/que-pasa-en-yaguachi-tres-hallazgos-en-menos-de-48-horas-una-joven-estaba-en-sacos-140738.html"
+      "url": "https://www.extra.ec/noticia/ecuador/que-pasa-en-yaguachi-tres-hallazgos-en-menos-de-48-horas-una-joven-estaba-en-sacos-140738.html",
+      "antecedente": true
     },
     {
       "tipo": "ataque",
@@ -3160,7 +3162,8 @@
       "quien": "Facciones de Los Tiguerones (según fuente local)",
       "detalle": "Entre el 31 oct y el 3 nov 2025, 8 asesinados en zonas rurales de Yaguachi (16 de Diciembre, Pedro J. Montero, Buena Fe y vía Tres Postes–Yaguachi); en Buena Fe dejaron 3 cuerpos maniatados con un panfleto que anunciaba «limpieza». Yaguachi sumó 43 homicidios ene–sep 2025 (Ministerio del Interior).",
       "fuente": "Extra, 8 nov 2025",
-      "url": "https://www.extra.ec/noticia/premium/el-misterio-de-los-panfletos-y-muertes-que-aterran-yaguachi-limpieza-criminal-140334.html"
+      "url": "https://www.extra.ec/noticia/premium/el-misterio-de-los-panfletos-y-muertes-que-aterran-yaguachi-limpieza-criminal-140334.html",
+      "antecedente": true
     },
     {
       "tipo": "ataque",
@@ -3172,7 +3175,8 @@
       "quien": "Desconocidos (disputa Águilas–Lobos, según moradores)",
       "detalle": "Dos jóvenes (uno de 17 años) hallados asesinados en la vía de la cooperativa; 25 vainas calibre .223 y 2 de 9 mm. La Dinased investigaba una represalia en la disputa entre Las Águilas (facción de Los Choneros) y Los Lobos.",
       "fuente": "Extra, 1 nov 2025",
-      "url": "https://www.extra.ec/noticia/ecuador/de-un-velorio-otro-asi-acabaron-con-dos-jovenes-en-virgen-de-fatima-en-yaguachi-140129.html"
+      "url": "https://www.extra.ec/noticia/ecuador/de-un-velorio-otro-asi-acabaron-con-dos-jovenes-en-virgen-de-fatima-en-yaguachi-140129.html",
+      "antecedente": true
     },
     {
       "tipo": "ataque",
@@ -3277,7 +3281,8 @@
       "quien": "Policía y Fuerzas Armadas",
       "detalle": "Control en 4 puntos de acceso, incluida la supervisión de empresas de seguridad privada de la zona. Panfletos extorsivos firmados por \"La Mafia\", ropa similar a la militar usada para asaltar, 2 menores aprehendidos y más de 30 motos retenidas.",
       "fuente": "El Universo, 17 jul 2025",
-      "url": "https://www.eluniverso.com/noticias/seguridad/policia-y-fuerzas-armadas-ejecutan-operativo-en-vias-de-acceso-a-taura-en-guayas-nota/"
+      "url": "https://www.eluniverso.com/noticias/seguridad/policia-y-fuerzas-armadas-ejecutan-operativo-en-vias-de-acceso-a-taura-en-guayas-nota/",
+      "antecedente": true
     },
     {
       "tipo": "camaronera",
@@ -3883,6 +3888,97 @@
       "detalle": "Patrullaje militar: 1 aprehendido en flagrancia con 19 dosis (17 de presunta marihuana y 2 de PLOP); entregado a la Policía y Fiscalía.",
       "fuente": "El Diario, 17 nov 2026",
       "url": "https://www.eldiario.ec/seguridad/capturan-a-un-sujeto-con-19-dosis-de-droga-durante-operativo-en-el-norte-de-guayaquil-17112026/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "lugar": "Sector Tres Postes, vía Yaguachi – Tres Postes",
+      "lat": -1.94,
+      "lon": -79.65,
+      "fecha": "2025-11-01",
+      "quien": "Policía Nacional",
+      "detalle": "Operativo «Cruzada por la seguridad 100»: 3 presuntos integrantes de Los Águilas (brazo armado de Los Choneros, según la fuente) capturados; un menor fue separado. Decomiso: 5 armas de fuego, 3 alimentadoras, 45 municiones, 1 vehículo y 1 moto.",
+      "fuente": "Vistazo, 1 nov 2025",
+      "url": "https://www.vistazo.com/actualidad/nacional/2025-11-01-tres-presuntos-integrantes-de-los-aguilas-fueron-capturados-tres-postes-guayas-OE10368710",
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Vía Durán – Yaguachi (sector no precisado)",
+      "lat": -2.15,
+      "lon": -79.77,
+      "fecha": "2025-04-01",
+      "quien": "Desconocidos",
+      "detalle": "Dos hombres secuestrados el 31 mar fueron hallados asesinados a tiros hacia las 07:00 del 1 abr; los cuerpos fueron lanzados desde un vehículo en marcha. Investigan Dinased y Criminalística.",
+      "fuente": "Primicias, 1 abr 2025",
+      "url": "https://www.primicias.ec/sucesos/asesinato-cuerpos-hombres-via-duran-yaguachi-guayaquil-secuestros-92994",
+      "general": true,
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Cdla. Cristo Rey, cabecera de Yaguachi",
+      "lat": -2.095,
+      "lon": -79.69,
+      "fecha": "2023-07-17",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 14:20, atacantes desde una camioneta dispararon unas 20 veces: 2 muertos y 1 adolescente herido. Hipótesis: microtráfico.",
+      "fuente": "Extra, 18 jul 2023",
+      "url": "https://www.extra.ec/noticia/provincias/yaguachi-grababa-venta-ropa-redes-sociales-termino-filmando-muerto-88126.html",
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Cabecera de Yaguachi (zona de la estación del tren)",
+      "lat": -2.1,
+      "lon": -79.695,
+      "fecha": "2023-08-11",
+      "quien": "Desconocidos",
+      "detalle": "Balacera con 3 muertos cerca de la estación del tren. Según las fuentes del medio, el cantón vivía una pugna entre Los Águilas (brazo de Los Choneros) y Los Lobos; tras el ataque del 24 ago el COE pidió clases virtuales en 11 escuelas.",
+      "fuente": "El Universo, 29 ago 2023",
+      "url": "https://www.eluniverso.com/noticias/seguridad/asesinatos-pugna-bandas-delictivas-yaguachi-nota",
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Recinto San Juan y parroquia Pedro J. Montero, Yaguachi",
+      "lat": -2.16,
+      "lon": -79.65,
+      "fecha": "2023-10-22",
+      "quien": "Desconocidos",
+      "detalle": "Un día después de la masacre del barrio Chino: 2 hombres asesinados en una gallera del recinto San Juan y 1 mujer en Pedro J. Montero. El fin de semana dejó 10 muertos en el cantón; hipótesis de disputa por venta de droga.",
+      "fuente": "Primicias, 23 oct 2023",
+      "url": "https://primicias.ec/noticias/seguridad/policia-balacera-yaguachi-ecuador",
+      "general": true,
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Parroquia Virgen de Fátima (cerca de la iglesia), Yaguachi",
+      "lat": -2.2,
+      "lon": -79.62,
+      "fecha": "2023-10-24",
+      "quien": "Sicarios en moto",
+      "detalle": "Un concejal del cantón fue asesinado a tiros por sicarios en moto cerca de la iglesia de Virgen de Fátima; el Ministerio del Interior lo calificó como sicariato. Sin detenidos reportados.",
+      "fuente": "Expreso, 24 oct 2023",
+      "url": "https://www.expreso.ec/actualidad/asesinan-charbel-rouhanavf-concejal-yaguachi-177284.html",
+      "antecedente": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Reasentamiento El Guabito, Portoviejo (Manabí)",
+      "lat": -1.08,
+      "lon": -80.44,
+      "fecha": "2026-11-18",
+      "quien": "Desconocidos",
+      "detalle": "Pasadas las 19:30, un hombre recibió varios disparos; fue llevado en estado crítico al Hospital de Especialidades de Portoviejo. La Policía acordonó la zona; sin detenidos.",
+      "fuente": "El Diario, 18 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/ataque-armado-deja-un-hombre-herido-en-el-reasentamiento-el-guabito-de-portoviejo-18112026/"
     }
   ],
   "zonas_criticas": [
