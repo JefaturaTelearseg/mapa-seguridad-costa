@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-19T17:50:00-05:00",
-  "actualizado_texto": "jueves 19 nov 2026, 17:50",
+  "actualizado": "2026-11-20T06:00:00-05:00",
+  "actualizado_texto": "viernes 20 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 19 nov. Último: noche del 16 nov, detonaciones e incendio de una lancha en el atracadero de Barrio Lindo; la Armada apagó el fuego. El Comercio (19 nov) reporta, sin confirmación oficial, disparos contra 2 embarcaciones. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 20 nov. Último: noche del 16 nov, detonaciones e incendio de una lancha en el atracadero de Barrio Lindo; la Armada apagó el fuego. El Comercio (19 nov) reporta, sin confirmación oficial, disparos contra 2 embarcaciones. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 19 nov. Último delito: 10 nov, la UNASE rescató a 2 secuestrados que viajaban en un camión por Taura. 16 nov: el Gobierno ratificó un aeropuerto junto a la Base Aérea de Taura."
+      "texto": "Taura: sin hechos delictivos nuevos al 20 nov. Último delito: 10 nov, la UNASE rescató a 2 secuestrados que viajaban en un camión por Taura. 16 nov: el Gobierno ratificó un aeropuerto junto a la Base Aérea de Taura."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 19 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes. Se sumó al historial la captura de 4 presuntos Águilas con 3 armas en Yaguachi (11 jul 2026)."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 20 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 19 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 20 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
       "tipo": "alta",
-      "texto": "18 nov: gemelos de 15 años asesinados en su vivienda en Pascuales (Guayaquil); en Machala cae un cabecilla colombiano de «Los Agredo». 19 nov: Apolo 51 en Guayas con 6 capturados y 7 armas; 79 bultos de droga en San Vicente (Manabí)."
+      "texto": "18 nov en Guayaquil: sicarios en moto vestidos como escolares matan a un hombre frente a un centro médico (centro-sur); 4 heridos en ataque a una reunión en Mucho Lote 2. Se sumó al historial el doble crimen en una camaronera de Puerto Bolívar (7 oct)."
     },
     {
       "tipo": "info",
@@ -3829,8 +3829,8 @@
       "lon": -79.893,
       "fecha": "2026-11-18",
       "quien": "Atacantes en moto",
-      "detalle": "Pasadas las 10:30, un hombre fue interceptado por motociclistas y asesinado a tiros al salir de un centro médico al que había llevado a su hija; la niña, su pareja y el taxista salieron ilesos. Más de 6 indicios balísticos. Policía descarta robo; sin detenidos.",
-      "fuente": "Extra, 18 nov 2026",
+      "detalle": "Pasadas las 10:30, un hombre fue interceptado por motociclistas y asesinado a tiros al salir de un centro médico al que había llevado a su hija; la niña, su pareja y el taxista salieron ilesos. Más de 6 indicios balísticos. Policía descarta robo; sin detenidos. Los atacantes iban en moto vestidos con prendas similares a uniformes escolares; la Policía levantó 17 vainas percutidas.",
+      "fuente": "Extra, 18 nov 2026 · Extra y El Diario, 19 nov 2026",
       "url": "https://www.extra.ec/noticia/guayaquil/hombre-murio-ataque-salia-consulta-medica-hija-168251.html"
     },
     {
@@ -4049,6 +4049,39 @@
       "detalle": "Operativo del 18–19 nov contra brazos logísticos del crimen: 6 capturados (1 con boleta, 1 adolescente), 7 armas de fuego, 2 armas blancas, 6 vehículos, 22 motos, unos 219 g de droga y 3 teléfonos.",
       "fuente": "Policía Nacional, 19 nov 2026",
       "url": "https://noticias.policia.gob.ec/operativo-apolo-51-afecta-brazos-logisticos-del-crimen-en-guayas-seis-capturados-y-armas-de-fuego-decomisadas/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Mucho Lote 2, norte de Guayaquil",
+      "lat": -2.105,
+      "lon": -79.905,
+      "fecha": "2026-11-18",
+      "quien": "Sujetos armados",
+      "detalle": "Pasadas las 23:30, hombres armados dispararon contra un grupo reunido dentro de una vivienda: 4 heridos trasladados a centros de salud, sin fallecidos. Información preliminar de moradores; sin detenidos.",
+      "fuente": "Extra, 19 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/inquietud-lote-2-ataque-armado-estaban-haciendo-victimas-168328.html"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Camaronera cerca del sector La Chanchera, Puerto Bolívar (Machala, El Oro)",
+      "lat": -3.27,
+      "lon": -80.0,
+      "fecha": "2026-10-07",
+      "quien": "Desconocidos armados",
+      "detalle": "En la madrugada, varias personas ingresaron a una camaronera, amenazaron y dispararon a 2 trabajadores (19 y 23 años), que murieron; un tercer trabajador se escondió. Los agresores huyeron por el brazo de mar. Sin detenidos.",
+      "fuente": "Diario Correo, 7 oct 2026",
+      "url": "https://diariocorreo.com.ec/139773/sucesos/violencia-en-puerto-bolivar-dos-trabajadores-fueron-asesinados-dentro-de-una-camaronera"
+    },
+    {
+      "tipo": "camaronera",
+      "lugar": "Golfo de Guayaquil, en altamar frente a Balao (Guayas)",
+      "lat": -2.93,
+      "lon": -79.9,
+      "fecha": "2026-04-10",
+      "quien": "Piratas en dos embarcaciones",
+      "detalle": "Dos pescadores de Puerto Bolívar fueron interceptados por dos embarcaciones con sujetos armados que les robaron documentos y el motor de la lancha y les dispararon; ambos murieron (uno en el muelle de Chilla y otro en una clínica de Machala). Sin detenidos.",
+      "fuente": "El Universo, 10 abr 2026",
+      "url": "https://www.eluniverso.com/noticias/seguridad/dos-pescadores-de-puerto-bolivar-fueron-asesinados-tras-asalto-cerca-de-balao-nota/"
     }
   ],
   "zonas_criticas": [
@@ -4137,5 +4170,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo, Notimundo, KCH FM, Fiscalía General del Estado, Infobae"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo, Notimundo, KCH FM, Fiscalía General del Estado, Infobae, Diario Correo"
 }
