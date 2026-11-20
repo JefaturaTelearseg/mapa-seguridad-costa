@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-20T06:00:00-05:00",
-  "actualizado_texto": "viernes 20 nov 2026, 06:00",
+  "actualizado": "2026-11-20T18:00:00-05:00",
+  "actualizado_texto": "viernes 20 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 20 nov. Último: noche del 16 nov, detonaciones e incendio de una lancha en el atracadero de Barrio Lindo; la Armada apagó el fuego. El Comercio (19 nov) reporta, sin confirmación oficial, disparos contra 2 embarcaciones. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 20 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 20 nov. Último delito: 10 nov, la UNASE rescató a 2 secuestrados que viajaban en un camión por Taura. 16 nov: el Gobierno ratificó un aeropuerto junto a la Base Aérea de Taura."
+      "texto": "Taura: sin hechos delictivos nuevos al 20 nov. 20 nov: desborde del río Culebra en el recinto Cascajal (Taura), precaución en accesos y traslados. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 20 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 20 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 20 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 20 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso. Se sumó al historial un operativo antisecuestro en San Lorenzo del Mate (jun 2024)."
     },
     {
-      "tipo": "alta",
-      "texto": "18 nov en Guayaquil: sicarios en moto vestidos como escolares matan a un hombre frente a un centro médico (centro-sur); 4 heridos en ataque a una reunión en Mucho Lote 2. Se sumó al historial el doble crimen en una camaronera de Puerto Bolívar (7 oct)."
+      "tipo": "operativo",
+      "texto": "19–20 nov, Zona 8 (Guayaquil, Durán, Samborondón): operativo Apolo 40 con 22 detenidos, 5 fusiles y 9 armas cortas. 19 nov: 1 muerto en Jardines del Salado y 1 en La Libertad; 20 nov: cuerpo hallado en la comuna San Pablo (Santa Elena)."
     },
     {
       "tipo": "info",
-      "texto": "Estado de excepción renovado por 30 días en ocho provincias (desde 11 nov), sin toque de queda vigente."
+      "texto": "Estado de excepción renovado por 30 días en ocho provincias (desde 11 nov), sin toque de queda vigente (el último rigió del 1 al 10 nov)."
     }
   ],
   "toque_de_queda": null,
@@ -4082,6 +4082,99 @@
       "detalle": "Dos pescadores de Puerto Bolívar fueron interceptados por dos embarcaciones con sujetos armados que les robaron documentos y el motor de la lancha y les dispararon; ambos murieron (uno en el muelle de Chilla y otro en una clínica de Machala). Sin detenidos.",
       "fuente": "El Universo, 10 abr 2026",
       "url": "https://www.eluniverso.com/noticias/seguridad/dos-pescadores-de-puerto-bolivar-fueron-asesinados-tras-asalto-cerca-de-balao-nota/"
+    },
+    {
+      "tipo": "camaronera",
+      "zona": "Taura",
+      "lugar": "Recinto Cascajal, parroquia Taura (Naranjal) – río Culebra",
+      "lat": -2.36,
+      "lon": -79.66,
+      "fecha": "2026-11-20",
+      "quien": "Secretaría de Gestión de Riesgos",
+      "detalle": "Hecho climático, no delictivo: el reporte de ríos desbordados (corte 07:00) incluye el río Culebra en Naranjal / Taura / recinto Cascajal. Precaución en vías de acceso y traslados en el sector camaronero de Taura.",
+      "fuente": "Teleamazonas, 20 nov 2026",
+      "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/18-rios-desbordados-ecuador-viernes-20-noviembre-133667"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "antecedente": true,
+      "lugar": "Comuna San Lorenzo del Mate (vía Progreso – Sabana Grande)",
+      "lat": -2.46,
+      "lon": -80.3,
+      "fecha": "2024-06-17",
+      "quien": "Policía Nacional",
+      "detalle": "Allanamiento de 3 inmuebles en la comuna San Lorenzo del Mate: 4 aprehendidos por presuntos delitos de secuestro y extorsión (uno con antecedentes), también vinculados a un robo según la Policía. La publicación oficial ubica la comuna en Playas.",
+      "fuente": "Policía Nacional (X), 17 jun 2024",
+      "url": "https://x.com/PoliciaEcuador/status/1802898531524419824"
+    },
+    {
+      "tipo": "operativo",
+      "general": true,
+      "lugar": "Zona 8: Guayaquil, Durán y Samborondón (sectores no precisados)",
+      "lat": -2.17,
+      "lon": -79.88,
+      "fecha": "2026-11-20",
+      "quien": "Policía Nacional (Zona 8)",
+      "detalle": "Operativo Apolo 40 (noche del 19 a madrugada del 20 nov) con allanamientos: 22 detenidos, entre ellos una mujer en el distrito 9 de Octubre con unos 3 kg de droga (364 envolturas). 2 detenidos estarían vinculados a un ataque con 2 muertos en el suburbio esta semana. Decomiso: 9 armas cortas, 5 fusiles, 1 escopeta, 10 cargadores, 91 municiones, ~117.000 dosis; 28 motos y 4 vehículos recuperados.",
+      "fuente": "Extra, 20 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/operativo-apolo-40-deja-22-detenidos-decomiso-drogas-168470.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Urb. Jardines del Salado (av. Rodríguez Bonín), noroeste de Guayaquil",
+      "lat": -2.165,
+      "lon": -79.945,
+      "fecha": "2026-11-19",
+      "quien": "Desconocidos",
+      "detalle": "En la noche, un atacante en moto ingresó a la urbanización pese a la garita y disparó contra un hombre de 32 años que estaba junto a un local comercial; murió. La Policía recogió indicios balísticos. Sin detenidos.",
+      "fuente": "Extra, 20 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/jardines-salado-guayaquil-hombre-sufrio-ataque-armado-luego-murio-168441.html"
+    },
+    {
+      "tipo": "operativo",
+      "general": true,
+      "lugar": "Guayaquil (sector no precisado)",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-19",
+      "quien": "Policía Nacional (UNDA), Fiscalía y Senae",
+      "detalle": "Operación Fénix 0664 contra defraudación aduanera: 4 aprehendidos por asociación ilícita; decomiso de 747 celulares y 9 iPads (unos USD 1,34 millones).",
+      "fuente": "Extra, 20 nov 2026",
+      "url": "https://www.extra.ec/noticia/justicia/cuatro-aprehendidos-presunta-defraudacion-aduanera-guayaquil-incautan-747-celulares-168439.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Tonsupa (sector Playa Azul), cantón Atacames (Esmeraldas)",
+      "lat": 0.89,
+      "lon": -79.81,
+      "fecha": "2026-11-19",
+      "quien": "Policía Nacional (UDT) con HSI y Policía del Perú",
+      "detalle": "Operación Gran Fénix 076: captura de un ciudadano peruano señalado como cabecilla de la banda peruana \"La Nueva Jauría\", objetivo de alto valor para el Perú; decomiso de celulares, laptops, caja fuerte y USD 1.120. Será entregado al Perú.",
+      "fuente": "Policía Nacional, 20 nov 2026 / Primicias, 19 nov 2026",
+      "url": "https://noticias.policia.gob.ec/policia-nacional-detuvo-en-esmeraldas-a-ciudadano-peruano-considerado-objetivo-de-alto-valor-por-las-autoridades-de-ese-pais/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Comuna San Pablo (junto a un estero), cantón Santa Elena",
+      "lat": -2.14,
+      "lon": -80.77,
+      "fecha": "2026-11-20",
+      "quien": "Desconocidos",
+      "detalle": "Hallazgo del cuerpo de un hombre sin identificar con signos de violencia cerca de un estero; la Policía estima más de 24 h de fallecido. Se investiga si fue abandonado de madrugada o arrastrado por la corriente.",
+      "fuente": "Extra, 20 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/santa-elena-dos-hipotesis-rodean-hallazgo-cuerpo-san-pablo-168464.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio San Vicente, La Libertad (Santa Elena)",
+      "lat": -2.232,
+      "lon": -80.905,
+      "fecha": "2026-11-19",
+      "quien": "Desconocidos",
+      "detalle": "En la noche, un joven murió tras un ataque armado en el barrio San Vicente. Sin detenidos reportados.",
+      "fuente": "Extra, 20 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/santa-elena-dos-hipotesis-rodean-hallazgo-cuerpo-san-pablo-168464.html"
     }
   ],
   "zonas_criticas": [
@@ -4090,7 +4183,7 @@
       "lat": -2.32,
       "lon": -79.7,
       "radio_m": 7000,
-      "detalle": "Punto crítico de la vía E-40 con asaltos a carga y robos a piscinas acuícolas. 10 nov 2026: la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). En enero de 2025, 15 hombres con fusiles irrumpieron en una camaronera. En mayo de 2026 la Policía detuvo a 8 personas en una pista ilegal de narcoavionetas. Moradores han denunciado falta de patrullaje policial y militar (Expreso, 2025). 15 nov 2026: el Presidente anunció un aeropuerto internacional junto a la base militar de Taura (sin detalles técnicos ni de seguridad).",
+      "detalle": "Punto crítico de la vía E-40 con asaltos a carga y robos a piscinas acuícolas. 10 nov 2026: la UNASE rescató a 2 personas secuestradas cuando viajaban en un camión por Taura (pedían USD 200.000). En enero de 2025, 15 hombres con fusiles irrumpieron en una camaronera. En mayo de 2026 la Policía detuvo a 8 personas en una pista ilegal de narcoavionetas. Moradores han denunciado falta de patrullaje policial y militar (Expreso, 2025). 15 nov 2026: el Presidente anunció un aeropuerto internacional junto a la base militar de Taura (sin detalles técnicos ni de seguridad). 20 nov 2026: desborde del río Culebra en el recinto Cascajal (Taura).",
       "fuente": "Primicias / Metro Ecuador / El Universo",
       "url": "https://www.primicias.ec/seguridad/asaltos-extorsion-puntos-criticos-cadena-logistica-exportacion-guayas-eloro-76025/",
       "zona": "Taura"
@@ -4101,7 +4194,7 @@
       "lat": -2.495,
       "lon": -80.2,
       "radio_m": 9000,
-      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos). 18 sep 2026: 4 detenidos por asaltos a carga en la vía Cerecita–Progreso. Antecedentes en Progreso: 20 ene 2026, 300 paquetes de presunta cocaína en una bodega; 14 jul 2026, 3 detenidos de Los Fatales y un cuerpo enterrado en el sector San Luis. 2 nov 2026: crecida de un estero en la comuna Sabana Grande arrastró una camioneta (sin víctimas). Antecedentes en camaroneras de Progreso: robo de armas (feb 2025) y 4 Tiguerones capturados (mar 2025).",
+      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos). 18 sep 2026: 4 detenidos por asaltos a carga en la vía Cerecita–Progreso. Antecedentes en Progreso: 20 ene 2026, 300 paquetes de presunta cocaína en una bodega; 14 jul 2026, 3 detenidos de Los Fatales y un cuerpo enterrado en el sector San Luis. 2 nov 2026: crecida de un estero en la comuna Sabana Grande arrastró una camioneta (sin víctimas). Antecedentes en camaroneras de Progreso: robo de armas (feb 2025) y 4 Tiguerones capturados (mar 2025). Antecedente: 17 jun 2024, 4 aprehendidos por secuestro y extorsión tras allanamientos en San Lorenzo del Mate.",
       "fuente": "El Universo / Expreso",
       "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
