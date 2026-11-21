@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-11-21T06:00:00-05:00",
-  "actualizado_texto": "sábado 21 nov 2026, 06:00",
+  "actualizado": "2026-11-21T18:00:00-05:00",
+  "actualizado_texto": "sábado 21 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 21 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 21 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
@@ -20,7 +20,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "20 nov, Manabí y Santa Elena: 4 asesinados en Manta y Montecristi (en Tierra Santa usaron fusil 5,56 mm), un mecánico en La Libertad y un comerciante en la comuna San Pablo. 19 nov: 4 detenidos por el doble crimen de Pascuales; Apolo 40 dejó 22 detenidos en la Zona 8."
+      "texto": "20 nov: dos hombres de Salitre hallados enterrados y maniatados en el cerro Santa Ana (Samborondón); en Babahoyo, 3 falsos policías mataron a un hombre en su casa. Ese día hubo 4 asesinatos en Manta y Montecristi y 2 en Santa Elena."
     },
     {
       "tipo": "info",
@@ -4265,6 +4265,28 @@
       "detalle": "Allanamientos a 13 empresas (8 en Durán, 5 en Samborondón) y un inmueble por presunto lavado de activos ligado a contratos de insumos médicos. Sin detenidos reportados.",
       "fuente": "Extra, 19 nov 2026",
       "url": "https://www.extra.ec/noticia/justicia/operativo-duran-samborondon-indaga-lavado-activo-vinculan-xavier-jordan-168339.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cerro Santa Ana, vía Samborondón – Salitre (Samborondón, Guayas)",
+      "lat": -1.955,
+      "lon": -79.735,
+      "fecha": "2026-11-20",
+      "quien": "Desconocidos (sin banda identificada)",
+      "detalle": "Dos hombres de unos 42 años, de Salitre, reportados desaparecidos el 19 nov, fueron hallados enterrados en una misma fosa en la ladera del cerro Santa Ana, a unos 8 minutos de la cabecera de Samborondón, con las manos atadas y el rostro cubierto. Acudieron Dinased y Criminalística; sin detenidos.",
+      "fuente": "Extra, 21 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/dos-primos-desaparecieron-salitre-hallados-vida-samborondon-168537.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de Babahoyo (Los Ríos), vivienda",
+      "lat": -1.801,
+      "lon": -79.534,
+      "fecha": "2026-11-20",
+      "quien": "3 hombres con chalecos con la palabra «Policía» (organización delictiva no nombrada)",
+      "detalle": "En la tarde, tres hombres que se hicieron pasar por policías ingresaron a una vivienda y mataron a tiros a un hombre de 27 años; huyeron en un auto gris. Según la familia había sobrevivido a dos ataques previos. Dinased recogió un casquillo calibre 38; sin detenidos.",
+      "fuente": "Extra, 21 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/regreso-estados-unidos-nacimiento-hijo-perdio-vida-168526.html"
     }
   ],
   "zonas_criticas": [
