@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-20T18:00:00-05:00",
-  "actualizado_texto": "viernes 20 nov 2026, 18:00",
+  "actualizado": "2026-11-21T06:00:00-05:00",
+  "actualizado_texto": "sábado 21 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 20 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 21 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 20 nov. 20 nov: desborde del río Culebra en el recinto Cascajal (Taura), precaución en accesos y traslados. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura."
+      "texto": "Taura: sin hechos delictivos nuevos al 21 nov. 20 nov: desborde del río Culebra en el recinto Cascajal (Taura), precaución en accesos y traslados. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 20 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 21 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 20 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso. Se sumó al historial un operativo antisecuestro en San Lorenzo del Mate (jun 2024)."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 21 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso. Se sumó al historial un operativo antisecuestro en San Lorenzo del Mate (jun 2024)."
     },
     {
-      "tipo": "operativo",
-      "texto": "19–20 nov, Zona 8 (Guayaquil, Durán, Samborondón): operativo Apolo 40 con 22 detenidos, 5 fusiles y 9 armas cortas. 19 nov: 1 muerto en Jardines del Salado y 1 en La Libertad; 20 nov: cuerpo hallado en la comuna San Pablo (Santa Elena)."
+      "tipo": "alta",
+      "texto": "20 nov, Manabí y Santa Elena: 4 asesinados en Manta y Montecristi (en Tierra Santa usaron fusil 5,56 mm), un mecánico en La Libertad y un comerciante en la comuna San Pablo. 19 nov: 4 detenidos por el doble crimen de Pascuales; Apolo 40 dejó 22 detenidos en la Zona 8."
     },
     {
       "tipo": "info",
@@ -4175,6 +4175,96 @@
       "detalle": "En la noche, un joven murió tras un ataque armado en el barrio San Vicente. Sin detenidos reportados.",
       "fuente": "Extra, 20 nov 2026",
       "url": "https://www.extra.ec/noticia/ecuador/santa-elena-dos-hipotesis-rodean-hallazgo-cuerpo-san-pablo-168464.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Parroquia Leónidas Proaño, cantón Montecristi (Manabí) – barbería",
+      "lat": -1.035,
+      "lon": -80.675,
+      "fecha": "2026-11-20",
+      "quien": "Desconocidos",
+      "detalle": "En la mañana, un hombre de 24 años fue asesinado a tiros dentro de una barbería mientras era atendido. Sin detenidos reportados. El distrito Manta–Montecristi–Jaramijó suma unas 450 muertes violentas en 2026.",
+      "fuente": "Extra, 21 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/violencia-manta-montecristi-cuatro-crimenes-registraron-viernes-20-noviembre-168495.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio La Victoria, parroquia Tarqui, Manta (Manabí)",
+      "lat": -0.957,
+      "lon": -80.722,
+      "fecha": "2026-11-20",
+      "quien": "Desconocidos",
+      "detalle": "En la tarde, un hombre de 23 años fue interceptado por motorizados al bajar de una camioneta frente a una barbería y recibió más de siete disparos; murió en el sitio.",
+      "fuente": "Extra, 21 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/violencia-manta-montecristi-cuatro-crimenes-registraron-viernes-20-noviembre-168495.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Tierra Santa, cantón Montecristi (Manabí)",
+      "lat": -1.045,
+      "lon": -80.655,
+      "fecha": "2026-11-20",
+      "quien": "Desconocidos",
+      "detalle": "Horas después del crimen en Tarqui, hombres armados mataron a un hombre de 26 años y a una mujer que iban en moto. Criminalística halló 26 casquillos 9 mm y 14 de fusil 5,56 mm.",
+      "fuente": "Extra, 21 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/violencia-manta-montecristi-cuatro-crimenes-registraron-viernes-20-noviembre-168495.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio La Esperanza, La Libertad (Santa Elena)",
+      "lat": -2.228,
+      "lon": -80.9,
+      "fecha": "2026-11-20",
+      "quien": "Desconocidos",
+      "detalle": "En la tarde, motorizados dispararon contra un mecánico mientras reparaba un vehículo en su taller; murió en el hospital de La Libertad. Sin detenidos reportados.",
+      "fuente": "Extra, 21 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/mecanico-victima-ataque-reparaba-vehiculo-taller-168483.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Avenida principal de la comuna San Pablo (Santa Elena)",
+      "lat": -2.137,
+      "lon": -80.772,
+      "fecha": "2026-11-20",
+      "quien": "Desconocidos",
+      "detalle": "En la noche, un joven comerciante fue asesinado a tiros en la avenida principal de la comuna. Sin más detalles en la fuente.",
+      "fuente": "Extra, 21 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/mecanico-victima-ataque-reparaba-vehiculo-taller-168483.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Parroquia Pascuales (norte de Guayaquil)",
+      "lat": -2.072,
+      "lon": -79.948,
+      "fecha": "2026-11-19",
+      "quien": "Policía Nacional",
+      "detalle": "Tras el doble asesinato en una vivienda de Pascuales, 4 sospechosos en dos motos evadieron un control militar y fueron detenidos tras persecución (2 adultos y 2 adolescentes). Decomiso: 2 armas de fuego, 32 cartuchos y 1 moto.",
+      "fuente": "Policía Nacional, 19 nov 2026",
+      "url": "https://noticias.policia.gob.ec/policia-nacional-aprehendio-a-cuatro-presuntos-implicados-en-un-doble-asesinato-en-pascuales"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayaquil, Bahía de Caráquez, Manta y Vinces (sectores no precisados)",
+      "lat": -1.2,
+      "lon": -80.2,
+      "fecha": "2026-11-19",
+      "general": true,
+      "quien": "Policía Nacional",
+      "detalle": "Seis operativos contra la extorsión (Fénix 662 y Libertad 1242–1247) en Manabí, Guayas y Napo: 12 aprehendidos según el titular, 2 víctimas de secuestro extorsivo liberadas en Manabí, 15 celulares decomisados; se evitó el pago de unos USD 66.000.",
+      "fuente": "El Universo, 19 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/doce-personas-fueron-aprehendidas-en-seis-operativos-contra-la-extorsion-en-manabi-guayas-y-napo-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Durán y Samborondón (sectores no precisados)",
+      "lat": -2.15,
+      "lon": -79.86,
+      "fecha": "2026-11-19",
+      "general": true,
+      "quien": "Fiscalía",
+      "detalle": "Allanamientos a 13 empresas (8 en Durán, 5 en Samborondón) y un inmueble por presunto lavado de activos ligado a contratos de insumos médicos. Sin detenidos reportados.",
+      "fuente": "Extra, 19 nov 2026",
+      "url": "https://www.extra.ec/noticia/justicia/operativo-duran-samborondon-indaga-lavado-activo-vinculan-xavier-jordan-168339.html"
     }
   ],
   "zonas_criticas": [
