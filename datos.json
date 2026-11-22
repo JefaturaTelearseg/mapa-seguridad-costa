@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-21T18:00:00-05:00",
-  "actualizado_texto": "sábado 21 nov 2026, 18:00",
+  "actualizado": "2026-11-22T06:00:00-05:00",
+  "actualizado_texto": "domingo 22 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 21 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 22 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 21 nov. 20 nov: desborde del río Culebra en el recinto Cascajal (Taura), precaución en accesos y traslados. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura."
+      "texto": "Taura: sin hechos delictivos nuevos al 22 nov. 20 nov: desborde del río Culebra en el recinto Cascajal, precaución en accesos y traslados. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 21 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 22 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 21 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso. Se sumó al historial un operativo antisecuestro en San Lorenzo del Mate (jun 2024)."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 22 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
       "tipo": "alta",
-      "texto": "20 nov: dos hombres de Salitre hallados enterrados y maniatados en el cerro Santa Ana (Samborondón); en Babahoyo, 3 falsos policías mataron a un hombre en su casa. Ese día hubo 4 asesinatos en Manta y Montecristi y 2 en Santa Elena."
+      "texto": "21 nov: en Huaquillas mataron a un repartidor (hijo de un periodista) y a un recolector de mariscos en Puerto Hualtaco; un panfleto amenaza con más violencia en Huaquillas y Arenillas. En Santa Elena, un periodista fue baleado y está grave."
     },
     {
       "tipo": "info",
@@ -4287,6 +4287,39 @@
       "detalle": "En la tarde, tres hombres que se hicieron pasar por policías ingresaron a una vivienda y mataron a tiros a un hombre de 27 años; huyeron en un auto gris. Según la familia había sobrevivido a dos ataques previos. Dinased recogió un casquillo calibre 38; sin detenidos.",
       "fuente": "Extra, 21 nov 2026",
       "url": "https://www.extra.ec/noticia/ecuador/regreso-estados-unidos-nacimiento-hijo-perdio-vida-168526.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de la ciudad de Santa Elena (calles Colonche y Manabí)",
+      "lat": -2.227,
+      "lon": -80.858,
+      "fecha": "2026-11-21",
+      "quien": "2 hombres en moto (organización delictiva no nombrada)",
+      "detalle": "En la tarde, un periodista y dueño de un medio local fue baleado varias veces mientras conducía; quedó herido en estado delicado. La Policía halló 6 casquillos y revisa cámaras; la Fiscalía abrió investigación de oficio. Móvil no confirmado; sin detenidos.",
+      "fuente": "Primicias, 21 nov 2026",
+      "url": "https://www.primicias.ec/sucesos/periodista-omar-toledo-floreano-victima-atentado-armado-santa-elena-21-noviembre-137662/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Nueve de Octubre, Huaquillas (El Oro)",
+      "lat": -3.476,
+      "lon": -80.231,
+      "fecha": "2026-11-21",
+      "quien": "Hombres armados en moto (organización delictiva no nombrada)",
+      "detalle": "En la tarde, un repartidor de comida, hijo de un periodista local, fue atraído con un pedido telefónico y asesinado a tiros. En la escena se halló un panfleto amenazante que advierte más violencia en Huaquillas y Arenillas. Dinased investiga; sin detenidos.",
+      "fuente": "Extra, 21 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/hijo-periodista-victima-ataque-armado-trabajaba-huaquillas-oro-168552.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Puerto Hualtaco (sector pesquero), Huaquillas (El Oro)",
+      "lat": -3.455,
+      "lon": -80.236,
+      "fecha": "2026-11-21",
+      "quien": "Atacantes armados (no identificados)",
+      "detalle": "Hacia las 11:45, cerca del puente del sector pesquero, un recolector de mariscos de 44 años fue asesinado a tiros y un adolescente de 14 años resultó herido de bala; fue trasladado a Machala bajo custodia policial. Sin detenidos.",
+      "fuente": "Extra, 21 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/hijo-periodista-victima-ataque-armado-trabajaba-huaquillas-oro-168552.html"
     }
   ],
   "zonas_criticas": [
