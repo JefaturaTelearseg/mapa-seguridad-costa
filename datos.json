@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-22T06:00:00-05:00",
-  "actualizado_texto": "domingo 22 nov 2026, 06:00",
+  "actualizado": "2026-11-22T17:56:00-05:00",
+  "actualizado_texto": "domingo 22 nov 2026, 17:56",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 22 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 22 nov (17:56). Último: noche del 16 nov, detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 22 nov. 20 nov: desborde del río Culebra en el recinto Cascajal, precaución en accesos y traslados. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura."
+      "texto": "Taura: sin hechos delictivos nuevos al 22 nov (17:56). 20 nov: desborde del río Culebra en el recinto Cascajal, precaución en accesos y traslados. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 22 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 22 nov (17:56). Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 22 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 22 nov (17:56). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
       "tipo": "alta",
-      "texto": "21 nov: en Huaquillas mataron a un repartidor (hijo de un periodista) y a un recolector de mariscos en Puerto Hualtaco; un panfleto amenaza con más violencia en Huaquillas y Arenillas. En Santa Elena, un periodista fue baleado y está grave."
+      "texto": "22 nov: en Durán (El Recreo) la Policía allanó un centro de acopio de droga de los Latin Kings que fingían ser repartidores de comida (2 detenidos). 21 nov: 2 asesinados en Huaquillas y Puerto Hualtaco, con panfleto de amenaza; periodista baleado en Santa Elena."
     },
     {
       "tipo": "info",
@@ -648,10 +648,10 @@
         "latin"
       ],
       "disputa": true,
-      "fecha": "2025-10-01",
-      "detalle": "Bajo influencia de Chone Killers y Latin Kings en disputa.",
-      "fuente": "Primicias, 1 oct 2025",
-      "url": "https://www.primicias.ec/seguridad/secap-duran-barrios-violencia-divino-nino-arbolito-chone-killers-106292/"
+      "fecha": "2026-11-22",
+      "detalle": "Bajo influencia de Chone Killers y Latin Kings en disputa (Primicias, oct 2025). 22 nov 2026: la Policía allanó en la 1.ª etapa un centro de acopio y empaquetado de droga atribuido a los Latin Kings (2 detenidos, municiones y placas balísticas).",
+      "fuente": "Extra, 22 nov 2026 · Primicias, 1 oct 2025",
+      "url": "https://www.extra.ec/noticia/guayaquil/golpe-trafico-sustancias-implicados-fingian-repartir-comida-entregar-alcaloides-168583.html"
     },
     {
       "id": "primavera",
@@ -4320,6 +4320,28 @@
       "detalle": "Hacia las 11:45, cerca del puente del sector pesquero, un recolector de mariscos de 44 años fue asesinado a tiros y un adolescente de 14 años resultó herido de bala; fue trasladado a Machala bajo custodia policial. Sin detenidos.",
       "fuente": "Extra, 21 nov 2026",
       "url": "https://www.extra.ec/noticia/ecuador/hijo-periodista-victima-ataque-armado-trabajaba-huaquillas-oro-168552.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Cdla. El Recreo (1.ª etapa), Durán",
+      "lat": -2.189,
+      "lon": -79.834,
+      "fecha": "2026-11-22",
+      "quien": "Policía Nacional (distrito Durán)",
+      "detalle": "Allanamiento a un presunto centro de acopio y empaquetado de droga para microtráfico, atribuido a los Latin Kings: los implicados se hacían pasar por repartidores de comida a domicilio. 2 detenidos; decomiso de múltiples dosis, municiones 5.56 y 9 mm, 2 placas balísticas, un supresor de sonido y herramientas.",
+      "fuente": "Extra, 22 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/golpe-trafico-sustancias-implicados-fingian-repartir-comida-entregar-alcaloides-168583.html"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Sauces 2, norte de Guayaquil",
+      "lat": -2.123,
+      "lon": -79.899,
+      "fecha": "2026-11-22",
+      "quien": "Policía Nacional",
+      "detalle": "Tras un robo armado a clientes de una barbería (celulares y dinero), un policía siguió el vehículo ubicado por cámaras y controló a los sospechosos: 2 adultos aprehendidos y 1 adolescente aislado; decomiso de un revólver, 3 municiones .38, 2 celulares y el vehículo. Sin heridos.",
+      "fuente": "Metro Ecuador, 22 nov 2026; Policía Nacional",
+      "url": "https://www.metroecuador.com.ec/noticias/2026/11/22/un-solo-policia-logro-controlar-a-tres-sospechosos-tras-robo-armado-en-una-barberia-de-guayaquil/"
     }
   ],
   "zonas_criticas": [
