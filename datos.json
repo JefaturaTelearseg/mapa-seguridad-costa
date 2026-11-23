@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-23T06:00:00-05:00",
-  "actualizado_texto": "lunes 23 nov 2026, 06:00",
+  "actualizado": "2026-11-23T18:00:00-05:00",
+  "actualizado_texto": "lunes 23 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 23 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo (moradores hablan de disparos contra dos embarcaciones); la Armada apagó el fuego, sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 23 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo (moradores hablan de disparos contra dos embarcaciones); la Armada apagó el fuego, sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 23 nov. 20 nov: desborde del río Culebra en el recinto Cascajal. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. Antecedente: Las Águilas extorsionaban camaroneras de Taura, Churute y Puerto Inca (abr 2026)."
+      "texto": "Taura: sin hechos delictivos nuevos al 23 nov (18:00). 20 nov: desborde del río Culebra en el recinto Cascajal. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. Antecedente: Las Águilas extorsionaban camaroneras de Taura, Churute y Puerto Inca (abr 2026)."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 23 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 23 nov (18:00). Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 23 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 23 nov (18:00). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
       "tipo": "alta",
-      "texto": "22 nov: ataque armado a una fiesta familiar en el sur de Guayaquil deja al menos 3 muertos; en Manta (Eloy Alfaro) 2 hombres asesinados frente a una licorería. 22 nov: Policía allanó en Durán un centro de acopio de droga de los Latin Kings."
+      "texto": "22 nov: ataque a una fiesta familiar en el suroeste de Guayaquil deja 4 muertos y 3 heridos; en Manta (barrio La Paz) asesinan a un hombre y a su hijo de 6 años, y 2 hombres caen frente a una licorería en Eloy Alfaro. Policía allanó en Durán un centro de acopio de los Latin Kings."
     },
     {
       "tipo": "info",
@@ -2974,7 +2974,7 @@
       "lon": -79.693,
       "fecha": "2026-06-15",
       "quien": "Policía Nacional",
-      "detalle": "Captura del cabecilla de Las Águilas tras una persecución con disparos; familiares agredieron a los policías con piedras y botellas.",
+      "detalle": "Captura del cabecilla de Las Águilas tras una persecución con disparos; familiares agredieron a los policías con piedras y botellas. En la vía a Virgen de Fátima (Km 26) hubo 2 aprehendidos y se decomisó un fusil .223 (El Diario).",
       "fuente": "Primicias, 15 jun 2026",
       "url": "https://www.primicias.ec/sucesos/detenido-cabecilla-aguilas-alias-axel-yaguachi-guayas-choneros-125475/"
     },
@@ -4384,15 +4384,14 @@
     },
     {
       "tipo": "ataque",
-      "general": true,
-      "lugar": "Sur de Guayaquil (sector no precisado), fiesta familiar en la calzada",
-      "lat": -2.24,
-      "lon": -79.89,
+      "lugar": "Suroeste de Guayaquil (sector Chávez Franco y Abel Castillo), fiesta familiar en la calzada",
+      "lat": -2.214,
+      "lon": -79.904,
       "fecha": "2026-11-22",
-      "quien": "Desconocidos armados en un vehículo",
-      "detalle": "Hacia las 19:00, atacantes llegaron en un vehículo y dispararon contra una fiesta familiar: al menos 3 muertos (Medicina Legal retiró 3 cuerpos); un video hablaba de más víctimas, sin confirmar. Sin pronunciamiento policial al cierre de la nota.",
-      "fuente": "Extra, 22 nov 2026",
-      "url": "https://www.extra.ec/noticia/guayaquil/tragedia-sur-guayaquil-sujetos-armados-irrumpieron-plena-fiesta-familiar-168626.html"
+      "quien": "Desconocidos armados (según reporte preliminar, en motos o un vehículo)",
+      "detalle": "Hacia las 19:15, atacantes dispararon contra una fiesta familiar en la calzada: 4 muertos (uno en el hospital) y 3 heridos, uno grave. La Policía levantó 17 indicios balísticos; reporte preliminar habla de 6 sujetos en 3 motos. Sin detenidos ni banda identificada.",
+      "fuente": "Extra, 23 nov 2026; Centro TV, 23 nov 2026; El Comercio, 23 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/ataque-fiesta-familiar-sur-guayaquil-dejo-cuatro-fallecidos-tres-heridos-168638.html"
     },
     {
       "tipo": "ataque",
@@ -4404,6 +4403,17 @@
       "detalle": "Ataque armado frente a una licorería: 2 hombres muertos.",
       "fuente": "El Diario, 22 nov 2026",
       "url": "https://www.eldiario.ec/seguridad/ataque-armado-frente-a-una-licoreria-dejo-dos-hombres-muertos-en-la-parroquia-eloy-alfaro-de-manta-22112026"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio La Paz, Manta (Manabí)",
+      "lat": -0.962,
+      "lon": -80.715,
+      "fecha": "2026-11-22",
+      "quien": "Desconocidos armados (5 sujetos en una camioneta, según reporte preliminar)",
+      "detalle": "En la noche, atacantes bajaron de una camioneta y dispararon: murieron un hombre y su hijo de 6 años; una mujer de 53 años quedó herida. Sin detenidos. El distrito Manta–Montecristi–Jaramijó suma 454 muertes violentas en 2026.",
+      "fuente": "Extra, 23 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/violencia-manta-nino-seis-anos-padre-fallecen-ataque-armado-paz-168666.html"
     }
   ],
   "zonas_criticas": [
@@ -4492,5 +4502,5 @@
       "url": "https://www.elcomercio.com/actualidad/negocios/robos-camaroneras-productores-inseguridad-embarcaciones/"
     }
   ],
-  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo, Notimundo, KCH FM, Fiscalía General del Estado, Infobae, Diario Correo"
+  "fuentes": "Policía Nacional, Fuerzas Armadas, Armada del Ecuador, Ministerio del Interior, SNGR, Cámara Nacional de Acuacultura, Primicias, El Universo, El Diario, El Comercio, Extra, Vistazo, Metro Ecuador, Expreso, El Mercurio, Teleamazonas, AFP, La República, El Telégrafo, Notimundo, KCH FM, Fiscalía General del Estado, Infobae, Diario Correo, Centro TV"
 }
