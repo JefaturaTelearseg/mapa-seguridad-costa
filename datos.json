@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-22T17:56:00-05:00",
-  "actualizado_texto": "domingo 22 nov 2026, 17:56",
+  "actualizado": "2026-11-23T06:00:00-05:00",
+  "actualizado_texto": "lunes 23 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 22 nov (17:56). Último: noche del 16 nov, detonaciones e incendio de una lancha que llevaba combustible en el atracadero de Barrio Lindo; la Armada apagó el fuego, sin heridos ni detenidos. Antes: 28 oct, se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 23 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo (moradores hablan de disparos contra dos embarcaciones); la Armada apagó el fuego, sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 22 nov (17:56). 20 nov: desborde del río Culebra en el recinto Cascajal, precaución en accesos y traslados. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura."
+      "texto": "Taura: sin hechos delictivos nuevos al 23 nov. 20 nov: desborde del río Culebra en el recinto Cascajal. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. Antecedente: Las Águilas extorsionaban camaroneras de Taura, Churute y Puerto Inca (abr 2026)."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 22 nov (17:56). Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 23 nov. Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 22 nov (17:56). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 23 nov. Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
       "tipo": "alta",
-      "texto": "22 nov: en Durán (El Recreo) la Policía allanó un centro de acopio de droga de los Latin Kings que fingían ser repartidores de comida (2 detenidos). 21 nov: 2 asesinados en Huaquillas y Puerto Hualtaco, con panfleto de amenaza; periodista baleado en Santa Elena."
+      "texto": "22 nov: ataque armado a una fiesta familiar en el sur de Guayaquil deja al menos 3 muertos; en Manta (Eloy Alfaro) 2 hombres asesinados frente a una licorería. 22 nov: Policía allanó en Durán un centro de acopio de droga de los Latin Kings."
     },
     {
       "tipo": "info",
@@ -172,9 +172,9 @@
         "lamafia"
       ],
       "disputa": false,
-      "fecha": "2025-07-17",
-      "detalle": "Habitantes y analistas señalan a Las Águilas (alineadas con Los Choneros) como la banda que controla la parroquia: vacunas de USD 5.000–8.000 al año a comerciantes, amenazas a docentes y 8 muertes violentas en 2024. En julio de 2025 aparecieron panfletos extorsivos firmados por \"La Mafia\".",
-      "fuente": "Expreso, 2 feb 2025 / El Universo, 17 jul 2025",
+      "fecha": "2026-04-17",
+      "detalle": "Habitantes y analistas señalan a Las Águilas (alineadas con Los Choneros) como la banda que controla la parroquia: vacunas de USD 5.000–8.000 al año a comerciantes, amenazas a docentes y 8 muertes violentas en 2024. En julio de 2025 aparecieron panfletos extorsivos firmados por \"La Mafia\". El 17 abr 2026 el Ejército capturó en Churute a un presunto integrante de Las Águilas de una red que extorsionaba camaroneras de Taura, Churute y Puerto Inca.",
+      "fuente": "Expreso, 2 feb 2025 / El Universo, 17 jul 2025 / El Diario, 17 abr 2026",
       "url": "https://www.expreso.ec/actualidad/taura-miedo-policia-nacional-fuerzas-armadas-aguilas-extorsion-vacunas-muertes-violentas-230020.html"
     },
     {
@@ -251,10 +251,10 @@
         "aguilas"
       ],
       "disputa": false,
-      "fecha": "2026-04-30",
-      "detalle": "Las Águilas asaltan choferes en la ruta Naranjal–Km 26 y Durán. El 29 de abril de 2026 atacaron un camión que llevaba camarón: murió el chofer y un guardia quedó herido. Punto crítico de asaltos a carga y piscinas acuícolas.",
-      "fuente": "El Diario, 30 abr 2026",
-      "url": "https://www.eldiario.ec/seguridad/la-policia-detuvo-a-los-presuntos-asesinos-del-chofer-de-un-camion-camaronero-30042026/",
+      "fecha": "2026-06-15",
+      "detalle": "Las Águilas asaltan choferes en la ruta Naranjal–Km 26 y Durán. El 29 de abril de 2026 atacaron un camión que llevaba camarón: murió el chofer y un guardia quedó herido. Punto crítico de asaltos a carga y piscinas acuícolas. 15 jun 2026: en el Km 26 de la vía a Virgen de Fátima, 2 aprehendidos (uno señalado como cabecilla de Las Águilas en el sector) tras disparar contra policías; se decomisó un fusil .223.",
+      "fuente": "El Diario, 30 abr 2026 / El Diario, 15 jun 2026",
+      "url": "https://www.eldiario.ec/seguridad/dos-aprehendidos-tras-enfrentamiento-armado-con-la-policia-en-yaguachi-15062026/",
       "zona": "Yaguachi"
     },
     {
@@ -4342,6 +4342,68 @@
       "detalle": "Tras un robo armado a clientes de una barbería (celulares y dinero), un policía siguió el vehículo ubicado por cámaras y controló a los sospechosos: 2 adultos aprehendidos y 1 adolescente aislado; decomiso de un revólver, 3 municiones .38, 2 celulares y el vehículo. Sin heridos.",
       "fuente": "Metro Ecuador, 22 nov 2026; Policía Nacional",
       "url": "https://www.metroecuador.com.ec/noticias/2026/11/22/un-solo-policia-logro-controlar-a-tres-sospechosos-tras-robo-armado-en-una-barberia-de-guayaquil/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Taura",
+      "lugar": "Sector Churute, Naranjal (red que extorsionaba camaroneras de Taura, Churute y Puerto Inca)",
+      "lat": -2.43,
+      "lon": -79.65,
+      "fecha": "2026-04-17",
+      "quien": "Ejército / Fuerzas Armadas",
+      "detalle": "Intervención militar con inteligencia: 1 presunto integrante de Las Águilas aprehendido por extorsión, con 54 municiones (5,56 mm y 9 mm). Según el medio, la red extorsionaba a camaroneras de Taura, Churute y Puerto Inca. Entregado al Ministerio de Defensa.",
+      "fuente": "El Diario, 17 abr 2026",
+      "url": "https://www.eldiario.ec/centro/capturan-en-naranjal-a-presunto-integrante-de-los-aguilas-vinculado-a-extorsiones-17042026/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "general": true,
+      "antecedente": true,
+      "lugar": "Cantón Yaguachi (sector no precisado)",
+      "lat": -2.12,
+      "lon": -79.69,
+      "fecha": "2024-11-14",
+      "quien": "Policía Nacional",
+      "detalle": "Tras perseguir un vehículo sospechoso, sus ocupantes dispararon contra policías; en el cruce de fuego murió un presunto delincuente y otro quedó herido. Se recogió un arma como evidencia.",
+      "fuente": "El Universo, 14 nov 2024",
+      "url": "https://www.eluniverso.com/noticias/ecuador/un-presunto-delincuente-fue-abatido-en-yaguachi-durante-persecucion-nota/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "antecedente": true,
+      "lugar": "Sector Sabana Grande, distrito Progreso (Guayaquil)",
+      "lat": -2.49,
+      "lon": -80.2,
+      "fecha": "2025-07-18",
+      "quien": "Policía Nacional (UNASE, Zona 8)",
+      "detalle": "Rescate en Sabana Grande de una mujer secuestrada el 15 jul 2025 en la vía La Playa–Durán Chiquito (Salitre); los captores pedían USD 250.000 y golpearon a su pareja con un arma. 2 detenidos y 1 vehículo incautado.",
+      "fuente": "Primicias, 19 jul 2025",
+      "url": "https://www.primicias.ec/sucesos/policia-rescate-mujer-secuestrada-canton-salitre-guayas-cautiverio-rescate-progreso-guayaquil-101057/"
+    },
+    {
+      "tipo": "ataque",
+      "general": true,
+      "lugar": "Sur de Guayaquil (sector no precisado), fiesta familiar en la calzada",
+      "lat": -2.24,
+      "lon": -79.89,
+      "fecha": "2026-11-22",
+      "quien": "Desconocidos armados en un vehículo",
+      "detalle": "Hacia las 19:00, atacantes llegaron en un vehículo y dispararon contra una fiesta familiar: al menos 3 muertos (Medicina Legal retiró 3 cuerpos); un video hablaba de más víctimas, sin confirmar. Sin pronunciamiento policial al cierre de la nota.",
+      "fuente": "Extra, 22 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/tragedia-sur-guayaquil-sujetos-armados-irrumpieron-plena-fiesta-familiar-168626.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Parroquia Eloy Alfaro, Manta (Manabí) – frente a una licorería",
+      "lat": -0.955,
+      "lon": -80.72,
+      "fecha": "2026-11-22",
+      "quien": "Desconocidos armados",
+      "detalle": "Ataque armado frente a una licorería: 2 hombres muertos.",
+      "fuente": "El Diario, 22 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/ataque-armado-frente-a-una-licoreria-dejo-dos-hombres-muertos-en-la-parroquia-eloy-alfaro-de-manta-22112026"
     }
   ],
   "zonas_criticas": [
