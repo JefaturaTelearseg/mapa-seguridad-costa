@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-24T06:00:00-05:00",
-  "actualizado_texto": "martes 24 nov 2026, 06:00",
+  "actualizado": "2026-11-24T18:00:00-05:00",
+  "actualizado_texto": "martes 24 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 24 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo (moradores hablan de disparos contra dos embarcaciones); sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 24 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo (moradores hablan de disparos contra dos embarcaciones); sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 24 nov (06:00). 17 nov: Policía y FF.AA. hicieron controles en sectores de Naranjal y Balao. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. Antecedente: Las Águilas extorsionaban camaroneras de Taura, Churute y Puerto Inca (abr 2026)."
+      "texto": "Taura: sin hechos delictivos nuevos al 24 nov (18:00). 17 nov: Policía y FF.AA. hicieron controles en sectores de Naranjal y Balao. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. Antecedente: Las Águilas extorsionaban camaroneras de Taura, Churute y Puerto Inca (abr 2026)."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 24 nov (06:00). Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 24 nov (18:00). Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 24 nov (06:00). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 24 nov (18:00). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
       "tipo": "alta",
-      "texto": "El Oro, 22–23 nov: explosivos por extorsión contra un local en la av. 25 de Junio (Machala) y una mecánica en Pasaje; un motociclista asesinado cerca de Unioro (Machala) y un herido grave en Arenillas. En Guayaquil, 2 ataques en Mapasingue Este y Pascuales."
+      "texto": "Guayaquil, 24 nov: herido en balacera en la coop. Esmeraldas Chiquito; taxista liberado tras 24 h de secuestro en Chongón (le amputaron un dedo). Manta: taxista asesinado dentro de su vehículo. El Oro, 22–23 nov: explosivos por extorsión en Machala y Pasaje."
     },
     {
       "tipo": "info",
@@ -4592,6 +4592,40 @@
       "detalle": "En la noche, atacantes bajaron de una camioneta y dispararon: murieron un hombre y su hijo de 6 años; una mujer de 53 años quedó herida. Sin detenidos. El distrito Manta–Montecristi–Jaramijó suma 454 muertes violentas en 2026.",
       "fuente": "Extra, 23 nov 2026",
       "url": "https://www.extra.ec/noticia/ecuador/violencia-manta-nino-seis-anos-padre-fallecen-ataque-armado-paz-168666.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Coop. Esmeraldas Chiquito, Guayaquil",
+      "lat": -2.105,
+      "lon": -79.94,
+      "fecha": "2026-11-24",
+      "quien": "Desconocidos armados",
+      "detalle": "En la mañana, moradores reportaron un presunto intercambio de disparos en los callejones del sector; un hombre herido intentó huir en moto y cayó en la calzada. Causas y participantes no esclarecidos; sin detenidos reportados.",
+      "fuente": "Extra, 24 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/balacera-guayaquil-hombre-intento-huir-termino-tendido-calzada-168802.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector Casas Viejas, Chongón (oeste de Guayaquil)",
+      "lat": -2.23,
+      "lon": -80.07,
+      "fecha": "2026-11-24",
+      "quien": "Secuestradores (no identificados por la fuente)",
+      "detalle": "Un taxista fue secuestrado durante unas 24 horas y le amputaron un dedo; fue liberado. Fecha exacta del secuestro por confirmar (nota publicada el 24 nov).",
+      "fuente": "El Comercio, 24 nov 2026",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/taxista-amputacion-dedo-secuestro-24-horas-guayaquil/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Manta, Manabí (sector no precisado)",
+      "lat": -0.955,
+      "lon": -80.72,
+      "fecha": "2026-11-24",
+      "general": true,
+      "quien": "Desconocidos armados",
+      "detalle": "Un taxista fue asesinado a tiros dentro de su vehículo; la Policía analiza el caso. Fecha y sector exactos por confirmar (nota publicada el 24 nov).",
+      "fuente": "El Comercio, 24 nov 2026",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/un-taxista-fue-asesinado-a-tiros-dentro-de-su-vehiculo-en-manta/"
     }
   ],
   "zonas_criticas": [
