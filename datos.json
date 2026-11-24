@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-23T18:00:00-05:00",
-  "actualizado_texto": "lunes 23 nov 2026, 18:00",
+  "actualizado": "2026-11-24T06:00:00-05:00",
+  "actualizado_texto": "martes 24 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 23 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo (moradores hablan de disparos contra dos embarcaciones); la Armada apagó el fuego, sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 24 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo (moradores hablan de disparos contra dos embarcaciones); sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 23 nov (18:00). 20 nov: desborde del río Culebra en el recinto Cascajal. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. Antecedente: Las Águilas extorsionaban camaroneras de Taura, Churute y Puerto Inca (abr 2026)."
+      "texto": "Taura: sin hechos delictivos nuevos al 24 nov (06:00). 17 nov: Policía y FF.AA. hicieron controles en sectores de Naranjal y Balao. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. Antecedente: Las Águilas extorsionaban camaroneras de Taura, Churute y Puerto Inca (abr 2026)."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 23 nov (18:00). Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 24 nov (06:00). Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 23 nov (18:00). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 24 nov (06:00). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
     },
     {
       "tipo": "alta",
-      "texto": "22 nov: ataque a una fiesta familiar en el suroeste de Guayaquil deja 4 muertos y 3 heridos; en Manta (barrio La Paz) asesinan a un hombre y a su hijo de 6 años, y 2 hombres caen frente a una licorería en Eloy Alfaro. Policía allanó en Durán un centro de acopio de los Latin Kings."
+      "texto": "El Oro, 22–23 nov: explosivos por extorsión contra un local en la av. 25 de Junio (Machala) y una mecánica en Pasaje; un motociclista asesinado cerca de Unioro (Machala) y un herido grave en Arenillas. En Guayaquil, 2 ataques en Mapasingue Este y Pascuales."
     },
     {
       "tipo": "info",
-      "texto": "Estado de excepción renovado por 30 días en ocho provincias (desde 11 nov), sin toque de queda vigente (el último rigió del 1 al 10 nov)."
+      "texto": "Estado de excepción renovado por 30 días en ocho provincias (desde 11 nov), sin toque de queda vigente. Policía: 44 detenidos por secuestro y extorsión en la semana del 16 al 22 nov."
     }
   ],
   "toque_de_queda": null,
@@ -831,10 +831,10 @@
         "lobos"
       ],
       "disputa": false,
-      "fecha": null,
-      "detalle": "Aprehensiones y casas de Los Lobos desmanteladas. 93 homicidios de enero a agosto de 2026.",
-      "fuente": "El Universo",
-      "url": "https://www.eluniverso.com/politica/seguridad/policia-aprehende-a-presunto-vinculado-a-los-lobos-y-recupera-un-vehiculo-robado-en-huaquillas-nota/"
+      "fecha": "2026-11-23",
+      "detalle": "Aprehensiones y casas de Los Lobos desmanteladas. 93 homicidios de enero a agosto de 2026. 23 nov 2026: la Policía informó 5 detenidos en Huaquillas que extorsionaban por WhatsApp identificándose como Los Lobos (operativos Libertad, 16–22 nov).",
+      "fuente": "Policía Nacional, 23 nov 2026",
+      "url": "https://noticias.policia.gob.ec/operativos-libertad-afectan-a-estructuras-dedicadas-al-secuestro-y-la-extorsion-con-44-capturados-y-se-evito-el-pago-de-aproximadamente-238-810-dolares/"
     },
     {
       "id": "el-guabo",
@@ -1169,6 +1169,184 @@
     }
   ],
   "eventos": [
+    {
+      "tipo": "operativo",
+      "lugar": "Naranjal y Balao (Guayas), diferentes sectores",
+      "lat": -2.67,
+      "lon": -79.62,
+      "fecha": "2026-11-17",
+      "quien": "Bloque de Seguridad (Policía Nacional y FF.AA.), con los ministros del Interior y de Defensa",
+      "detalle": "Operativos de control de vehículos y motocicletas, procedimientos policiales y migratorios y control territorial en diferentes sectores de Naranjal y Balao. La nota no reporta detenidos ni decomisos.",
+      "fuente": "El Universo, 17 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/policia-y-militares-ejecutan-operativos-de-seguridad-en-naranjal-y-balao-en-guayas-nota/",
+      "general": true
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Avenida 25 de Junio, Machala (El Oro) – local comercial",
+      "lat": -3.262,
+      "lon": -79.958,
+      "fecha": "2026-11-22",
+      "quien": "Desconocidos (una mujer en motocicleta)",
+      "detalle": "Hacia las 22:15 dejaron un explosivo en la puerta de un local comercial: la explosión destruyó el ingreso y dañó el local vecino, sin heridos. La Policía maneja la extorsión como hipótesis principal y analiza si otra organización intenta quedarse con ese cobro.",
+      "fuente": "Diario Correo, 23 nov 2026",
+      "url": "https://diariocorreo.com.ec/141908/sucesos/una-mujer-habria-colocado-el-explosivo-presunta-extorsion-habria-motivado-el-bombazo-contra-local-en-la-avenida-25-de-junio"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Entrada del sector La María, av. Panamericana, Machala (El Oro)",
+      "lat": -3.25,
+      "lon": -79.94,
+      "fecha": "2026-11-22",
+      "quien": "Policía Nacional (UPC El Retiro y El Cambio)",
+      "detalle": "Hacia las 20:30, tras una alerta al ECU-911 por disparos, la Policía persiguió y aprehendió a un hombre de 32 años que habría lanzado un arma dentro de un taller; se recuperaron un objeto similar a un arma y una vainilla.",
+      "fuente": "Diario Correo, 23 nov 2026",
+      "url": "https://diariocorreo.com.ec/141900/sucesos/huyo-al-ver-a-la-policia-y-habria-lanzado-un-arma-en-un-taller-mecanico"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector del mercado Nuevo San Antonio, Pasaje (El Oro)",
+      "lat": -3.327,
+      "lon": -79.807,
+      "fecha": "2026-11-23",
+      "quien": "Desconocidos",
+      "detalle": "Hacia las 05:30 lanzaron un explosivo contra una mecánica: daños en la fachada y ventanales de dos viviendas. Dejaron un panfleto con amenazas de muerte y referencias a extorsiones.",
+      "fuente": "Diario Correo, 23 nov 2026",
+      "url": "https://diariocorreo.com.ec/141899/sucesos/atacaron-una-mecanica-y-dejaron-panfleto-con-amenazas-de-muerte"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Ciudadela El Cisne, Arenillas (El Oro)",
+      "lat": -3.553,
+      "lon": -80.065,
+      "fecha": "2026-11-23",
+      "quien": "Desconocidos (dos hombres en motocicleta)",
+      "detalle": "En la tarde dispararon varias veces contra un hombre en la calle: quedó herido de gravedad. Al menos 8 indicios balísticos.",
+      "fuente": "Diario Correo, 23 nov 2026",
+      "url": "https://diariocorreo.com.ec/141916/sucesos/lo-atacaron-a-tiros-cuando-estaba-afuera-de-su-vivienda"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector Unioro, Machala (El Oro)",
+      "lat": -3.285,
+      "lon": -79.913,
+      "fecha": "2026-11-23",
+      "quien": "Desconocidos (hombres armados)",
+      "detalle": "Hacia las 21:35 interceptaron y mataron a tiros a un hombre que circulaba en una moto eléctrica; los atacantes huyeron.",
+      "fuente": "Diario Correo, 23 nov 2026",
+      "url": "https://diariocorreo.com.ec/141940/sucesos/lo-mataron-a-tiros-mientras-conducia-una-moto-electrica"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Sector 29 de Noviembre, Santa Rosa (El Oro)",
+      "lat": -3.452,
+      "lon": -79.963,
+      "fecha": "2026-11-23",
+      "quien": "Fuerzas de seguridad y Bloque de Seguridad",
+      "detalle": "Allanamiento: decomiso de 2 escopetas y 3 presuntos explosivos ocultos. No se informan detenidos.",
+      "fuente": "Diario Correo, 23 nov 2026",
+      "url": "https://diariocorreo.com.ec/141906/sucesos/hallan-escopetas-y-explosivos-ocultos-en-una-vivienda"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Mapasingue Este, norte de Guayaquil (distrito Florida)",
+      "lat": -2.155,
+      "lon": -79.925,
+      "fecha": "2026-11-23",
+      "quien": "Desconocidos (al menos dos sicarios)",
+      "detalle": "Los atacantes se hicieron pasar por interesados en alquilar una casa y mataron a tiros al hombre que la mostraba.",
+      "fuente": "El Diario, 23 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/sicarios-fingieron-ser-clientes-para-matar-a-un-hombre-que-ofrecia-una-casa-en-alquiler-en-guayaquil-23112026"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Cooperativa 5 de Diciembre, Pascuales (norte de Guayaquil)",
+      "lat": -2.08,
+      "lon": -79.96,
+      "fecha": "2026-11-23",
+      "quien": "Desconocidos",
+      "detalle": "Unas dos horas después del crimen en Mapasingue Este, otro ataque armado dejó 1 muerto (con antecedentes) y 1 herido grave.",
+      "fuente": "El Diario, 23 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/sicarios-fingieron-ser-clientes-para-matar-a-un-hombre-que-ofrecia-una-casa-en-alquiler-en-guayaquil-23112026"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Orillas del río Cayapas, cantón San Lorenzo (Esmeraldas)",
+      "lat": 1.2,
+      "lon": -78.9,
+      "fecha": "2026-11-23",
+      "quien": "Policía Nacional (inteligencia e investigación)",
+      "detalle": "Incautación de material bélico atribuido a la logística del Frente Oliver Sinisterra (disidencia colombiana): 4 fusiles, 1 arma, 33 cargadores, unas 4.000 municiones y 30 granadas de mortero. Sin detenidos reportados.",
+      "fuente": "Policía Nacional, 23 nov 2026",
+      "url": "https://noticias.policia.gob.ec/afectamos-la-capacidad-logistica-de-una-estructura-delictiva-con-la-incautacion-de-material-belico-en-san-lorenzo-esmeraldas/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Quevedo (Los Ríos)",
+      "lat": -1.022,
+      "lon": -79.463,
+      "fecha": "2026-11-23",
+      "quien": "Ejército (FF.AA.)",
+      "detalle": "1 detenido; decomiso de un revólver calibre 38, una carabina calibre 16, municiones y dosis de cocaína y marihuana.",
+      "fuente": "El Diario, 23 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/detienen-a-sospechoso-en-quevedo-con-armas-y-droga-en-quevedo-los-rios-23112026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Barrio San José, parroquia Tarqui, Manta (Manabí)",
+      "lat": -0.955,
+      "lon": -80.715,
+      "fecha": "2026-11-23",
+      "quien": "Policía Nacional (Zona 4)",
+      "detalle": "Aprehendido el conductor de un taxi que habría facilitado la huida del autor del asesinato de un joven de 23 años frente a una barbería (20 nov). Hay orden de detención pedida contra el presunto tirador.",
+      "fuente": "El Diario, 23 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/aprehenden-a-conductor-de-taxi-presunto-vinculado-en-asesinato-de-nieto-del-propietario-de-una-reconocida-cevicheria-de-manta-23112026/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayaquil (norte, centro y sur), Durán y Samborondón",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-23",
+      "quien": "Fiscalía General del Estado / Tribunal",
+      "detalle": "Seis integrantes de una organización condenados a entre 19 y 26 años por secuestro extorsivo: captaban víctimas con carreras de taxi o de aplicaciones y las obligaban a entregar las claves de sus tarjetas.",
+      "fuente": "El Diario, 23 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/seis-integrantes-de-una-organizacion-delictiva-reciben-penas-de-hasta-26-anos-de-prision-en-guayas-por-secuestros-extorsivos-23112026/",
+      "general": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Cárcel de Machala (El Oro)",
+      "lat": -3.27,
+      "lon": -79.97,
+      "fecha": "2026-11-23",
+      "quien": "Fiscalía General del Estado / Tribunal",
+      "detalle": "Tres reos condenados a 40 años de prisión por asfixiar a 13 internos de una banda rival durante el motín del 7 dic 2025.",
+      "fuente": "Vistazo/EFE, 23 nov 2026",
+      "url": "https://vistazo.com/seguridad/2026-11-23-40-anos-prision-tres-hombres-asesinato-13-reclusos-carcel-machala-NA11334238"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Huaquillas (El Oro)",
+      "lat": -3.476,
+      "lon": -80.231,
+      "fecha": "2026-11-23",
+      "quien": "Policía Nacional (UNASE/DIASE, operativos Libertad)",
+      "detalle": "Balance del 16 al 22 nov: 44 detenidos a nivel nacional por secuestro y extorsión (se evitó el pago de unos USD 238.810). En Huaquillas cayeron 5 que extorsionaban por WhatsApp identificándose como Los Lobos.",
+      "fuente": "Policía Nacional, 23 nov 2026",
+      "url": "https://noticias.policia.gob.ec/operativos-libertad-afectan-a-estructuras-dedicadas-al-secuestro-y-la-extorsion-con-44-capturados-y-se-evito-el-pago-de-aproximadamente-238-810-dolares/"
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Bahía de Caráquez, cantón Sucre (Manabí)",
+      "lat": -0.6,
+      "lon": -80.42,
+      "fecha": "2026-11-23",
+      "quien": "Policía Nacional (UNASE/DIASE, operativos Libertad)",
+      "detalle": "Dentro del balance semanal antiextorsión (16–22 nov), 3 detenidos en Bahía de Caráquez y Guayaquil que extorsionaban identificándose como Los Lobos.",
+      "fuente": "Policía Nacional, 23 nov 2026",
+      "url": "https://noticias.policia.gob.ec/operativos-libertad-afectan-a-estructuras-dedicadas-al-secuestro-y-la-extorsion-con-44-capturados-y-se-evito-el-pago-de-aproximadamente-238-810-dolares/"
+    },
     {
       "tipo": "camaronera",
       "zona": "Puná",
@@ -4442,7 +4620,7 @@
       "lat": -2.56,
       "lon": -79.59,
       "radio_m": 6000,
-      "detalle": "Puntos críticos de asaltos a carga, pasajeros y piscinas acuícolas en la Troncal. Se recomienda no circular entre las 20:00 y las 05:00.",
+      "detalle": "Puntos críticos de asaltos a carga, pasajeros y piscinas acuícolas en la Troncal. Se recomienda no circular entre las 20:00 y las 05:00. 17 nov 2026: el Bloque de Seguridad (Policía y FF.AA.) ejecutó controles vehiculares y territoriales en diferentes sectores de Naranjal y Balao.",
       "fuente": "Primicias, 12 ago 2024",
       "url": "https://www.primicias.ec/seguridad/asaltos-extorsion-puntos-criticos-cadena-logistica-exportacion-guayas-eloro-76025/"
     },
