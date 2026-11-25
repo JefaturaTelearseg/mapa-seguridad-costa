@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-24T18:00:00-05:00",
-  "actualizado_texto": "martes 24 nov 2026, 18:00",
+  "actualizado": "2026-11-25T06:00:00-05:00",
+  "actualizado_texto": "miércoles 25 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 24 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo (moradores hablan de disparos contra dos embarcaciones); sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 25 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 24 nov (18:00). 17 nov: Policía y FF.AA. hicieron controles en sectores de Naranjal y Balao. Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. Antecedente: Las Águilas extorsionaban camaroneras de Taura, Churute y Puerto Inca (abr 2026)."
+      "texto": "Taura: sin hechos delictivos nuevos al 25 nov (06:00). Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. 17 nov: controles de Policía y FF.AA. en Naranjal y Balao."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi – Tres Postes: sin hechos nuevos al 24 nov (18:00). Último: 15 oct, falso control con uniforme policial para robar un camión de cacao en Tres Postes; ese mes cayeron 7 de una facción de Las Águilas en Tres Postes y Jujan."
+      "texto": "Yaguachi: sin hechos nuevos en 36 h. Se cargaron antecedentes: 12 may 2026, funcionaria municipal baleada en Virgen de Fátima; nov 2025, asesinatos en el Km 27 de la vía a Naranjal y en El Cóndor. Último en Tres Postes: 15 oct, falso control policial para robar un camión de cacao."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos delictivos nuevos al 24 nov (18:00). Último grave: 6 sep, 16 fusiles, ~5.000 municiones y 3 lanchas ocultos en el manglar de una camaronera de Progreso."
+      "texto": "Sabana Grande / Progreso: sin hechos nuevos en 36 h. Se cargó: 30 sep, 2 secuestrados liberados en Progreso–Cerecita, 3 detenidos ligados a la Mafia 18. Último grave en camaronera: 6 sep, 16 fusiles y 3 lanchas ocultos en el manglar."
     },
     {
       "tipo": "alta",
-      "texto": "Guayaquil, 24 nov: herido en balacera en la coop. Esmeraldas Chiquito; taxista liberado tras 24 h de secuestro en Chongón (le amputaron un dedo). Manta: taxista asesinado dentro de su vehículo. El Oro, 22–23 nov: explosivos por extorsión en Machala y Pasaje."
+      "texto": "Santa Elena, 24 nov: 2 altos funcionarios de la Refinería La Libertad asesinados desde un vehículo. Manta, 24 nov: 2 asesinatos (Mercado Central y La Florita). Guayaquil: ataque en fiesta infantil del suburbio (1 muerto, bebé herida; 3 detenidos)."
     },
     {
       "tipo": "info",
-      "texto": "Estado de excepción renovado por 30 días en ocho provincias (desde 11 nov), sin toque de queda vigente. Policía: 44 detenidos por secuestro y extorsión en la semana del 16 al 22 nov."
+      "texto": "Estado de excepción renovado por 30 días en ocho provincias (desde 11 nov), sin toque de queda vigente. Policía: operativo Libertad 1255 en Manabí (3 detenidos por extorsión)."
     }
   ],
   "toque_de_queda": null,
@@ -4617,15 +4617,189 @@
     },
     {
       "tipo": "ataque",
-      "lugar": "Manta, Manabí (sector no precisado)",
-      "lat": -0.955,
-      "lon": -80.72,
+      "lugar": "Barrio La Florita, parroquia Los Esteros, Manta (Manabí)",
+      "lat": -0.962,
+      "lon": -80.7,
       "fecha": "2026-11-24",
-      "general": true,
       "quien": "Desconocidos armados",
-      "detalle": "Un taxista fue asesinado a tiros dentro de su vehículo; la Policía analiza el caso. Fecha y sector exactos por confirmar (nota publicada el 24 nov).",
+      "detalle": "Un taxista de 32 años fue asesinado a tiros dentro de su vehículo en un callejón cercano al subcentro de salud de La Florita. Se investiga sicariato o robo; sin detenidos. El distrito Manta–Montecristi–Jaramijó suma 455 muertes violentas en 2026.",
+      "fuente": "El Diario / El Comercio, 24 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/taxista-es-asesinado-dentro-de-su-vehiculo-en-el-barrio-la-florita-de-manta-24112026/"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Parroquia Virgen de Fátima, Yaguachi",
+      "lat": -2.21,
+      "lon": -79.61,
+      "fecha": "2026-05-12",
+      "quien": "Encapuchados en moto (sin banda identificada)",
+      "detalle": "En la noche, dos encapuchados en moto dispararon contra una funcionaria municipal de 27 años afuera de su casa; quedó herida en rostro y pecho, trasladada al IESS de Milagro en estado reservado. Móvil no determinado; sin detenidos reportados.",
+      "fuente": "Extra, 15 may 2026",
+      "url": "https://www.extra.ec/noticia/justicia/funcionaria-municipio-yaguachi-atacada-tiros-afuera-casa-hipotesis-caso-153813.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "lugar": "Anillo vial hacia la vía Durán – Yaguachi (Durán)",
+      "lat": -2.17,
+      "lon": -79.8,
+      "fecha": "2025-11-23",
+      "quien": "Desconocidos armados",
+      "detalle": "En la mañana se halló entre la maleza junto a la vía el cuerpo de un hombre baleado; el crimen habría ocurrido la noche anterior o en la madrugada. Sin detenidos.",
+      "fuente": "Extra, 23 nov 2025",
+      "url": "https://www.extra.ec/noticia/guayaquil/hombre-acribillado-en-duran-crimen-fue-en-anillo-vial-hacia-la-via-duran-yaguachi-141584.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "lugar": "Km 27 de la vía a Naranjal, parroquia Virgen de Fátima (Yaguachi)",
+      "lat": -2.222,
+      "lon": -79.598,
+      "fecha": "2025-11-19",
+      "quien": "Desconocidos armados",
+      "detalle": "Hacia las 01:30, tras alerta al ECU-911, se halló a un hombre de 53 años (extranjero) asesinado a tiros. Dinased y Fiscalía investigan; sin móvil ni detenidos.",
+      "fuente": "Extra, 19 nov 2025",
+      "url": "https://www.extra.ec/noticia/ecuador/peruano-fue-asesinado-en-territorio-ecuatoriano-de-quien-se-trata-141323.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "general": true,
+      "lugar": "Vía al recinto El Cóndor, Yaguachi (cañaveral; ubicación aproximada)",
+      "lat": -2.12,
+      "lon": -79.68,
+      "fecha": "2025-11-18",
+      "quien": "Desconocidos",
+      "detalle": "En la tarde se halló enterrado y desmembrado en un cañaveral el cuerpo de un hombre de 25 años, desaparecido desde el 16 nov 2025. Sin detenidos.",
+      "fuente": "Extra, 18 nov 2025",
+      "url": "https://www.extra.ec/noticia/ecuador/macabro-hallazgo-en-yaguachi-su-hermano-lo-encontro-segmentado-y-enterrado-141305.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "general": true,
+      "lugar": "Cantón Yaguachi (sector no precisado)",
+      "lat": -2.1,
+      "lon": -79.7,
+      "fecha": "2025-10-17",
+      "quien": "Motorizados armados / Policía Nacional",
+      "detalle": "Dos hombres en moto interceptaron a un policía que iba a su trabajo y le dispararon en la pierna; el agente respondió y murieron los dos atacantes. Moto decomisada.",
+      "fuente": "Extra, 17 oct 2025",
+      "url": "https://www.extra.ec/noticia/ecuador/tiroteo-yaguachi-fallecidos-policia-herido-139067.html"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "lugar": "Vía Panamericana, parroquia Virgen de Fátima (Yaguachi)",
+      "lat": -2.205,
+      "lon": -79.615,
+      "fecha": "2025-09-28",
+      "quien": "Policía Nacional",
+      "detalle": "Durante una persecución a motorizados sospechosos de balaceras chocaron un auto, una tricimoto y un patrullero (que se volcó): 1 muerto. El policía conductor fue aprehendido para audiencia de flagrancia.",
+      "fuente": "Extra, 29 sep 2025",
+      "url": "https://www.extra.ec/noticia/ecuador/virgen-de-fatima-yaguachi-persecucion-policial-acabo-en-tragedia-137809.html"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "general": true,
+      "lugar": "Recinto Caimito, Yaguachi (ruta Milagro – Yaguachi; ubicación aproximada)",
+      "lat": -2.08,
+      "lon": -79.68,
+      "fecha": "2024-11-26",
+      "quien": "Policía Nacional",
+      "detalle": "Un hombre interceptado por varios sujetos en dos vehículos en la ruta Milagro–Yaguachi fue hallado encapuchado entre la maleza del recinto Caimito y rescatado con apoyo de drones. Sospechosos prófugos.",
+      "fuente": "Extra, 27 nov 2024",
+      "url": "https://www.extra.ec/noticia/ecuador/usando-ingeniosamente-drones-rescataron-secuestrado-yaguachi-116386.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "antecedente": true,
+      "lugar": "Recinto Buena Fe, Yaguachi",
+      "lat": -1.99,
+      "lon": -79.68,
+      "fecha": "2024-02-17",
+      "quien": "Desconocidos armados",
+      "detalle": "Hacia las 06:30 se hallaron en un camino estrecho 3 hombres baleados y con signos de tortura, junto a un cartel que advertía contra robos y extorsiones en el Km 26, El Deseo, Taura y alrededores. Sin detenidos.",
+      "fuente": "Extra, 17 feb 2024",
+      "url": "https://www.extra.ec/noticia/ecuador/yaguachi-tres-hombres-encontrados-vida-recinto-buena-fe-conocian-99560.html"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "lugar": "Distrito Progreso (segundo redondel) y San Isidro, sector Cerecita",
+      "lat": -2.41,
+      "lon": -80.37,
+      "fecha": "2026-09-30",
+      "quien": "Policía Nacional (UNIDAE)",
+      "detalle": "Dos extranjeros secuestrados con armas en el distrito Progreso fueron liberados al ubicarse el vehículo en una gasolinera de San Isidro (Cerecita). 3 aprehendidos que la Policía vincula con un brazo armado de la Mafia 18. Decomiso: vehículo, objeto similar a pistola, cargador, 10 cartuchos 9 mm y 4 celulares. Fecha del hecho no precisada (nota del 30 sep).",
+      "fuente": "El Universo, 30 sep 2026",
+      "url": "https://www.eluniverso.com/noticias/seguridad/policia-libera-a-dos-venezolanos-secuestrados-en-el-distrito-progreso-nota/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Exteriores del Mercado Central de Manta (Manabí)",
+      "lat": -0.951,
+      "lon": -80.722,
+      "fecha": "2026-11-24",
+      "quien": "Desconocidos armados",
+      "detalle": "En la mañana, un hombre sentado en la acera fue asesinado de unos 6 disparos; los atacantes huyeron. 6 casquillos 9 mm; sin detenidos.",
+      "fuente": "El Diario, 24 nov 2026",
+      "url": "https://www.eldiario.ec/seguridad/asesinan-a-un-hombre-en-los-exteriores-del-mercado-central-de-manta-24112026/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Puerto Nuevo, cerca de la Refinería La Libertad (Santa Elena)",
+      "lat": -2.225,
+      "lon": -80.905,
+      "fecha": "2026-11-24",
+      "quien": "Atacantes desde un vehículo",
+      "detalle": "Dos altos funcionarios de la Refinería La Libertad (Petroecuador) murieron en el sitio por disparos desde un vehículo; 35–40 indicios balísticos. Se halló un auto quemado en la Ruta del Spondylus que estaría vinculado. Móvil no confirmado; sin detenidos.",
+      "fuente": "Metro Ecuador / El Comercio, 24 nov 2026",
+      "url": "https://www.metroecuador.com.ec/noticias/2026/11/24/asesinan-a-dos-altos-funcionarios-de-la-refineria-la-libertad-en-un-ataque-armado-en-santa-elena/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Suburbio de Guayaquil (calles 44 y El Oro, distrito Portete)",
+      "lat": -2.205,
+      "lon": -79.925,
+      "fecha": "2026-11-22",
+      "quien": "Atacantes en 4 motos",
+      "detalle": "Ataque armado en una fiesta infantil: murió un joven de 18 años (presunto objetivo) y quedaron heridos una bebé de 2 meses y un adolescente de 17. 3 sospechosos aprehendidos tras rastreo por cámaras y allanamientos; decomiso de 1 arma y 2 motos.",
       "fuente": "El Comercio, 24 nov 2026",
-      "url": "https://www.elcomercio.com/actualidad/seguridad/un-taxista-fue-asesinado-a-tiros-dentro-de-su-vehiculo-en-manta/"
+      "url": "https://www.elcomercio.com/actualidad/seguridad/ataque-armado-fiesta-infantil-guayaquil-bebe-herida-fallecido/"
+    },
+    {
+      "tipo": "operativo",
+      "general": true,
+      "lugar": "Manabí (sector no precisado)",
+      "lat": -1.05,
+      "lon": -80.45,
+      "fecha": "2026-11-24",
+      "quien": "Policía Nacional",
+      "detalle": "Operativo Libertad 1255: 3 aprehendidos por extorsión.",
+      "fuente": "Policía Nacional, 24 nov 2026",
+      "url": "https://noticias.policia.gob.ec/tres-aprehendidos-por-extorsion-en-manabi-tras-operativo-libertad-1255/"
+    },
+    {
+      "tipo": "operativo",
+      "general": true,
+      "lugar": "Guayaquil (sector no precisado)",
+      "lat": -2.19,
+      "lon": -79.89,
+      "fecha": "2026-11-23",
+      "quien": "Policía Nacional",
+      "detalle": "Liberación de un taxista víctima de secuestro extorsivo y 5 presuntos implicados aprehendidos.",
+      "fuente": "Policía Nacional, 23 nov 2026",
+      "url": "https://noticias.policia.gob.ec/policia-nacional-libera-a-taxista-victima-de-secuestro-extorsivo-y-aprehende-a-cinco-presuntos-implicados-en-guayaquil/"
     }
   ],
   "zonas_criticas": [
@@ -4645,7 +4819,7 @@
       "lat": -2.495,
       "lon": -80.2,
       "radio_m": 9000,
-      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos). 18 sep 2026: 4 detenidos por asaltos a carga en la vía Cerecita–Progreso. Antecedentes en Progreso: 20 ene 2026, 300 paquetes de presunta cocaína en una bodega; 14 jul 2026, 3 detenidos de Los Fatales y un cuerpo enterrado en el sector San Luis. 2 nov 2026: crecida de un estero en la comuna Sabana Grande arrastró una camioneta (sin víctimas). Antecedentes en camaroneras de Progreso: robo de armas (feb 2025) y 4 Tiguerones capturados (mar 2025). Antecedente: 17 jun 2024, 4 aprehendidos por secuestro y extorsión tras allanamientos en San Lorenzo del Mate.",
+      "detalle": "Zona de unas 50 camaroneras a lo largo de la vía Progreso – San Lorenzo del Mate – Sabana Grande – Puerto Sabana Grande (ubicación aproximada). No hay reportes públicos recientes de robos en el sector; en la misma parroquia Progreso se hallaron en septiembre de 2026 16 fusiles y 5 motores fuera de borda escondidos en una camaronera. El 21 ago 2026 los militares hallaron 14 restos óseos humanos en la bajada de Progreso. En ago 2026 la Policía desarticuló en el barrio Caribe de Progreso un grupo de secuestro extorsivo (3 aprehendidos). 18 sep 2026: 4 detenidos por asaltos a carga en la vía Cerecita–Progreso. 30 sep 2026: 2 secuestrados liberados en el distrito Progreso; 3 detenidos que la Policía vincula a la Mafia 18. Antecedentes en Progreso: 20 ene 2026, 300 paquetes de presunta cocaína en una bodega; 14 jul 2026, 3 detenidos de Los Fatales y un cuerpo enterrado en el sector San Luis. 2 nov 2026: crecida de un estero en la comuna Sabana Grande arrastró una camioneta (sin víctimas). Antecedentes en camaroneras de Progreso: robo de armas (feb 2025) y 4 Tiguerones capturados (mar 2025). Antecedente: 17 jun 2024, 4 aprehendidos por secuestro y extorsión tras allanamientos en San Lorenzo del Mate.",
       "fuente": "El Universo / Expreso",
       "url": "https://www.expreso.ec/justicia/hallan-16-fusiles-operativo-camaronera-guayas-hay-4-detenidos-294966.html"
     },
