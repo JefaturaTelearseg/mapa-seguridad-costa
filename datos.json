@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-11-25T06:00:00-05:00",
-  "actualizado_texto": "miércoles 25 nov 2026, 06:00",
+  "actualizado": "2026-11-25T18:00:00-05:00",
+  "actualizado_texto": "miércoles 25 nov 2026, 18:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 25 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 25 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 25 nov (06:00). Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. 17 nov: controles de Policía y FF.AA. en Naranjal y Balao."
+      "texto": "Taura: sin hechos delictivos nuevos al 25 nov (18:00). Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. 17 nov: controles de Policía y FF.AA. en Naranjal y Balao."
     },
     {
       "tipo": "alta",
@@ -20,7 +20,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "Santa Elena, 24 nov: 2 altos funcionarios de la Refinería La Libertad asesinados desde un vehículo. Manta, 24 nov: 2 asesinatos (Mercado Central y La Florita). Guayaquil: ataque en fiesta infantil del suburbio (1 muerto, bebé herida; 3 detenidos)."
+      "texto": "Machala, 25 nov (tarde): abogado asesinado a tiros en el centro (Tarqui y Guabo), un comerciante herido; sin detenidos. Santa Elena: 2 funcionarios de la Refinería La Libertad asesinados (24 nov); 24 homicidios con arma en noviembre."
     },
     {
       "tipo": "info",
@@ -4800,6 +4800,28 @@
       "detalle": "Liberación de un taxista víctima de secuestro extorsivo y 5 presuntos implicados aprehendidos.",
       "fuente": "Policía Nacional, 23 nov 2026",
       "url": "https://noticias.policia.gob.ec/policia-nacional-libera-a-taxista-victima-de-secuestro-extorsivo-y-aprehende-a-cinco-presuntos-implicados-en-guayaquil/"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Centro de Machala, calles Tarqui y Guabo (El Oro)",
+      "lat": -3.2595,
+      "lon": -79.9605,
+      "fecha": "2026-11-25",
+      "quien": "Desconocidos en motocicleta",
+      "detalle": "En la tarde, en una zona comercial, atacantes en una moto dispararon contra un abogado de 29 años cuando iba a subir a un vehículo: murió en el sitio. Un comerciante de 65 años resultó herido por una bala que le rozó la cabeza (estable). Huyeron en una moto azul; sin detenidos. Criminalística recogió indicios balísticos.",
+      "fuente": "Extra y Machala Móvil, 25 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/oro-abogado-atacado-tiros-iba-abordar-vehiculo-centro-machala-168908.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Barrio Abdón Calderón, La Libertad (Santa Elena)",
+      "lat": -2.2335,
+      "lon": -80.905,
+      "fecha": "2026-11-23",
+      "quien": "Desconocidos en motocicleta",
+      "detalle": "En la noche del lunes, durante una reunión con música y pirotecnia, dos hombres en moto dispararon varias veces contra un joven de 28 años, que murió. Criminalística levantó 9 indicios balísticos; sin detenidos. Según el medio, Santa Elena suma 24 homicidios con arma de fuego en noviembre (14 en La Libertad).",
+      "fuente": "Extra, 24 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/crimen-santa-elena-bala-pirotecnia-dejo-fallecido-libertad-168755.html"
     }
   ],
   "zonas_criticas": [
