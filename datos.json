@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-11-26T06:00:00-05:00",
-  "actualizado_texto": "jueves 26 nov 2026, 06:00",
+  "actualizado": "2026-11-26T17:55:00-05:00",
+  "actualizado_texto": "jueves 26 nov 2026, 17:55",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 26 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 26 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 26 nov (06:00). Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. 17 nov: controles de Policía y FF.AA. en Naranjal y Balao."
+      "texto": "Taura: sin hechos delictivos nuevos al 26 nov (18:00). Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. 17 nov: controles de Policía y FF.AA. en Naranjal y Balao."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi: sin hechos nuevos en 36 h. Se cargó antecedente: 14 ago 2026, 4 cadáveres y 3 osamentas hallados en el sector La Herradura (límite con Durán). Último en Tres Postes: 15 oct, falso control policial para robar un camión de cacao."
+      "texto": "Yaguachi: sin hechos nuevos en 36 h. Último en Tres Postes: 15 oct, falso control policial para robar un camión de cacao. Antecedente cargado: 14 ago 2026, 4 cadáveres y 3 osamentas en La Herradura (límite con Durán)."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos nuevos en 36 h. Se cargó antecedente: abr 2022, 7 detenidos por asaltar fincas en el recinto Tiffany. Último grave en camaronera: 6 sep, 16 fusiles y 3 lanchas ocultos en el manglar."
+      "texto": "Sabana Grande / Progreso: sin hechos nuevos en 36 h. Último grave en camaronera: 6 sep, 16 fusiles y 3 lanchas ocultos en el manglar."
+    },
+    {
+      "tipo": "operativo",
+      "texto": "Apolo 41 (25–26 nov): 26 aprehendidos y 17 armas en 47 intervenciones en Guayaquil, Durán y Samborondón. Expolicía detenido por presuntos vínculos con la Mafia 18 en el distrito Esteros."
     },
     {
       "tipo": "alta",
-      "texto": "Machala, 25 nov (tarde): abogado asesinado a tiros en el centro (Tarqui y Guabo), un comerciante herido; sin detenidos. Santa Elena: 2 funcionarios de la Refinería La Libertad asesinados (24 nov)."
-    },
-    {
-      "tipo": "info",
-      "texto": "Estado de excepción renovado por 30 días en ocho provincias (desde 11 nov), sin toque de queda vigente. Policía: operativo Libertad 1255 en Manabí (3 detenidos por extorsión)."
+      "texto": "Manabí: 2 hombres asesinados en un bus en Pedernales (25 nov) y 1 en un taller de Charapotó, Sucre (26 nov). Machala: abogado asesinado en el centro (25 nov). Estado de excepción vigente en ocho provincias, sin toque de queda."
     }
   ],
   "toque_de_queda": null,
@@ -4847,6 +4847,62 @@
       "fuente": "Extra, 28 abr 2022",
       "url": "https://www.extra.ec/noticia/judicial/cogieron-siete-supuestos-roba-fincas-progreso-66835.html",
       "antecedente": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Guayaquil, Durán y Samborondón (12 distritos de la Zona 8)",
+      "lat": -2.17,
+      "lon": -79.88,
+      "fecha": "2026-11-26",
+      "quien": "Policía Nacional (Zona 8)",
+      "detalle": "Operativo Apolo 41 (noche del 25 a madrugada del 26 nov): 47 intervenciones a partir de denuncias ciudadanas; 26 aprehendidos (uno menor de edad), 17 armas de fuego, 73 municiones, 29 armas blancas, 625 dosis y bloques de droga, prendas similares a las policiales, 3 vehículos robados, 34 motos y USD 27.000 sin justificar (a órdenes de Fiscalía). La Policía cita a Freddy Krueger, Tiguerones, Lobos, Chone Killers, Lagartos, Mafia 18, Fatales, Águilas y Johnny Killer, sin precisar sector.",
+      "fuente": "El Universo y Extra, 26 nov 2026",
+      "url": "https://www.eluniverso.com/politica/seguridad/operativo-apolo-41-26-detenidos-durante-47-intervenciones-en-zonas-de-duran-guayaquil-y-samborondon-nota/",
+      "general": true
+    },
+    {
+      "tipo": "operativo",
+      "lugar": "Distritos Esteros y Ceibos, Guayaquil",
+      "lat": -2.235,
+      "lon": -79.905,
+      "fecha": "2026-11-26",
+      "quien": "Policía Nacional",
+      "detalle": "Operativo Atlas 820 (05:15): allanamientos en tres inmuebles; aprehendido un expolicía investigado por presuntos vínculos con la Mafia 18, que según la Policía usaba casas en el distrito Esteros para reuniones, microtráfico y hechos violentos. Decomiso: 16 prendas policiales, un chaleco, 23 municiones y 3 celulares.",
+      "fuente": "Extra, 26 nov 2026",
+      "url": "https://www.extra.ec/noticia/guayaquil/expolicia-investigados-presuntos-vinculos-mafia-18-guayaquil-168986.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector Estero Seco, Pedernales (Manabí), bus interprovincial",
+      "lat": 0.07,
+      "lon": -80.05,
+      "fecha": "2026-11-25",
+      "quien": "Desconocidos en motocicleta",
+      "detalle": "Hacia las 09:50, un atacante subió a un bus de la ruta Pedernales–Santo Domingo y mató a tiros a 2 hombres; huyó en moto con un cómplice. Se hallaron 4 vainas 9 mm. Sin detenidos.",
+      "fuente": "Extra, 26 nov 2026",
+      "url": "https://extra.ec/noticia/ecuador/manabi-dos-hombres-asesinados-bus-pedernales-taller-sucre-169041.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector El Pueblito, parroquia Charapotó, cantón Sucre (Manabí)",
+      "lat": -0.82,
+      "lon": -80.48,
+      "fecha": "2026-11-26",
+      "quien": "Desconocidos en motocicleta",
+      "detalle": "En la mañana, atacantes en moto mataron a tiros a un hombre dentro de un taller. Sin detenidos.",
+      "fuente": "Extra, 26 nov 2026",
+      "url": "https://extra.ec/noticia/ecuador/manabi-dos-hombres-asesinados-bus-pedernales-taller-sucre-169041.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Sector Río Bravo, vía a Manantiales, zona rural de Montecristi (Manabí)",
+      "lat": -1.08,
+      "lon": -80.62,
+      "fecha": "2026-11-24",
+      "quien": "Desconocidos",
+      "detalle": "Dos agricultores desaparecidos desde el 23 nov fueron hallados sin vida, con aparentes huellas de tortura. Sin detenidos; no se nombra banda.",
+      "fuente": "Extra, 25 nov 2026",
+      "url": "https://www.extra.ec/noticia/ecuador/hallan-dos-agricultores-vida-montecristi-desaparecer-iban-cultivar-maiz-168825.html"
     }
   ],
   "zonas_criticas": [
