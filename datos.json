@@ -1,26 +1,26 @@
 {
-  "actualizado": "2026-11-25T18:00:00-05:00",
-  "actualizado_texto": "miércoles 25 nov 2026, 18:00",
+  "actualizado": "2026-11-26T06:00:00-05:00",
+  "actualizado_texto": "jueves 26 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 25 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 26 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 25 nov (18:00). Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. 17 nov: controles de Policía y FF.AA. en Naranjal y Balao."
+      "texto": "Taura: sin hechos delictivos nuevos al 26 nov (06:00). Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. 17 nov: controles de Policía y FF.AA. en Naranjal y Balao."
     },
     {
       "tipo": "alta",
-      "texto": "Yaguachi: sin hechos nuevos en 36 h. Se cargaron antecedentes: 12 may 2026, funcionaria municipal baleada en Virgen de Fátima; nov 2025, asesinatos en el Km 27 de la vía a Naranjal y en El Cóndor. Último en Tres Postes: 15 oct, falso control policial para robar un camión de cacao."
+      "texto": "Yaguachi: sin hechos nuevos en 36 h. Se cargó antecedente: 14 ago 2026, 4 cadáveres y 3 osamentas hallados en el sector La Herradura (límite con Durán). Último en Tres Postes: 15 oct, falso control policial para robar un camión de cacao."
     },
     {
       "tipo": "camaronera",
-      "texto": "Sabana Grande / Progreso: sin hechos nuevos en 36 h. Se cargó: 30 sep, 2 secuestrados liberados en Progreso–Cerecita, 3 detenidos ligados a la Mafia 18. Último grave en camaronera: 6 sep, 16 fusiles y 3 lanchas ocultos en el manglar."
+      "texto": "Sabana Grande / Progreso: sin hechos nuevos en 36 h. Se cargó antecedente: abr 2022, 7 detenidos por asaltar fincas en el recinto Tiffany. Último grave en camaronera: 6 sep, 16 fusiles y 3 lanchas ocultos en el manglar."
     },
     {
       "tipo": "alta",
-      "texto": "Machala, 25 nov (tarde): abogado asesinado a tiros en el centro (Tarqui y Guabo), un comerciante herido; sin detenidos. Santa Elena: 2 funcionarios de la Refinería La Libertad asesinados (24 nov); 24 homicidios con arma en noviembre."
+      "texto": "Machala, 25 nov (tarde): abogado asesinado a tiros en el centro (Tarqui y Guabo), un comerciante herido; sin detenidos. Santa Elena: 2 funcionarios de la Refinería La Libertad asesinados (24 nov)."
     },
     {
       "tipo": "info",
@@ -4822,6 +4822,31 @@
       "detalle": "En la noche del lunes, durante una reunión con música y pirotecnia, dos hombres en moto dispararon varias veces contra un joven de 28 años, que murió. Criminalística levantó 9 indicios balísticos; sin detenidos. Según el medio, Santa Elena suma 24 homicidios con arma de fuego en noviembre (14 en La Libertad).",
       "fuente": "Extra, 24 nov 2026",
       "url": "https://www.extra.ec/noticia/ecuador/crimen-santa-elena-bala-pirotecnia-dejo-fallecido-libertad-168755.html"
+    },
+    {
+      "tipo": "ataque",
+      "zona": "Yaguachi",
+      "lugar": "Sector La Herradura, Yaguachi (límite con Durán)",
+      "lat": -2.12,
+      "lon": -79.75,
+      "fecha": "2026-08-14",
+      "quien": "Policía Nacional",
+      "detalle": "En la noche, tras alerta de moradores por olores, la Policía halló 4 cadáveres (uno incompleto) y 3 osamentas; data preliminar de unos 5 días. Se encontraron ropa y manchas de sangre. Sin detenidos. La hipótesis policial, sin confirmar, es una disputa entre grupos criminales en Guayas.",
+      "fuente": "El Comercio, 15 ago 2026",
+      "url": "https://www.elcomercio.com/actualidad/seguridad/hallan-cuatro-cadaveres-y-tres-osamentas-en-yaguachi-guayas/"
+    },
+    {
+      "tipo": "operativo",
+      "zona": "Sabana Grande",
+      "lugar": "Recinto Tiffany, parroquia Progreso",
+      "lat": -2.42,
+      "lon": -80.36,
+      "fecha": "2022-04-28",
+      "quien": "Policía Nacional (Zona 8)",
+      "detalle": "7 presuntos asaltantes de fincas y carreteras detenidos; decomiso de 3 pistolas, 3 alimentadoras, 25 municiones, 4 vehículos y prendas de tipo policial. No se nombra banda.",
+      "fuente": "Extra, 28 abr 2022",
+      "url": "https://www.extra.ec/noticia/judicial/cogieron-siete-supuestos-roba-fincas-progreso-66835.html",
+      "antecedente": true
     }
   ],
   "zonas_criticas": [
