@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-11-26T17:55:00-05:00",
-  "actualizado_texto": "jueves 26 nov 2026, 17:55",
+  "actualizado": "2026-11-27T06:00:00-05:00",
+  "actualizado_texto": "viernes 27 nov 2026, 06:00",
   "alertas": [
     {
       "tipo": "critica",
-      "texto": "Puná: sin hechos nuevos al 26 nov (18:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
+      "texto": "Puná: sin hechos nuevos al 27 nov (06:00). Último: noche del 16 nov, detonaciones e incendio de una lancha con combustible en el atracadero de Barrio Lindo; sin detenidos. 28 oct: se hundió la estación guardacostas flotante al sur de la isla."
     },
     {
       "tipo": "camaronera",
-      "texto": "Taura: sin hechos delictivos nuevos al 26 nov (18:00). Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. 17 nov: controles de Policía y FF.AA. en Naranjal y Balao."
+      "texto": "Taura: sin hechos delictivos nuevos al 27 nov (06:00). Último delito: 10 nov, la UNASE rescató a 2 secuestrados en un camión por Taura. 17 nov: controles de Policía y FF.AA. en Naranjal y Balao."
     },
     {
       "tipo": "alta",
@@ -24,7 +24,7 @@
     },
     {
       "tipo": "alta",
-      "texto": "Manabí: 2 hombres asesinados en un bus en Pedernales (25 nov) y 1 en un taller de Charapotó, Sucre (26 nov). Machala: abogado asesinado en el centro (25 nov). Estado de excepción vigente en ocho provincias, sin toque de queda."
+      "texto": "Santa Elena: amenaza de muerte con corona fúnebre a director de una radio de Salinas; suspendió noticieros (26 nov). Manabí: 2 asesinados en un bus en Pedernales (25 nov) y 1 en Charapotó (26 nov). Estado de excepción vigente en ocho provincias, sin toque de queda."
     }
   ],
   "toque_de_queda": null,
@@ -4903,6 +4903,17 @@
       "detalle": "Dos agricultores desaparecidos desde el 23 nov fueron hallados sin vida, con aparentes huellas de tortura. Sin detenidos; no se nombra banda.",
       "fuente": "Extra, 25 nov 2026",
       "url": "https://www.extra.ec/noticia/ecuador/hallan-dos-agricultores-vida-montecristi-desaparecer-iban-cultivar-maiz-168825.html"
+    },
+    {
+      "tipo": "ataque",
+      "lugar": "Salinas (Santa Elena)",
+      "lat": -2.214,
+      "lon": -80.958,
+      "fecha": "2026-11-26",
+      "quien": "Desconocidos",
+      "detalle": "Amenaza de muerte con una corona fúnebre al director de una radio local; la emisora suspendió sus noticieros. No se nombra banda ni hay detenidos.",
+      "fuente": "Vistazo / Extra / Teleamazonas, 26 nov 2026",
+      "url": "https://www.vistazo.com/seguridad/2026-11-26-dueno-radio-amenaza-muerte-corona-funebre-santa-elena-LA11338267"
     }
   ],
   "zonas_criticas": [
